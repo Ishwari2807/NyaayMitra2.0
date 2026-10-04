@@ -1,0 +1,524 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "भारत सरकार Government of india",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "भारत सरकार Government of india"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "भारत सरकार Government of india"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "गृह मंत्रालय Ministry of Home Affairs",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "गृह मंत्रालय Ministry of Home Affairs"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "गृह मंत्रालय Ministry of Home Affairs"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "Language हिन्दी English",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Language हिन्दी English"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Language हिन्दी English"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "हिन्दी",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "हिन्दी"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "हिन्दी"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "English",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "English"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "English"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "A A\n\nA\n\nA\n\nराष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल National Cyber Crime Reporting Portal\n\nMegamenu\n\nHome\n\nRegister a Complaint + Women/Children Related Crime + Register ANONYMOUSLY Register & TRACK FINANCIAL FRAUD OTHER CYBER CRIME\n\nWomen/Children Related Crime + Register ANONYMOUSLY Register & TRACK\n\nRegister ANONYMOUSLY\n\nRegister & TRACK",
+    "element_ids": [
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "A A"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 10,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "A A"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "FINANCIAL FRAUD",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FINANCIAL FRAUD"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FINANCIAL FRAUD"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "OTHER CYBER CRIME\n\nTrack your Complaint\n\nReport & Check Suspect + Suspect Repository + Check Suspect (mobile, email, etc.) Check Suspect (Website/App) Report Suspect + Report Suspect to I4C Report Abuse to Social Media Know your Mobile connections - TAFCOP File an Appeal with GAC\n\nSuspect Repository + Check Suspect (mobile, email, etc.) Check Suspect (Website/App)\n\nCheck Suspect (mobile, email, etc.)\n\nCheck Suspect (Website/App)\n\nReport Suspect + Report Suspect to I4C Report Abuse to Social Media Know your Mobile connections - TAFCOP\n\nReport Suspect to I4C\n\nReport Abuse to Social Media\n\nKnow your Mobile connections - TAFCOP\n\nFile an Appeal with GAC\n\nCyber Volunteers + Cyber Volunteer Concept Terms & Conditions Register as a volunteer What is Unlawful Content Login\n\nCyber Volunteer Concept\n\nTerms & Conditions\n\nRegister as a volunteer\n\nWhat is Unlawful Content\n\nLogin\n\nLearning Corner + FAQ Advisories Cyber Safety Tips Cyber Awareness Media Gallery + Photo Gallery Video Gallery Radio Jingles Daily Digest Training Resources Screen Reader RTI Public Notices CPGRAMS Public Notices",
+    "element_ids": [
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "OTHER CYBER CRIME"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 18,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "OTHER CYBER CRIME"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "FAQ\n\nAdvisories\n\nCyber Safety Tips\n\nCyber Awareness\n\nMedia Gallery + Photo Gallery Video Gallery Radio Jingles\n\nPhoto Gallery\n\nVideo Gallery\n\nRadio Jingles\n\nDaily Digest\n\nTraining Resources\n\nScreen Reader\n\nRTI Public Notices\n\nCPGRAMS Public Notices\n\nContact Us\n\nHome\n\nLogin\n\nCheck list for Complainant\n\nPlease keep this information ready before filing your complaint:\n\nMandatory Information\n\nOptional/Desirable Information:\n\nCitizen Login\n\nFeedback",
+    "element_ids": [
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e35",
+      "semantic_root_role": "",
+      "element_count": 22,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "FAQ\n\nContact Us\n\nWebsite Policies\n\nPrivacy Policy\n\nDisclaimer",
+    "element_ids": [
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e57",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

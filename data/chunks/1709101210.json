@@ -1,0 +1,1366 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": ",",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      ","
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        ","
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": ",~\ntieme~e--:fQ;O04/00071200~8\nREGISTEREDNO.DL---{N)O4/000712006-{)8\nI-",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      ",~"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        ",~"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "-\n-\n'CfiT:",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "-"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "-"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "'(the\na;a~ette\nt1f\n~iG\n,.\nOt~I\"fI<UI",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "'(the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "'(the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "',Ift\n\nEX1RA0RD INAR Y",
+    "element_ids": [
+      "e5",
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "',Ift"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5",
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "',Ift"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "~\nn-~l\nPARTII-\nSection1\n~-e-~\nPUBLISHEDBYAUTHORITY",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "~"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "~"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "tie\n5]\nNo.5)",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "tie"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "tie"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "~~,~,\n~\n20, 2006/~\n30,1927\nNEWDEUII,FRIDAY,JANUARY20,2006/PAUSA30,1927",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "~~,~,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "~~,~,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "~'WT\"iff1R~\n~\n<ft\\1fRft~\n~~\n0I'ffi ~\nq1-~\n\"ifWI\"\".~\nI\nSeparatepagingis given tothisPartinorderthatitmaybefiledasaseparatecompilation.",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "~'WT\"iff1R~"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "~'WT\"iff1R~"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "MINISTRY OF LAWANDJUSTICE\n\n(LegislativeDepartment)\n\n\"\n\nNe'fY\nDelhi,\nthe20thJ~~'f(;lry,20061Pausa\n30,1927(Saka)\n\nThefollowingActofParliamentreceivedtheassentofthePresidentonthe\n20th January;2006 and isherebypublishedfor general information:-",
+    "element_ids": [
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "MINISTRY OF LAWANDJUSTICE"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LAWANDJUSTICE"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "THECOMMISSIONSFORPROTECTIONOF\n\nCHILDRIGH\nI'\n5\n\nNo.4 o!l~~~:!~~\\t\"\n\n\"\n\"~\"\"..'\"\nn (20th\nJanuary,\n,2006,]\n\nAn Act to provid~ for the constitution of a National Commissionand State\n\nCommissionsfor Protection of Child RigQ.tsandChildren's Courtsfor\nprovidingspeedytrialof offencesagainstchilqrenor ofviolation ofchild\nrightsandformattersconnectedtherewithor incidentalthereto.\n\n/:','::'\n:,\":\\'\nIi.\nWHEREXSIndiaparticipate<i'intheUnitedNations(UN)GeneralAssemblySummitin\n1990,whichadopteda DeclarationonSurviva~,ProtectionandDevelopmentof Children;\n\nANDWHEREASIndiahasalsoaccededtotheConventionontheRightsoftheChild\n(CRC)'onthe llthDecember,1992;\n'.\n\nANDWHEREASCRtis an h1temationaltreaty thatmakesit incumbent\\lpon the signatory\nStatesto takeallnecessarystepstoprotectchildren'srig~tsenumeratedin theConvention;\n\nANDWHEREASinordertoensureprotectionofrightsofchildrenoneoftherecent\ninitiativesthattheGovemmenthav~\ntakenforChildrenls'the\nadoptionofNationalCharter\nfor Children,2003;\n,\n\n.....\nI..'\n\nShorttitle,\nextentand\n\ncommencement\n\nDefinitions.\n\n\"\n\nConstitution\nofNational\nCommission\nfor\nProtection\nof\nChildRights,\n\n,\n\n\\,\n2\nTHE GAZEITEOF INDIAEXTRAORDINARY\n[PARTII-\n\nAND WHEREAStheUNGeneralAssembly\nSpecial\nSession\nonChildren\nheldin\n\nMay,2002adoptedan OutcomeDocumentti*d\n\"AWorldFitforChildren\"containingthe\ngoals,objectives,strategiesandactivitiesto beundertakenbythemembercountriesfor the\n\ncurrentdecade;\n;if\n\nANDWHEREASitis expedienttoenact~::J~wrelat~,gto\nchil~rento\ngiveeffecttothe\npoliciesadoptedby theGovemmentin\nthisregard,standardsprescribedin theCRC,andall\nother relevant internationalinstruments;\n,\n'\n\nBE it enactedby Parliamentin theFifty-sixth Year of theRepublicofIndiaas follows:-\n.,',\n,\n,\nCHAPTER\nI\n\nPRELIMINARY",
+    "element_ids": [
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "THECOMMISSIONSFORPROTECTIONOF"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 24,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "THECOMMISSIONSFORPROTECTIONOF"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "1. (1) Thi~Actmay be calledthe Commissronsfor ProtectionofChild Rights Act,2005.\n\n(2)It extendstothewholeofIndiaexcepttheStateofJammuandKashmir.\n\n(3)It shall comeintoforce on suchdateas theCentralGovernmentmay, by notification\nin the OfficialGazette,appoint.\n\n2.InthisAct,unlessthecontextotherwiserequires,-\n\n(a)\"Chairperson\"\nmeanstheChairperson\noftheCommissionoroftheState\nCommission,as the ,case maybe;\n\n(b)\"childrights\"includesthechildren'srightsadoptedintheUnitedNations\nconventionontheRightsof theChildon the20thNovember,1989andratifiedby the\nGovernmentofIndiaon the11th December,1992;\n\n(c)\"Commission\"means the NationalCommissionfor Protectionof ChildRights\nconstitutedundersection3;\n\n(d)\"Member\"meansa Memberof theCommissionor of theStateCommission,\nasthecasemaybe,andincludestheChairperson;\n\n(e)\"notification\"meansa notificationpublishedin theOfficialGazette;\n\n(j)\"prescribed\"meansprescribedbyrulesmadeunderthisAct;\n\n(g) \"StateCommission\"means aState Commissionfor Protectionof Child Rights\nconstitutedundersection17.",
+    "element_ids": [
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1. (1) Thi~Actmay be calledthe Commissronsfor ProtectionofChild Rights Act,2005."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e40",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1. (1) Thi~Actmay be calledthe Commissronsfor ProtectionofChild Rights Act,2005."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "CHAPTER II\n\nTHENATIONAL\nCOMMISSIO)'j,\nOFCHILDRIGHTS",
+    "element_ids": [
+      "e51",
+      "e52"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "CHAPTER II"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e51",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e51",
+        "e52"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER II"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "3. (1) The CentralGovernmentshall,by n~.\n'\"\nn,constitute. a bodytobe knownas\ntheNationalCommission(or Protection...Qf£liijjiRii_to\nexercisethepowersconferredon,\nandtoperformthefunctionsassignedtoit,underthisAct.\n\n(2)TheCommissionshallconsistofthefollowingMembers,namely:-\n\n(a)aChairpersonwhois a penlonofeminehceandhasdoneoutstandingwork\nfor promotingthe welfareof children;'and,\n.\n.~:.(b) sixMembers,outofwhichatleasttwosl1allbe women,fromthefollowing,\nfieki~, to beappointedby theCentralGovernmentfromamongstpersonsofeminence,\n\",\n.\nability,integrity,standingand experienceip,~'\n.,\n\n(I)educa~!on;\n'.:\n','\n(ii)childhealth,care,welfare~r childdevelopment;\n\n(ii/) juvenil.ejusticeor care of neglectedor marginalizedchildrenor children\n\":';withdisabiliti~s;\n\",','\n.\n,\n(iv)eliminationofchildlabourorchildrenin distress;\n\n(v)childpsychologyorsociology;anq\n\n(vi)laws relatingto children.\n\n(3)Theofficeof theCommissionshall beat Delhi.\n\n~,\n1*i\n\n,.-\nI\"\"\n\nSEC.1]\nTHE GAZETIEOF INDIAEXTRAORDINARY\n\n4.TheCentralGovernmentshall,bynotification,appointtheChairpersonandother\nMembers:\n\nProvidedthattheChairpersonshallbeappointedontherecommendation\nofathree\nmemberSelectionCommitteeconstitutedby the CentralGovernmentunder theChairmanship\noftheMinisterin-chargeoftheMinistryof HumanResourceDevelopment.\n\n5.(1)TheChairpersonandeveryMembershallholdofficeassuchfora termof three\nyearstromthedateonwhichheassumesoffice:\n\nProvidedthat no Chairpersonor aMembershall holdthe officefor more thantwo terms:\n\nProvidedfurtPerthatnoChairpersonoranyotherMembershallholdofficeassuch\nafterhehasattained;-\n\nf\n.\n(a)in thecaseof theChairperson,theageofsixty-fiveyears;and\n\n(b)in thecaseofaMember,theageofsixtyyears.\n\n(2)TheChairpersonoraMembermay,bywriting'underhishandaddressedtothe\nCentralGovernment,resignhis officeat anytime.\n\n6.Thesalaryandallowancespayableto,andothertermsandconditionsofserviceof,\ntheChairpersonand Members,shall be suchas may be prescribedby theCentralGovernment:\n\n3\n\nAppointment\nof\nChairperson\nandMembers.\n\nTerm of\nofficeand.\nconditionsof\nserviceof\nChairperson\nandMembers.\n\nSalaryand\nallowancesof\nChairperson\nProvidedthatneitherthesalaryandallowancesnortheothertermsandconditionsof\nand Members.\nserviceof the Chairpersonor a Member,as the casemay be, shall be variedto his disadvantage\nafterhisappointment.\n\n7.(1)Subjecttotheprovisionsofsub-section(2),theChairpersonmayberemoved\ntromhis officeby an orderof theCentralGovernmenton the'groundof provedmisbehaviour\norincapacity.\n\n(2)Notwithstanding\nanythingcontainedinsub-section(1),theCentralGovernment\nmayby orderremovenomoffice theChairpersonor any otherMember,if the Chairpersonor,\nas the case may be, such other Member,-\n\n(a)isadjudgedaninsolvent;or\n\n.(b)engagesduringhis termof office'!\"\n\n,\n\n.\n\n.\n\nanl'.p.~\n\n.\n\nY\n\n.\n\n'~\n\n,\n\nf a\n\n,\nide\n\n,\n\n' mploymentoutsidetheduties\nofhisoffice;orl\",d'IM~I~,.\n\n(c)refusestoacto~becomesinc!,!'..~~!~!~ting;.;or_..\n.(d)isofunsoundmindandstandssodeclaredbyacompetentcourt;or\n.\n(e)hasso abusedhisofficeas to renderhiscontinuancein officedetrimentalto\nthepublic ,interest;or\n\n(It isconvictedandsentencedtoimpt:isonmen~foranoffence.whichinthe\nopiniol\\~e\nCentral Governmentinvolvesmoralturpitude;or\n-\n\n(g)is,withoutobtainingleaveofabsenceftomtheCommission,absentfrom\nthreeconsecutivemeetingsof theCommission.\n\n(3)Nopersonshallberemovedunderthissectionuntilthatpersonhasbeengivenan\nopportunityofbeingheardin thematter.\n\n8.(1)IftheChairperson\nor, as thecasemaybe,a Member,-\n\n(a)becomessubjecttoanyof thedisqualifications\nmentionedin section7;or\n\n(b)tendershisresignationundersub-section(2)ofsection5,\n\nhisseatshallthereuponbecomevacant.\n\n..........\nI.'C.\n\nRemoval\nfrom office.\n\nVacationof\nofficeby\nChairperson\nor Member.\n\nVacancies,\netc\"notto\ninvalidate\nproceedings\nof\nCommission,\n\n4\nTHE GAZETTEOF INDIAEXTRAORDINARY\n[PARTIl-\n\n(2)Ifacasual\nvacancyoccursin the officeof the Chairpersonor a Member,whetherby\nreasonofhisdeath,resignationorotherwise,suchvacancyshallbefilledwithinaperiodof\nninetydaysbymakingafreshappointmentin accordancewiththeprovisionsofsection4\nandthe personso appointedshall holdofficefor theremainderof thetermofofficefor which\ntheChairperson,ora Member,asthecasemaybe,in whoseplaceheis so appointedwould\nhaveheldthatoffice.'\n.\n\n9.NoactorproceedingoftheCommissionshall,beinvalidmerelybyreasonof-\n\n(~)anyvacancyin,oranydefectin theconstitutionof,theCommission;or\n\n(b)\\any\ndefect\nintheappointment\nofaperson\nastheChairperson\nora\nMember;q..\n\n!'\n\n(c)anyirregularityin theprocedureoftheCommissionnotaffectingthemerits\nofthecase.\n\nProcedurefor\n10.(J) The Commissionshallmeetregularlyat itsofficeat suchtimeastheChairperson\nt\nbransaction of\nthinksfit,butthreemonthsshallnotintervenebetweenitslastandthenextmeeting.\nusmess.\n\n\"\n\nMember-\nSecretary,\nofficersand\nother'\nemployeesof\nCommission,\n\nSalaries and\nallowancesto\nbepaidoutof\ngrants.\n\n(2) Alldecisionsat a meetingshallbetakenby majority:\n\nProvidedthatin thecaseofequalityofvotes,theChairperson,orinhisabsencethe\npersonpresiding,shallhaveandexerciseasecondorcastingvote.\n\n(3)Ifforany reason, the Chairperson,is unableto attend themeeting of theCommission,\nanyMemberchosenbytheMemberspresent' fromamongstthemselvesat themeeting,shall\n'\n\npreside.\n\n(4)'TheCommission shall observe such rules ofprocedure in the transaction ofits\nbusiness at a meeting, includingthe quorum at such meeting, as may be prescribed by the\nCentralGovernment.\n-,\n\n(5)All ordersanddecisionsof theCommissionshallbe authenticatedbythe Member-\nSecretary or any other officer of the Commi~~f~&)f,.authorisedby Member-Secretaryin\nthisbehalf.\n.\n'.\n.~J:Atit\n!t!:\n,\n11.(1)TheCentrar\nGovernment\"S!iaIt6y\nntftcati6fi:appointanofficernotbelow\nthe rank of the Joint Secretaryor the AdditionalSecretaryto the GovernmentofIndiaas a\nMember-Secretaryof theCommission and shall make available to.theCommission such\notherofficersandemployeesasmaybenecessaryfoi-theefficientperformanceof itsfunctions.\n\n(2) j'J},eMember-Secr~tMyshall be responsibJe'~foTtheproper ad~inistrationof the\naffairsortheCommissionandits day-to-day'ni~~gemeniandsh~lI exerciseanddischarge\nsuchotherpowers andperformsuchother d~tiesasmaybeprescribedbytheCentral\n\nI\n'\n'\n.\nGovernment.\n'I\n\"',\n\n(3)Thesalaryand~llowancespayableto;anditheothertermsandconditionsof\nserviceof theMember-Secretary,otherofficersand' employees,appointedfor thepurposeof\ntheCommissionshallbesuchas maybeprescribedbytheCentralGovernment.\n\n12.Thesalariesani;lallowancespayabJeto' theChairpersonaQd Membersandthe\nadministrativeexpenses,inGluding sal~ries, allowancesand pensionspayableto the Member-\nSecretary,otherofficersandemph;>yeesreferredtoinsection11,shallbepaidoutofthe\ngrants referredto in sub-section(1) of section 27.\n\nr_.\ntf-tl\n\nSEC.1]\nTHE GAZETTEOF INDIAEXTRAORDINARY\n\nCHAPTERill\n\n5of1908.\n\nFUNCTIONS\nANDPOWERS\nOFTHECOMMISSION\n\n13.(1) TheCommissionshallperformall or any of the followingfunctions,namely:-\n\n(a)examineandreviewthesafeguardsprovidedby or underanylaw for thetime\nbeinginforcefortheprotectionofchildrightsandrecommendmeasuresfortheir\neffectiveimplementation;\n.\n\n(b)presenttotheCentralGovernment,annuallyandatsuchotherintervals,as\ntheCommissionmaydeemfit,reportsupontheworkingof thosesafeguards;\n\n(c)inquireintoviolationof child rightsandrecommendinitiationof proceedings\ninsuchc~es;\n\n\\\n(d)e~ine\nall factorsthatinhibittheenjoymentof rightsof childrenaffectedby\nterrorism,~bmmunalviolence,riots,naturaldisaster,domesticviolence,HIV /AIDS,\ntrafficking:maltreatment,tortureandexploitation,pornographyandprostitutionand\nrecommendappropriateremedialmeasures;\n.\n\n(e)lookinto themattersrelatingto childrenin needof specialcareandprotection\nincludingchildrenin distress,marginalizedanddisadvantagedchildren,childrenin,\nconflictwithlaw, juveniles,\nchildrenwithoutfamilyandchildrenofprisonersand\nrecommendappropriateremedialmeasures;\n\n(j)studytreatiesandotherinternationalinstrumentsandundertakeperiodical\nreviewof existingpolicies,programmesandotheractivitiesonchildrightsandmake\nrecommendations\nfor theireffectiveimplementationin thebestinterestof children;\n\n(g)undertakeandpromoteresearchin thefieldofchildrights;\n\n(h)spreadchildrightsliteracyamongvarioussectionsof the societyandpromote\n.awareness\nofthesafeguards\navailable\nforprotection\noftheserights\nthrough\npublications,themedia,seminarsandotheravailablemeans;\n\n(I)inspectorcausetobeinspectedanyjuvenilecustodialhome,oranyother\nplaceofresidenceorinstitutionmeantforchildren,underthecontroloftheCentral\nGovernmentor anyStateGovernmentor anyotherauthority,includinganyinstitution\nrunby asocialorganisation;wherechildrenaredetainedorlodgedforthe purposeof\ntreatment,reformationorprotectionandtakeupwiththeseauthoritIesforremedial\naction,iffound~ecessary;\n\n(j)inquireintocomplaintsand~~~otice\nofmattersrelatingto,-\n\n(0 deprivationandviolati~~J!~~rll~~~;-\n~\n(il) non-implementationoflawsprovidingfor protectionanddevelopment\nofchildren;\n\n(iil)non-complianceof policydecisions,guidelinesorinstructionsaimed\nat,mitigatinghardshipstoandensuringwelfareofthechildrenandtoprovide\nrelieftosuchchildren,\n.,;\nortak6UptheissuesarisingoutofsuchmatterSwithappropriateauthorities;and\n..,.\n\n(k)suchotherfunctionsasit mayconsidernecessaryforthepromotionofchild\nrightsandanyothermatterincidentaltotheabovefunctions.\n\n(2)TheCommissionshallnotinquireintoanymatterwhichispendingbeforeaState\nCommissionor any other Commissionduly constitutedunder any law for the time being in force.\n\n14.(1)1\"he Commissionshall, whileinquiringinto any matterreferredto in clause(J)of\nsub-section'(1)ofsection13 haveall thepowersof a civilcourttryingasuitundertheCode\nof CivilProcedure,1908 and,in particular,in respectofth~followingmatters,namely:-\n\n(a)summoningandenforcingtheattendanceofanypersonandexamininghim\nonoath;.\n\n(b)discoveryandproductionofanydocument;\n\nt:'-4ffr\n\n5\n\nFunctionsof\nCommission.\n\nPowers\nrelatingto\ninquiries.\n\nStepsafter\ninquiry.\n\nAnnualand\n.special\n\nreportsof\nCommission.\n\n~\n\nConstitution\nofState\nCommission\nfor\nProtectionof\nChildRights.\n\n6\nTHE GAZEITEOF INDIAEXTRAORDINARY\n[PARTll-\n\n(c)receivingevidenceonaffidavits;\n\n(d)requisitioningany publicrecordor copy thereoffrom anycourtor office;and\n\n(e)issuingcommissionsfortheexaminationofwitnessesordocuments.\n\n(2)TheCommissionshallhavethepowertoforwardanycasetoa Magistratehaving\njurisdiction\ntotrythesameandtheMagistratetowhomanysuchcaseisforwardedshall\nproceedtohearthecomplaintagainsttheaccusedasif thecasehasbeenforwardedtohim\nundersection346of theCodeof CriminalProcedure,1973.\n2of1974.\n\nIS.TheCommissionmaytakeanyof thefollowingstepsuponthecompletionofan\ninquiryheldunderthisAct,namely:-\n.\n\n(l)wheretheinquirydiscloses,theCommissionof violationof childrightsofa\nseriousri~ureor contraventionof provisionsof anylawforthetimebeingin force,it\nmayrecoinmendto the concernedGovernmentor,a~oritythe\ninitiationofproceedings\n.forprosecution orsuch otheraction astheCommission may deemfitagainst.the\n\nconcernedpersonorpersons;\n\n(il)approachthe SupremeCourtor the HighCourtconcernedfor suchdirection!;,\nordersorwritsasthatCourtmaydeemnecessary;\n\n(iii)recommendto theconcernedGovernmentor authorityfor thegrantof such\ninterimrelief to the victimor the membersof his family as the Commi!ision may consider\nnecessary.\n\n16.(1)TheCommissionshallsubmitan annualreportto theCentralGovernmentand.\nto theStateGovernmentconcernedandmayat anytimesubmitspecialreportson any matter\nwhich,initsopinion,isofsuchurgencyorimportancethatitshouldnotbedeferredtill\n\n.submissionoftheannualreport.\n\n.\n(2)TheCentralGovernmentandtheState Governmentconcerned,as the casemaybe,\nshallcausetheannualandspecialreportsof theCommissionto belaidbeforeeachHouseof\nParliamentor theState Legis,lature respectively,as the case maybe, along with a memorandum\nofactiontakenorproposedto betakenon therecommendations\nof theCommissionandthe\nreaSonsfor non-acceptanceof therecommendations,if any, withina periodof oneyearfrom\nthedateofreceiptofsuchreport.\n\n(3)Theannualreportshallbe preparedin suchform,mannerandcontainsuchdetails\nasmaybeprescribedbytheCentralGovernJ.t1~i!t,~m!~,'iW\"\n\".';\n\nCHAFfERIV,\n\"~\"\"~\n~\"\"\n..\"'\"\n\nSTATE COMMISSIONSFOR PROTECTION OF CHILDRlGHTS\n\n17.(1)AStateGovernmentmayconstitutea bodyto be knownasthe,~\n.. ..(nameof\ntheState)Commissionfor Protectionof ChildRightstoexercisethepowersconferredupon,\n\nandtoperformthefunctionsassignedto,aStateComm~;ss~onunderthisChapter.\n\n(2) XJ1e.StateCommissionshallconsistofthefollowiQg Members,namely: -\n'...\n.\n(0) a Chairpersonwho is a person of eminef!.ceand has done outstandingwork\nfor promotingthe welfareof children;and\n,'.\n\"\n\n(b)sixMembers,outofwhichat,leasttwoshall ~women,fromthefollowing\nfields,tobeappointedbytheStateGovernmentfromamongstpersonsofeminence,\nabilj,ty,integrity,standingande~periencein,~\n'\n,:\n'\n\n(i)education;\n\n(if)childhealth,care,welfareorchilddevelopment;\n.\n.\n\n(iil) juvenilejusticeor care of neglectedor marginalizedchildren or children\nwithdisabilities;\n\nt:-'49 '.\n\" .\n\nSEC.1]\nTHE GAZETIEOF INDIAEXTRAORDINARY\n\n(iv)eliminationof childlabourorchildrenin distress;\n\n(v)childpsychologyorsociology;and\n\n(VI) laws relatingtochildren.\n\n(3)The'headquarter\noftheStateCommission\nshallbeatsuchplaceastheState\nGovernmentmay, by notification,specify.\n\n. 18.TheStateGovern.mentshall,by notification,appointthe Chairpersonandother\nMembers:\n\nProvidedthattheChairpersonshallbeappointedontherecommendation\nofathree\nMemberSelectionCommitteeconstitutedby theStateGovernmentundertheChairmanship\nof the Minister in-char~of the Departmentdealingwithchildren..\n\n19.(1) TheChairpe,rsonandeveryMembershallholdofficeas suchfor a termofthree\nyearsITomthedateonWhich heassumesoffice:\n\nProvidedthatno Chairpersonor a Membershall holdthe officefor morethan two terms:\n\nProvidedfurtherthatnoChairpersonoranyotherMembershallholdofficeassuch\nafterhehasattained-\n\n(0)in thecaseofChairperson,theageofsixty-fiveyears;and\n\n(b)in thecaseof aMember,theageof sixtyyears.\n\n(2)TheChairpersonoraMembermay,bywritingunderhishandaddressedtothe\nStateGovernment,resignhisofficeat anytime.\n\n20.Thesalariesandallowancespayableto,andothertermsandconditionsof service\nof, the Chairpersonand Membersshall be suchas may be prescribedby the State Government:\n\nProvidedthatneitherthesalaryandallowancesnortheothertermsandconditionsof\nserviceof the Chairpersonor a Member,as the casemay be, shall be varied to his disadvantage\nafterhisappointment.\n\n21.(I)TheStateGovernmentshall,bynotification,appointanofficernotbelowthe.\nrankof theSecretarytotheStateGovernmentas theSecretaryof theStateCommissionand\nshallmakeavailabletotheStateCommissionsuchotherofficersandemployeesasmaybe\n.necessaryfortheefficient~ :rformanceof itsfunctions.\n.\n\n(2)TheSecretaryshall be responsiblefor theproperadministrationof theaffairsof the\nStateCommissionanditsday-to-daymanagement.\n,rciseanddischargesuch\nother powersand.performsuchother dutiesas may'bepresc\n'by the State Government.\n\"\n.\n\n(3)Thesalaryandallowan..£.espayabletQ...~.terms\nandconditions\nof\nserviceof theSecretary,otherofficersandemployees,appointedfor thepurposeof theState\nCommissionshallbesuchasmaybeprescribedbytheStateGovernment.",
+    "element_ids": [
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105",
+      "e106",
+      "e107",
+      "e108",
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117",
+      "e118",
+      "e119",
+      "e120",
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186",
+      "e187",
+      "e188",
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193",
+      "e194",
+      "e195",
+      "e196",
+      "e197",
+      "e198",
+      "e199",
+      "e200"
+    ],
+    "pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "structure_path": [
+      "3. (1) The CentralGovernmentshall,by n~."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e53",
+      "semantic_root_role": "",
+      "element_count": 148,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105",
+        "e106",
+        "e107",
+        "e108",
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117",
+        "e118",
+        "e119",
+        "e120",
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186",
+        "e187",
+        "e188",
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193",
+        "e194",
+        "e195",
+        "e196",
+        "e197",
+        "e198",
+        "e199",
+        "e200"
+      ],
+      "page_start": 2,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "3. (1) The CentralGovernmentshall,by n~."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "22.\nThesalariesandallowancespayabletotheChairpersonandMembersandthe\nadministrativeexpenses,includingsalaries,allowancesandpensionspayableto theSecretary,\notherofficersandePlployeesreferredto in section21,shallbepaidoutof thegran~sreferred\n\n. to in sub-section(1)~fsection28.\n'\n\n23.(1)TheStateCommissionshallsubmitanannualreporttotheStateGovernment\nandmayatanytimesubmitspecialreportsonanymatterwhich,initsopinion,isofsuch\nurgencyorimportancethatit shouldnotbedeferredtillsubmissionof theannualreport.\n\n(2)The ,State Governmentshall causeall thereportsreJerred,toin sub-section(1) to be\nlaidbeforeeachH9useofStateLegislature,whereit consistsoftwoHouses,orwheresuch\nLegislatureconsists'of oneHouse,beforethatHousealongwitha memorandum~xplaining\ntheactiontakenorproposedtobetakenontherecommendations\nrelatingtotheStateand\nthereasonsforthenon-acceptance,\nif any,ofanyofsuchrecommendations.\n\n(3)Theannualreportshallbe preparedin suchform,mannerandcontainsuchdetails\nasmaybeprescribedbytheStateGovernment.\n\".\n\nt:.~\n\n7\n\nAppointment\nof\nChairperson\nandother\nMembers.\n\nTermof\nofficeand\nconditionsof\nserviceof\nChairperson\nandMembers.\n\nSalaryand\nallowancesof\nChairperson\nandMembers.\n\nSecretary,\nofficersand\nother\nemployeesof\ntheState\nCommission.\n\nSalariesand\nallowancesto\nbe paidoutof\ngrants.\n\nAnnualand\nspecial\nreports of\nState\nCommission.\n\nApplication\nofcertain\nprovisions\nrelatingto\nNational\nCommission\nfor\nProtection\nof\nChildRights\ntoState\nCommissions.\n\nChildren's\nCourts,\n\nSpecial\nPublic\nProsecutor,\n\n\\\n\nGrantsby\nCentral\nGovernment.\n\nGrantsby\nState\nGovernments',\n\nAccounts\nand\naudit\nof\nCommission.\n\n8\nTHE GAZETTEOF INDIAEXTRAORDINARY\n[PARTII-",
+    "element_ids": [
+      "e201",
+      "e202",
+      "e203",
+      "e204",
+      "e205",
+      "e206",
+      "e207",
+      "e208",
+      "e209",
+      "e210",
+      "e211",
+      "e212",
+      "e213",
+      "e214",
+      "e215",
+      "e216",
+      "e217",
+      "e218",
+      "e219",
+      "e220",
+      "e221"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "structure_path": [
+      "22."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e201",
+      "semantic_root_role": "",
+      "element_count": 21,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e201",
+        "e202",
+        "e203",
+        "e204",
+        "e205",
+        "e206",
+        "e207",
+        "e208",
+        "e209",
+        "e210",
+        "e211",
+        "e212",
+        "e213",
+        "e214",
+        "e215",
+        "e216",
+        "e217",
+        "e218",
+        "e219",
+        "e220",
+        "e221"
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "22."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "24. The provisionsof sections7,8,9,10,sub-section(1) of section 13andsections 14\nand15 shall apply to aState Commissionand shall have effect, subject tothefollowing\nmodifications,namely:-\n\n(a)referencesto\"Commission\"shallbeconstruedasreferencesto\"State\nCommission\";\n\n(b)references to\"CentralGovernment\" shallbeconstrued asreferencesto\n\"State Government\"; and\n\n(c)referencesto\"Member-Secretary\"shallbeconstruedasreferencesto\n\"Secretary\".",
+    "element_ids": [
+      "e222",
+      "e223",
+      "e224",
+      "e225"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "24. The provisionsof sections7,8,9,10,sub-section(1) of section 13andsections 14"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e222",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e222",
+        "e223",
+        "e224",
+        "e225"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "24. The provisionsof sections7,8,9,10,sub-section(1) of section 13andsections 14"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "CHAPTER V\n\nCHILDREN'S\nCoURTS\n\n25.For thepurposeof providingspeedytrialof offencesagainstchildrenor of violation\nofchildrights,theStateGovernmentmay,withtheconcurrenceoftheChiefJusticeof the\nHighCourt,by notification,specifY atleasta courtin theStateor specifY, for eachdistrict,a\nCourtofSessiontobeaChildren'sCourttotrythesai4offences:\n\nProvided that nothing in this sectionshall apply if-\n\n(a)aCourtofSessionis alreadyspecifiedasaspecialcourt;or\n\n(b)aspecialcourtis alreadyconstituted,\n\nforsuchoffencesunderanyotherlawforthetimebeingin force.\n\n26.'ForeveryChildren'sCourt,theStateGovernmentshall,by notification,specifya\nPublicProsecutororappointanadvocatewhohasbeeninpracticeasanadvocatefornot\nlessthansevenyears,asaSpecialPublicProsecutorforthepurposeof conductingcasesin\nthatCourt.",
+    "element_ids": [
+      "e226",
+      "e227",
+      "e228",
+      "e229",
+      "e230",
+      "e231",
+      "e232",
+      "e233"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "CHAPTER V"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e226",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e226",
+        "e227",
+        "e228",
+        "e229",
+        "e230",
+        "e231",
+        "e232",
+        "e233"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER V"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "CHAPTER VI\n\nFINANCE,\nACCOUNTS\nANDAUDIT\n\n27.(1) TheCentralGovernmentshall,afterdueappropriationmadeby Parliamentby\nlaw in thisbehalf, pay totheCommission'~\n\"~.ts suchsumsof moneyas the\nCentralGovernmentmaythinkfitforbeingutilised\"or\nepurposesof this Act.\n-\n-~\"~~':;;\"'~'.\"-\"\"-\n(2)TheCommissionmayspendsucl1sumsof moneyasit thinksfit forperformingthe\nfunctionsunderthisAct,andsuchsumsshallbetreatedasexpenditurepayableoutof the\ngrantsreferredtoinsub-section(1).\n\n28.(1) TheState Governmentshall,afterdueapproPriationmadeby Legislatureby law\nin thisbehalf,payto theStateCommissionby wayof grants$uch sumsof moneyas theState\nGovernmenHhay\nthinkfitforbeingutilisedforthepurposesof thisAct.\n.,\n\n(2) TheState Commissionmayspendsuchsums of moneyas it thinksfit for performing\nthefunctionsunderChapterIIIofthisAct,andsuchsumsshallbe treatedasexpenditure\npayableoutofthegrantsreferredto insub-section(1).\n\"\n\nOJ,\n\n29.(1)TheCommissionshall maintainproperaccountsandotherrelevantrecordsand\nprepareaI\\\"iUlnualstatementofaccountsinsuchformasmaybeprescribedby theCentral\nGovernmentin consultationwiththeComptrollerand Auditor-GeneralofIndia.\n\n(2)Theaccountsof theCommissionshallbeauditedby theComptrollerand Auditor-\nGeneralatsuchintervalsasmaybespecifiedbyhimandanyexpenditure\nincurredin\nconnectionwithsuchauditshallbepayablebytheCommissiontotheComptrollerand\nAuditor-General.\n\nr;.r\n\nSEC.I]\nTHE GAZETTEOF INDIAEXTRAORDINARY\n\n(3) The Comptrollerand Aud,itor-General and any personappointedby him in connection\nwiththeauditof theaccountsof theCommissionunderthisActshall,havethesamerights\nandprivileges\nandtheauthorityinconnection\nwithsuchauditastheComptroller\nand\nAuditor-General\ngenerallyhasin connectionwiththeauditof Governmentaccountsand,in\nparticular,shallhavetherighttodemandtheproductionofbooks,accounts,connected\nvouchers\nandotherdocuments\nandpapers\nandtoinspect\nanyoftheoffices\nof.the\nCommission.\n\n(4)Theaccounts oftheCommission ascertified bytheComptroller and Auditor-\nGeneral or any other person appointed by him in this behalf, together withthe audit report\nthereon shall be forwarded annuallyto the CentralGovernmentby the Commissionand the\nCentral Governmept shall cause theauditreport tobelaid, assoon asmay beafteritis\nreceived,beforeeacbHouseofParliament.\n.\n'j\n30.(1) TheSUiteCommissionshall maintainproperaccountsandother relevantrecords\nandprepareanannualstatementof accountsin suchformas maybeprescribedby theState\n\nGovernmentin con~ultationwiththeComptrollerand Auditor-GeneralofIndia.\n\n(2)TheaccountsoftheStateCommissionshallbeauditedbytheColTlptrollerand\nAuditor-General\nat suchintervalsas maybespecifiedby himandanyexpenditureincurred\nin connectionwithsuchauditshallbepayablebytheStateCommissionto theComptroller\nandAuditor-General.\n.\n\n(3) The Comptrollerand Auditor-Generaland any personappointedby him in connection\nwiththeauditoftheaccountsoftheStateCommissionunderthisActshall,havethesame\nrightsandprivilegesandtheauthorityin connectionwithsuchauditas theComptrollerand\nAuditor-General\ngenerallyhasin connectionwiththeauditof Governmentaccountsand,in\nparticular,shallhavetherighttodemandtheproductionofbooks,accounts,connected\nvouchersandotherdocumentsandpapersandtoinspectanyoftheofficesofthe'State\nCommission.\n\n(4)Theaccountsof theStateCommissionas certifiedby theComptrollerand Auditor-\nGeneraloranyotherpersonappointedbyhimin thisbehalf,togetherwiththeauditreport\nthereonshallbeforwardedannuallytotheStateGovernmentbytheStateCommissionand\ntheStateGovernmentshallcausetheauditreporttobelaid,assoonasmaybeafteritis\nreceived,beforetheStateLegislature.\n\n45of1860.\n\nCHAPTERvn\n.\n.\n\"\"~~ill~!ttLf~~\"\nMISCELLANEOUS,\"'\n\n31.,Nosuit,prosecution\norotherlegaT~~e~~1fi\"snaIHie\nagainst-the\nCentral\nGovernment,theStateGovernment,theCommission,theState Commission,or anyMember\nthereoforanypersonactingunderthedirectioneitheroftheCentralGovernment,\nState\nGovernment,Commissionor theStateCommission,in respectofanythingwhich,isin good\nfaithdoneorintendedtobedonein pursuanceofthisActorofanyrulesma(iethereunder\norin respectofthepublicationbyorundertheauthorityoftheCentralGovernment,State\nGovernment,eotnmission,\nor theStateCommissionof anyreportorpaper.\n...\n\n32.EveryMemberof theCommission,State Commissionandeveryofficerappointed\nintheCommissionortheStateCommissiontoexercisefunctionsunderthisActshallbe\n\ndeemedtobeapublicservantwithinthemeaningofsection21of theIndianPenalCode.",
+    "element_ids": [
+      "e234",
+      "e235",
+      "e236",
+      "e237",
+      "e238",
+      "e239",
+      "e240",
+      "e241",
+      "e242",
+      "e243",
+      "e244",
+      "e245",
+      "e246",
+      "e247",
+      "e248",
+      "e249",
+      "e250",
+      "e251",
+      "e252",
+      "e253",
+      "e254"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "structure_path": [
+      "CHAPTER VI"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e234",
+      "semantic_root_role": "",
+      "element_count": 21,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e234",
+        "e235",
+        "e236",
+        "e237",
+        "e238",
+        "e239",
+        "e240",
+        "e241",
+        "e242",
+        "e243",
+        "e244",
+        "e245",
+        "e246",
+        "e247",
+        "e248",
+        "e249",
+        "e250",
+        "e251",
+        "e252",
+        "e253",
+        "e254"
+      ],
+      "page_start": 8,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VI"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "33.\n(1)InthedischargeofitsfunctionsunderthisAct,theCommissionshallbe\nguidedbysuth'directionsonquestionsofpolicyrelatingtonationalpurposes,asmaybe\n.giventoit by theCentralGovernment.\n\n(2)IfanydisputearisesbetweentheCentralGovernmentandtheCommissionas to\nwhethera questionis or is nota questionof policyrelatingto nationalpurposes,thedecision\nof theCentralGovernmentthereonshallbefinal.\n\n0\" ..\n,.\n.A\n,..~1\n\n9\n\nAccountsand\nauditofState\nCommission.\n\nProtection of-_.\naction taken\n\ningoodfaith.\n\nChairperson,\nMembers\nand\nother\nofficers\n\ntobepublic\nservant.\n\nDirections\nby\nCentral\nGovernment.\n\n10\nTHE GAZETTEOF INDIAEXTRAORDINARY\n[PARTIT-\n\nReturnsor\ninformation.\n34.The Commissionshall furnishtothe Central Government such returns orother\ninformationwith respectto its activitiesas the CentralGovernmentmay,from timeto time,\nrequire.\n\nPowerof\n35.(1)TheCentral Government may, by notification, make rules tocarryoutthe\nCentral\nprovisions of this Act.\nGovernment\n\nto makerules.\n(2) In particular,andwithout prejudiceto the generalityof the foregoingpower,such\nrules mayprovide for aHor anyofthe followingmatters,namely:-\n\n(a) termsandconditions ofservice oftheChairperson andMembers ofthe\nCommissionand their salaries and allowancesunder section6;\n\n(b) th~ procedure tobefollowed by the Commission in the transaction ofits\nbusiness at ~meetingunder sub-section(4) of section 10;\n\n..\n(e)thepowersanddutieswhichmaybe exercisedandperformedbythe Member-\nSecretaryoftheCommissionunder.sub-section(2) of section 11;\n.\n\n(d) thesalary andallowances andothertermsandconditionsofservice of\nofficers and other employeesof the Commissionunder sub-section(3) of section 11;\nand\n\n(e)formofthestatementofaccountsandotherrecordstobepreparedbythe\nCommissionundersub-section(1)of section29.\n\n(3)EveryrulemadeunderthisActshallbelaid,assoonasmaybeafterit ismade,\nbeforeeachHouseofParliament,\nwhileitisinsessionforatotalperiodofthirtydays\nwhich'may\nbecomprised\ninonesessionorintwoormoresuccessive\nsessions,andif,\nbeforetheexpiryofthesessionimmediately\nfollowing\nthesessionorthesuccessive\nsessions\naforesaid,\nbothHousesagreeinmakinganymodification\nintheruleorboth\nHousesagreethattheruleshouldnotbemade,theruleshallthereafterhaveeffectonlyin\nsuchmodified\nformorbeofnoeffect,asthecasemaybe;so,however,thatanysuch\nmodificationor annulmentshallbewithoutprejudiceto thevalidityof anythingpreviously\ndoneunderthat rule.\n.\n\n\\\nPowerof\n36.(1)TheStateGovernmentmay,bynotification,makerulesto carryouttheprovisions\n.State\nof thisAct.\nGovernment\ntomakerules.\n(2) In particular,and withoutprejudicet0~lg~lity\nof the foregoingpower,such\nrules may provide forall or anyof the followingmatters,namely:-\n\n.'\n(a)termsandconditionsof serviceo~~ii1ij)ersO1fand\nMembers'ofthe State\nCommissionand their salaries and allowancesunder\"section20;\n\n(b) the procedureto be followedby,the State Commissioninthe transactionof\nits business at a meetingunder sub-section(4) ofsection10 read with section 24;\n\n,,\",'\n\n(c) thepowersanddutieswhichmay be exercisedandperformedby theSecretary\nofthestateCommissionundersub-section(2)ofsection21;\n\n(d)thesalaryandallowances\nandothertetmsandconditions\nofserviceof\nofficersandotheremployees\noftheStateCommission\nundersub-section\n(3)of\nsection21;and\n\n(e)formofthestatementofaccountsandotherrecordstobepreparedbythe\nState COmmissionunder sub-section(1) of section30.\n'\n\",\n'.\n\",'\"\n\n(3)Everyrulemadeby theStateGovernmentunderthissectionshallbelaid,assoon\nas maybe afterit is mad~..beforeeachHouseof theState Legi~laturewhereit consistsof two\n\nHouses,orwheresuchStateLegislatureconsistsofone .H~~se,beforethatHouse.\n\nt:te\n\"!\n\n\"\n\nSEC.1]\nTHE GAZETTEOF INPIA EXTRAORDINARY\nII\n\n37.(1)Ifanydifficultyarisesin givingeffectto theprovisionsof thisAct,theCentral\nGov.ernmentmay,byorderpublishedintheOfficialGazette,makesuchprovisions,\nnot\ninconsistentwiththeprovisionsofthisAct,as mayappeartobe necessaryforremovingthe\ndifficulty:\n\nProvidedthatno ordershall be madeunderthissectionaftertheexpiryof theperiodof\ntwoyearsfromthedateofcommencementof thisAct.\n\nPower to\nremove\ndifficulties.\n\n(2)Everyordermadeunderthissectionshall belaid,as soonas may be afterit is made,\nbeforeeachHouseof Parliament.\n\nT.K. VISWANATHAN,\nSecy.totheGovt:of India.\n\n~\n\n.:..':--\nor\n\n'.' ..\n\nPRINTED\nBYTHEMANAGER,\nGOVERNMENT\nOFINDIAPRESS,MINTO\nROAD,NEWDELHI\nANDPUBLISHED\nBYTHECONTROLLER\nOFPUBLICATIONS,\nDELHI,2006.\n\nMGIPRMND--5068GI{S-3}-23.01.2006.\n\n,.\n\"\"c \"\nt:--",
+    "element_ids": [
+      "e255",
+      "e256",
+      "e257",
+      "e258",
+      "e259",
+      "e260",
+      "e261",
+      "e262",
+      "e263",
+      "e264",
+      "e265",
+      "e266",
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271",
+      "e272",
+      "e273",
+      "e274",
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280",
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288",
+      "e289",
+      "e290",
+      "e291",
+      "e292",
+      "e293",
+      "e294",
+      "e295",
+      "e296",
+      "e297"
+    ],
+    "pages": [
+      9,
+      10,
+      11
+    ],
+    "structure_path": [
+      "33."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e255",
+      "semantic_root_role": "",
+      "element_count": 43,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e255",
+        "e256",
+        "e257",
+        "e258",
+        "e259",
+        "e260",
+        "e261",
+        "e262",
+        "e263",
+        "e264",
+        "e265",
+        "e266",
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271",
+        "e272",
+        "e273",
+        "e274",
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280",
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288",
+        "e289",
+        "e290",
+        "e291",
+        "e292",
+        "e293",
+        "e294",
+        "e295",
+        "e296",
+        "e297"
+      ],
+      "page_start": 9,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "33."
+      ],
+      "parent_section_id": null
+    }
+  }
+]

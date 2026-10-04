@@ -1,0 +1,1476 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "Page 1 of 13",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Page 1 of 13"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Page 1 of 13"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "Ministry of Law, Justice and Company Affairs",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Ministry of Law, Justice and Company Affairs"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Ministry of Law, Justice and Company Affairs"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "(Legislative Department)\nNew Delhi, the 11th July, 1994\nThe following Act of Parliament received the assent of the President on the 8th July,",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "(Legislative Department)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "(Legislative Department)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "1994 and is hereby published for general information:-\nTHE TRANSPLANTATION OF HUMAN ORGANS ACT, 1994",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1994 and is hereby published for general information:-"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1994 and is hereby published for general information:-"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "No.42 OF 1994",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "No.42 OF 1994"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "No.42 OF 1994"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "[8th July, 1994]\nAn Act to provide for the regulation of removal, storage and transplantation of human\norgans for therapeutic purposes and for the prevention of commercial dealings in\nhuman organs and for matters connected therewith or incidental thereto.\nWhereas it is expedient to provide for the regulation of removal, storage and\ntransplantation of human organs for therapeutic purposes and for the prevention of\ncommercial dealings in human organs;\nAnd whereas Parliament has no power to make laws for the States with respect to\nany of the matters aforesaid except as provided in articles 249 and 250 of the\nConstitution;\nAnd whereas in pursuance of clause (1) of article 252 of the Constitution, resolutions\nhave been passed by all the Houses of the Legislatures of the States of Goa,\nHimachal Pradesh and Maharashtra to the effect that the matters aforesaid should\nbe regulated in those States by Parliament by law;\nBe it enacted by Parliament in the Forty-fifth Year of the Republic of India as follows:",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "[8th July, 1994]"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "[8th July, 1994]"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "Chapter I\nPreliminary\nShort\ntitle,\napplication and\ncommencement",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Chapter I"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Chapter I"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "1.\n(1). This Act may be called the Transplantation of Human\n\nOrgans Act, 1994.\n(2). It applies, in the first instance, to the whole of the States\n\nof Goa, Himachal Pradesh and Maharasthra and to all\nthe Union territories and it shall also apply to such other\nState which adopts this Act by resolution passed in that\nbehalf under clause (1) of article 252 of the Constitution.\n(3). It shall come into force in the States of Goa, Himachal\n\nPradesh and Maharashtra and in all the Union territories\non such date as the Central Government may, by\nnotification, appoint and in any other State which adopts\nthis Act under clause (1) of article 252 of the\nConstitution, on the date of such adoption; and any\nreference in this Act to the commencement of this Act\nshall, in relation to any State or Union Territory, means\nthe date on which this Act comes into force in such State\nor Union Territory.\nDefinitions\n2.\nIn this Act, unless the context otherwise requires:\n(a) “advertisement” includes any form of advertising whether\n\nto the public generally or to any section of the public or\nindividually to selected persons;\n(b) “Appropriate Authority” means the Appropriate Authority\n\nPage 2 of 13\n\nappointed under section 13;\n(c) “Authorisation\nCommittee”\nmeans\nthe\ncommittee\nconstituted under clause (a) or clause (b) of sub-section\n(4) of section 9;\n(d) “brain-stem death” means the stage at which all\n\nfunctions of the brain stem have permanently and\nirreversibly ceased and is so certified under sub-section\n(6) of section 3;\n(e) “deceased person” means a person in whom permanent\n\ndisappearance of all evidence of life occurs, by reason of\nbrain-stem death or in a cardio-pulmonary sense, at any\ntime after live birth has taken place;\n(f) “donor” means any person, not less than eighteen years\n\nof age, who voluntarily authorizes the removal of any of\nhis human organs for therapeutic purposes under sub-\nsection (1) or sub-section (2) of section 3;\n(g) “hospital” includes a nursing home, clinic, medical\n\ncentre, medical or teaching institution for therapeutic\npurposes and other like institution;\n(h) “human organ” means any part of a human body\n\nconsisting of a structured arrangement of tissues which,\nif wholly removed, cannot be replicated by the body;\n(i) “near-relative” means spouse, son, daughter, father,\n\nmother, brother or sister;\n(j) “notification” means a notification published in the Official\n\nGazette;\n(k) “payment” means payment in money or money’s worth\n\nbut does not include any payment for defraying or\nreimbursing –\n\n(i) the cost of removing, transporting or preserving\n\nthe human organ to be supplied; or\n(ii) any expenses or loss of earnings incurred by a\n\nperson so far as reasonably and directly\nattributable to his supplying any human organ\nfrom his body;\n(l) “prescribed” means prescribed by rules made under this\n\nAct;\n(m) “recipient” means a person into whom any human organ\n\nis, or is proposed to be, transplanted;\n102 of 1956\n(n) “registered medical practitioner” means a medical\n\npractitioner who possesses any recognized medical\nqualification as defined in clause (h) of section-2 of the\nIndian Medical Council Act, 1956, and who is enrolled on\na State Medical Register as defined in clause (k) of that\nsection;\n(o) “therapeutic purposes” means systematic treatment of\n\nany disease or the measures to improve health\naccording to any particular method or modality; and\n(p) “transplantation” means the grafting of any human organ\n\nfrom any living person or deceased person to some\nother living person for therapeutic purposes.\n\nChapter II\n\nPage 3 of 13\n\nAuthority for the removal of human organs\nAuthority\nfor\nremoval\nof\nhuman organs",
+    "element_ids": [
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33"
+    ],
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 26,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33"
+      ],
+      "page_start": 1,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "3.\n(1). Any donor may, in such manner and subject to such\n\nconditions as may be prescribed, authorise the removal,\nbefore his death, of any human organ of his body for\ntherapeutic purposes.\n(2). If any donor had, in writing and in the presence of two or\n\nmore witnesses (at least one of whom is a near relative\nof such person), unequivocally authorized at any time\nbefore his death, the removal of any human organ of his\nbody, after his death, for therapeutic purposes, the\nperson lawfully in possession of the dead body of the\ndonor shall, unless he has any reason to believe that the\ndonor had subsequently revoked the authority aforesaid,\ngrant to a registered medical practitioner all reasonable\nfacilities for the removal, for therapeutic purposes, of that\nhuman organ from the dead body of the donor.\n(3). Where no such authority as is referred to in sub-section\n\n(2), was made by any person before his death but no\nobjection was also expressed by such person to any of\nhis human organs being used after his death for\ntherapeutic purposes, the person lawfully in possession\nof the dead body of such person may, unless he has\nreason to believe that any near relative of the deceased\nperson has objection to any of the decease person’s\nhuman organs being used for therapeutic purposes,\nauthorize the removal of any human organ of the\ndeceased person for its use for therapeutic purposes.\n(4). The authority given under sub-section (1) or sub-section\n\n(2) or, as the case may be, sub-section (3) shall be\nsufficient warrant for the removal, for therapeutic\npurposes, of the human organ; but no such removal shall\nbe made by any person other than the registered\nmedical practitioner.\n(5). Where any human organ is to be removed from the body\n\nof a deceased person, the registered medical practitioner\nshall satisfy himself, before such removal, by a personal\nexamination of the body from which any human organ is\nto be removed, that life is extinct in such body or, where\nit appears to be a case of brain-stem death, that such\ndeath has been certified under sub-section (6).\n(6). Where any human organ is to be removed from the body\n\nof a person in the event of his brain-stem death, no such\nremoval shall be undertaken unless such death is\ncertified, in such form and in such manner and on\nsatisfaction of such conditions and requirements as may\nbe prescribed, by a Board of medical experts consisting\nof the following namely:\n\n(i) the registered medical practitioner in charge of\n\nthe hospital in which brain-stem death has\noccurred;\n(ii) an independent registered medical practitioner,\n\nbeing a specialist, to be nominated by the\n\nPage 4 of 13\n\nregistered medical practitioner specified in\ncause (i), from the panel of names approved by\nthe Appropriate authority;\n(iii) a neurologist or a neurosurgeon to be\n\nnominated\nby\nthe\nregistered\nmedical\npractitioner specified in clause (i), from the\npanel of names approved by the Appropriate\nAuthority; and\n(iv) the registered medical practitioner treating the\n\nperson whose brain-stem death has occurred.\n(7). Notwithstanding anything contained in sub-section (3),\n\nwhere brain-stem death of any person, less than\neighteen years of age, occurs and is certified under sub-\nsection (6), any of the parents of the deceased person\nmay give authority, in such form and in such manner as\nmay be prescribed, for the removal of any human organ\nfrom the body of the deceased person.\nRemoval\nof\nhuman organs\nnot\nto\nbe\nauthorised\nin\ncertain cases.",
+    "element_ids": [
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e34",
+      "semantic_root_role": "",
+      "element_count": 15,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "4.\n(1). No facilities shall be granted under sub-section (2) of\n\nsection 3 and no authority shall be given under sub-\nsection (3) of that section for the removal of any human\norgan from the body of a deceased person, if the person\nrequired to grant such facilities, or empowered to give\nsuch authority, has reason to believe that an inquest\nmay be required to be held in relation to such body in\npursuance of the provisions of any law for the time being\nin force.\n(2). No authority for the removal of any human organ from\n\nthe body of a deceased person shall be given by a\nperson to whom such body has been entrusted solely for\nthe purpose of interment, cremation or other disposal.\nAuthority\nfor\nremoval\nof\nhuman organs\nin\ncase\nof\nunclaimed\nbodies\nin\nhospital\nor\nprison.",
+    "element_ids": [
+      "e49",
+      "e50",
+      "e51"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e49",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e49",
+        "e50",
+        "e51"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "5.\n(1). In the case of a dead body lying in a hospital or prison\n\nand not claimed by any of the near relatives of the\ndeceased person within forty-eight hours from the time of\nthe death of the concerned person, the authority for the\nremoval of any human organ from the dead body which\nso remains unclaimed may be given, in the prescribed\nform, by the person in charge, for the time being, of the\nmanagement or control of the hospital or prison, or by an\nemployee of such hospital or prison authorised in this\nbehalf by the person in charge of the management or\ncontrol thereof.\n(2). No authority shall be given under sub-section (1) if the\n\nperson empowered to give such authority has reason to\nbelieve that any near relative of the deceased person is\nlikely to claim the dead body even through such near\nrelative has not come forward to claim the body of the\ndeceased person within the time specified in such sub-\nsection (1).\nAuthority\nfor\nremoval\nof\nhuman organs\nfrom\nbodies\nsent for post-",
+    "element_ids": [
+      "e52",
+      "e53",
+      "e54"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e52",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e52",
+        "e53",
+        "e54"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "6.\nWhere the body of a person has been sent for post-mortem\nexamination-\n\n(a) for medico-legal purposes by reason of the death of\n\nsuch person having been caused by accident or\nany other unnatural cause;\n\nPage 5 of 13\n\nmortem\nexamination for\nmedico-legal or\npathological\npurposes.\n\nOR\n(b) for pathological purposes,\nthe person competent under this Act to give authority for the\nremoval of any human organ from such dead body may, if he\nhas reason to believe that such human organ will not be\nrequired for the purpose for which such body has been sent\nfor post-mortem examination, authorize the removal, for\ntherapeutic purposes, of that human organ of the deceased\nperson provided that he is satisfied that the deceased person\nhad not expressed, before his death, any objection to any of\nhis human organs being used, for therapeutic purposes after\nhis death or, where he had granted an authority for the use\nof any of his human organs for therapeutic purposes after his\ndeath, such authority had not been revoked by him before\nhis death.\nPreservation of\nhuman organs.",
+    "element_ids": [
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "6."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "6."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "7.\nAfter the removal of any human organ from the body of any\nperson, the registered medical practitioner shall take such\nsteps for the preservation of the human organ so removed\nas may be prescribed.\nSavings\n8.\n(1). Nothing in the foregoing provisions of this Act shall be\n\nconstrued as rendering unlawful any dealing with the\nbody or with any part of the body of a deceased person if\nsuch dealing would have been lawful if this Act had not\nbeen passed.\n45 of 1860\n(2). Neither the grant of any facility or authority for the\n\nremoval of any human organ from the body of a\ndeceased person in accordance with the provisions of\nthis Act nor the removal of any human organ from the\nbody of a deceased person in pursuance of such\nauthority shall be deemed to be an offence punishable\nunder section 297 of the Indian Penal Code.\n9\n(1). Save as otherwise provided in sub-section (3), no human\n\norgan removed from the body of a donor before his\ndeath shall be transplanted into a recipient unless the\ndonor is a near relative of the recipient.\n(2). Where any donor authorizes the removal of any of his\n\nhuman organs after his death under sub-section (2) of\nsection 3 of any person competent or empowered to give\nauthority for the removal of any human organ from the\nbody of any deceased person authroises such removal,\nthe human organ may be removed and transplanted into\nthe body of any recipient who may be in need of such\nhuman organ.\n\nRestrictions on\nremoval\nand\ntransplantation\nof\nhuman\norgans.\n\n(3). If any donor authorizes the removal of any of his human\n\norgans before his death under sub-section (1) of section\n3 for transplantation into the body of such recipient, not\nbeing a near relative, as is specified by the donor by\nreason of affection or attachment towards the recipient\nor for any other special reasons, such human organ shall\nnot be removed and transplanted without the prior\napproval of the Authorisation Committee.\n(4). (a) The Central Government shall constitute, by\n\nnotification, one or more Authorisation Committees\n\nPage 6 of 13\n\nconsisting of such members as may be nominated by the\nCentral Government on such terms and conditions as\nmay be specified in the notification for each of the Union\nTerritories for the purposes of this section.\n(b)\nThe\nState\nGovernment\nshall\nconstitute,\nby\nnotification, one or more Authorisation Committees\nconsisting of such members as may be nominated by the\nState Government on such terms and conditions as may\nbe specified in the notification for the purposes of this\nsection.\n(5). On an application jointly made, in such form and in such\n\nmanner as may be prescribed, by the donor and the\nrecipient, the Authorisation Committee shall, after\nholding an inquiry and after satisfying itself that the\napplicants have complied with all the requirements of\nthis Act and the rules made thereunder, grant to the\napplicants approval for the removal and transplantation\nof the human organs.\n(6). If, after the inquiry and after giving an opportunity to the\n\napplicants of being heard, the Authorisation Committee\nis satisfied that the applicants have not complied with the\nrequirements of this Act and the rules made thereunder,\nit shall, for reasons to be recorded in writing, reject the\napplication for approval.\n\nChapter III\nRegulation of hospitals\nRegulation\nof\nhospitals\nconducting the\nremoval,\nstorage\nor\ntransplantation\nof\nhuman\norgans",
+    "element_ids": [
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "7."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e61",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "7."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "10.\n(1). On and from the commencement of this Act:\n\n(a) no hospital, unless registered under this Act, shall\n\nconduct, or associate with, or help in, the removal,\nstorage or transplantation of any human organ;\n(b) no medical practitioner or any other person shall\n\nconduct, or cause to be conducted, or aid in\nconducting by himself or through any other person,\nany activity relating to the removal, storage or\ntransplantation of any human organ at a place other\nthan an place registered under this Act; and\n(c) no place including a hospital registered under sub-\n\nsection (1) of section 15 shall be used or cause to\nbe used by any person for the removal, storage or\ntransplantation of any human organ except for\ntherapeutic purposes.\n(2). Notwithstanding anything contained in sub-section (1),\n\nthe eyes or the ears may be removed at any place from\nthe dead body of any donor, for therapeutic purposes, by\na registered medical practitioner.\nExplanation: For the purposes of this sub-section, “ears”\nincludes ear drums and ear bones.\nProhibition\nof\nremoval\nor\ntransplantation\nof\nhuman",
+    "element_ids": [
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "10."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e75",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "10."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "11.\nNo donor and no person empowered to give authority for the\nremoval of any human organ shall authorise the removal of\nany human organ for any purpose other than therapeutic\npurposes.\n\nPage 7 of 13\n\norgans for any\npurpose\nother\nthan\ntherapeutic\npurposes.\nExplaining\neffects, etc., to\ndonor\nand\nrecipient.",
+    "element_ids": [
+      "e81",
+      "e82",
+      "e83"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "structure_path": [
+      "11."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e81",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e81",
+        "e82",
+        "e83"
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "11."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "12.\nNo registered medical practitioner shall undertake the\nremoval or transplantation of any human organ unless he\nhas explained, in such manner as may be prescribed, all\npossible effects, complications and hazards connected with\nthe removal and transplantation to the donor and the\nrecipient respectively.\n\nChapter IV\nAppropriate Authority",
+    "element_ids": [
+      "e84",
+      "e85"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "12."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e84",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e84",
+        "e85"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "12."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "13.\n(1). The Central Government shall appoint, by notification,\n\none or more officers as Appropriate Authorities for each\nof the Union territories for the purposes of this Act.\n(2). The State Government shall appoint, by notification, one\n\nor more officers as Appropriate Authorities for the\npurposes of this Act.\n\nAppropriate\nAuthority\n\n(3). The Appropriate Authority shall perform the following\n\nfunctions, namely:\n(i) to grant registration under sub-section (1) of section\n\n15 or renew registration under sub-section (3) of that\nsection;\n(ii) to suspend or cancel registration under sub-section\n\n(2) of section 16;\n(iii) to enforce such standards as may be prescribed, for\n\nhospitals engaged in the removal, storage or\ntransplantation of any human organ;\n(iv) to investigate any complaint of breach of any of the\n\nprovisions of this Act or any of the rules made\nthereunder and take appropriate action;\n(v) to inspect hospitals periodically for examination of\n\nthe quality of transplantation and the follow-up\nmedical care to persons who have undergone\ntransplantation and persons from whom organs are\nremoved; and\n(vi) to undertake such other measures as may be\n\nprescribed.\n\nChapter V\nRegistration of Hospitals\n\nPage 8 of 13\n\nRegistration of\nhospitals\nengaged\nin\nremoval,\nstorage\nor\ntransplantation\nof\nhuman\norgans.",
+    "element_ids": [
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "structure_path": [
+      "13."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e86",
+      "semantic_root_role": "",
+      "element_count": 15,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100"
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "13."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "14.\n(1). No hospital shall commence any activity relating to the\n\nremoval, storage or transplantation of any human organ\nfor therapeutic purposes after the commencement of this\nact unless such hospital is duly registered under this Act.\nProvided that every hospital engaged, either partly or\nexclusively in any activity relating to the removal, storage\nor transplantation of any human organ for therapeutic\npurposes immediately before the commencement of this\nAct, shall apply for registration within sixty days from the\ndate of such commencement:\nProvided further that every hospital engaged in any\nactivity relating to the removal, storage or transplantation\nof any human organ shall cease to engage in any such\nactivity on the expiry of three months from the date of\ncommencement of this Act unless such hospital has\napplied for registration and is so registered or till such\napplication is disposed of, whichever is earlier.\n(2). Every application for registration under sub-section (1)\n\nshall be made to the Appropriate Authority in such form\nand in such manner and shall be accompanied by such\nfees as may be prescribed.\n(3). No hospital shall be registered under this Act unless the\n\nAppropriate authority is satisfied that such hospital is in a\nposition to provide such specialised services and\nfacilities,\npossess\nsuch\nskilled\nmanpower\nand\nequipments and maintain such standards as may be\nprescribed.\nCertificate\nof\nregistration",
+    "element_ids": [
+      "e101",
+      "e102",
+      "e103",
+      "e104"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "14."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e101",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e101",
+        "e102",
+        "e103",
+        "e104"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "14."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "15.\n(1). The Appropriate Authority shall, after holding an inquiry\n\nand after satisfying itself that the applicant has complied\nwith all the requirements of this Act and the rules made\nthereunder, grant to the hospital a certificate of\nregistration in such form, for such period and subject to\nsuch conditions as may be prescribed.\n(2). If, after the inquiry and after giving an opportunity to the\n\napplicant of being heard, the Appropriate Authority is\nsatisfied that the applicant has not complied with the\nrequirements of this Act and the rules made thereunder,\nit shall, for reasons to be recorded in writing, reject the\napplication for registration.\n(3). Every certificate of registration shall be renewed in such\n\nmanner and on payment of such fees as may be\nprescribed.\nSuspension or\ncancellation of\nregistration",
+    "element_ids": [
+      "e105",
+      "e106",
+      "e107",
+      "e108"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "15."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e105",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e105",
+        "e106",
+        "e107",
+        "e108"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "15."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "16.\n(1). The Appropriate Authority may, suo moto or on\n\ncomplaint, issue a notice to any hospital to show cause\nwhy its registration under this Act should not be\nsuspended or cancelled for the reasons mentioned in the\nnotice.\n(2). If, after giving a reasonable opportunity of being heard to\n\nthe hospital, the Appropriate Authority is satisfied that\nthere has been a breach of any of the provisions of this\nAct or the rules made thereunder, it may, without\nprejudice to any criminal action that it may take against\nsuch hospital, suspend its registration for such period as\n\nPage 9 of 13\n\nit may think fit or cancel its registration:\nProvided that where the Appropriate authority is of the\nopinion that it is necessary or expedient so to do in the\npublic interest, it may, for reasons to be recorded in\nwriting, suspend the registration of any hospital without\nissuing any notice.\nAppeals\n17.\n(1). Any person aggrieved by an order of the Authorisation\n\nCommittee rejecting an application for approval under\nsub-section (6) of section 9, or any hospital aggrieved by\nan order of the Appropriate Authority rejecting an\napplication for registration under sub-section (2) of\nsection 15 or an order of suspension or cancellation of\nregistration under sub-section (2) of section 16, may,\nwithin thirty days from the date of the receipt of the\norder, prefer an appeal, in such manner as may be\nprescribed, against such order to:\n(i) the Central Government where the appeal is against\n\nthe order of the Authorisation Committee constituted\nunder clause (a) of sub-section (4) of section 9 or\nagainst the order of the Appropriate Authority\nappointed under sub-section (1) of section 13; or\n(ii) the State Government, where the appeal is against\n\nthe order of the Authorisation Committee constituted\nunder clause (b) of sub-section (4) of section 9 or\nagainst the order of the Appropriate Authority\nappointed under sub-section (2) of section 13.\n\nChapter VI\nOffences and Penalties\nPunishment for\nremoval\nof\nhuman\norgan\nwithout\nauthority.",
+    "element_ids": [
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "structure_path": [
+      "16."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e109",
+      "semantic_root_role": "",
+      "element_count": 9,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117"
+      ],
+      "page_start": 8,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "16."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "18.\n(1). Any person who renders his services to or at any\n\nhospital and who, for purposes of transplantation,\nconducts associates with, or helps in any manner in, the\nremoval of any human organ without authority, shall be\npunishable with imprisonment for a term which may\nextend to five years and with fine which may extend to\nten thousand rupees.\n(2). Where any person convicted under sub-section (1) is a\n\nregistered medical practitioner, his name shall be\nreported by the Appropriate Authority to the respective\nState Medical Council for taking necessary action\nincluding the removal of his name from the register of the\nCouncil for a period of two years for the first offence and\npermanently for the subsequent offence.\nPunishment for\ncommercial\ndealings\nin\nhuman organs",
+    "element_ids": [
+      "e118",
+      "e119",
+      "e120"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "18."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e118",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e118",
+        "e119",
+        "e120"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "18."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "19.\nWhoever –\n\n(a) makes or received any payment for the supply of, or\n\nfor an offer to supply, any human organ;\n(b) seeks to find person willing to supply for payment any\n\nhuman organ;\n(c) offers to supply any human organ for payment;\n(d) initiates or negotiates any arrangement involving the\n\nmaking of any payment for the supply of, or for an\noffer to supply, any human organ;\n\nPage 10 of 13\n\n(e) takes part in the management or control of a body of\n\npersons, whether a society, firm or company, whose\nactivities consist of or include the initiation or\nnegotiation of any arrangement referred to in clause\n(d); or\n(f) publishes or distributes or causes to be published or\n\ndistributed any advertisement-\n\n(a) inviting persons to supply for payment of any\n\nhuman organ;\n(b) offering to supply any human organ for\n\npayment; or\n(c) indicating that the advertiser is willing to initiate\n\nor negotiate any arrangement referred to in\nclause (d),\nshall be punishable with imprisonment for a term\nwhich shall not be less than two years but which may\nextend to seven years and shall be liable to fine which\nshall not be less than ten thousand rupees but may\nextend to twenty thousand rupees:\nProvided that the court may, for any adequate and\nspecial reason to be mentioned in the judgement,\nimpose a sentence of imprisonment for a term of less\nthan two years and a fine less than ten thousand\nrupees.\nPunishment for\ncontravention\nof\nany\nother\nprovision of this\nAct.",
+    "element_ids": [
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133"
+    ],
+    "pages": [
+      9,
+      10
+    ],
+    "structure_path": [
+      "19."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e121",
+      "semantic_root_role": "",
+      "element_count": 13,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133"
+      ],
+      "page_start": 9,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "19."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "20.\nWhoever contravenes any provision of this Act or any rule\nmade, or any condition of the registration granted,\nthereunder for which no punishment is separately provided in\nthis Act, shall be punishable with imprisonment for a term\nwhich may extend to three years or with fine which may\nextend to five thousand rupees.\nOffences\nby\ncompanies.",
+    "element_ids": [
+      "e134"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "20."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e134",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e134"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "20."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "21.\n(1). Where any offence, punishable under this Act, has been\n\ncommitted by a company, every person who, at the time\nthe offence was committed was in charge of, and was\nresponsible to the company for the conduct of the\nbusiness of the company, as well as the company, shall\nbe deemed to be guilty of the offence and shall be liable\nto be proceeded against and punished accordingly:\nProvided that nothing contained in this sub-section shall\nrender any such person liable to any punishment, if he\nproves that the offence was committed without his\nknowledge or that he had exercised all due diligence to\nprevent the commission of such offence.\n(2). Notwithstanding anything contained in sub-section (1),\n\nwhere any offence punishable under this Act has been\ncommitted by a company and it is proved that the\noffence has been committed with the consent or\nconnivance of, or is attributable to any neglect on the\npart of, any director, manager, secretary or other officer\nof the company, such director, manager, secretary or\nother officer shall also be deemed to be guilty of that\noffence and shall be liable to be proceeded against and\npunished accordingly.\nExplanation: For the purposes of this section:\n\nPage 11 of 13\n\n(a) “company” means any body corporate and\n\nincludes a firm or other association of individuals;\nand\n(b) “director”, in relation to a firm, means a partner in\n\nthe firm.\nCognizance of\noffence",
+    "element_ids": [
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141"
+    ],
+    "pages": [
+      10,
+      11
+    ],
+    "structure_path": [
+      "21."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e135",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141"
+      ],
+      "page_start": 10,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "21."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "22.\n(1). No court shall take cognizance of an offence under this\n\nAct except on a complaint made by:\n(a) the Appropriate Authority concerned, or any officer\n\nauthorised\nin\nthis\nbehalf\nby\nthe\nCentral\nGovernment or the State Government or, as the\ncase may be, the Appropriate Authority; or\n(b) a person who has given notice of not less than\n\nsixty days, in such manner as may be prescribed,\nto the Appropriate Authority concerned, of the\nalleged offence and of his intention to make a\ncomplaint to the court.\n(2). No court other than that of a Metropolitan Magistrate or\n\na Judicial Magistrate of the first class shall try any\noffence punishable under this Act.\n(3). Where a complaint has been made under clause (b) of\n\nsub-section (1), the court may, on demand by such\nperson, direct the Appropriate Authority to make\navailable copies of the relevant records in its\npossession to such person.\n\nChapter VII\nMiscellaneous\nProtection\nof\naction taken in\ngood faith.",
+    "element_ids": [
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "22."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e142",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "22."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "23.\n(1). No suit, prosecution or other legal proceeding shall lie\n\nagainst any person for anything which is in good faith\ndone or intended to be done in pursuance of the\nprovisions of this Act.\n(2). No suit or other legal proceeding shall lie against the\n\nCentral Government or the State Government for any\ndamage caused or likely to be caused for anything\nwhich is in good faith done or intended to be done in\npursuance of the provisions of this Act.\nPower to make\nrules.",
+    "element_ids": [
+      "e149",
+      "e150",
+      "e151"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "23."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e149",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e149",
+        "e150",
+        "e151"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "23."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "24.\n(1). The Central Government may, by notification, make\n\nrules for carrying out the purposes of this Act.\n(2). In particular, and without prejudice to the generality of\n\nthe foregoing power, such rules may provide for all or\nany of the following matters, namely:\n(a) the manner in which and the conditions subject to\n\nwhich any donor may authorise removal, before\nhis death, of any human organ of his body under\nsub-section (1) of section 3;\n(b) the form and the manner in which a brain-stem\n\ndeath is to be certified and the conditions and\nrequirements which are to be satisfied for that\npurpose under sub-section (6) of section 3;\n(c)\nthe form and the manner in which any of the\nparents may give authority, in the case of brain-\nstem death of a minor, for the removal of any\n\nPage 12 of 13\n\nhuman organ under sub-section (7) of section 3;\n(d) the form in which authority for the removal of any\n\nhuman organ from an unclaimed dead body may\nbe\ngiven\nby\nthe\nperson\nincharge\nof\nthe\nmanagement or control of the hospital or prison,\nunder sub-section (1) of section 5;\n(e) the steps to be taken for the preservation of the\n\nhuman organ removed from the body of any\nperson, under section 7;\n(f)\nthe form and the manner in which an application\nmay be jointly made by the donor and the recipient\nunder sub-section (5) of section 9;\n(g) the\nmanner\nin\nwhich\nall\npossible\neffects,\ncomplications and hazards connected with the\nremoval and transplantation is to be explained by\nthe registered medical practitioner to the donor\nand the recipient under section 12;\n(h) the standards as are to be enforced by the\n\nAppropriate authority for hospitals engaged in the\nremoval, storage or transplantation of any human\norgan under clause (iii) of sub-section (3) of\nsection 13;\n(i)\nthe other measures as the Appropriate Authority\nshall undertake in performing its functions under\nclause (vi) of sub-section (3) of section 13;\n(j)\nthe form and the manner in which an application\nfor registration shall be made and the fee which\nshall be accompanied, under sub-section (2) of\nsection 14;\n(k)\nthe specialised services and the facilities to be\nprovided, skilled manpower and the equipments to\nbe possessed and the standards to be maintained\nby a hospital for registration, under sub-section (3)\nof section 14;\n(l)\nthe form in which, the period for which and the\nconditions\nsubject\nto\nwhich\ncertificate\nof\nregistration is to be granted to a hospital, under\nsub-section (1) of section 15;\n(m) the manner in which and the fee on payment of\n\nwhich certificate of registration is to be renewed\nunder sub-section (3) of section 15;\n(n) the manner in which an appeal may be preferred\n\nunder section 17;\n(o) the manner in which a person is required to give\n\nnotice to the Appropriate Authority of the alleged\noffence and of his intention to make a complaint to\nthe court, under clause (b) of sub-section (1) of\nsection 22; and\n(p) any other matter which is required to be, or may be\n\nprescribed.\n(3). Every rule made under this Act shall be laid, as soon as\n\nmay be after it is made, before each House of\nParliament, while it is in session, for a total period of\n\nPage 13 of 13\n\nthirty days which may be comprised in one session or in\ntwo or more successive sessions, and if, before the\nexpiry of the session immediately following the session\nor the successive sessions aforesaid, both Houses\nagree in making any modification in the rule or both\nHouses agree that the rule should not be made, the rule\nshall thereafter have effect only in such modified form or\nbe of no effect, as the case may be; so, however that\nany such modification or annulment shall be without\nprejudice to the validity of anything previously done\nunder that rule.\nRepeal\nand\nsaving\n28 of 1982\n29 of 1982",
+    "element_ids": [
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168"
+    ],
+    "pages": [
+      11,
+      12,
+      13
+    ],
+    "structure_path": [
+      "24."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e152",
+      "semantic_root_role": "",
+      "element_count": 17,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168"
+      ],
+      "page_start": 11,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "24."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "25.\n(1). The Ear Drums and Ear Bones (Authority for Use for\n\nTherapeutic Purposes) Act, 1989 and the Eyes\n(Authority for Use for Therapeutic Purposes) Act, 1982\nare hereby repealed.\n(2). The repeal shall, however, not affect the previous\n\noperation of the Acts so repealed or anything duly done\nor suffered thereunder.",
+    "element_ids": [
+      "e169",
+      "e170",
+      "e171"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "25."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e169",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e169",
+        "e170",
+        "e171"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "25."
+      ],
+      "parent_section_id": null
+    }
+  }
+]

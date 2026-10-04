@@ -1,0 +1,1812 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "USER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "USER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "USER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "0",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "0"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "0"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "USER MANUAL FOR\nREPORTING CYBER CRIME",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "USER MANUAL FOR"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "USER MANUAL FOR"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "AGAINST WOMEN AND\n\nCHILDREN (CP/RGR)\n\nMinistry of Home Affairs",
+    "element_ids": [
+      "e4",
+      "e5",
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "AGAINST WOMEN AND"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4",
+        "e5",
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "AGAINST WOMEN AND"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "CITIZEN MANUAL",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "CITIZEN MANUAL"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "CITIZEN MANUAL"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "FOR",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FOR"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FOR"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "NATIONAL CYBERCRIME REPORTING",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "NATIONAL CYBERCRIME REPORTING"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "NATIONAL CYBERCRIME REPORTING"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "PORTAL",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "PORTAL"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "PORTAL"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "INDIAN CYBERCRIME COORDINATION CENTRE (I4C)",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "INDIAN CYBERCRIME COORDINATION CENTRE (I4C)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "INDIAN CYBERCRIME COORDINATION CENTRE (I4C)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "MINISTRY OF HOME AFFAIRS\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n1\n\nDocument Information\n\nOwner\nMinistry of Home Affairs, Government of India\n\nDocument Status\nFinal\n\nDate Effective\n30 August 2019\n\nDisclaimer\nAs per Article 246 of the Constitution of India, Public and Police order is the responsibility of the State.\nDue to transnational and borderless nature of cybercrimes, this Portal has been developed for\nfacilitating public to report cybercrime complaints online.\n\nAll the reported complaints are dealt by respective State/UT police authorities based on the information\nprovided by the complainant for necessary action. This portal has been designed to report complaints\nrelated to cybercrimes and should not be treated as an FIR. State /UT authorities are responsible for\nappropriate action on the complaints reported on the portal. Complainants are advised to take care of\nthe accuracy of information provided by them on the portal.\nABBREVIATIONS\nOTP\nOne Time Password\n2FA\nTwo factor Authentication\nEML\nElectronic Mail\nBTC\nBitcoin\nTAU\nNational Cybercrime Threat Analytics Unit\nNCFL\nNational Cybercrime Forensic Laboratory\nNCTC\nNational Cybercrime Training Centre\nNCR&IC\nNational Cyber Research and Innovation Centre\nCP\nChild Pornography\nR&GR\nRape and Gang Rape\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n2\n\nTable of Contents",
+    "element_ids": [
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23"
+    ],
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "structure_path": [
+      "MINISTRY OF HOME AFFAIRS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 12,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e12",
+        "e13",
+        "e14",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23"
+      ],
+      "page_start": 1,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF HOME AFFAIRS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "INDIAN CYBERCRIME COORDINATION CENTRE (I4C) .................................................... 0",
+    "element_ids": [
+      "e24"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "INDIAN CYBERCRIME COORDINATION CENTRE (I4C) .................................................... 0"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e24",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e24"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "INDIAN CYBERCRIME COORDINATION CENTRE (I4C) .................................................... 0"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "1.\nBACKGROUND ............................................................................................................. 3",
+    "element_ids": [
+      "e25"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e25",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e25"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "2.\nINTRODUCTION ........................................................................................................... 3\n\n2.1\nPURPOSE............................................................................................................................................ 5",
+    "element_ids": [
+      "e26",
+      "e27"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e26",
+        "e27"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "3.\nHOW TO REPORT ANONYMOUS CP/RGR COMPLAINT ........................................... 5\n\nSTEP 1:NAVIGATE TO REPORT ANONYMOUSLY COMPLAINT SECTION .......................................................... 5\nSTEP 2:PROVIDE COMPLAINT &INCIDENT DETAILS ..................................................................................... 6\nSTEP 3:PROVIDE SUSPECT DETAILS ........................................................................................................... 8\nSTEP 4:PREVIEW &SUBMIT ........................................................................................................................ 9\nSTEP 5:GENERATE PDF OF REPORTED COMPLAINT .................................................................................. 10\nSnapshot of output………………………………………………………………………………………………………………………..11",
+    "element_ids": [
+      "e28",
+      "e29"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e28",
+        "e29"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "4.\nHOW TO REPORT AND TRACK A CP/RGR COMPLAINT ...................................... 122\n\nSTEP 1:NAVIGATE TO REPORT &TRACK SECTION.................................................................................... 12\nSTEP 2:LOGIN FOR REPORTING A COMPLAINT ........................................................................................... 13\nSTEP 3:PROVIDE INCIDENT DETAILS ....................................................................................................... 144\nSTEP 4:PROVIDE SUSPECT DETAILS ....................................................................................................... 156\nSTEP 5:PROVIDE COMPLAINANT DETAILS ............................................................................................... 167\nSTEP 6:PREVIEW &SUBMIT .................................................................................................................... 188\nSTEP 7:GENERATE PDF OF REPORTED COMPLAINT .................................................................................. 20\nSTEP 8:TRACK COMPLAINT STATUS ........................................................................................................ 201",
+    "element_ids": [
+      "e30",
+      "e31"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e30",
+        "e31"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "5.\nADDITIONAL FEATURES ......................................................................................... 211\n\n5.1\nRECOVER YOUR USERNAME ........................................................................................................... 211\n5.2\nUPDATE MOBILE NUMBER ............................................................................................................... 222\nANNEXURE A:HELP ................................................................................................................................ 233\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n3",
+    "element_ids": [
+      "e32",
+      "e33",
+      "e34",
+      "e35"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e32",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e32",
+        "e33",
+        "e34",
+        "e35"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "1. Background\nMinistry of Home Affairs, Government of India is implementing a scheme called ‘Indian Cyber\nCrime Coordination Centre (I4C)’ to deal with cybercrimes in a coordinated and\ncomprehensive manner. Following are seven components of the centre:",
+    "element_ids": [
+      "e36"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "1. Background"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e36",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e36"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Background"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "1.\nNational Cybercrime Threat Analytics Unit (TAU)\n2.\nNational Cybercrime Forensic Laboratory (NCFL)\n3.\nNational Cybercrime Training Centre (NCTC)\n4.\nCybercrime Ecosystem Management\n5.\nPlatform for Joint Cybercrime Investigation Team\n6.\nNational Cybercrime Reporting Portal (NCRP)\n7.\nNational Cyber Research and Innovation Centre (NCR&IC)\nOne of the components of I4C is operationalisation of National Cybercrime Reporting Portal\nto deal with all types of cybercrimes. The earlier Cybercrime Reporting Portal\nwww.cybercrime.gov.in was for filing of cybercrime complaints pertaining to Child\nPornography (CP)/ Rape Gang Rape (RGR)/ Obscene Content only, however, the National\nCybercrime Reporting Portal facilitates filing of all types of cybercrimes with special focus on\nthe cybercrime against women and children.",
+    "element_ids": [
+      "e37"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e37",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e37"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "2. Introduction\nThis portal facilitates a person to report cybercrime against women and children related to\nChild Pornography (CP) -Child Sexual Abuse Material (CSAM), Rape Gang Rape (RGR) -\nSexually Abusive Content and Sexually Explicit Content.\n\nI.\nAssignment of a reported complaint to a State/UT is done on the basis of the address\nof the complainant.\n\nII.\nIn case you are not satisfied with the action taken by police officers you can reach out\nto grievance officers of your State/UT. Details of grievance officers are under Contact\nus section of portal.\nFor Report Anonymous CP/RGR Complaints\n\nI.\nBy using this option, the complainant does not have to reveal his /her identity.\n\nII.\nOnly Child Pornography (CP) - Child Sexual Abuse Material (CSAM), Rape Gang\nRape (RGR) - Sexually Abusive Content and Sexually Explicit Content related\ncomplaints can be reported through this option.\n\nIII.\nThe complainant has to mandatorily select the Category of crime and the state where\nthe complainant is residing or crime has taken place to register their complaint.\n\nIV.\nThe complainant can share a link to CP/ RGR content or upload evidences as\nattachment (common file types such as images, video’s, documents, PDF etc.).\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n4\n\nV.\nA description column is available for the complainant to add necessary details related\nto their complaint\nFor Report & Track CP/RGR Complaints\nAs a responsible citizen you should use “Report and Track” option for reporting the incident/\ncrime, since it would help the Law enforcement agencies to contact you for further details. You\nwill need to provide key information such as your name, phone number, email address, details\nof the incident/ complaint and necessary information supporting the complaint, etc.\n\nI.\nReporting a complaint through the “Report and Track” option, you may either choose\nyour location (If you are victim) or the victim’s location/ state where the incident has\nhappened.\nII.\nFor future tracking of the complaint, the complainant will receive a complaint ID on the\nregistered mobile number and e-mail address. This complaint ID is not an FIR number\nbut is a confirmation of registration of complaint on the portal.\nIII.\nYou will get update of action taken by police officers on your registered mobile number\nand e-mail ID\n\nIV.\nBy using this option, the complainant will identify himself/ herself by providing his/her\nmobile number. The complainant will receive an OTP to authenticate and login to the\ncomplaint registration page.\nV.\nOnce the complaint is registered, the complainant can access case history and check\nfor update/ action related to the complaint by logging back using the same mobile\nnumber. SMS updates are also sent on the complainant’s mobile number as the status\nof the complaint is updated by the state nodal cyber cell in the cyber police application.\n\nVI.\nThe complainant must mandatorily select the Category of crime and their State of\nresidence to register their complaint. The phone number of the Complainant is\nautomatically picked as per the number shared during login.\nVII.\nComplainant also has the option to identify the platform where the content was shared/\nnoticed- for example, common platforms such as Facebook, YouTube, and Instagram,\netc. The complainant will need to add the URL/ ID of account where content was\nnoticed/ shared from or the phone number from where the message was received on\ninstant messaging apps.\nVIII.\nThe complainant can share a link to CP/ CSAM/ RGR content or Obscene content as\nwell as upload artefacts (common file types such as images, video’s, documents, PDF\netc.) as evidence.\nIX.\nA description column is available for the complainant to add necessary details related\nto their complaint and evidences uploaded.\nX.\nOnce submitted, the complainant will receive a complaint ID number and has the option\nof download a PDF copy of the complaint filed on the portal.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n5\n\nXI.\nThe complainant will also receive SMS and e-mail with the complaint ID\nnumber along with an acknowledgement of the complaint being registered.\n\n2.1 Purpose\n\n\nThe purpose of this citizen manual document is to describe the functionalities and\nworkflow that is provided to citizens on the cybercrime portal for reporting cybercrime\ncomplaints against women and children pertaining to Child Pornography (CP) -Child\nSexual Abuse Material (CSAM), Rape Gang Rape (RGR) - Sexually Abusive\nContent and Sexually Explicit Content.",
+    "element_ids": [
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55"
+    ],
+    "pages": [
+      4,
+      5,
+      6
+    ],
+    "structure_path": [
+      "2. Introduction"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 18,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55"
+      ],
+      "page_start": 4,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Introduction"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "3. How to report Anonymous CP/RGR Complaint\nType the URL https://www.cybercrime.gov.in in the Web browser\n\nStep 1: Navigate to Report Anonymously complaint section\n\nSelect “Report Anonymously” option under Report Women/Child Related Crime, if you\nwant to report an online Child Pornography (CP) -Child Sexual Abuse Material (CSAM) or\nRape/Gang Rape (RGR) – Sexually Abusive Content without revealing your identity.\nHowever, information related to the incident / complaint should be complete for the police\nauthorities to take necessary action.Following are the steps to report a cyber crime complaint:\n\nI.\nClick on “File a complaint”\n\nII.\nRead the message carefully in the window and check on the “I Accept” checkbox.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n6\n\nIII.\nUnder Report Cyber Crime Related to Women/Child,Click on “Report Anonymously” .\nAlso accessed from “HOME” page :\n\nStep 2: Provide Complaint & Incident Details\n\nProvide the details as required for complaint reporting under “Complaint/Incident Details”\n\n2.1\nTo report a CP/RGR anonymous complaint, you may keep following information\nready before registering your complaint:\n\ni.\nIf you have received CP/RGR related content on SMS:\n\na. Take the screenshot/s of the SMS (depicting the objectionable content) and\n\nsender details (name, ID) as same needs to be provided on the portal as\nevidence\nb. Note the date and time when you have received the SMS and same need to be\n\nupdated in the Incident description field while you report your complaint on the\nportal\nii.\nIf you have received an email related to CP/RGR related content:\n\na.\nSave the received e-mails in pdf or .eml format or take the screenshot/s of the\nreceived e-mail and the same needs to be uploaded in the portal as evidence\nb.\nIf the received e-mails had an attachment/s, then keep the attachment/s ready\non your desktop/ device for uploading the same as an evidence on the portal\niii.\nIf you received or found CP/RGR related content on messaging platform such as\nWhatsApp, Hike, Skype etc:\n\na.\nTake the screenshot/s of the chats depicting the objectionable content with\nsender’s number along with date and time for uploading the same as evidence\non the portal\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n7\n\niv.\nIf you received or found CP/RGR related contents on social media\nplatform/forums/blogs/website such as YouTube, Facebook, WordPress etc.:\n\na.\nNote down/ Copy (to your device/ desktop) the URL where you have seen such\ncontent\nb.\nTake the screen shot of the page or save the page (as .pdf) showing abusive\ncontent on your device/ desktop for uploading the same as an evidence on the\nportal\nNote2: For further details on above points you may refer to Annexure A, Help\n2.2\nComplaint reporting\n\ni. Select the “Category of complaint” (Mandatory) from the drop-down (three options are\n\navailabe in drop-down – 1. Child Pornography (CP) - Child Sexual Abuse Material\n\n(CSAM), 2. Rape/ Gang Rape (RGR) – Sexually Abusive Content, and 3. Sexually\n\nExplicit Content\n\nii. Select ‘’Approximate Date and Time of incident/receiving/viewing of content”\n\n(Mandatory field)\niii. Select “State/UTs” (Mandatory field) –Select the victim’s location if known or wherein\n\nincident happened.\n\niv. Select “District” (Mandatory field)\n\nv. Select Police Station\n\nvi. Select the “Where did the incident occur?” (Mandatory field) - Select from the\n\ndropdown the source of evidence like social media platform (Facebook, twitter,\n\nInstagram etc.), messaging platform (WhatsApp, hike etc.), e-mail, website, URL or\n\nother\n\n(Note: For help on uploading evidence refer to Annexure A Help)\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n8\n\nvii. Upload evidence if any (Maximum allowable limit is 5 MB). (Mandatory field)\n\nviii. Provide any additional information about the incident (which you think can be included\n\nin the complaint and could help in investigation). (Mandatory field)\n\nix. Click on Save & Next for proceed\n\nStep 3: Provide Suspect Details\n\nShare the suspect details if suspect is known\n\ni. Enter “Suspect Name”\nii. Select ID – Provide suspect’s ID e.g. (Driving License, Email, Gov. Issued Card, Mobile\n\nNumber, PAN Card, Voter Card and Other) then click Add and subsequently add the\nselected details\niii. Provide Any other information/ Details about the suspect (which you think can be\n\nincluded in the complaint and could help in investigation).\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n9\n\niv. Click on Preview & Next\n\nStep 4: Preview & Submit\n\nClick on “Preview & Submit” tab to review the information you provided before submission of\nthe complaint\n\na.\nClick “Back”, if you want to edit the filled information, or\n\nb.\nClick “Confirm & Submit” to submit the complaint\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n10\n\nAnswer to the puzzle and press “ I Agree “ radio button to proceed.\nOn submission of the complaint, a complaint submission message will be displayed on the\nportal and complaint would be worked upon by the respective State/UT police authorities.\n\nStep 5: Generate PDF of reported complaint\n\nOnce you click on the “Download PDF” option, details of the complaint reported gets\ndownloaded in PDF format, which could be used for further reference. Following are the\nsample of downloaded complaint.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n11\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n12",
+    "element_ids": [
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105",
+      "e106",
+      "e107",
+      "e108",
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117"
+    ],
+    "pages": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ],
+    "structure_path": [
+      "3. How to report Anonymous CP/RGR Complaint"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e56",
+      "semantic_root_role": "",
+      "element_count": 62,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105",
+        "e106",
+        "e107",
+        "e108",
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117"
+      ],
+      "page_start": 6,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "3. How to report Anonymous CP/RGR Complaint"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "4. How to Report and Track a CP/RGR Complaint\nType the URL https://www.cybercrime.gov.in in the Web browser\nStep 1: Navigate to Report & Track section\nSelect “Report & Track” option under Report Crime Related to Women/Child” if you want to report\nan online Child Pornography (CP) -Child Sexual Abuse Material (CSAM), Rape/Gang Rape (RGR) -\nSexually Abusive Content and Sexually Explicit Content.Following are the steps to report a\ncomplaint:\nI.\nClick on “File a complaint”\n\nII.\nRead the message carefully in the window and check on the “I Accept” checkbox.\n\nIII.\nUnder Report Cyber Crime Related to Women/Child, Click on “Report And Track”. Also\naccessed from “HOME” page :\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n13\n\nStep 2: Login for reporting a complaint\n\nYou will need to register yourself using your mobile number. You will receive a One Time\nPassword (OTP) that will be used to verify your phone number. The OTP is valid for 30\nminutes. Once you successfully register your mobile number on the portal, you will be able to\nreport the compliant.\nYou required fill the following details (mandatory) to login into the portal to report your\ncomplaint.\n\ni.\nEnter your name in User Name field\nii.\nEnter your Mobile Number\niii.\nClick on Get OTP\niv.\nEnter the OTP (received on mobile number)\nv.\nEnter the security answer for authentication in the field provided\nvi.\nClick on Submit button\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n14\n\nStep 3: Provide Incident Details\n\n3.1\nTo report a CP/RGR report & track complaint, you may keep following\ninformation ready before registering your complaint:\n\ni.\nIf you have received CP/RGR related content on SMS:\n\na. Take the screenshot/s of the SMS (depicting the objectionable content) and\n\nsender details (name, ID) same need to be updated in the portal as evidence\nb. Note the date and time when you have received the SMS and same need to be\n\nupdated in the Incident description field while you report your complaint on the\nportal\nii.\nIf you have received an email related to CP/RGR related content:\n\na.\nSave the received e-mails in pdf or .eml format or take the screenshot/s of the\nreceived e-mail and the same needs to be uploaded in the portal as evidence\nb.\nIf the received e-mails had an attachment/s, then keep the attachment/s ready\non your desktop/ device for updating the same as an evidence on the portal\niii.\nIf you received or found CP/RGR related content on messaging platform such as\nWhatsApp, Hike, Skype etc:\n\na.\nTake the screenshot/s of the chats depicting the objectionable content with\nsender’s number along with date and time for uploading the same as evidence\non the portal\niv.\nIf\nyou\nreceived\nor\nfound\nCP/RGR\nrelated\ncontents\non\nsocial\nmedia\nplatform/forums/blogs/website such as YouTube, Facebook, WordPress etc.\n\na.\nNote down/ Copy (to your device/ desktop) the URL where you have seen such\ncontent\nb.\nTake the screen shot of the page or save the page (as .pdf) showing abusive\ncontent on your device/ desktop for uploading the same as an evidence on the\nportal\nNote1: In all above cases, you must preserve the original evidence i.e. do not delete SMSs,\nemails, attachment, messenger Chats, website URLS, screenshots etc. as these could be\nneeded by law enforcement agency as evidence for prosecuting the offender.\nNote2: For further details on above points you may refer to Annexure A, Help\n3.2\nComplaint reporting\nProvide the details as required for complaint reporting under “Incident Details”.\n\nI.\nSelect the “Category of complaint” (Mandatory) from the drop-down (three options are\n\navailabe in drop-down – 1. Child Pornography (CP) - Child Sexual Abuse Material\n\n(CSAM), 2. Rape/ Gang Rape (RGR) – Sexually Abusive Content, and 3. Sexually\n\nExplicit Content)\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n15\n\nII.\nSelect “Approximate Date and Time of incident/receiving/viewing of content”\n\n(Mandatory field)\n\nIII.\nSelect the “Where did the incident occur?” (Mandatory field)- Select from the dropdown\n\nthe source of evidence like social media platform (Facebook, twitter, Instagram etc.),\n\nmessaging platform (WhatsApp, hike etc.), e-mail, website, URL or other\n\n(Note: For help on uploading evidence refer to Annexure A Help)\n\nIV.\nUpload evidence if any (Maximum allowable limit is 5 MB). (Mandatory field)\n\nV.\nProvide any additional information about the incident (which you think can be included\n\nin the complaint and could help in investigation). (Mandatory field)\n\nVI.\nClick on Save and Next to proceed\n\nStep 4: Provide Suspect Details\n\nShare the suspect details if suspect is known\na.\nEnter “Suspect Details” to help in investigation\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n16\n\ni. Enter “Suspect Name”\nii. Select ID – Provide suspect’s ID e.g. (Driving License, Email, Gov. Issued Card, Mobile\n\nNumber, PAN Card, Voter Card and Other) then click Add and subsequently add the\nselected details\n\nb. You may share the suspect’s address for correspondence if known (Click on Yes and fill\n\nthe below details)\n\ni. Type house no., street name, colony, village/town/city, tehsil details\nii. Select “Country”\niii. Select “State”\niv. Select “District”\n\nv. Select “Police Station”\nvi. Enter “Pin code” number\nvii. Click Save & Next\n\nStep 5: Provide Complainant Details\n\nClick on “Complainant Details” tab to provide the details of complainants\na.\nFill the complainant details\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n17\n\ni. Enter the “Gender”, “DOB” , “Father/Mother/Spouse Name-(Mandatory field)”\n\ndetails\nii. Select “Relationship with the victim”\n\niii. Provide your email id if any, for further communication during the investigation\niv. “Upload victim National ID (voter ID/ PAN card/ Driving License or any Govt. issued\n\ncard)” - (Mandatory field)\n\nb. Provide the complainant’s address for correspondence\n\ni. Type House no., Street Name, Colony, Tehsil details\nii. Type Village/Town/City\niii. Select “Country” (By default India)\niv. Select “State” – (Mandatory field)\n\nv. Select “District” - (Mandatory field)\nvi. Select “Police Station”\nvii. Enter “Pin-code” number\nviii. Click Save & Preview\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n18\n\nStep 6: Preview & Submit\n\nClick on “Preview &Submit” tab to review the information you provided before submission of\nthe complaint\n\na. Click “Back”, if you want to edit the filled information, or\n\nb. Click “Confirm & Submit” to submit the complaint\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n19\n\nOn submission of the complaint, a complaint submission confirmation message with\n‘Complaint ID’ will be displayed on the portal along with the pop-up.\n\nYou will also receive a message and e-mail on the registered mobile number and e-mail ID\nonce the complaint is successfully submitted in the portal.\n\nStep 7: Generate PDF of reported complaint\n\nIf you want to download the complaint, click on the “Download PDF” option, details of the\ncomplaint reported gets downloaded in PDF format, which could be used for further reference.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n20\n\nStep 8: Track Complaint Status\n\nIn case you want to Track the status of your complaint. Go to homepage, Click on File a\nComplaint Read and Accept the Acknowledgement Select Report & Track Login\nwith registered user name & number\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n21\n\na.\nYou need to fill the following details (Mandatory) to login into the system\ni.\nProvide User Name – which is given during reporting the complaint\nii.\nType Mobile Number\niii.\nEnter OTP (received on mobile number)\niv.\nType security answer for authentication\nv.\nClick Submit button\n\nb.\nClick on “Check Status” option and select date to search for your registered complaint.\nAlso, progress of the reported complaint would be notified to the registered mobile number\nand email",
+    "element_ids": [
+      "e118",
+      "e119",
+      "e120",
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186",
+      "e187",
+      "e188",
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193"
+    ],
+    "pages": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22
+    ],
+    "structure_path": [
+      "4. How to Report and Track a CP/RGR Complaint"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e118",
+      "semantic_root_role": "",
+      "element_count": 76,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 22,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e118",
+        "e119",
+        "e120",
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186",
+        "e187",
+        "e188",
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193"
+      ],
+      "page_start": 13,
+      "page_end": 22,
+      "section_numbers": [],
+      "structure_path": [
+        "4. How to Report and Track a CP/RGR Complaint"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "5. Additional Features\n\n5.1 Recover Your Username\n\nIf You forgot your username, follow the following steps\n\ni.\nClick on “Forget User name”\nii. Type security answer for authentication\niii. Click Submit button\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n22\n\n5.2 Update Mobile Number\n\nFollowing are the steps for updating your mobile number\n\nI.\nIn case, you want to update your registered mobile number, click on “Update Mobile\nNumber” after logging\nII.\nEnter your new mobile number in “New Mobile Number” field\nIII.\nEnter the OTP received in updated mobile number.\nIV.\nType security answer for authentication\nV.\nClick Submit button\nAll the cases registered on the old mobile number will be mapped to new mobile number.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n23\n\nAnnexure A : Help",
+    "element_ids": [
+      "e194",
+      "e195",
+      "e196",
+      "e197",
+      "e198",
+      "e199",
+      "e200",
+      "e201",
+      "e202",
+      "e203",
+      "e204",
+      "e205"
+    ],
+    "pages": [
+      22,
+      23,
+      24
+    ],
+    "structure_path": [
+      "5. Additional Features"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e194",
+      "semantic_root_role": "",
+      "element_count": 12,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 22,
+      "page_end": 24,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e194",
+        "e195",
+        "e196",
+        "e197",
+        "e198",
+        "e199",
+        "e200",
+        "e201",
+        "e202",
+        "e203",
+        "e204",
+        "e205"
+      ],
+      "page_start": 22,
+      "page_end": 24,
+      "section_numbers": [],
+      "structure_path": [
+        "5. Additional Features"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "1. How to take a screenshot on Smartphone device\n1.1\nAndroid screenshot\nFollowing are the steps to take screenshot from your android smartphone:\n\nI.\nNavigate to the screen you want to take a picture of.\nII.\nHold the Power button down for a few seconds.\nIII.\nPress “Screenshot” on your phone screen.\nIV.\nIf that doesn’t work, hold the Power and Volume buttons at the same time for a few\nseconds.\nV.\nIf you see an animation of your screen shrinking, your phone has taken a picture of\nyour screen and saved it in your photos app.\nVI.\nYou can find the image in the Screenshots folder under Gallery app.\nVII.\nAttach the screenshot as evidence on attachment.\n\nScreenshot: Android phone\n1.2\niPhone screenshot\nFollowing are the steps to take screenshot from your iPhone:\n\nI.\nOpen the app or screen you want to capture.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n24\n\nII.\nSet up everything exactly the way you want it for the shot.\nIII.\nPress and hold the Side button on the right side of iPhone X, iPhone XS, iPhone XS\nMax, or iPhone XZR.\nIV.\nClick the Volume Up button at the exact same time. (This replaces the Home button\nstep from previous iPhones.)\nV.\nThe screen will flash white and you will hear the camera shutter sound (if your sound\nis enabled).\n\nScreenshot: Iphone\n2.\nHow to view and copy Facebook URL/Link:\n2.1\nFrom desktop or laptop View\nI.\nClick on the image/video/post whose URL you want to view.\nII.\nThe full URL will be seen on the address bar\nIII.\nCopy the Facebook Profile URL/Page/Post in the address bar of your browser into a\nfile or document. (Ex: Facebook Profile URL facebook.com/profile.php?id=123456)\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n25\n\nScreenshot: Facebook Profile URL\n2.2\nFrom mobile view\nI.\nOpen Facebook on your mobile device, navigate to the profile page, and click More.\nII.\nSelect “Copy Link to Profile”\n\nScreenshot: How to Copy Facebook User Profile from mobile\n\nIII.\nClick on “Copy the link”.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n26\n\nScreenshot: Facebook Copy Link\nIV.\nTo see the URL, you have to paste it on notepad or any text editor",
+    "element_ids": [
+      "e206",
+      "e207",
+      "e208",
+      "e209",
+      "e210",
+      "e211",
+      "e212",
+      "e213",
+      "e214",
+      "e215",
+      "e216",
+      "e217",
+      "e218",
+      "e219",
+      "e220",
+      "e221"
+    ],
+    "pages": [
+      24,
+      25,
+      26,
+      27
+    ],
+    "structure_path": [
+      "1. How to take a screenshot on Smartphone device"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e206",
+      "semantic_root_role": "",
+      "element_count": 16,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 24,
+      "page_end": 27,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e206",
+        "e207",
+        "e208",
+        "e209",
+        "e210",
+        "e211",
+        "e212",
+        "e213",
+        "e214",
+        "e215",
+        "e216",
+        "e217",
+        "e218",
+        "e219",
+        "e220",
+        "e221"
+      ],
+      "page_start": 24,
+      "page_end": 27,
+      "section_numbers": [],
+      "structure_path": [
+        "1. How to take a screenshot on Smartphone device"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "3. How to view and copy YouTube URL/Link:\n3.1\nFrom desktop or laptop view\nI.\nClick on the video whose URL you want to view.\nII.\nThe full URL will be seen on the address bar\nIII.\nCopy the YouTube URL in the address bar of your browser into a file or document\nEx: YouTube URL (youtube.com/watch?v=-qACQjC5J0w)\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n27\n\nScreenshot: How to copy YouTube URL\n3.2\nFrom mobile view\nI.\nOpen the YouTube app on mobile\nII.\nLook or search for the video you want to copy\nIII.\nFind the tripe vertical dots on the top right corner of the video thumbnail or details\nIV.\nTap on it and select “Share”\n\nV.\nYou will see a new Share window, select “Copy link”\nVI.\nSimply paste the link it on notepad or any text editor",
+    "element_ids": [
+      "e222",
+      "e223",
+      "e224",
+      "e225",
+      "e226"
+    ],
+    "pages": [
+      27,
+      28
+    ],
+    "structure_path": [
+      "3. How to view and copy YouTube URL/Link:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e222",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 27,
+      "page_end": 28,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226"
+      ],
+      "page_start": 27,
+      "page_end": 28,
+      "section_numbers": [],
+      "structure_path": [
+        "3. How to view and copy YouTube URL/Link:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "4. How to copy Twitter Post URL\n\nI. Navigate to the Tweet you’d like the URL of.\nII. Tap the drop-down arrow\nIII. Select Copy link to Tweet. The URL should now be copied to your clipboard.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n28\n\nScreenshot: Copy twitter tweet link\n\nIV.\nTo take a screenshot of twitter message, navigate to the inbox chat message and take\nscreenshot. It will also capture the twitter user ID (@TwitterID).\n\nTwitter Message Snapshot\n5. How to copy Instagram User profile URL\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n29\n\nIn the Instagram app, find the photo or video you want to copy the URL. When you\nhave found it, tap on the” …” icon above it. This will bring up several options. Select Copy\nProfile URL Link\n\nScreenshot: Instagram Profile URL\nAs well, navigate to the Instagram message inbox and take a screenshot of the chat\n\nScreenshot: Instagram Chat/User Profile",
+    "element_ids": [
+      "e227",
+      "e228",
+      "e229",
+      "e230",
+      "e231",
+      "e232",
+      "e233",
+      "e234",
+      "e235",
+      "e236",
+      "e237",
+      "e238"
+    ],
+    "pages": [
+      28,
+      29,
+      30
+    ],
+    "structure_path": [
+      "4. How to copy Twitter Post URL"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e227",
+      "semantic_root_role": "",
+      "element_count": 12,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 28,
+      "page_end": 30,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e227",
+        "e228",
+        "e229",
+        "e230",
+        "e231",
+        "e232",
+        "e233",
+        "e234",
+        "e235",
+        "e236",
+        "e237",
+        "e238"
+      ],
+      "page_start": 28,
+      "page_end": 30,
+      "section_numbers": [],
+      "structure_path": [
+        "4. How to copy Twitter Post URL"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "6. How to export WhatsApp chat\nFollowing are the steps for WhatsApp Application chat\n6.1\nWhatsApp chat screenshot\nI.\nNavigate to the chat screen for the individual or group you want to take a picture of.\n(Provide the name and number of the sender/group)\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n30\n\nII.\nYou can find the image in the Screenshots folder under Gallery app.\n\nWhatsApp IM Chat screenshot\n6.2\nExport Chat from Android\nTo export a copy of the history of an individual chat or group, use the Export chat feature:\n\nI.\nNavigate to the chat screen for the individual or group you want to take a picture of.\n\nII.\nTap More options\n.\nIII.\nTap More.\nIV.\nTap Export chat.\n\nScreenshot: Export WhatsApp Chat\nChoose whether to Include Media or not.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n31\n\nScreenshot: Export WhatsApp chat on Mail\n\nAn email will be composed with your chat history attached as a .txt document.\nNote:\n\n\nIf you choose to attach media, the most recent media sent will be added as attachments.\n\nWhen sending with media, you can send up to 10,000 latest messages. Without media,\nyou can send 40,000 messages. These constraints are due to maximum email sizes.\n6.3\nExport chat from iPhone\nYou can email yourself a chat history if you'd like to save a chat:\n\nI.\nOpen the WhatsApp chat you want to email.\nII.\nTap the contact's name or group subject.\nIII.\nTap Export Chat.\nIV.\nSelect “Include Media” if you want to attach media or email the chat without media.\nV.\nTap the Mail app. You can also tap More for additional options.\nVI.\nEnter your email address and tap Send.",
+    "element_ids": [
+      "e239",
+      "e240",
+      "e241",
+      "e242",
+      "e243",
+      "e244",
+      "e245",
+      "e246",
+      "e247",
+      "e248",
+      "e249",
+      "e250",
+      "e251",
+      "e252"
+    ],
+    "pages": [
+      30,
+      31,
+      32
+    ],
+    "structure_path": [
+      "6. How to export WhatsApp chat"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e239",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 30,
+      "page_end": 32,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e239",
+        "e240",
+        "e241",
+        "e242",
+        "e243",
+        "e244",
+        "e245",
+        "e246",
+        "e247",
+        "e248",
+        "e249",
+        "e250",
+        "e251",
+        "e252"
+      ],
+      "page_start": 30,
+      "page_end": 32,
+      "section_numbers": [],
+      "structure_path": [
+        "6. How to export WhatsApp chat"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "7. How to copy Tik Tok video URL\nTik Tok app is a social media platform for creating, sharing and discovering short music videos,\nthink Karaoke for the digital age. Following are the steps to copy Tik Tok profile or social media\npost using a smartphone\n\nI.\nOpen Tik Tok on your phone; Open the video and take a screenshot as well copy of\nthe suspect Tik Tok user ID. Ex.@suspectuser\n\nScreenshot: TikTok UserID\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n32\n\nII.\nYou can copy the video link by clicking on share link option, after that it will open new\nwindows via any email, messaging, or social media app in the list. This opens a new\nmessage or post in the selected app.\n\nScreenshot: Copy Link of Tiktok Video\n\nIII.\nClick on the Copy link and paste it on any file or document.\n\nScreenshot: Example of TikTok Video URL",
+    "element_ids": [
+      "e253",
+      "e254",
+      "e255",
+      "e256",
+      "e257",
+      "e258",
+      "e259",
+      "e260",
+      "e261"
+    ],
+    "pages": [
+      32,
+      33
+    ],
+    "structure_path": [
+      "7. How to copy Tik Tok video URL"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e253",
+      "semantic_root_role": "",
+      "element_count": 9,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 32,
+      "page_end": 33,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e253",
+        "e254",
+        "e255",
+        "e256",
+        "e257",
+        "e258",
+        "e259",
+        "e260",
+        "e261"
+      ],
+      "page_start": 32,
+      "page_end": 33,
+      "section_numbers": [],
+      "structure_path": [
+        "7. How to copy Tik Tok video URL"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "8. How to export and copy E-mail Header\nFollowing are the steps for how to copy and save email headers:\n8.1\nGmail email header\nI.\nTo get an email header from Gmail, open the email within your web browser.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n33\n\nClick on drop-down arrow and see the senders & reply-to email\n\nClick the drop-down arrow (more) next to the reply button and choose \"Show Original\".\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n34\n\nOnce the new page opens then click on “Copy to Clipboard” then paste the copied\ncontent in notepad or any text editor.\nOtherwise you can download the email by clicking on “Download Original”, all email content\nincluding header will get download as .eml format. Attach this (.eml) downloaded file as\nevidence.\n\nDownload Email in (.eml) format\n\n8.2\nNIC mail Header\nFollowing are the steps to copy email header of NIC mails\n\nI.\nOpen the NIC email within your web browser.\nII.\nRight click on mail and navigate to OtherDisplay Full Headers\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n35\n\nIII.\nAfter clicking on Display Full Headers, a pop-up window will appear. Then scroll down\nand copy all email headers; paste on notepad or any document.\n\n8.3\nProtonmail email Header\nFollowing are the steps to export Protonmail email headers in (.eml) format\n\nI.\nOpen the email within your web browser.\nII.\nClick on drop-down arrow and see the senders & reply-to email\nIII.\nClick the drop-down arrow (more) next to the reply button and choose \"Export\".\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n36\n\nAfter click on “Export”, email header data will download as .eml format then send as\nattachment.\n\nFor Yahoo Mail Header following are the steps:\n\nI.\nLog in to Yahoo! Mail.\nII.\nOpen the message for which you wish to view the headers.\nIII.\nClick the More (gear) icon above the message pane.\nIV.\nIn the menu, select View Raw Message. A new tab opens containing your message’s\nheaders, which you can now copy and paste.\nFor Outlook Mail Header following are the steps:\n\nI.\nLogin into your account\nII.\nSelect Inbox from the left-side menu\nIII.\nOpen the message you want to see the header and click file tab\nIV.\nThe full headers will appear in a new window.\nFor other mail refer to https://mxtoolbox.com/public/content/emailheaders/\n8.4\nHow to save email in PDF\n8.4.1 To save Gmail email in pdf\nI.\nTo save a Gmail email in PDF format, open the email within your web browser.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n37\n\nII.\nClick the drop-down arrow (more) next to the reply button and choose \"Print\".\nOr Click the printer icon. It’s near the top-right corner of the message.\nIII.\nClick “Print”. The Gmail Print screen will appear.\n\nIV.\nClick Change. It’s beneath the printer in the left column of the print screen. Click Save\nas “PDF”\n\nScreenshot: Save as PDF\nV.\nClick Save. The email message will now download to your computer as a PDF file.\n\nScreenshot: Click on save\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n38\n\nScreenshot: Save Email As PDF\n8.4.2 Using the Mail App on a Mac\n\nI.\nOpen the Mail app. It’s the icon of a stamp with an eagle inside. You’ll usually find it\non the Dock and on the Launchpad.\n\nScreenshot: Open Mail App\n\nII.\nClick the message you want to download as a PDF.\nIII.\nClick the File menu. It’s in the menu bar near the top-left corner of the screen.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n39\n\nScreenshot: Export mail as PDF\nIV.\nClick Export as PDF.Select a saving location.\nV.\nClick Save. The PDF is now saved to the selected folder.\n\nScreenshot: Save Mail in PDF",
+    "element_ids": [
+      "e262",
+      "e263",
+      "e264",
+      "e265",
+      "e266",
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271",
+      "e272",
+      "e273",
+      "e274",
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280",
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288",
+      "e289",
+      "e290",
+      "e291",
+      "e292",
+      "e293",
+      "e294",
+      "e295",
+      "e296",
+      "e297",
+      "e298",
+      "e299"
+    ],
+    "pages": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "structure_path": [
+      "8. How to export and copy E-mail Header"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e262",
+      "semantic_root_role": "",
+      "element_count": 38,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 33,
+      "page_end": 40,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e262",
+        "e263",
+        "e264",
+        "e265",
+        "e266",
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271",
+        "e272",
+        "e273",
+        "e274",
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280",
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288",
+        "e289",
+        "e290",
+        "e291",
+        "e292",
+        "e293",
+        "e294",
+        "e295",
+        "e296",
+        "e297",
+        "e298",
+        "e299"
+      ],
+      "page_start": 33,
+      "page_end": 40,
+      "section_numbers": [],
+      "structure_path": [
+        "8. How to export and copy E-mail Header"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "9. How to upload any evidence on the portal\nNavigate to Supporting option under Incident Details, click on “Choose File”.\n\nUSER MANUAL FOR NATIONAL CYBERCRIME REPORTING PORTAL\n\n40\n\nScreenshot: Upload evidence\n\nNote:Select the evidence for the attachment. This upload feature accepts .txt .png .jpeg. jfif\n.rtf .jpg .dib .gif .doc .ppt .docx .pptx .pdf. epub .bmp .avi .wmv .3gp .mp4 .mkv .mov .flv .mpg.\nwebm file types and the maximum file size of 5 mb.\n\nAfter selecting the evidence then click on Add button.",
+    "element_ids": [
+      "e300",
+      "e301",
+      "e302",
+      "e303",
+      "e304",
+      "e305"
+    ],
+    "pages": [
+      40,
+      41
+    ],
+    "structure_path": [
+      "9. How to upload any evidence on the portal"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e300",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 40,
+      "page_end": 41,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e300",
+        "e301",
+        "e302",
+        "e303",
+        "e304",
+        "e305"
+      ],
+      "page_start": 40,
+      "page_end": 41,
+      "section_numbers": [],
+      "structure_path": [
+        "9. How to upload any evidence on the portal"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

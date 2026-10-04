@@ -1,0 +1,3680 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "Maharashtra Police - Services for Citizen",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Maharashtra Police - Services for Citizen"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Maharashtra Police - Services for Citizen"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "Crime and Criminal Tracking Network and Systems (CCTNS)",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Crime and Criminal Tracking Network and Systems (CCTNS)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Crime and Criminal Tracking Network and Systems (CCTNS)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "FAQ's",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ's"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ's"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "F.I.R.,N.C. and Complaint",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "F.I.R.,N.C. and Complaint"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "F.I.R.,N.C. and Complaint"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "Arms License",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Arms License"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Arms License"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "Arrest and Bail",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Arrest and Bail"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Arrest and Bail"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "Passport",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Passport"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Passport"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "Various other Licenses",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Various other Licenses"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Various other Licenses"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "Event and Performance",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Event and Performance"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Event and Performance"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "Domestic Help Verification",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Domestic Help Verification"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Domestic Help Verification"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "Senior Citizen's Safety",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Senior Citizen's Safety"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Senior Citizen's Safety"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "Women and Childrens Safety",
+    "element_ids": [
+      "e12"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Women and Childrens Safety"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e12"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Women and Childrens Safety"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "F.I.R./ N.C./COMPLAINT",
+    "element_ids": [
+      "e13"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "F.I.R./ N.C./COMPLAINT"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e13",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e13"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "F.I.R./ N.C./COMPLAINT"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "1.What is an F.I.R?",
+    "element_ids": [
+      "e14"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1.What is an F.I.R?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e14"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1.What is an F.I.R?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "As per section 154 of Cr.P.C.1973, F.I.R. means First Information Report, made to police, about commission of a cognizable offence & the complaint registered by police.",
+    "element_ids": [
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "As per section 154 of Cr.P.C.1973, F.I.R. means First Information Report, made to police, about comm..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "As per section 154 of Cr.P.C.1973, F.I.R. means First Information Report, made to police, about comm..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "2.How do I lodge F.I.R.?",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2.How do I lodge F.I.R.?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2.How do I lodge F.I.R.?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "The informant/ complainant should go to the police station having jurisdiction over the area (where the offence is committed) and report to officer in-charge/ station house officer about commission of a cognizable offence. In case information is given on telephone, the informant / complainant should subsequently go to the police station for registration of F.I.R.",
+    "element_ids": [
+      "e17"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "The informant/ complainant should go to the police station having jurisdiction over the area (where ..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e17"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "The informant/ complainant should go to the police station having jurisdiction over the area (where ..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "3.What is a Non cognizable offence ?",
+    "element_ids": [
+      "e18"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3.What is a Non cognizable offence ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e18",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e18"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3.What is a Non cognizable offence ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "As per section 155 of Cr.P.C.1973, Non cognizable offence means a complaint registered by police which police officer cannot investigate unless he obtains prior permission of a Magistrate having power to try such case.",
+    "element_ids": [
+      "e19"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "As per section 155 of Cr.P.C.1973, Non cognizable offence means a complaint registered by police whi..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e19",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e19"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "As per section 155 of Cr.P.C.1973, Non cognizable offence means a complaint registered by police whi..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "4.How do I lodge a NC complaint ?",
+    "element_ids": [
+      "e20"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4.How do I lodge a NC complaint ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e20",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e20"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4.How do I lodge a NC complaint ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "Information about such offences is to be given in a similar manner as explained under F.I.R.. The officer in-charge would reduce the complaint in writing (about commission of Non cognizable offence ) and give a copy thereof to the complainant free of cost.",
+    "element_ids": [
+      "e21"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Information about such offences is to be given in a similar manner as explained under F.I.R.. The of..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e21",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e21"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Information about such offences is to be given in a similar manner as explained under F.I.R.. The of..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "5.What is meant by public place ?",
+    "element_ids": [
+      "e22"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5.What is meant by public place ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e22",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e22"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5.What is meant by public place ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "Public place includes (and means) the foreshore, the precincts of every public building or monument, and all place accessible to the public for drawing water, washing or bathing or for the purpose of recreation. { B.P.Act 1951, sec 2(13) }.",
+    "element_ids": [
+      "e23"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Public place includes (and means) the foreshore, the precincts of every public building or monument,..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e23",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e23"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Public place includes (and means) the foreshore, the precincts of every public building or monument,..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "Arms Licenses",
+    "element_ids": [
+      "e24"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Arms Licenses"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e24",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e24"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Arms Licenses"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "1.How does one procure a new Arms License?",
+    "element_ids": [
+      "e25"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1.How does one procure a new Arms License?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e25",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e25"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1.How does one procure a new Arms License?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "By submitting an application in form 'A'.",
+    "element_ids": [
+      "e26"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "By submitting an application in form 'A'."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e26"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "By submitting an application in form 'A'."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "2.How much time it takes to get a new Arms License?",
+    "element_ids": [
+      "e27"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2.How much time it takes to get a new Arms License?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e27",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e27"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2.How much time it takes to get a new Arms License?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "Minimum 2 months after the application is submitted (provided all the documents are in order).",
+    "element_ids": [
+      "e28"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Minimum 2 months after the application is submitted (provided all the documents are in order)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e28"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Minimum 2 months after the application is submitted (provided all the documents are in order)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "3.What is the procedure to procure a New Arms License?",
+    "element_ids": [
+      "e29"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3.What is the procedure to procure a New Arms License?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e29",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e29"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3.What is the procedure to procure a New Arms License?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "The application form is available in the District Police office or can be downloaded from this site. Submit it with relevant documents to the concerned Police station. The Police station makes an enquiry and submits the report to the Zonal DCP in Commission rates and SPs in districts. The applicants are then interviewed by the DCP or DM (as the case may be). Once convinced, the licensing authority (CP or DM) issues the license.",
+    "element_ids": [
+      "e30"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "The application form is available in the District Police office or can be downloaded from this site...."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e30"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "The application form is available in the District Police office or can be downloaded from this site...."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "Which documents are needed for obtaining a new Arms License?",
+    "element_ids": [
+      "e31"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Which documents are needed for obtaining a new Arms License?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e31",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e31"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Which documents are needed for obtaining a new Arms License?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "1. Copy of Ration card 2. Election card 3. Last 3 year's I.T. Returns /chalan copy/assessment orders4. Two character certificates from the responsible citizens from your locality5. Physical fitness certificate6. Proof of Educational Qualifications (self-attested copies of certificates. Original should not be submitted along with application). 7. Proof of age (Birth Certificate/school leaving certificate)8. supporting documents to justify the need for holding the arm for security or for sports etc.\n\n5.How an Arms license is renewed?\n\nLicensee should fill-in the renewal form and affix Rs. 5/- Court fees stamp thereupon. The licensee should produce his weapon and license for inspection at the time of renewal and pay the renewal fees. Renewal will be done immediately and the necessary noting about renewal will be made in the license.\n\n6.My license has expired three months back. What should I do?\n\nFill up the renewal from, produce the weapon for inspection along with the license. You have to pay late fee and thereafter, the license will be renewed on satisfaction of the issuing authority about the delay.\n\n7.My license has expired more than a year back, what should I do?\n\nProduce the weapon for inspection before the licensing authority along with the renewal form. Submit your explanation for the delay preferably with the documentary support for the same. You will be issued with a Show Cause Notice. Submit your reply within 15 days. The issue will be decided by the licensing authority on merits of the case, and the decision will be communicated to you by letter, through the concerned Police station.\n\n8.License holder was out of station and hence could not renew the license in time. What is the remedy?",
+    "element_ids": [
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. Copy of Ration card 2. Election card 3. Last 3 year's I.T. Returns /chalan copy/assessment orders..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e32",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Copy of Ration card 2. Election card 3. Last 3 year's I.T. Returns /chalan copy/assessment orders..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "1. Deposit the weapon at the nearest Police station\n2. Obtain receipt for the same\n3. Fill up the renewal form as an agent of the license holder and submit the same.\n4. When the license holder returns, direct him to the office of licensing authority for renewal of his arms license, as explained above.\n\n9.How should I obtain a T.J.P. (Temporary Journey Permit)?",
+    "element_ids": [
+      "e40",
+      "e41"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. Deposit the weapon at the nearest Police station"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e40",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e40",
+        "e41"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Deposit the weapon at the nearest Police station"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "1. Submit an application as per the format (TJP - Temporary Journey Permit) with Rs. 5/- Court Fees Stamp.\n2. Attach a copy of the license.\n3. Next day, pay a fee of Rs. 20/-. If approved, your TJP will be issued on the next day.\n4. TJP is only valid for 30 days and is subject to local restrictions imposed by the local authority\n\n10.How do I get a license for property protection (Per-Pro Basis)?\n\nLicense for property protection is granted on Per-Pro basis. The procedure is same as that of obtaining a new license.\n\n11.My father/uncle/husband/ relative were a license holder. He expired and now the license or the weapon is in my possession. What should I do?",
+    "element_ids": [
+      "e42",
+      "e43",
+      "e44",
+      "e45"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. Submit an application as per the format (TJP - Temporary Journey Permit) with Rs. 5/- Court Fees ..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e42",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e42",
+        "e43",
+        "e44",
+        "e45"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Submit an application as per the format (TJP - Temporary Journey Permit) with Rs. 5/- Court Fees ..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "1. You have to deposit the weapon and the original license (with ammunition) for safe custody at the nearest police station. A safe custody receipt will be issued to you.\n2. If you want to retain the weapon, submit your application for a new arms license in form A\n3. Attach copy of death certificate with application.\n4. The weapon can be kept in safe custody for one year. Charges for safe custody are @ Rs.50/- for per year.\n5. Procedure for issuing a new license is same as explained above.\n6. Please remember that grant of new license depends on your eligibility.\n\nArrest and Bail",
+    "element_ids": [
+      "e46",
+      "e47"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. You have to deposit the weapon and the original license (with ammunition) for safe custody at the..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e46",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e46",
+        "e47"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. You have to deposit the weapon and the original license (with ammunition) for safe custody at the..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "1. What is 'Arrest\"?\n\nAs per Ballentine's Law Dictionary 1948 Ed.P.105, arrest means the taking, seizing, or detaining of the person of another, either by touching, or putting hands on him, or by any act which indicates an intention to take him into custody, and subjects the person arrested to the actual control and will of the person making the arrest.\n\nChapter V and section 41 to 59 of Criminal Procedure Code 1973, deals with Arrest of Persons.\n\nAs per section 41 (1) Cr.P.C, any police officer may, without an order from a Magistrate and without a warrant, arrest any person,\n\n(a) who has been concerned in any cognizable offence, or a reasonable complaint has been made, or credible information has been received or a reasonable suspicion exists; or\n\n(b) who has in his possession of any implement of house breaking; or\n\n(c) who has been proclaimed as an offender or\n\n(d) in whose possession anything is found which may reasonably be suspected to be stolen property; or\n\n(e) who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody;\n\n(f) reasonably suspected of being a deserter from any of the Armed Forces.\n\nAs per section 42 of Cr.P.C., any person who, in the presence of a police officer, has committed or has been accused of committing a non-cognizable offence, refuses on demand of such officer to give his name and residence, can be arrested.\n\nAs per section 50 of Cr.P.C., person arrested without warrant has to be informed about the grounds of his arrest and about his entitlement regarding bail.\n\nAs per section 53 of Cr.P.C., when a person is arrested and if there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it shall be lawful for a registered medical practitioner, acting at the request of a police officer not below the rank of sub-inspector (and for any person acting in good faith in his aid and his direction), to make such an examination of a person arrested as is reasonably necessary, and to use such force as is reasonably necessary for that purpose.\nWhen a person of a female is to be examined under this section, the examination shall be made only by, or under the supervision of, a female registered medical practitioner.\n\nAs per section 56 of Cr.P.C., A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case or before the officer in-charge of a police station.\n\nAs per section 57 of Cr.P.C., No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed 24 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court.\n\nAs per section 151 of Cr.P.C., a person can also be arrested to prevent commission of cognizable offences.",
+    "element_ids": [
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. What is 'Arrest\"?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 16,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. What is 'Arrest\"?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00037",
+    "text": "2. What is meant by \"Bailable / Non-bailable offences\"?",
+    "element_ids": [
+      "e64"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. What is meant by \"Bailable / Non-bailable offences\"?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e64",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00037",
+      "element_ids": [
+        "e64"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. What is meant by \"Bailable / Non-bailable offences\"?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00038",
+    "text": "1. Under the Code of Criminal Procedure 1973 (first shedule), offences have been classified as ‘bailable’ and ‘non-bailable’ offences.",
+    "element_ids": [
+      "e65"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. Under the Code of Criminal Procedure 1973 (first shedule), offences have been classified as ‘bail..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e65",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00038",
+      "element_ids": [
+        "e65"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Under the Code of Criminal Procedure 1973 (first shedule), offences have been classified as ‘bail..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00039",
+    "text": "2. In the case of bailable offences, it is binding upon the investigating officer to grant bail. However, in case of a non-bailable offence, the police can not grant bail and bail can be granted by a Judicial Magistrate/Judge only.",
+    "element_ids": [
+      "e66"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. In the case of bailable offences, it is binding upon the investigating officer to grant bail. How..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e66",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00039",
+      "element_ids": [
+        "e66"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. In the case of bailable offences, it is binding upon the investigating officer to grant bail. How..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00040",
+    "text": "3. In case of bailable offences, if the accused produces proper surety, and fulfills other conditions, it is binding upon the Investigating officer to grant bail.",
+    "element_ids": [
+      "e67"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. In case of bailable offences, if the accused produces proper surety, and fulfills other condition..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e67",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00040",
+      "element_ids": [
+        "e67"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. In case of bailable offences, if the accused produces proper surety, and fulfills other condition..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00041",
+    "text": "4. In the case of a non-bailable offence, the Investigating Officer must produce the accused before the Judicial Magistrate / Judge concerned within 24 hours of his arrest. At that time, the accused has a right to apply for bail.\n\nAbout Passport",
+    "element_ids": [
+      "e68",
+      "e69"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. In the case of a non-bailable offence, the Investigating Officer must produce the accused before ..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e68",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00041",
+      "element_ids": [
+        "e68",
+        "e69"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. In the case of a non-bailable offence, the Investigating Officer must produce the accused before ..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00042",
+    "text": "1. What is a Passport?\n\n\"Passport\" is an official document, issued by competent authority on behalf of a sovereign nation state, certifying the holders identity and nationality, & authorizing the holder to travel abroad.",
+    "element_ids": [
+      "e70",
+      "e71"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. What is a Passport?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e70",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00042",
+      "element_ids": [
+        "e70",
+        "e71"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. What is a Passport?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00043",
+    "text": "2. Where is the passport application form available?\n\nPassport application forms are available at Regional Passport Offices. They are also available at http://passport.nic.in",
+    "element_ids": [
+      "e72",
+      "e73"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. Where is the passport application form available?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e72",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00043",
+      "element_ids": [
+        "e72",
+        "e73"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Where is the passport application form available?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00044",
+    "text": "3. What are the fees for issuing a passport ?\n\na. Fresh Passport ( 36 pages ) of 10 years validity- Rs. 1,000. b. Fresh Passport ( 60 pages ) of 10 years validity - Rs. 1,500. c. Fresh Passport for Minors ( Below 15 years of Age ) of 5 years validity - Rs.600\n(Cash either by Bank Draft in favor of the Passport Office or in Cash. In case of D.D. full name of the applicant and application number to be written on the reverse of the draft.)",
+    "element_ids": [
+      "e74",
+      "e75"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. What are the fees for issuing a passport ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e74",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00044",
+      "element_ids": [
+        "e74",
+        "e75"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. What are the fees for issuing a passport ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00045",
+    "text": "4. What is the procedure if the passport is lost?\n\nA complaint should be lodged in the concerned local police station and thereafter, an application for a new passport should be submitted.",
+    "element_ids": [
+      "e76",
+      "e77"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. What is the procedure if the passport is lost?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e76",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00045",
+      "element_ids": [
+        "e76",
+        "e77"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. What is the procedure if the passport is lost?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00046",
+    "text": "5. How many days are required for police verification?\n\nThe verification procedure takes about 3 weeks from the receipt of the application.",
+    "element_ids": [
+      "e78",
+      "e79"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5. How many days are required for police verification?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e78",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00046",
+      "element_ids": [
+        "e78",
+        "e79"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5. How many days are required for police verification?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00047",
+    "text": "6. What are the documents required to apply for a passport ?\n\nAttach two copies of the following documents:\n1. Applicant's Ration Card or any of the following documents. a) Telephone Bill. b) Electricity Bill. c) Bank Account Passbook. d) Election Card. e) Letter from the Society on letterhead. f) NOC from the department if applicant is a Government servant. 2. Proof of date of birth : School leaving certificate / Birth certificate. 3. Citizenship documents (If applicant is citizen of India by registration or naturalization). 4. If the applicant does not reside on the present address for the last one year, an additional set of personal particulars form for each additional place of residence is required. 5. Colour Photographs (frontal view). 6. Two photographs are required for verification at the local police station.",
+    "element_ids": [
+      "e80",
+      "e81"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "6. What are the documents required to apply for a passport ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e80",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00047",
+      "element_ids": [
+        "e80",
+        "e81"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "6. What are the documents required to apply for a passport ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00048",
+    "text": "7. What is the procedure if the applicant is minor?\n\nAttach following additional documents :- a) Affidavit by legal guardian (if parents are not legal guardians). b) Affidavit by two responsible persons who know the legal guardian as well as the minor. c) Attested photocopy of passport if any, of both parents, incorporating their present marital status.",
+    "element_ids": [
+      "e82",
+      "e83"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "7. What is the procedure if the applicant is minor?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e82",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00048",
+      "element_ids": [
+        "e82",
+        "e83"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "7. What is the procedure if the applicant is minor?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00049",
+    "text": "8. What is procedure for change of name after marriage / divorce?\n\na) A woman applying for the first time for a passport in her married name or for change of name/surname in the existing passport on account of marriage should furnish: i) A photocopy of the husband's passport (if issued to him). ii) An attested copy of the marriage certificate issued by Registrar of Marriages or an affidavit from the husband and wife along with a joint photograph. b) Divorcees applying for change of name or deletion of spouse's name in existing passport must furnish: i) Divorce deed / Order of family court. ii) Affidavit furnishing details about divorce. c) Re-married applicants applying for a change of name/spouse's name should furnish: i) Divorce/death certificate as the case may be in respect of first spouse, and ii) Documents as (a) above relating to second marriage.",
+    "element_ids": [
+      "e84",
+      "e85"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "8. What is procedure for change of name after marriage / divorce?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e84",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00049",
+      "element_ids": [
+        "e84",
+        "e85"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "8. What is procedure for change of name after marriage / divorce?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00050",
+    "text": "9. List of applicants entitled to Emigration Check Not Required stamp (E.C.N.R.)\n\na) People going abroad in managerial capacity and possessing specialized degrees in their respective fields. b) All Gazetted Government servants. c) All Income-Tax payers (including Agricultural Income-Tax Payees) in their individual capacity. I.T. assessment orders issued by Income-Tax Dept. for last three years be submitted along with application for passport. If assessment order is not issued, copies of Income Tax Return stamped by Income Tax authority can be accepted. d) All professional degree holders, such as doctors holding M.B.B.S. degree in Ayurveda or Homoeopathy, accredited Journalists, Engineers, Chartered Accountants, Cost Accountants, Lecturers, Teachers, Scientists, Advocates etc. e) Spouses and dependent children up to the age of 24 years are listed from (b) to (d). f) All persons who have been staying abroad for more than 3 years g) Seamen who are in possession of CDC or C cadets. h) All holders of Diplomatic/Official passports. i) Dependent children of parents whose passports are classified as E.C.N.R. until they attain 24 years of age. j) Persons holding permanent Immigrant Visas. k) Persons holding Graduate or higher degrees. l) Persons holding 3 years diploma equivalent to degrees. m) Nurses possessing qualifications recognized under the Indian Nursing Council Act-1947. n) All persons above the age of 60 years Note- No emigration clearance is required for visiting Bangladesh, Pakistan and all countries of Europe (Excluding C.I.S. States ), North America, Australia, Japan and\nNew Zealand. o) No emigration clearance is required for persons possessing certificate of Vocational Training from the Government/ Government recognized institutions.",
+    "element_ids": [
+      "e86",
+      "e87"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "9. List of applicants entitled to Emigration Check Not Required stamp (E.C.N.R.)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e86",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00050",
+      "element_ids": [
+        "e86",
+        "e87"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "9. List of applicants entitled to Emigration Check Not Required stamp (E.C.N.R.)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00051",
+    "text": "10. What is a VISA?\n\nVISA refers to an endorsement (writing or branding) on the passport, made by competent authority of a nation State, allowing entry to the passport holder into another country. VISA is necessary for entry into another country.\n\nAbout Various Licenses\n\nSection 33 of Bombay Police Act 1951 empowers C.P./D.M. to make rules for requlation of traffic and for preservation of order in public places. Establishments / organisers providing entertainment in the form of dramatice / mimetice / dance or similar performances are required to obtain proper license from the competent authority under the rules referred to above.",
+    "element_ids": [
+      "e88",
+      "e89",
+      "e90",
+      "e91"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "10. What is a VISA?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e88",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00051",
+      "element_ids": [
+        "e88",
+        "e89",
+        "e90",
+        "e91"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "10. What is a VISA?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00052",
+    "text": "1. What is the meaning of 'Eating House''?\n\n'Eating House' means any place to which the public are admitted, and where any kind of food or drink is supplied for consumption in the premises by any person owing or having an interest in or managing such place, and include a refreshment room, boarding-house, coffee-house or a shop where any kind of food or drink is supplied to the public for consumption in or near such shop, but does not include \"placeof public entertainment\".(Please refer section 2(5A) of B P Act 1951).",
+    "element_ids": [
+      "e92",
+      "e93"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. What is the meaning of 'Eating House''?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e92",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00052",
+      "element_ids": [
+        "e92",
+        "e93"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. What is the meaning of 'Eating House''?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00053",
+    "text": "2. What is the meaning of the term ‘place of public entertainment’?\n\nPlace of public entertainment means a lodging house, boarding and lodging house or residential hotel and includes any eating house in which any kind of liquor or intoxicating drug is supplied (such as a tavern, a wine shop, a beer shop or a spirit/ arrack/ toddy/ ganja/ bhang/ opium shop) to the public for consumption in or near such place. (Please refer section 2 (10) of Bombay Police Act, 1951).\n\nA PPEL license is required to be obtained by all such establishments from the competent authority (CP/DM) under\n\nthe rules made under section 33 of B P Act 1951. ( Pl refer Rules for Licensing and Controlling Places of Public entertainment 1953 for Greater Mumbai). There are two classes for obtaining licence for Place of public entertainment classified as class \"A\" (to sell a liquor, toddy, or any intoxicating drug) and class \"B\" (For residential Hotels and Lodging Houses)",
+    "element_ids": [
+      "e94",
+      "e95",
+      "e96",
+      "e97"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. What is the meaning of the term ‘place of public entertainment’?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e94",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00053",
+      "element_ids": [
+        "e94",
+        "e95",
+        "e96",
+        "e97"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. What is the meaning of the term ‘place of public entertainment’?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00054",
+    "text": "3. What is the meaning of the term ‘place of public Amusement'?\n\nPlace of public Amusement means any place where music, singing, dancing, or any diversion or game, or the means of carrying on the same, is provided and to which the public are admitted either on payment of money or with the intention that money may be collected from those admitted and includes a race course, circus, theatre, music hall, billiard room, bagatelle room, gymnasium, fencing school, swimming pool or dancing hall.(Please refer Rules for licensing and controlling places of public amusements (other than cinemas) and performances for public amusement, including melas and tamasha's, 1960 for Greater Mumbai).",
+    "element_ids": [
+      "e98",
+      "e99"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. What is the meaning of the term ‘place of public Amusement'?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e98",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00054",
+      "element_ids": [
+        "e98",
+        "e99"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. What is the meaning of the term ‘place of public Amusement'?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00055",
+    "text": "4. What is meant by premises and performance license?\n\nA Premises and Performance license means a license is required to be obtained for all performances which would include live music, band, orchestra, drama, circus or any other type of performance in a public place under Rules for Licensing and Controlling Places of Public Amusement (other than Cinemas) and Performances for Public Amusement including Melas and Tamashas, 1960 .The Commissioner of Police and the D.M. are empowered to grant such licenses.\n\nEvents and Performance",
+    "element_ids": [
+      "e100",
+      "e101",
+      "e102"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. What is meant by premises and performance license?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e100",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00055",
+      "element_ids": [
+        "e100",
+        "e101",
+        "e102"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. What is meant by premises and performance license?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00056",
+    "text": "1. I have arranged Satynarayan pooja / birthday party / family get together/religious ceremony at my residence. Do I require any license ?\n\n- You don't require a premises or performance license. However, if you intend to use a loudspeaker, you will have to make an application to the concerned Police station.",
+    "element_ids": [
+      "e103",
+      "e104"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. I have arranged Satynarayan pooja / birthday party / family get together/religious ceremony at my..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e103",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00056",
+      "element_ids": [
+        "e103",
+        "e104"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. I have arranged Satynarayan pooja / birthday party / family get together/religious ceremony at my..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00057",
+    "text": "2. There is a gathering in our school premises. Do we require any license ?\n\n- You require a loudspeaker license if you intend to use and for that you will have to make an application to the concerned Police station.",
+    "element_ids": [
+      "e105",
+      "e106"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. There is a gathering in our school premises. Do we require any license ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e105",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00057",
+      "element_ids": [
+        "e105",
+        "e106"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. There is a gathering in our school premises. Do we require any license ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00058",
+    "text": "3. We would like to arrange an orchestra/music concert/jazz/pop music/function like film-fair award, Miss India, Miss Mumbai contest/fun fair/exhibition with entertainment/mega show event on a big scale. Which licenses are required ?\n\n- You require following licenses 1. NOC (for erecting structure/stage) 2. Ticket selling license 3. Premises license 4. Performance license (application to be made to the Divisional Asstt.commissioner of Police/SDM) 5. Loud speaker license (application be made to the concerned Police station.)",
+    "element_ids": [
+      "e107",
+      "e108"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. We would like to arrange an orchestra/music concert/jazz/pop music/function like film-fair award,..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e107",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00058",
+      "element_ids": [
+        "e107",
+        "e108"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. We would like to arrange an orchestra/music concert/jazz/pop music/function like film-fair award,..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00059",
+    "text": "4. What is the procedure to be followed in order to obtain these licenses ?\n\n- You will have to make an application in the prescribed format, affixing court fees stamp of Rs. 5.\nPlease submit the application 15 days prior to the date of the programme along with following necessary documents. 1. NOC from the Landlord 2. NOC from the Traffic Police 3. NOC from the Fire Brigade 4. NOC from the electrical Inspector. 5. NOC from the Health Department of BMC (if eatables are being served) 6. NOC from the Collector (if there is ticket selling or charity show) 7. NOC from the Rangabhumi Parinirikshan Mandal 8. Certificate regarding fitness of the machinery (in case of amusement rides)",
+    "element_ids": [
+      "e109",
+      "e110"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. What is the procedure to be followed in order to obtain these licenses ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e109",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00059",
+      "element_ids": [
+        "e109",
+        "e110"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. What is the procedure to be followed in order to obtain these licenses ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00060",
+    "text": "5. How long will it take to obtain the above mentioned license ?\n\n- It will take 15 days. The application will be sent to the concerned Police station for enquiry.After receipt of the enquiry report from Police station through divisional ACP/SDPO and zonal DCP/SP, a decision will be taken and accordingly,the license will be issued.",
+    "element_ids": [
+      "e111",
+      "e112"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5. How long will it take to obtain the above mentioned license ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e111",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00060",
+      "element_ids": [
+        "e111",
+        "e112"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5. How long will it take to obtain the above mentioned license ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00061",
+    "text": "6. What are the required fees for the licenses ?\n\n- The fee for an NOC is Rs. 50 Ticket selling fee is Rs. 50 The premises license fee is Rs. 500 The performance license fee will be collected by the divisional ACP The loudspeaker license fee will be collected by the concerned Police station (the fees may vary depending upon the nature and period of the program)",
+    "element_ids": [
+      "e113",
+      "e114"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "6. What are the required fees for the licenses ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e113",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00061",
+      "element_ids": [
+        "e113",
+        "e114"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "6. What are the required fees for the licenses ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00062",
+    "text": "7. I have to arrange special screening of a film/premier show/charity show/private screening / cricket match in a cinema hall. What should I do ? And how long will it take ?\n\n- You have to make an application affixing court fees stamp of Rs. 5/- along with the following documents. 1. Permission from cinema hall (booking receipt) 2. NOC from the collector 3. Four working days.",
+    "element_ids": [
+      "e115",
+      "e116"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "7. I have to arrange special screening of a film/premier show/charity show/private screening / crick..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e115",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00062",
+      "element_ids": [
+        "e115",
+        "e116"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "7. I have to arrange special screening of a film/premier show/charity show/private screening / crick..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00063",
+    "text": "8. I have to arrange a drama or other such program in a drama hall. What is the requirement ?\n\n- You will have to make an application in the prescribed form affixing court fees stamp of Rs. 5 and also to submit the following documents. 1. Receipt of booking of the drama hall 2. NOC from Rangbhumi Prayog Parinirikshan Mandal\n\nDomestic Help Verification",
+    "element_ids": [
+      "e117",
+      "e118",
+      "e119"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "8. I have to arrange a drama or other such program in a drama hall. What is the requirement ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e117",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00063",
+      "element_ids": [
+        "e117",
+        "e118",
+        "e119"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "8. I have to arrange a drama or other such program in a drama hall. What is the requirement ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00064",
+    "text": "1. What is Domestic Help Verification?\n\nVerification of previous conduct and history of any person working as domestic help is required. It is necessary in order to build data and trace if required. It should not happen that a criminal in the garb of domestic help gets entry in to the house, gets shelter and commits the crime.",
+    "element_ids": [
+      "e120",
+      "e121"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. What is Domestic Help Verification?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e120",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00064",
+      "element_ids": [
+        "e120",
+        "e121"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. What is Domestic Help Verification?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00065",
+    "text": "2. What are the types of domestic help?\n\nDomestic help is required for various domestic activities like household work, Ironing, washing, colouring, child care, petty purchase, cooking, water supply etc.",
+    "element_ids": [
+      "e122",
+      "e123"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. What are the types of domestic help?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e122",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00065",
+      "element_ids": [
+        "e122",
+        "e123"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. What are the types of domestic help?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00066",
+    "text": "3. How can I get the domestic help verified?\n\nYou can go to the police station and get a form to be filled in while employing any person. After filling the form, affix a photograph & submit the same to the Police station in which jurisdiction your house is. After few days, contact police station, for verification, and confirm whether the domestic help to be employed was involved in any crime earlier.",
+    "element_ids": [
+      "e124",
+      "e125"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. How can I get the domestic help verified?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e124",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00066",
+      "element_ids": [
+        "e124",
+        "e125"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. How can I get the domestic help verified?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00067",
+    "text": "4. Why it is necessary?\n\nThe details filled in the form, can give all the details of the domestic help to be employed such as native place, previous address, employer etc. These details can help in case he/she commits any crime. Also criminals should not get employed as domestic help, and employer should have all the details of the domestic help.",
+    "element_ids": [
+      "e126",
+      "e127"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. Why it is necessary?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e126",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00067",
+      "element_ids": [
+        "e126",
+        "e127"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Why it is necessary?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00068",
+    "text": "5. What is the age limit for domestic help?\n\nAny person male or female, below 18 years of age is considered as minor. Employing any person below 14 years is offence.",
+    "element_ids": [
+      "e128",
+      "e129"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5. What is the age limit for domestic help?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e128",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00068",
+      "element_ids": [
+        "e128",
+        "e129"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5. What is the age limit for domestic help?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00069",
+    "text": "6. How to get domestic help?\n\nThere are registered agencies who provide domestic help in metropolitan cities. In other places you can get domestic help through known contacts, relatives etc. It is always advisable that you do not employ unknown domestic help, and without verification.\n\nSenior Citizen's Safety",
+    "element_ids": [
+      "e130",
+      "e131",
+      "e132"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "6. How to get domestic help?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e130",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00069",
+      "element_ids": [
+        "e130",
+        "e131",
+        "e132"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "6. How to get domestic help?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00070",
+    "text": "1. I am senior citizen and what precautions I should take in my day to day life ?\n\nYou are required to follow below mention instructions for your safety.\n\n* You should contact nearest police station having jurisdiction and register your name in the register kept for senior citizens. Also enter your name if there is any beat chowki near your residance.\n\n* Form an association of senior citizens residing in the locality. Make register mentioning names addresses and telephone no. of the members of the association. Kindly note down the Telephone numbers of police station, Police control room, Senior citizen helpline in the register and in your diary.\n\nNever discuss financial matters in front of your servant\n\nIt is always safe to deposit your valuables in safe deposit vault of any Bank\n\nTreat your servant humanly.\n\nDo not allow any of the relatives or friends of your servant to visit your house. If at all he has any frequent visitor, get his antecedents checked from police and try to keep the contact details of such persons.\n\nMake your neighbour know of you being staying alone. The Housing Society also needs to know this.\n\nUse of modern security gadgets is always advantageous. Door alarm, electronic eye bell etc. is available in market. Consult the professionals in this regard\n\nInstall a peephole in your front door and always check the identification of strangers before you let them inside your home.\n\nNever leave spare keys in open or in the conventional hiding places\n\nVerify the identity of any repairmen. Use the telephone number listed in the phone book and not the one suggested by them.\n\nInform your society about the unacquainted visitors, so that their identity could be checked at the very gate of the society\n\nA well-designed electronic alarm system attached to the office of your Housing. Society or to the watchman’s cabin would be advisable so as to send alarm signals to all simultaneously\n\nWhen you admit a workman or a salesman, do not leave him alone at any time\n\nWomen and Child Safety\n\nI am working woman. What precautionary measures should I take for my safety in course of my day-to-day.\n\nYou should take following precautionary measures in course of your day-to-day work.\n\nCompany Administration should obtain character verification certificate of cab driver/substitute driver.\n\nThere should be more than one girl while returning back to home from company after working hours and girls should be dropped first at their residence.\n\nUnknown person should not be allowed in the car or one should not travel with such unknown person.\n\nWomen after reaching the home after late night work in the company should inform the company that they have reached the home safely.\n\nAs far as possible one should travel in Govt.-recognized vehicles.\n\nAfter ringing of door bell door should not be opened until identify of concerned person is not ascertained through eye hole.\n\nWhen you are alone in the home, if somebody comes to your house, even if he is your close relative, the curtains and windows of the home should be kept open.\n\nYou should not spend more time in the party of unknown person.\n\nYou should keep required balance in the mobile and always the battery of your mobile should be in the charged state.\n\nYou should keep with you telephone No. of nearest Police Station and Women Helpline.\n\nWhile talking in the public place you should not disclose information about your family members.\n\nIf incidences of molestation, jesting-scoff etc. Occur they should be informed to the police at the very beginning so that further complications can be avoided.\n\nYou should always keep pepper spray/small spray bottle or chili powder in your purse.\n\nWhile talking on mobile should take precaution that yo9ur talk is not heard by rickshaw driver, driver or by any other person around you.\n\nDo not allow any person to take photograph on your mobile.\n\nDo not travel with ornaments.\n\nDo not give your mobile No. to many people.\n\nDo not keep on blue tooth in your mobile.\n\nInform your parents/guardians about your daily routine, especially when you are going to the party.\n\nDo not drink liquor/wines etc. in the party.\n\nMy kids are going to school. What precautionary measures should I take in view of their safety?\n\nYou should take following precautionary measures in course of your day-today work.\n\nIf you are sending the kids to the school by school bus, then somebody should accompany them up to the bus.\n\nIf kids are going to school by public transport such as bus, railway, then initially for some days until kids get habituated parent or adult person should go with them.\n\nYou should instruct the kids not to talk with any unknown person or take anything from such person.\n\nSome eatables should be kept in the bag of kids.\n\nIf kids are not returned to home at usual time, immediately contact concerned school.\n\nKids should be instructed not to board or alight from bus or train in a hurry.\n\nTelephone No. of parents or neighbor should be written in the diary of kids.\n\nOne should go to school, contact administration of school from time to time and take the information about kid’s timing of coming to school and going back from the school.\n\nParents should know about movements of other friends/girl friends of kids.\n\nIf kids are supposed to come back to home at late night from any function, parents or adult person should go to venue of such function and take the kids back to home.\n\nSiteMap\n\nPolice Units Website\n\nDisclaimers",
+    "element_ids": [
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. I am senior citizen and what precautions I should take in my day to day life ?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e133",
+      "semantic_root_role": "",
+      "element_count": 54,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00070",
+      "element_ids": [
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. I am senior citizen and what precautions I should take in my day to day life ?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00071",
+    "text": "FAQ\n\nContact Us",
+    "element_ids": [
+      "e187",
+      "e188"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e187",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00071",
+      "element_ids": [
+        "e187",
+        "e188"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00072",
+    "text": "Select Keyword Search English मराठी A- A+ A",
+    "element_ids": [
+      "e189"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Select Keyword Search English मराठी A- A+ A"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e189",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00072",
+      "element_ids": [
+        "e189"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Select Keyword Search English मराठी A- A+ A"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00073",
+    "text": "Maharashtra Police - Services for Citizen Crime and Criminal Tracking Network and Systems (CCTNS) “Empowering Police Through IT” | Maharashtra Police - Services for Citizen | Crime and Criminal Tracking Network and Systems (CCTNS) | “Empowering Police Through IT”",
+    "element_ids": [
+      "e190"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Maharashtra Police - Services for Citizen Crime and Criminal Tracking Network and Systems (CCTNS) “E..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e190",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00073",
+      "element_ids": [
+        "e190"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Maharashtra Police - Services for Citizen Crime and Criminal Tracking Network and Systems (CCTNS) “E..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00074",
+    "text": "Maharashtra Police - Services for Citizen",
+    "element_ids": [
+      "e191"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Maharashtra Police - Services for Citizen"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e191",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00074",
+      "element_ids": [
+        "e191"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Maharashtra Police - Services for Citizen"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00075",
+    "text": "Crime and Criminal Tracking Network and Systems (CCTNS)",
+    "element_ids": [
+      "e192"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Crime and Criminal Tracking Network and Systems (CCTNS)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e192",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00075",
+      "element_ids": [
+        "e192"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Crime and Criminal Tracking Network and Systems (CCTNS)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00076",
+    "text": "“Empowering Police Through IT”",
+    "element_ids": [
+      "e193"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "“Empowering Police Through IT”"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e193",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00076",
+      "element_ids": [
+        "e193"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "“Empowering Police Through IT”"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00077",
+    "text": "FAQ's F.I.R.,N.C. and Complaint Arms License Arrest and Bail Passport Various other Licenses Event and Performance Domestic Help Verification Senior Citizen's Safety Women and Childrens Safety F.I.R./ N.C./COMPLAINT 1.What is an F.I.R? As per section 154 of Cr.P.C.1973, F.I.R. means First Information Report, made to police, about commission of a cognizable offence & the complaint registered by police. 2.How do I lodge F.I.R.? The informant/ complainant should go to the police station having jurisdiction over the area (where the offence is committed) and report to officer in-charge/ station house officer about commission of a cognizable offence. In case information is given on telephone, the informant / complainant should subsequently go to the police station for registration of F.I.R. 3.What is a Non cognizable offence ? As per section 155 of Cr.P.C.1973, Non cognizable offence means a complaint registered by police which police officer cannot investigate unless he obtains prior permission of a Magistrate having power to try such case. 4.How do I lodge a NC complaint ? Information about such offences is to be given in a similar manner as explained under F.I.R.. The officer in-charge would reduce the complaint in writing (about commission of Non cognizable offence ) and give a copy thereof to the complainant free of cost. 5.What is meant by public place ? Public place includes (and means) the foreshore, the precincts of every public building or monument, and all place accessible to the public for drawing water, washing or bathing or for the purpose of recreation. { B.P.Act 1951, sec 2(13) }. Arms Licenses 1.How does one procure a new Arms License? By submitting an application in form 'A'. 2.How much time it takes to get a new Arms License? Minimum 2 months after the application is submitted (provided all the documents are in order). 3.What is the procedure to procure a New Arms License? The application form is available in the District Police office or can be downloaded from this site. Submit it with relevant documents to the concerned Police station. The Police station makes an enquiry and submits the report to the Zonal DCP in Commission rates and SPs in districts. The applicants are then interviewed by the DCP or DM (as the case may be). Once convinced, the licensing authority (CP or DM) issues the license. Which documents are needed for obtaining a new Arms License? 1. Copy of Ration card 2. Election card 3. Last 3 year's I.T. Returns /chalan copy/assessment orders4. Two character certificates from the responsible citizens from your locality5. Physical fitness certificate6. Proof of Educational Qualifications (self-attested copies of certificates. Original should not be submitted along with application). 7. Proof of age (Birth Certificate/school leaving certificate)8. supporting documents to justify the need for holding the arm for security or for sports etc. 5.How an Arms license is renewed? Licensee should fill-in the renewal form and affix Rs. 5/- Court fees stamp thereupon. The licensee should produce his weapon and license for inspection at the time of renewal and pay the renewal fees. Renewal will be done immediately and the necessary noting about renewal will be made in the license. 6.My license has expired three months back. What should I do? Fill up the renewal from, produce the weapon for inspection along with the license. You have to pay late fee and thereafter, the license will be renewed on satisfaction of the issuing authority about the delay. 7.My license has expired more than a year back, what should I do? Produce the weapon for inspection before the licensing authority along with the renewal form. Submit your explanation for the delay preferably with the documentary support for the same. You will be issued with a Show Cause Notice. Submit your reply within 15 days. The issue will be decided by the licensing authority on merits of the case, and the decision will be communicated to you by letter, through the concerned Police station. 8.License holder was out of station and hence could not renew the license in time. What is the remedy? 1. Deposit the weapon at the nearest Police station\n2. Obtain receipt for the same\n3. Fill up the renewal form as an agent of the license holder and submit the same.\n4. When the license holder returns, direct him to the office of licensing authority for renewal of his arms license, as explained above. 9.How should I obtain a T.J.P. (Temporary Journey Permit)? 1. Submit an application as per the format (TJP - Temporary Journey Permit) with Rs. 5/- Court Fees Stamp.\n2. Attach a copy of the license.\n3. Next day, pay a fee of Rs. 20/-. If approved, your TJP will be issued on the next day.\n4. TJP is only valid for 30 days and is subject to local restrictions imposed by the local authority 10.How do I get a license for property protection (Per-Pro Basis)? License for property protection is granted on Per-Pro basis. The procedure is same as that of obtaining a new license. 11.My father/uncle/husband/ relative were a license holder. He expired and now the license or the weapon is in my possession. What should I do? 1. You have to deposit the weapon and the original license (with ammunition) for safe custody at the nearest police station. A safe custody receipt will be issued to you.\n2. If you want to retain the weapon, submit your application for a new arms license in form A\n3. Attach copy of death certificate with application.\n4. The weapon can be kept in safe custody for one year. Charges for safe custody are @ Rs.50/- for per year.\n5. Procedure for issuing a new license is same as explained above.\n6. Please remember that grant of new license depends on your eligibility. Arrest and Bail 1. What is 'Arrest\"? As per Ballentine's Law Dictionary 1948 Ed.P.105, arrest means the taking, seizing, or detaining of the person of another, either by touching, or putting hands on him, or by any act which indicates an intention to take him into custody, and subjects the person arrested to the actual control and will of the person making the arrest. Chapter V and section 41 to 59 of Criminal Procedure Code 1973, deals with Arrest of Persons. As per section 41 (1) Cr.P.C, any police officer may, without an order from a Magistrate and without a warrant, arrest any person, (a) who has been concerned in any cognizable offence, or a reasonable complaint has been made, or credible information has been received or a reasonable suspicion exists; or (b) who has in his possession of any implement of house breaking; or (c) who has been proclaimed as an offender or (d) in whose possession anything is found which may reasonably be suspected to be stolen property; or (e) who obstructs a police officer while in the execution of his duty, or who has escaped, or attempts to escape, from lawful custody; (f) reasonably suspected of being a deserter from any of the Armed Forces. As per section 42 of Cr.P.C., any person who, in the presence of a police officer, has committed or has been accused of committing a non-cognizable offence, refuses on demand of such officer to give his name and residence, can be arrested. As per section 50 of Cr.P.C., person arrested without warrant has to be informed about the grounds of his arrest and about his entitlement regarding bail. As per section 53 of Cr.P.C., when a person is arrested and if there are reasonable grounds for believing that an examination of his person will afford evidence as to the commission of an offence, it shall be lawful for a registered medical practitioner, acting at the request of a police officer not below the rank of sub-inspector (and for any person acting in good faith in his aid and his direction), to make such an examination of a person arrested as is reasonably necessary, and to use such force as is reasonably necessary for that purpose.\nWhen a person of a female is to be examined under this section, the examination shall be made only by, or under the supervision of, a female registered medical practitioner. As per section 56 of Cr.P.C., A police officer making an arrest without warrant shall, without unnecessary delay and subject to the provisions herein contained as to bail, take or send the person arrested before a Magistrate having jurisdiction in the case or before the officer in-charge of a police station. As per section 57 of Cr.P.C., No police officer shall detain in custody a person arrested without warrant for a longer period than under all the circumstances of the case is reasonable, and such period shall not, in the absence of a special order of a Magistrate under section 167, exceed 24 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate's Court. As per section 151 of Cr.P.C., a person can also be arrested to prevent commission of cognizable offences. 2. What is meant by \"Bailable / Non-bailable offences\"? 1. Under the Code of Criminal Procedure 1973 (first shedule), offences have been classified as ‘bailable’ and ‘non-bailable’ offences. 2. In the case of bailable offences, it is binding upon the investigating officer to grant bail. However, in case of a non-bailable offence, the police can not grant bail and bail can be granted by a Judicial Magistrate/Judge only. 3. In case of bailable offences, if the accused produces proper surety, and fulfills other conditions, it is binding upon the Investigating officer to grant bail. 4. In the case of a non-bailable offence, the Investigating Officer must produce the accused before the Judicial Magistrate / Judge concerned within 24 hours of his arrest. At that time, the accused has a right to apply for bail. About Passport 1. What is a Passport? \"Passport\" is an official document, issued by competent authority on behalf of a sovereign nation state, certifying the holders identity and nationality, & authorizing the holder to travel abroad. 2. Where is the passport application form available? Passport application forms are available at Regional Passport Offices. They are also available at http://passport.nic.in 3. What are the fees for issuing a passport ? a. Fresh Passport ( 36 pages ) of 10 years validity- Rs. 1,000. b. Fresh Passport ( 60 pages ) of 10 years validity - Rs. 1,500. c. Fresh Passport for Minors ( Below 15 years of Age ) of 5 years validity - Rs.600\n(Cash either by Bank Draft in favor of the Passport Office or in Cash. In case of D.D. full name of the applicant and application number to be written on the reverse of the draft.) 4. What is the procedure if the passport is lost? A complaint should be lodged in the concerned local police station and thereafter, an application for a new passport should be submitted. 5. How many days are required for police verification? The verification procedure takes about 3 weeks from the receipt of the application. 6. What are the documents required to apply for a passport ? Attach two copies of the following documents:\n1. Applicant's Ration Card or any of the following documents. a) Telephone Bill. b) Electricity Bill. c) Bank Account Passbook. d) Election Card. e) Letter from the Society on letterhead. f) NOC from the department if applicant is a Government servant. 2. Proof of date of birth : School leaving certificate / Birth certificate. 3. Citizenship documents (If applicant is citizen of India by registration or naturalization). 4. If the applicant does not reside on the present address for the last one year, an additional set of personal particulars form for each additional place of residence is required. 5. Colour Photographs (frontal view). 6. Two photographs are required for verification at the local police station. 7. What is the procedure if the applicant is minor? Attach following additional documents :- a) Affidavit by legal guardian (if parents are not legal guardians). b) Affidavit by two responsible persons who know the legal guardian as well as the minor. c) Attested photocopy of passport if any, of both parents, incorporating their present marital status. 8. What is procedure for change of name after marriage / divorce? a) A woman applying for the first time for a passport in her married name or for change of name/surname in the existing passport on account of marriage should furnish: i) A photocopy of the husband's passport (if issued to him). ii) An attested copy of the marriage certificate issued by Registrar of Marriages or an affidavit from the husband and wife along with a joint photograph. b) Divorcees applying for change of name or deletion of spouse's name in existing passport must furnish: i) Divorce deed / Order of family court. ii) Affidavit furnishing details about divorce. c) Re-married applicants applying for a change of name/spouse's name should furnish: i) Divorce/death certificate as the case may be in respect of first spouse, and ii) Documents as (a) above relating to second marriage. 9. List of applicants entitled to Emigration Check Not Required stamp (E.C.N.R.) a) People going abroad in managerial capacity and possessing specialized degrees in their respective fields. b) All Gazetted Government servants. c) All Income-Tax payers (including Agricultural Income-Tax Payees) in their individual capacity. I.T. assessment orders issued by Income-Tax Dept. for last three years be submitted along with application for passport. If assessment order is not issued, copies of Income Tax Return stamped by Income Tax authority can be accepted. d) All professional degree holders, such as doctors holding M.B.B.S. degree in Ayurveda or Homoeopathy, accredited Journalists, Engineers, Chartered Accountants, Cost Accountants, Lecturers, Teachers, Scientists, Advocates etc. e) Spouses and dependent children up to the age of 24 years are listed from (b) to (d). f) All persons who have been staying abroad for more than 3 years g) Seamen who are in possession of CDC or C cadets. h) All holders of Diplomatic/Official passports. i) Dependent children of parents whose passports are classified as E.C.N.R. until they attain 24 years of age. j) Persons holding permanent Immigrant Visas. k) Persons holding Graduate or higher degrees. l) Persons holding 3 years diploma equivalent to degrees. m) Nurses possessing qualifications recognized under the Indian Nursing Council Act-1947. n) All persons above the age of 60 years Note- No emigration clearance is required for visiting Bangladesh, Pakistan and all countries of Europe (Excluding C.I.S. States ), North America, Australia, Japan and\nNew Zealand. o) No emigration clearance is required for persons possessing certificate of Vocational Training from the Government/ Government recognized institutions. 10. What is a VISA? VISA refers to an endorsement (writing or branding) on the passport, made by competent authority of a nation State, allowing entry to the passport holder into another country. VISA is necessary for entry into another country. About Various Licenses Section 33 of Bombay Police Act 1951 empowers C.P./D.M. to make rules for requlation of traffic and for preservation of order in public places. Establishments / organisers providing entertainment in the form of dramatice / mimetice / dance or similar performances are required to obtain proper license from the competent authority under the rules referred to above. 1. What is the meaning of 'Eating House''? 'Eating House' means any place to which the public are admitted, and where any kind of food or drink is supplied for consumption in the premises by any person owing or having an interest in or managing such place, and include a refreshment room, boarding-house, coffee-house or a shop where any kind of food or drink is supplied to the public for consumption in or near such shop, but does not include \"placeof public entertainment\".(Please refer section 2(5A) of B P Act 1951). 2. What is the meaning of the term ‘place of public entertainment’? Place of public entertainment means a lodging house, boarding and lodging house or residential hotel and includes any eating house in which any kind of liquor or intoxicating drug is supplied (such as a tavern, a wine shop, a beer shop or a spirit/ arrack/ toddy/ ganja/ bhang/ opium shop) to the public for consumption in or near such place. (Please refer section 2 (10) of Bombay Police Act, 1951). A PPEL license is required to be obtained by all such establishments from the competent authority (CP/DM) under the rules made under section 33 of B P Act 1951. ( Pl refer Rules for Licensing and Controlling Places of Public entertainment 1953 for Greater Mumbai). There are two classes for obtaining licence for Place of public entertainment classified as class \"A\" (to sell a liquor, toddy, or any intoxicating drug) and class \"B\" (For residential Hotels and Lodging Houses) 3. What is the meaning of the term ‘place of public Amusement'? Place of public Amusement means any place where music, singing, dancing, or any diversion or game, or the means of carrying on the same, is provided and to which the public are admitted either on payment of money or with the intention that money may be collected from those admitted and includes a race course, circus, theatre, music hall, billiard room, bagatelle room, gymnasium, fencing school, swimming pool or dancing hall.(Please refer Rules for licensing and controlling places of public amusements (other than cinemas) and performances for public amusement, including melas and tamasha's, 1960 for Greater Mumbai). 4. What is meant by premises and performance license? A Premises and Performance license means a license is required to be obtained for all performances which would include live music, band, orchestra, drama, circus or any other type of performance in a public place under Rules for Licensing and Controlling Places of Public Amusement (other than Cinemas) and Performances for Public Amusement including Melas and Tamashas, 1960 .The Commissioner of Police and the D.M. are empowered to grant such licenses. Events and Performance 1. I have arranged Satynarayan pooja / birthday party / family get together/religious ceremony at my residence. Do I require any license ? - You don't require a premises or performance license. However, if you intend to use a loudspeaker, you will have to make an application to the concerned Police station. 2. There is a gathering in our school premises. Do we require any license ? - You require a loudspeaker license if you intend to use and for that you will have to make an application to the concerned Police station. 3. We would like to arrange an orchestra/music concert/jazz/pop music/function like film-fair award, Miss India, Miss Mumbai contest/fun fair/exhibition with entertainment/mega show event on a big scale. Which licenses are required ? - You require following licenses 1. NOC (for erecting structure/stage) 2. Ticket selling license 3. Premises license 4. Performance license (application to be made to the Divisional Asstt.commissioner of Police/SDM) 5. Loud speaker license (application be made to the concerned Police station.) 4. What is the procedure to be followed in order to obtain these licenses ? - You will have to make an application in the prescribed format, affixing court fees stamp of Rs. 5.\nPlease submit the application 15 days prior to the date of the programme along with following necessary documents. 1. NOC from the Landlord 2. NOC from the Traffic Police 3. NOC from the Fire Brigade 4. NOC from the electrical Inspector. 5. NOC from the Health Department of BMC (if eatables are being served) 6. NOC from the Collector (if there is ticket selling or charity show) 7. NOC from the Rangabhumi Parinirikshan Mandal 8. Certificate regarding fitness of the machinery (in case of amusement rides) 5. How long will it take to obtain the above mentioned license ? - It will take 15 days. The application will be sent to the concerned Police station for enquiry.After receipt of the enquiry report from Police station through divisional ACP/SDPO and zonal DCP/SP, a decision will be taken and accordingly,the license will be issued. 6. What are the required fees for the licenses ? - The fee for an NOC is Rs. 50 Ticket selling fee is Rs. 50 The premises license fee is Rs. 500 The performance license fee will be collected by the divisional ACP The loudspeaker license fee will be collected by the concerned Police station (the fees may vary depending upon the nature and period of the program) 7. I have to arrange special screening of a film/premier show/charity show/private screening / cricket match in a cinema hall. What should I do ? And how long will it take ? - You have to make an application affixing court fees stamp of Rs. 5/- along with the following documents. 1. Permission from cinema hall (booking receipt) 2. NOC from the collector 3. Four working days. 8. I have to arrange a drama or other such program in a drama hall. What is the requirement ? - You will have to make an application in the prescribed form affixing court fees stamp of Rs. 5 and also to submit the following documents. 1. Receipt of booking of the drama hall 2. NOC from Rangbhumi Prayog Parinirikshan Mandal Domestic Help Verification 1. What is Domestic Help Verification? Verification of previous conduct and history of any person working as domestic help is required. It is necessary in order to build data and trace if required. It should not happen that a criminal in the garb of domestic help gets entry in to the house, gets shelter and commits the crime. 2. What are the types of domestic help? Domestic help is required for various domestic activities like household work, Ironing, washing, colouring, child care, petty purchase, cooking, water supply etc. 3. How can I get the domestic help verified? You can go to the police station and get a form to be filled in while employing any person. After filling the form, affix a photograph & submit the same to the Police station in which jurisdiction your house is. After few days, contact police station, for verification, and confirm whether the domestic help to be employed was involved in any crime earlier. 4. Why it is necessary? The details filled in the form, can give all the details of the domestic help to be employed such as native place, previous address, employer etc. These details can help in case he/she commits any crime. Also criminals should not get employed as domestic help, and employer should have all the details of the domestic help. 5. What is the age limit for domestic help? Any person male or female, below 18 years of age is considered as minor. Employing any person below 14 years is offence. 6. How to get domestic help? There are registered agencies who provide domestic help in metropolitan cities. In other places you can get domestic help through known contacts, relatives etc. It is always advisable that you do not employ unknown domestic help, and without verification. Senior Citizen's Safety 1. I am senior citizen and what precautions I should take in my day to day life ? You are required to follow below mention instructions for your safety. * You should contact nearest police station having jurisdiction and register your name in the register kept for senior citizens. Also enter your name if there is any beat chowki near your residance. * Form an association of senior citizens residing in the locality. Make register mentioning names addresses and telephone no. of the members of the association. Kindly note down the Telephone numbers of police station, Police control room, Senior citizen helpline in the register and in your diary. Never discuss financial matters in front of your servant It is always safe to deposit your valuables in safe deposit vault of any Bank Treat your servant humanly. Do not allow any of the relatives or friends of your servant to visit your house. If at all he has any frequent visitor, get his antecedents checked from police and try to keep the contact details of such persons. Make your neighbour know of you being staying alone. The Housing Society also needs to know this. Use of modern security gadgets is always advantageous. Door alarm, electronic eye bell etc. is available in market. Consult the professionals in this regard Install a peephole in your front door and always check the identification of strangers before you let them inside your home. Never leave spare keys in open or in the conventional hiding places Verify the identity of any repairmen. Use the telephone number listed in the phone book and not the one suggested by them. Inform your society about the unacquainted visitors, so that their identity could be checked at the very gate of the society A well-designed electronic alarm system attached to the office of your Housing. Society or to the watchman’s cabin would be advisable so as to send alarm signals to all simultaneously When you admit a workman or a salesman, do not leave him alone at any time Women and Child Safety I am working woman. What precautionary measures should I take for my safety in course of my day-to-day. You should take following precautionary measures in course of your day-to-day work. Company Administration should obtain character verification certificate of cab driver/substitute driver. There should be more than one girl while returning back to home from company after working hours and girls should be dropped first at their residence. Unknown person should not be allowed in the car or one should not travel with such unknown person. Women after reaching the home after late night work in the company should inform the company that they have reached the home safely. As far as possible one should travel in Govt.-recognized vehicles. After ringing of door bell door should not be opened until identify of concerned person is not ascertained through eye hole. When you are alone in the home, if somebody comes to your house, even if he is your close relative, the curtains and windows of the home should be kept open. You should not spend more time in the party of unknown person. You should keep required balance in the mobile and always the battery of your mobile should be in the charged state. You should keep with you telephone No. of nearest Police Station and Women Helpline. While talking in the public place you should not disclose information about your family members. If incidences of molestation, jesting-scoff etc. Occur they should be informed to the police at the very beginning so that further complications can be avoided. You should always keep pepper spray/small spray bottle or chili powder in your purse. While talking on mobile should take precaution that yo9ur talk is not heard by rickshaw driver, driver or by any other person around you. Do not allow any person to take photograph on your mobile. Do not travel with ornaments. Do not give your mobile No. to many people. Do not keep on blue tooth in your mobile. Inform your parents/guardians about your daily routine, especially when you are going to the party. Do not drink liquor/wines etc. in the party. My kids are going to school. What precautionary measures should I take in view of their safety? You should take following precautionary measures in course of your day-today work. If you are sending the kids to the school by school bus, then somebody should accompany them up to the bus. If kids are going to school by public transport such as bus, railway, then initially for some days until kids get habituated parent or adult person should go with them. You should instruct the kids not to talk with any unknown person or take anything from such person. Some eatables should be kept in the bag of kids. If kids are not returned to home at usual time, immediately contact concerned school. Kids should be instructed not to board or alight from bus or train in a hurry. Telephone No. of parents or neighbor should be written in the diary of kids. One should go to school, contact administration of school from time to time and take the information about kid’s timing of coming to school and going back from the school. Parents should know about movements of other friends/girl friends of kids. If kids are supposed to come back to home at late night from any function, parents or adult person should go to venue of such function and take the kids back to home.",
+    "element_ids": [
+      "e194"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ's F.I.R.,N.C. and Complaint Arms License Arrest and Bail Passport Various other Licenses Event a..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e194",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00077",
+      "element_ids": [
+        "e194"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ's F.I.R.,N.C. and Complaint Arms License Arrest and Bail Passport Various other Licenses Event a..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00078",
+    "text": "SiteMap Police Units Website Disclaimers FAQ Contact Us",
+    "element_ids": [
+      "e195"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "SiteMap Police Units Website Disclaimers FAQ Contact Us"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e195",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00078",
+      "element_ids": [
+        "e195"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "SiteMap Police Units Website Disclaimers FAQ Contact Us"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00079",
+    "text": "No of Visits: 77766760",
+    "element_ids": [
+      "e196"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "No of Visits: 77766760"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e196",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00079",
+      "element_ids": [
+        "e196"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "No of Visits: 77766760"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00080",
+    "text": "Maharashtra Police - Services for Citizen",
+    "element_ids": [
+      "e197"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Maharashtra Police - Services for Citizen"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e197",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00080",
+      "element_ids": [
+        "e197"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Maharashtra Police - Services for Citizen"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00081",
+    "text": "Crime and Criminal Tracking Network and Systems (CCTNS)",
+    "element_ids": [
+      "e198"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Crime and Criminal Tracking Network and Systems (CCTNS)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e198",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00081",
+      "element_ids": [
+        "e198"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Crime and Criminal Tracking Network and Systems (CCTNS)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00082",
+    "text": "“Empowering Police Through IT”",
+    "element_ids": [
+      "e199"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "“Empowering Police Through IT”"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e199",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00082",
+      "element_ids": [
+        "e199"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "“Empowering Police Through IT”"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

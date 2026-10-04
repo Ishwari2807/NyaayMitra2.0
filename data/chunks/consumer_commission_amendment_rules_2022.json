@@ -1,0 +1,876 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "8552 GI/2022\n(1)\n\nसं. .ए.- 33004/99\nREGD. No. D. L.-33004/99\n\nxxxGIDHxxx\nxxxGIDExxx",
+    "element_ids": [
+      "e1",
+      "e2",
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "8552 GI/2022"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1",
+        "e2",
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "8552 GI/2022"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "अाधा\nEXTRAORDINARY",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "अाधा"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "अाधा"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "भाII—ण3—उ-ण(i)\nPART II—Section 3—Sub-section (i)",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "भाII—ण3—उ-ण(i)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "भाII—ण3—उ-ण(i)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "ाधााि\nPUBLISHED BY AUTHORITY",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ाधााि"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ाधााि"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "उभाा, ाएंावंाय",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "उभाा, ाएंावंाय"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "उभाा, ाएंावंाय"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "(उभााभा)",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "(उभााभा)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "(उभााभा)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "अधूचा",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "अधूचा"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "अधूचा"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "ईदल, 20 दब, 2022",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ईदल, 20 दब, 2022"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ईदल, 20 दब, 2022"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "ा.ा..892(अ).—ेया, उभकांअधय, 2019 (2019ा35) ीधाा101ीउ-धाा(1)",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ा.ा..892(अ).—ेया, उभकांअधय, 2019 (2019ा35) ीधाा101ीउ-धाा(1)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ा.ा..892(अ).—ेया, उभकांअधय, 2019 (2019ा35) ीधाा101ीउ-धाा(1)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "औउ-धाा(2) ं(थ)औ(यञ)ाातिकयोायहए, उभकां(उभकाा",
+    "element_ids": [
+      "e12"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "औउ-धाा(2) ं(थ)औ(यञ)ाातिकयोायहए, उभकां(उभकाा"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e12"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "औउ-धाा(2) ं(थ)औ(यञ)ाातिकयोायहए, उभकां(उभकाा"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "आय) य, 2020 ेंिधएमयबाै, अथाव्: -",
+    "element_ids": [
+      "e13"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "आय) य, 2020 ेंिधएमयबाै, अथाव्: -"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e13",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e13"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "आय) य, 2020 ेंिधएमयबाै, अथाव्: -"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "1.\n(1) इयोांपाउभकां(उभकााआय) ंिधय, 2022 ै।\n\n(2) याेइािीाृतो।",
+    "element_ids": [
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e14",
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "2. उभकां(उभकााआय)य, 2020य(7) , उ-य(2) ेासथा,\n\nमााए, अथाव्:-\n\n“ा\n\nं.\nफरेंताएंाओाूलय\nंयिुलीाि\n\n)\n1\n(\n)\n2\n(\n)\n3\n(\n\nाआय\n\n)\n1\n(\nांचाए\nिूनय\n\n)\n2\n(\nांचाएअधऔाए\n200 ए\n\nं.\n796]\nईदल, बुधा, दब21, 2022/अगाय30, 1944\nNo. 796]\nNEW DELHI, WEDNESDAY, DECEMBER 21, 2022/AGRAHAYANA 30, 1944\n\nसी.जी.-डी.एल.-अ.-23122022-241325",
+    "element_ids": [
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. उभकां(उभकााआय)य, 2020य(7) , उ-य(2) ेासथा,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 10,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. उभकां(उभकााआय)य, 2020य(7) , उ-य(2) ेासथा,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "CG-DL-E-23122022-241325\n\n2\nTHE GAZETTE OF INDIA : EXTRAORDINARY\n[PART II—SEC. 3(i)]\n\n)\n3\n(\nाएअधऔबाए\n400 ए\n\n)\n4\n(\nबाएअधऔचााए\n1000 ए\n\nाजयआय\n\n)\n5\n(\nचााएअधऔएडए\n2000 ए\n\n)\n6\n(\nएडएअधऔडए\n2500 ए\n\nाषयआय\n\n)\n7\n(\nडएअधऔचाडए\n3000 ए\n\n)\n8\n(\nचाडएअधऔछडए\n4000 ए\n\n)\n9\n(\nछडएअधऔआठडए\n5000 ए\n\n)\n10\n(\nआठडएअधऔडए\n6000 ए\n\n)\n11\n(\nडएअध\n7500 ए”\n\n[फा.ं. -10/6/2018-यू(भा1)]\n\nअुशा, ंयुकच\n\nट:ूयभाा, अाधा, भा-II, ं3, उ-ं(i) ेंखयाा.ा.. 448(अ) ा15 ुाई, 2020\n\nााािदएएथ।",
+    "element_ids": [
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "CG-DL-E-23122022-241325"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 17,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "CG-DL-E-23122022-241325"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION\n\n(Department of Consumer Affairs)",
+    "element_ids": [
+      "e43",
+      "e44"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e43",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e43",
+        "e44"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "NOTIFICATION\n\nNew Delhi, the 20th December, 2022\n\nG.S.R. 892(E).—In exercise of the powers conferred by sub-section(1) and clauses (q) and (zj) of\nsub-section (2) of section 101 of the Consumer Protection Act, 2019 (35 of 2019), the Central Government\nhereby makes the following rules to amend the Consumer Protection (Consumer Disputes Redressal\nCommissions) Rules, 2020, namely:-",
+    "element_ids": [
+      "e45",
+      "e46",
+      "e47"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "NOTIFICATION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e45",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e45",
+        "e46",
+        "e47"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "NOTIFICATION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "1. (1) These rules may be called the Consumer Protection (Consumer Disputes Redressal Commissions)\nAmendment Rules, 2022.\n\n(2) They shall come into force on the date of their publication in the Official Gazette.",
+    "element_ids": [
+      "e48",
+      "e49"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1. (1) These rules may be called the Consumer Protection (Consumer Disputes Redressal Commissions)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e48",
+        "e49"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1. (1) These rules may be called the Consumer Protection (Consumer Disputes Redressal Commissions)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "2. In the Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020, in rule 7, in\nsub-rule (2), for the Table, the following Table shall be substituted, namely:-\n\n“TABLE\n\nSl. No.\nValue of goods or services paid as consideration\nAmount of fee payable\n\n(1)\n(2)\n(3)\n\nDistrict Commission\n\n(1)\nUpto Rupees Five Lakh\nNil\n\n(2)\nAbove Rupees Five Lakh and upto Rupees Ten Lakh\nRs. 200\n\n(3)\nAbove Rupees Ten Lakh and upto Rupees Twenty Lakh\nRs. 400\n\n(4)\nAbove Rupees Twenty Lakh and upto Rupees Fifty Lakh\nRs. 1000\n\nState Commission\n\n(5)\nAbove Rupees Fifty Lakh and upto Rupees One Crore\nRs. 2000\n\n(6)\nAbove Rupees One Crore and upto Rupees Two Crore\nRs. 2500\n\n[भाII—ण3(i)]\nभााा: अाधा\n3\n\nNational Commission\n\n(7)\nAbove Rupees Two Crore and upto Rupees Four Crore\nRs. 3000\n\n(8)\nAbove Rupees Four Crore and upto Rupees Six Crore\nRs. 4000\n\n(9)\nAbove Rupees Six Crore and upto Rupees Eight Crore\nRs. 5000\n\n(10)\nAbove Rupees Eight Crore and upto Rupees Ten Crore\nRs. 6000\n\n(11)\nAbove Rupees Ten Crore\nRs. 7500”.\n\n[F. No. J-10/6/2018-CPU(Pt.1)]\n\nANUPAM MISHRA, Jt. Secy.\n\nNote : The principal rules were published in the Gazette of India, Extraordinary, Part-II, Section 3,\n\nSub-section (i) vide number G.S.R. 448(E), dated the 15th July, 2020.\n\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\n\nand Published by the Controller of Publications, Delhi-110054. MANOJ KUMAR\n\nVERMA\n\nDigitally signed by MANOJ\nKUMAR VERMA\nDate: 2022.12.23 14:10:39\n+05'30'",
+    "element_ids": [
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "2. In the Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020, in rule 7, in"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e50",
+      "semantic_root_role": "",
+      "element_count": 27,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "2. In the Consumer Protection (Consumer Disputes Redressal Commissions) Rules, 2020, in rule 7, in"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

@@ -1,0 +1,441 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "Short title and\ncommencement.",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Short title and"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Short title and"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "THE RIGHT OF CHILDREN TO FREE AND COMPULSORY",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "THE RIGHT OF CHILDREN TO FREE AND COMPULSORY"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "THE RIGHT OF CHILDREN TO FREE AND COMPULSORY"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "EDUCATION (AMENDMENT) ACT, 2019",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "EDUCATION (AMENDMENT) ACT, 2019"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "EDUCATION (AMENDMENT) ACT, 2019"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "NO. 1 OF 2019\n\n[10th January, 2019.]\nAn Act further to amend the Right of Children to Free and Compulsory\n\nEducation Act, 2009.\n\nBE it enacted by Parliament in the Sixty-ninth Year of the Republic of India as follows:—",
+    "element_ids": [
+      "e4",
+      "e5",
+      "e6",
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "NO. 1 OF 2019"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4",
+        "e5",
+        "e6",
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "NO. 1 OF 2019"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "1. (1) This Act may be called the Right of Children to Free and Compulsory Education\n(Amendment) Act, 2019.\n\n(2) It shall come into force on such date as the Central Government may, by notification\nin the Official Gazette, appoint.",
+    "element_ids": [
+      "e8",
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. (1) This Act may be called the Right of Children to Free and Compulsory Education"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e8",
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. (1) This Act may be called the Right of Children to Free and Compulsory Education"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "2. In the Right of Children to Free and Compulsory Education Act, 2009 (hereinafter\nreferred to as the principal Act), for section 16, the following section shall be substituted,\nnamely:—\n\n“16. (1) There shall be a regular examination in the fifth class and in the eighth\nclass at the end of every academic year.\n\n(2) If a child fails in the examination referred to in sub-section (1), he shall be\ngiven additional instruction and granted opportunity for re-examination within a period\nof two months from the date of declaration of the result.\n\nSubstitution\nof new\nsection for\nsection 16.\n\n35 of 2009.\n\nExamination\nand holding\nback in\ncertain cases.\n\njftLVªh lañ Mhñ ,yñ—(,u)04@0007@2003—19\n\nvlk/kkj.k\nEXTRAORDINARY\n\nHkkx II — [k.M1\nPART II — Section 1\n\nizkf/kdkj ls izdkf'kr\nPUBLISHED BY AUTHORITY\n\nlañ 1]\nubZ fnYyh] 'kqØokj] tuojh 11] 2019@ikS\"k 21] 1940 ¼'kd½\nNo. 1]\nNEW DELHI, FRIDAY, JANUARY 11, 2019/PAUSHA 21, 1940 (SAKA)\n\nbl Hkkx esa fHkUu i`\"B la[;k nh tkrh gS ftlls fd ;g vyx ladyu ds :i esa j[kk tk ldsA\nSeparate paging is given to this Part in order that it may be filed as a separate compilation.\n\nREGISTERED NO. DL—(N)04/0007/2003—19",
+    "element_ids": [
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. In the Right of Children to Free and Compulsory Education Act, 2009 (hereinafter"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 13,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. In the Right of Children to Free and Compulsory Education Act, 2009 (hereinafter"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "MINISTRY OF LAW AND JUSTICE\n\n(Legislative Department)\n\nNew Delhi, the 11th January, 2019/Pausha 21, 1940 (Saka)\nThe following Act of Parliament received the assent of the President on the\n10th January, 2019, and is hereby published for general information:—\n\nAmendment of\nsection 38.\n\n(3) The appropriate Government may allow schools to hold back a child in the\nfifth class or in the eighth class or in both classes, in such manner and subject to such\nconditions as may be prescribed, if he fails in the re-examination referred to in\nsub-section (2):\n\nProvided that the appropriate Government may decide not to hold back a child in\nany class till the completion of elementary education.\n\n(4) No child shall be expelled from a school till the completion of elementary\neducation.”.",
+    "element_ids": [
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "MINISTRY OF LAW AND JUSTICE"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e23",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LAW AND JUSTICE"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "3. In section 38 of the principal Act, in sub-section (2), after clause (f), the following\nclause shall be inserted, namely:—\n\n“(fa) the manner and the conditions subject to which a child may be held back\nunder sub-section (3) of section 16;”.\n\nMGIPMRND—3222GI(S3)—11-01-2019.\n\nUPLOADED BY THE MANAGER, GOVERNMENT OF INDIA PRESS, MINTO ROAD, NEW DELHI–110002\n\nAND PUBLISHED BY THE CONTROLLER OF PUBLICATIONS, DELHI–110054.\n\n————\n\nDR. G. NARAYANA RAJU,\nSecretary to the Govt. of India.\n\n2\nTHE GAZETTE OF INDIA EXTRAORDINARY\n[PART II— SEC. 1]",
+    "element_ids": [
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "3. In section 38 of the principal Act, in sub-section (2), after clause (f), the following"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "3. In section 38 of the principal Act, in sub-section (2), after clause (f), the following"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "MANOJ\nKUMAR\n\nDigitally signed by\nMANOJ KUMAR\nDate: 2019.01.11\n19:49:23 +05'30'",
+    "element_ids": [
+      "e38",
+      "e39"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "MANOJ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e38",
+        "e39"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "MANOJ"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

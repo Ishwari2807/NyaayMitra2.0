@@ -1,0 +1,875 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "1",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956\n\n___________",
+    "element_ids": [
+      "e2",
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2",
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "ARRANGEMENT OF SECTIONS\n\n____________\nSECTIONS\n\n1.Short title and extent.\n2.Act to be supplemental to Act 8 of 1890.\n3.Application of Act.\n4.Definitions.\n5.Over-riding effect of Act.\n6.Natural guardians of a Hindu minor.\n7.Natural guardianship of adopted son.\n8.Powers of natural guardian.\n9.Testamentary guardians and their powers.\n10.Incapacity of minor to act as guardian of property.\n11.De facto guardian not to deal with minor’s property.\n12.Guardian not to be appointed for minors undivided interest in joint family property.\n13.Welfare of minor to be paramount consideration.\n\nIndiaCode\n\n2",
+    "element_ids": [
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "ARRANGEMENT OF SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "ARRANGEMENT OF SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "THE HINDU MINORITY AND GUARDIANSHIP ACT, 1956"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "ACT NO. 32 OF 1956\n\n[25th August, 1956.]\n\nAn Act to amend and codify certain parts of the law relating to minority and guardianship among\nHindus.\n\nBE it enacted by Parliament in the Seventh Year of the Republic of India as follows:—",
+    "element_ids": [
+      "e10",
+      "e11",
+      "e12",
+      "e13"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "ACT NO. 32 OF 1956"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e10",
+        "e11",
+        "e12",
+        "e13"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "ACT NO. 32 OF 1956"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "1. Short title and extent.—(1) This Act may be called the Hindu Minority and Guardianship Act,\n1956.\n\n(2) It extends to the whole of India 1*** and applies also to Hindus domiciled in the territories to\nwhich this Act extends who are outside the said territories.",
+    "element_ids": [
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1. Short title and extent.—(1) This Act may be called the Hindu Minority and Guardianship Act,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e14",
+        "e15"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Short title and extent.—(1) This Act may be called the Hindu Minority and Guardianship Act,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "2. Act to be supplemental to Act 8 of 1890.—The provisions of this Act shall be in addition to, and\nnot, save as hereinafter expressly provided, in derogation of, the Guardians and Wards Act, 1890\n(8 of 1890).",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "2. Act to be supplemental to Act 8 of 1890.—The provisions of this Act shall be in addition to, and"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Act to be supplemental to Act 8 of 1890.—The provisions of this Act shall be in addition to, and"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "3. Application of Act.—(1) This Act applies,—\n\n(a) to any person who is a Hindu by religion in any of its forms or developments, including a\nVirashaiva, a Lingayat or a follower of the Brahmo, Prarthana or Arya Samaj;\n\n(b) to any person who is a Buddhist, Jain or Sikh by religion, and\n\n(c) to any other person domiciled in the territories to which this Act extends who is not a Muslim,\nChristian, Parsi or Jew by religion unless it is proved that any such person would not have been\ngoverned by the Hindu law or by any custom or usage as part of that law in respect of any of the\nmatters dealt with herein if this Act had not been passed.\n\nExplanation.—The following persons are Hindus, Buddhists, Jains, or Sikhs by religion, as the case\nmay be:—\n\n(i) any child, legitimate or illegitimate, both of whose parents are Hindus, Buddhists, Jains or\nSikhs by religion;\n\n(ii) any child, legitimate or illegitimate, one of whose parents is a Hindu, Buddhist, Jain or\nSikh by religion and who is brought up as a member of the tribe, community, group or family to\nwhich such parent belongs or belonged; and\n\n(iii) any person who is convert or re-convert to the Hindu, Buddhist, Jain or Sikh religion.\n\n(2) Notwithstanding anything contained in sub-section (1) nothing contained in this Act shall apply to\nthe members of any scheduled Tribe within the meaning of clause (25) of article 366 of the Constitution\nunless the Central Government, by notification in the Official Gazette, otherwise directs.\n\n2[(2A) Notwithstanding anything contained in sub-section (1), nothing contained in this Act shall\napply to the Renoncants of the Union Territory of Pondicherry.]\n\n(3) The expression “Hindu”, in any provision of this Act shall be construed as if it included a person\nwho, though not a Hindu by religion, is, nevertheless, a person to whom this Act applies by virtue of the\nprovisions contained in this section.",
+    "element_ids": [
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "3. Application of Act.—(1) This Act applies,—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Application of Act.—(1) This Act applies,—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "4. Definitions.—In this Act,—\n\n(a) “minor” means a person who has not completed the age of eighteen years;\n\n(b) “guardian” means a person having the care of the person of a minor or of his property or of\nboth his person and property, and includes—\n\n1. The words “except the State of Jammu and Kashmir” omitted by Act 34 of 2019, s. 95 and the Fifth Schedule (w.e.f. 31-10-\n2019).\n2. Ins. by Act 26 of 1968, s. 3(1) and the Schedule (w.e.f. 24-5-1968).\n\nIndiaCode\n\n3\n\n(i) a natural guardian,\n\n(ii) a guardian appointed by the will of the minor’s father or mother,\n\n(iii) a guardian appointed or declared by a court, and\n\n(iv) a person empowered to act as such by or under any enactment relating to any Court of\nwards.\n\n(c) “natural guardian” means any of the guardians mentioned in section 6.",
+    "element_ids": [
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "4. Definitions.—In this Act,—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Definitions.—In this Act,—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "5. Over-riding effect of Act.—Save as otherwise expressly provided in this Act,—\n\n(a) any text, rule or interpretation of Hindu Law or any custom or usage as part of that law in\nforce immediately before the commencement of this Act Shall cease to have effect with respect to any\nmatter for which provision is made in this Act.\n\n(b) any other law in force immediately before the commencement of this Act shall cease to have\neffect in so far as it is inconsistent with any of the provisions contained in this Act.",
+    "element_ids": [
+      "e39",
+      "e40",
+      "e41"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "5. Over-riding effect of Act.—Save as otherwise expressly provided in this Act,—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e39",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e39",
+        "e40",
+        "e41"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "5. Over-riding effect of Act.—Save as otherwise expressly provided in this Act,—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "6. Natural guardians of a Hindu minor.—The natural guardians of a Hindu minor; in respect of the\nminor's person as well as in respect of the minor’s property (excluding his or her undivided interest in\njoint family property), are—\n\n(a) in the case of a boy or an unmarried girl—the father, and after him, the mother: provided that\nthe custody of a minor who has not completed the age of five years shall ordinarily be with the\nmother;\n\n(b) in the case of an illegitimate boy or an illegitimate unmarried girl—the mother, and after her,\nthe father;\n\n(c) in the case of a married girl—the husband:\n\nProvided that no person shall be entitled to act as the natural guardian of a minor under the provisions\nof this section—\n\n(a) if he has ceased to be a Hindu, or\n\n(b) if he has completely and finally renounced the world by becoming a hermit (vanaprastha) or\nan ascetic (yati or sanyasi).\n\nExplanation.—In this section, the expressions “father” and “mother” do not include a step-father and\na step-mother.",
+    "element_ids": [
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "6. Natural guardians of a Hindu minor.—The natural guardians of a Hindu minor; in respect of the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e42",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "6. Natural guardians of a Hindu minor.—The natural guardians of a Hindu minor; in respect of the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "7. Natural guardianship of adopted son.—The natural guardianship of an adopted son who is a\nminor passes, on adoption, to the adoptive father and after him to the adoptive mother.",
+    "element_ids": [
+      "e50"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "7. Natural guardianship of adopted son.—The natural guardianship of an adopted son who is a"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e50",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e50"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "7. Natural guardianship of adopted son.—The natural guardianship of an adopted son who is a"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "8. Powers of natural guardian.—(1) The natural guardian of a Hindu minor has power, subject to\nthe provisions of this section, to do all acts which are necessary or reasonable and proper for the benefit of\nthe minor or for the realization, protection or benefit of the minor's estate; but the guardian can in no case\nbind the minor by a personal covenant.\n\n(2) The natural guardian shall not, without the previous permission of the court,—\n\n(a) mortgage or charge, or transfer by sale, gift, exchange or otherwise, any part of the\nimmovable property of the minor; or\n\n(b) lease any part of such property for a term exceeding five years or for a term extending more\nthan one year beyond the date on which the minor will attain majority.\n\n(3) Any disposal of immovable property by a natural guardian, in contravention of sub-section (1) or\nsub-section (2), is voidable at the instance of the minor or any person claiming under him.\n\n(4) No court shall grant permission to the natural guardian to do any of the acts mentioned in sub-\nsection (2) except in case of necessity or for an evident advantage to the minor.\n\nIndiaCode\n\n4\n\n(5) The Guardians and Wards Act, 1890 (8 of 1890), shall apply to and in respect of an application for\nobtaining the permission of the court under sub-section (2) in all respects as if it were an application for\nobtaining the permission of the court under section 29 of that Act, and in particular—\n\n(a) proceedings in connection with the application shall be deemed to be proceedings under that\nAct within the meaning of section 4A thereof;\n\n(b) the court shall observe the procedure and have the powers specified in sub-sections (2), (3)\nand (4) of section 31 of that Act; and\n\n(c) an appeal shall lie from an order of the court refusing permission to the natural guardian to do\nany of the Acts mentioned in sub-section (2) of this section to the court to which appeals ordinarily lie\nfrom the decisions of that court.\n(6) In this section, “Court” means the city civil court or a district court or a court empowered under\nsection 4A of the Guardians and Wards Act, 1890 (8 of 1890), within the local limits of whose\njurisdiction the immovable property in respect of which the application is made is situate, and where the\nimmovable property is situate within the jurisdiction of more than one such court, means the court within\nthe local limits of whose jurisdiction any portion of the property is situate.",
+    "element_ids": [
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "8. Powers of natural guardian.—(1) The natural guardian of a Hindu minor has power, subject to"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e51",
+      "semantic_root_role": "",
+      "element_count": 12,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "8. Powers of natural guardian.—(1) The natural guardian of a Hindu minor has power, subject to"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "9. Testamentary guardians and their powers.—(1) A Hindu father entitled to act as the natural\nguardian of his minor legitimate children may, by will appoint a guardian for any of them in respect of the\nminor’s person or in respect of the minor’s property (other than the undivided interest referred to in\nsection 12) or in respect of both.\n\n(2) An appointment made under sub-section (1) shall have no effect if the father predeceases the\nmother, but shall revive if the mother dies without appointing, by will, any person as guardian.\n\n(3) A Hindu widow entitled to act as the natural guardian of her minor legitimate children, and a\nHindu mother entitled to act as the natural guardian of her minor legitimate children by reason of the fact\nthat the father has become disentitled to act as such, may, by will, appoint a guardian for any of them in\nrespect of the minor’s person or in respect of the minor’s property (other than the undivided interest\nreferred to in section 12) or in respect of both.\n\n(4) A Hindu mother entitled to act as the natural guardian of her minor illegitimate children may; by\nwill, appoint a guardian for any of them in respect of the minor’s person or in respect of the minor's\nproperty or in respect of both.\n\n(5) The guardian so appointed by will has the right to act as the minor’s guardian after the death of\nthe minor’s father or mother, as the case may be, and to exercise all the rights of a natural guardian under\nthis Act to such extent and subject to such restrictions, if any, as are specified in this Act and in the will.\n\n(6) The right of the guardian so appointed by will shall, where the minor is a girl, cease on her\nmarriage.",
+    "element_ids": [
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "9. Testamentary guardians and their powers.—(1) A Hindu father entitled to act as the natural"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e63",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "9. Testamentary guardians and their powers.—(1) A Hindu father entitled to act as the natural"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "10. Incapacity of minor to act as guardian of property.—A minor shall be incompetent to act as\nguardian of the property of any minor.",
+    "element_ids": [
+      "e69"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "10. Incapacity of minor to act as guardian of property.—A minor shall be incompetent to act as"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e69",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e69"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "10. Incapacity of minor to act as guardian of property.—A minor shall be incompetent to act as"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "11. De facto guardian not to deal with minor’s property.—After the commencement of this Act,\nno person shall be entitled to dispose of, or deal with, the property of a Hindu minor merely on the ground\nof his or her being the de facto guardian of the minor.",
+    "element_ids": [
+      "e70"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "11. De facto guardian not to deal with minor’s property.—After the commencement of this Act,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e70",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e70"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "11. De facto guardian not to deal with minor’s property.—After the commencement of this Act,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "12. Guardian not to be appointed for minors undivided interest in joint family property.—\nWhere a minor has an undivided interest in joint family property and the property is under the\nmanagement of an adult member of the family, no guardian shall be appointed for the minor in respect of\nsuch undivided interest:\n\nProvided that nothing in this section shall be deemed to affect the jurisdiction of a High Court to\nappoint a guardian in respect of such interest.",
+    "element_ids": [
+      "e71",
+      "e72"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "12. Guardian not to be appointed for minors undivided interest in joint family property.—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e71",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e71",
+        "e72"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "12. Guardian not to be appointed for minors undivided interest in joint family property.—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "13. Welfare of minor to be paramount consideration.—(1) In the appointment of declaration of\nany person as guardian of a Hindu minor by a court, the welfare of the minor shall be the paramount\nconsideration.\n\n(2) No person shall be entitled to the guardianship by virtue of the provisions of this Act or of any law\nrelating to guardianship in marriage among Hindus, if the court is of opinion that his or her guardianship\nwill not be for the welfare of the minor.\n\nIndiaCode",
+    "element_ids": [
+      "e73",
+      "e74",
+      "e75"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "13. Welfare of minor to be paramount consideration.—(1) In the appointment of declaration of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e73",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e73",
+        "e74",
+        "e75"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "13. Welfare of minor to be paramount consideration.—(1) In the appointment of declaration of"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

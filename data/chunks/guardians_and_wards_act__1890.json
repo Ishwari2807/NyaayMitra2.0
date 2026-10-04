@@ -1,0 +1,5908 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "1",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "THE GUARDIANS AND WARDS ACT, 1890\n\n______",
+    "element_ids": [
+      "e2",
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "THE GUARDIANS AND WARDS ACT, 1890"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2",
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "THE GUARDIANS AND WARDS ACT, 1890"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "ARRANGEMENT OF SECTIONS\n\n______",
+    "element_ids": [
+      "e4",
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ARRANGEMENT OF SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e4",
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ARRANGEMENT OF SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "CHAPTER I\nPRELIMINARY\n\nSECTIONS",
+    "element_ids": [
+      "e6",
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "CHAPTER I"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e6",
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER I"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "1. Title, extent and commencement.",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1. Title, extent and commencement."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Title, extent and commencement."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "2. [Repealed.].",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2. [Repealed.]."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2. [Repealed.]."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts.",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "4. Definitions.",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4. Definitions."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Definitions."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "4A. Power to confer jurisdiction on subordinate judicial officers and to transfer proceedings\n\nto such officers.",
+    "element_ids": [
+      "e12",
+      "e13"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4A. Power to confer jurisdiction on subordinate judicial officers and to transfer proceedings"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e12",
+        "e13"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4A. Power to confer jurisdiction on subordinate judicial officers and to transfer proceedings"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "CHAPTER II\n\nAPPOINTMENTAND DECLARATIONOF GUARDIANS",
+    "element_ids": [
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "CHAPTER II"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e14",
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER II"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "5. [Omitted.].",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5. [Omitted.]."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5. [Omitted.]."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "6. Saving of power to appoint in other cases.",
+    "element_ids": [
+      "e17"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "6. Saving of power to appoint in other cases."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e17"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "6. Saving of power to appoint in other cases."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "7. Power of the Court to make order as to guardianship.",
+    "element_ids": [
+      "e18"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "7. Power of the Court to make order as to guardianship."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e18",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e18"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "7. Power of the Court to make order as to guardianship."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "8. Persons entitled to apply for order.",
+    "element_ids": [
+      "e19"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "8. Persons entitled to apply for order."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e19",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e19"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "8. Persons entitled to apply for order."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "9. Court having jurisdiction to entertain application.",
+    "element_ids": [
+      "e20"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "9. Court having jurisdiction to entertain application."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e20",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e20"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "9. Court having jurisdiction to entertain application."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "10. Form of application.",
+    "element_ids": [
+      "e21"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "10. Form of application."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e21",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e21"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "10. Form of application."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "11. Procedure on admission of application.",
+    "element_ids": [
+      "e22"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "11. Procedure on admission of application."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e22",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e22"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "11. Procedure on admission of application."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "12. Power to make interlocutory order for production of minor and interim protection of\n\nperson and property.",
+    "element_ids": [
+      "e23",
+      "e24"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "12. Power to make interlocutory order for production of minor and interim protection of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e23",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e23",
+        "e24"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "12. Power to make interlocutory order for production of minor and interim protection of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "13. Hearing of evidence before making of order.",
+    "element_ids": [
+      "e25"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "13. Hearing of evidence before making of order."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e25",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e25"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "13. Hearing of evidence before making of order."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "14. Simultaneous proceedings in different Courts.",
+    "element_ids": [
+      "e26"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "14. Simultaneous proceedings in different Courts."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e26"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "14. Simultaneous proceedings in different Courts."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "15. Appointment or declaration of several guardians.",
+    "element_ids": [
+      "e27"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "15. Appointment or declaration of several guardians."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e27",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e27"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "15. Appointment or declaration of several guardians."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "16. Appointment or declaration of guardian for property beyond jurisdiction of the Court.",
+    "element_ids": [
+      "e28"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "16. Appointment or declaration of guardian for property beyond jurisdiction of the Court."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e28"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "16. Appointment or declaration of guardian for property beyond jurisdiction of the Court."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "17. Matters to be considered by the Court in appointing guardian.",
+    "element_ids": [
+      "e29"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "17. Matters to be considered by the Court in appointing guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e29",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e29"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "17. Matters to be considered by the Court in appointing guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "18. Appointment or declaration of Collector in virtue of office.",
+    "element_ids": [
+      "e30"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "18. Appointment or declaration of Collector in virtue of office."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e30"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "18. Appointment or declaration of Collector in virtue of office."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "19. Guardian not to be appointed by the Court in certain cases.\n\nIndiaCode\n\n2",
+    "element_ids": [
+      "e31",
+      "e32",
+      "e33"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "19. Guardian not to be appointed by the Court in certain cases."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e31",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e31",
+        "e32",
+        "e33"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "19. Guardian not to be appointed by the Court in certain cases."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "CHAPTER III\n\nDUTIES, RIGHTS AND LIABILITIES OF GUARDIANS\n\nGeneral\n\nSECTIONS",
+    "element_ids": [
+      "e34",
+      "e35",
+      "e36",
+      "e37"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "CHAPTER III"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e34",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e34",
+        "e35",
+        "e36",
+        "e37"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER III"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "20. Fiduciary relation of guardian to ward.",
+    "element_ids": [
+      "e38"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "20. Fiduciary relation of guardian to ward."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e38"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "20. Fiduciary relation of guardian to ward."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "21. Capacity of minors to act as guardians.",
+    "element_ids": [
+      "e39"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "21. Capacity of minors to act as guardians."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e39",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e39"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "21. Capacity of minors to act as guardians."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "22. Remuneration of guardian.",
+    "element_ids": [
+      "e40"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "22. Remuneration of guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e40",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e40"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "22. Remuneration of guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "23. Control of Collector as guardian.\n\nGuardian of the person",
+    "element_ids": [
+      "e41",
+      "e42"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "23. Control of Collector as guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e41",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e41",
+        "e42"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "23. Control of Collector as guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "24. Duties of guardian of the person.",
+    "element_ids": [
+      "e43"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "24. Duties of guardian of the person."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e43",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e43"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "24. Duties of guardian of the person."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "25. Title of guardian to custody of ward.",
+    "element_ids": [
+      "e44"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "25. Title of guardian to custody of ward."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e44",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e44"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "25. Title of guardian to custody of ward."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "26. Removal of war from jurisdiction.\n\nGuardian of property",
+    "element_ids": [
+      "e45",
+      "e46"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "26. Removal of war from jurisdiction."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e45",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e45",
+        "e46"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "26. Removal of war from jurisdiction."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "27. Duties of guardian of property.",
+    "element_ids": [
+      "e47"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "27. Duties of guardian of property."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e47",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e47"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "27. Duties of guardian of property."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "28. Powers of testamentary guardian.",
+    "element_ids": [
+      "e48"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "28. Powers of testamentary guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e48"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "28. Powers of testamentary guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "29. Limitation of powers of guardian of property appointed or declared by the Court.",
+    "element_ids": [
+      "e49"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "29. Limitation of powers of guardian of property appointed or declared by the Court."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e49",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e49"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "29. Limitation of powers of guardian of property appointed or declared by the Court."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00037",
+    "text": "30. Voidability of transfers made in contravention of section 28 or section 29.",
+    "element_ids": [
+      "e50"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "30. Voidability of transfers made in contravention of section 28 or section 29."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e50",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00037",
+      "element_ids": [
+        "e50"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "30. Voidability of transfers made in contravention of section 28 or section 29."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00038",
+    "text": "31. Practice with respect to permitting transfers under section 29.",
+    "element_ids": [
+      "e51"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "31. Practice with respect to permitting transfers under section 29."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e51",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00038",
+      "element_ids": [
+        "e51"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "31. Practice with respect to permitting transfers under section 29."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00039",
+    "text": "32. Variation of powers of guardian of property appointed or declared by the Court.",
+    "element_ids": [
+      "e52"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "32. Variation of powers of guardian of property appointed or declared by the Court."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e52",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00039",
+      "element_ids": [
+        "e52"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "32. Variation of powers of guardian of property appointed or declared by the Court."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00040",
+    "text": "33. Right of guardian so appointed or declared to apply to the Court for opinion in management of\nproperty, of ward.",
+    "element_ids": [
+      "e53"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "33. Right of guardian so appointed or declared to apply to the Court for opinion in management of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e53",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00040",
+      "element_ids": [
+        "e53"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "33. Right of guardian so appointed or declared to apply to the Court for opinion in management of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00041",
+    "text": "34. Obligations on guardian of property appointed or declared by the Court.",
+    "element_ids": [
+      "e54"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "34. Obligations on guardian of property appointed or declared by the Court."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e54",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00041",
+      "element_ids": [
+        "e54"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "34. Obligations on guardian of property appointed or declared by the Court."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00042",
+    "text": "34A. Power to award remuneration for auditing accounts.",
+    "element_ids": [
+      "e55"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "34A. Power to award remuneration for auditing accounts."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00042",
+      "element_ids": [
+        "e55"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "34A. Power to award remuneration for auditing accounts."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00043",
+    "text": "35. Suit against guardian where administration-bond was taken.",
+    "element_ids": [
+      "e56"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "35. Suit against guardian where administration-bond was taken."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e56",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00043",
+      "element_ids": [
+        "e56"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "35. Suit against guardian where administration-bond was taken."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00044",
+    "text": "36. Suit against guardian where administration-bond was not taken.",
+    "element_ids": [
+      "e57"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "36. Suit against guardian where administration-bond was not taken."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e57",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00044",
+      "element_ids": [
+        "e57"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "36. Suit against guardian where administration-bond was not taken."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00045",
+    "text": "37. General liability of guardian as trustee.\n\nTermination of guardianship",
+    "element_ids": [
+      "e58",
+      "e59"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "37. General liability of guardian as trustee."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e58",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00045",
+      "element_ids": [
+        "e58",
+        "e59"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "37. General liability of guardian as trustee."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00046",
+    "text": "38. Right of survivorship among joint guardians.",
+    "element_ids": [
+      "e60"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "38. Right of survivorship among joint guardians."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e60",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00046",
+      "element_ids": [
+        "e60"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "38. Right of survivorship among joint guardians."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00047",
+    "text": "39. Removal of guardian.",
+    "element_ids": [
+      "e61"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "39. Removal of guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e61",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00047",
+      "element_ids": [
+        "e61"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "39. Removal of guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00048",
+    "text": "40. Discharge of guardian.",
+    "element_ids": [
+      "e62"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "40. Discharge of guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e62",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00048",
+      "element_ids": [
+        "e62"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "40. Discharge of guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00049",
+    "text": "41. Cessation of authority of guardian.",
+    "element_ids": [
+      "e63"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "41. Cessation of authority of guardian."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e63",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00049",
+      "element_ids": [
+        "e63"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "41. Cessation of authority of guardian."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00050",
+    "text": "42. Appointment of successor to guardian dead, discharged or removed.",
+    "element_ids": [
+      "e64"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "42. Appointment of successor to guardian dead, discharged or removed."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e64",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00050",
+      "element_ids": [
+        "e64"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "42. Appointment of successor to guardian dead, discharged or removed."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00051",
+    "text": "CHAPTER IV\n\nSUPPLEMENTAL PROVISIONS",
+    "element_ids": [
+      "e65",
+      "e66"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "CHAPTER IV"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e65",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00051",
+      "element_ids": [
+        "e65",
+        "e66"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER IV"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00052",
+    "text": "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those orders.",
+    "element_ids": [
+      "e67"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those orders."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e67",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00052",
+      "element_ids": [
+        "e67"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those orders."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00053",
+    "text": "44. Penalty for removal of ward from jurisdiction.\n\nIndiaCode\n\n3\n\nSECTIONS",
+    "element_ids": [
+      "e68",
+      "e69",
+      "e70",
+      "e71"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "44. Penalty for removal of ward from jurisdiction."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e68",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00053",
+      "element_ids": [
+        "e68",
+        "e69",
+        "e70",
+        "e71"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "44. Penalty for removal of ward from jurisdiction."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00054",
+    "text": "45. Penalty for contumacy.",
+    "element_ids": [
+      "e72"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "45. Penalty for contumacy."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e72",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00054",
+      "element_ids": [
+        "e72"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "45. Penalty for contumacy."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00055",
+    "text": "46. Reports by Collectors and subordinate Courts.",
+    "element_ids": [
+      "e73"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "46. Reports by Collectors and subordinate Courts."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e73",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00055",
+      "element_ids": [
+        "e73"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "46. Reports by Collectors and subordinate Courts."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00056",
+    "text": "47. Orders appealable.",
+    "element_ids": [
+      "e74"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "47. Orders appealable."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e74",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00056",
+      "element_ids": [
+        "e74"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "47. Orders appealable."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00057",
+    "text": "48. Finality of other orders.",
+    "element_ids": [
+      "e75"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "48. Finality of other orders."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e75",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00057",
+      "element_ids": [
+        "e75"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "48. Finality of other orders."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00058",
+    "text": "49. Costs.",
+    "element_ids": [
+      "e76"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "49. Costs."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e76",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00058",
+      "element_ids": [
+        "e76"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "49. Costs."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00059",
+    "text": "50. Power of High Court to make rules.",
+    "element_ids": [
+      "e77"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "50. Power of High Court to make rules."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e77",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00059",
+      "element_ids": [
+        "e77"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "50. Power of High Court to make rules."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00060",
+    "text": "51. Applicability of Act to guardians already appointed by Court.",
+    "element_ids": [
+      "e78"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "51. Applicability of Act to guardians already appointed by Court."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e78",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00060",
+      "element_ids": [
+        "e78"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "51. Applicability of Act to guardians already appointed by Court."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00061",
+    "text": "52. [Repealed.].",
+    "element_ids": [
+      "e79"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "52. [Repealed.]."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e79",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00061",
+      "element_ids": [
+        "e79"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "52. [Repealed.]."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00062",
+    "text": "53. [Repealed.].\n\nTHE SCHEDULE. — [Repealed.].\n\nIndiaCode\n\n4",
+    "element_ids": [
+      "e80",
+      "e81",
+      "e82",
+      "e83"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "53. [Repealed.]."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e80",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00062",
+      "element_ids": [
+        "e80",
+        "e81",
+        "e82",
+        "e83"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "53. [Repealed.]."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00063",
+    "text": "THE GUARDIANS AND WARDS ACT, 1890",
+    "element_ids": [
+      "e84"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "THE GUARDIANS AND WARDS ACT, 1890"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e84",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00063",
+      "element_ids": [
+        "e84"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "THE GUARDIANS AND WARDS ACT, 1890"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00064",
+    "text": "ACT NO. 8 OF 18901\n\n[21st March, 1890.]\n\nAn Act to consolidate and amend the law relating to Guardian and Ward.\n\nWHEREAS it is expedient to consolidate and amend the law relating to guardian and ward; It is\nhereby enacted as follows:—",
+    "element_ids": [
+      "e85",
+      "e86",
+      "e87",
+      "e88"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "ACT NO. 8 OF 18901"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e85",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00064",
+      "element_ids": [
+        "e85",
+        "e86",
+        "e87",
+        "e88"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "ACT NO. 8 OF 18901"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00065",
+    "text": "CHAPTER I\nPRELIMINARY",
+    "element_ids": [
+      "e89"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "CHAPTER I"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e89",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00065",
+      "element_ids": [
+        "e89"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER I"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00066",
+    "text": "1. Title, extent and commencement.— (1) This Act may be called the Guardians and Wards Act,\n1890.\n\n(2) It extends to the whole of India 2***,\n\n3*\n*\n*\n4***\n\n(3) It shall come into force on the first day of July, 1890.",
+    "element_ids": [
+      "e90",
+      "e91",
+      "e92",
+      "e93"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "1. Title, extent and commencement.— (1) This Act may be called the Guardians and Wards Act,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e90",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00066",
+      "element_ids": [
+        "e90",
+        "e91",
+        "e92",
+        "e93"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Title, extent and commencement.— (1) This Act may be called the Guardians and Wards Act,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00067",
+    "text": "2. [Repeal.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule.",
+    "element_ids": [
+      "e94"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "2. [Repeal.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e94",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00067",
+      "element_ids": [
+        "e94"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "2. [Repeal.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the Schedule."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00068",
+    "text": "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts.— This Act shall be\nread subject to every enactment heretofore or hereafter passed relating to any Court of Wards by 5[any\ncompetent legislature, authority or person in 6[any State to which this Act extends]], and nothing in\nthis Act shall be construed to affect, or in any way derogate from the jurisdiction or authority of any\nCourt of Wards, or to take away any power possessed by 7[any High Court 8***].",
+    "element_ids": [
+      "e95"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts.— This Act shall be"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e95",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00068",
+      "element_ids": [
+        "e95"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Saving of jurisdiction of Courts of Wards and Chartered High Courts.— This Act shall be"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00069",
+    "text": "4. Definitions.— In this Act, unless there is something repugnant in the subject or\ncontext,—\n\n(1) “minor” means a person who, under the provisions of the Indian Majority Act, 1875, (9 of\n1875) is to be deemed not to have attained his majority:\n\n(2) “guardian” mean’s a person having the care of the person of a minor or of his property, or of\nboth is person and property:\n\n(3) “ward” means a minor for whose person or property, or both, there is a guardian:\n\n(4) “District Court” has the meaning assigned to that expression in the 9Code of Civil\n\n1. This Act has been extended to Dadra and Nagar Haveli by Reg. 6 of 1963, s. 2 and Sch. I, to the whole of the Union\nterritory of Lakshadweep by Reg. 8 of 1965, s. 3 and Sch. and to Sikkim vide Notifn. No. S.O. 644(E), dated 24-81984,\nGazette of India, Extraordinary, Pt. II, s. 3(ii) (w.e.f. 1-9-1984).\n\nThis Act has been extended to Pondicherry by Act 26 of 1968, with the following modification:\nIn section 1, after sub-section (2), insert:—\n“Provided that nothing contained in this Act shall apply to the Renoncants of the Union territory of\nPondicherry.”.\n2. The words “except the State of Jammu and Kashmir” omitted by Act 34 of 2019, s. 95 and the Fifth Schedule\n(w.e.f. 31-10- 2019).\n3. The words “inclusive of British Baluchistan” rep by A.O. 1948.\n4. The word “and” omitted by Act 40 of 1949, s. 3 and the Second Schedule.\n5. Subs. by the A.O. 1937, for “the G.G. in C., or by a Governor or Lieutenant-Governor in Council”.\n6. Subs. by Act 3 of 1951, s. 3 and the Schedule for “Part A States and Part C States”.\n7. Subs. by the A.O. 1937, for “any High Court established under the Statute 24 and 25 Victoria, Ch. 104 (an Act\nfor establishing High Courts of Judicature in India)”.\n8. The words “established in Part A States and Part C States” omitted by Act 3 of 1951, s. 3 and the Schedule.\n9. See now the Code of Civil Procedure, 1908 (Act 5 of 1908).\n\nIndiaCode\n\n5\n\nProcedure (14 of 1882), and includes a High Court in the exercise of its ordinary original civil\njurisdiction:\n\n1[(5) “the Court” means—\n\n(a) the District Court having jurisdiction to entertain an application under this\nAct for an order appointing or declaring a person to be a guardian; or\n\n(b) where a guardian has been appointed or declared in pursuance of any such application—\n\n(i) the Court which, or the Court of the officer who, appointed or declared the guardian or\nis under this Act deemed to have appointed or declared the guardian; or\n\n(ii) in any matter relating to the person of the ward the District Court having jurisdiction\nin the place where the ward for the time being ordinarily resides; or\n\n(c) in respect of any proceeding transferred under section 4A, the Court of the officer to\nwhom such proceeding has been transferred:]\n\n(6) “Collector” means the chief officer in charge of the revenue—administration of a district,\nand includes any officer whom the State Government, by notification in the Official Gazette, may,\nby name or in virtue of his office, appoint to be a Collector in any local area, or with respect to any\nclass of persons, for all or any of the purposes of this Act:\n\n2*\n*\n*\n*; and\n\n(8) “prescribed” means prescribed by rules made by the High Court under this Act.\n\n3 [4A. Power to confer jurisdiction on subordinate judicial officers and to transfer\nproceedings to such officers.—(1) The High Court may, by general or special order, empower any\nofficer exercising original civil jurisdiction subordinate to a District Court, or authorise the Judge of\nany District Court to empower any such officer subordinate to him, to dispose of any proceedings\nunder this Act transferred to such officer under the provisions of this section.\n\n(2) The Judge of a District Court may, by order in writing, transfer at any stage any proceeding\nunder this Act pending in his Court for disposal to any officer subordinate to him empowered under\nsub-section (1).\n\n(3) The Judge of a District Court may at any stage transfer to his own Court or to any officer\nsubordinate to him empowered under sub-section (1) any proceeding under this Act pending in the\nCourt of any other such officer.\n\n(4) When any proceedings are transferred under this section in any case in which a guardian has\nbeen appointed or declared, the Judge of the District Court may, by order in writing, declare that the\nCourt of the Judge or officer to whom they are transferred shall, for all or any of the purposes of this\nAct, be deemed to be the Court which appointed or declared the guardian.]",
+    "element_ids": [
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105",
+      "e106",
+      "e107",
+      "e108",
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117",
+      "e118"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "4. Definitions.— In this Act, unless there is something repugnant in the subject or"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e96",
+      "semantic_root_role": "",
+      "element_count": 23,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00069",
+      "element_ids": [
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105",
+        "e106",
+        "e107",
+        "e108",
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117",
+        "e118"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Definitions.— In this Act, unless there is something repugnant in the subject or"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00070",
+    "text": "1. Subs. by Act 4 of 1926, s. 2, for the clause (5).\n2. Clause (7) omitted by Act 3 of 1951, s. 3 and the Schedule.\n3. Ins. by Act 4 of 1926, s. 3.\n\nIndiaCode\n\n6",
+    "element_ids": [
+      "e119",
+      "e120",
+      "e121"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "1. Subs. by Act 4 of 1926, s. 2, for the clause (5)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e119",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00070",
+      "element_ids": [
+        "e119",
+        "e120",
+        "e121"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Subs. by Act 4 of 1926, s. 2, for the clause (5)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00071",
+    "text": "CHAPTER II\n\nAPPOINTMENT ANDDECLARATION OF GUARDIANS",
+    "element_ids": [
+      "e122",
+      "e123"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "CHAPTER II"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e122",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00071",
+      "element_ids": [
+        "e122",
+        "e123"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER II"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00072",
+    "text": "5. [Power of parents to appoint in case of European British subjects.] Omitted by the Part BStates\n(Laws) Act, 1951 (3 of 1951), s. 3 and Schedule.",
+    "element_ids": [
+      "e124"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "5. [Power of parents to appoint in case of European British subjects.] Omitted by the Part BStates"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e124",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00072",
+      "element_ids": [
+        "e124"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "5. [Power of parents to appoint in case of European British subjects.] Omitted by the Part BStates"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00073",
+    "text": "6. Saving of power to appoint in other cases.—In the case of a minor 1***, nothing in this Act\nshall be construed to take away or derogate from any power to appoint a guardian of his person or\nproperty, or both, which is valid by the law to which the minor is subject.",
+    "element_ids": [
+      "e125"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "6. Saving of power to appoint in other cases.—In the case of a minor 1***, nothing in this Act"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e125",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00073",
+      "element_ids": [
+        "e125"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "6. Saving of power to appoint in other cases.—In the case of a minor 1***, nothing in this Act"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00074",
+    "text": "7. Power of the Court to make order as to guardianship.—(1) where the Court is satisfied that\nit is for the welfare of a minor that an order should be made—\n\n(a) appointing a guardian of his person or property, or both, or\n\n(b) declaring a person to be such a guardian,\n\nthe Court may make an order accordingly.\n\n(2) An order under this section shall imply the removal of any guardian who has not been\nappointed by will or other instrument or appointed or declared by the Court.\n\n(3) Where a guardian has been appointed by will or other instrument or appointed or declared by\nthe Court, an order under this section appointing or declaring another person to be guardian in his\nstead shall not be made until the powers of the guardian appointed or declared as aforesaid have\nceased under the provisions of this Act.",
+    "element_ids": [
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "7. Power of the Court to make order as to guardianship.—(1) where the Court is satisfied that"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e126",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00074",
+      "element_ids": [
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "7. Power of the Court to make order as to guardianship.—(1) where the Court is satisfied that"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00075",
+    "text": "8. Persons entitled to apply for order.—An order shall not be made under the last foregoing\nsection except on the application of—\n\n(a) the person desirous of being, or claiming to be, the guardian of the minor, or\n\n(b) any relative or friend of the minor, or\n\n(c) the Collector of the district or other local area within which the minor ordinarily resides or\nin which he has property, or\n\n(d) the Collector having authority with respect to the class to which the minor belongs.",
+    "element_ids": [
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "8. Persons entitled to apply for order.—An order shall not be made under the last foregoing"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e132",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00075",
+      "element_ids": [
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "8. Persons entitled to apply for order.—An order shall not be made under the last foregoing"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00076",
+    "text": "9. Court having jurisdiction to entertain application.—(1) If the application is with respect to\nthe guardianship of the person of the minor, it shall be made to the District Court having jurisdiction\nin the place where the minor ordinarily resides.\n\n(2) If the application is with respect to the guardianship of the property of the minor, it may be\nmade either to the District Court having jurisdiction in the place where the minor ordinarily resides or\nto a District Court having jurisdiction in a place where he has property.\n\n(3) If an application with respect to the guardianship of the property of a minor is made to a\nDistrict Court other than that having jurisdiction in the place where the minor ordinarily resides, the\nCourt may return the application if in its opinion the application would be disposed of more justly or\nconveniently by any other District Court having jurisdiction.",
+    "element_ids": [
+      "e137",
+      "e138",
+      "e139"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "9. Court having jurisdiction to entertain application.—(1) If the application is with respect to"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e137",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00076",
+      "element_ids": [
+        "e137",
+        "e138",
+        "e139"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "9. Court having jurisdiction to entertain application.—(1) If the application is with respect to"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00077",
+    "text": "10. Form of application.—(1) If the application is not made by the Collector, it shall be by\npetition signed and verified in manner prescribed by the 2Code ,of Civil Procedure (14 of 1882) for\nthe signing and verification of a plaint, and stating, so far as can be ascertained—\n\n(a) the name, sex, religion, date of birth and ordinary residence of the minor;\n\n(b) where the minor is a female, whether she is married, and, if so, the name and age of her\nhusband;\n\n(c) the nature, situation and approximate value of the property, if any, of the minor;",
+    "element_ids": [
+      "e140",
+      "e141",
+      "e142",
+      "e143"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "10. Form of application.—(1) If the application is not made by the Collector, it shall be by"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e140",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00077",
+      "element_ids": [
+        "e140",
+        "e141",
+        "e142",
+        "e143"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "10. Form of application.—(1) If the application is not made by the Collector, it shall be by"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00078",
+    "text": "1. The words “who is not an European British subject” omitted by Act 3 of 1951, s. 3 and the Schedule.\n2. See now the Code of Civil Procedure, 1908 (Act 5 of 1908).\n\nIndiaCode\n\n7\n\n(d)the name and residence of the person having the custody or possession of the person or\nproperty of the minor;\n\n(e)what near relations the minor has, and where they reside;\n\n(f) whether a guardian of the person or property, or both, of the minor has been appointed by\nany person entitled or claiming to be entitled by the law to which the minor is subject to make such\nan appointment;\n\n(g) whether an application has at any time been made tothe Court or to any other Court with\nrespect to the guardianship of the person or property, or both, of the minor, and, if so, when, to\nwhat Court and with what result;\n\n(h) whether the application is for the appointment or declaration of a guardian of the person of\nthe minor, or of his property, or of both;\n\n(i) where the application is to appoint a guardian, the qualifications of the proposed guardian;\n\n(j) where the application is to declare a person to be a guardian, the grounds on which that\nperson claims;\n\n(k) the causes which have led to the making of the applications; and\n\n(l)such other particulars, if any, as may be prescribed or as the nature of the application renders\nit necessary to state.\n\n(2) If the application is made by the Collector, it shall be by letter addressed to the Court and\nforwarded by post or in such other manner as may be found convenient, and shall state as far as\npossible the particulars mentioned in sub-section (1).\n\n(3) The application must be accompanied by a declaration of the willingness of the proposed\nguardian to act and the declaration must be signed by him and attested by at least two\nwitnesses.",
+    "element_ids": [
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "structure_path": [
+      "1. The words “who is not an European British subject” omitted by Act 3 of 1951, s. 3 and the Schedul..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e144",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00078",
+      "element_ids": [
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157"
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "1. The words “who is not an European British subject” omitted by Act 3 of 1951, s. 3 and the Schedul..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00079",
+    "text": "11. Procedure on admission of application.—(1) If the Court is satisfied that there is ground\nfor proceeding on the application, it shall fix a day for the hearing thereof, and cause notice of the\napplication and of the date fixed for the hearing—\n\n(a) to be served in the manner directed in the 1Code of Civil Procedure (14 of 1882) on—\n\n(i) the parents of the minor if they arc residing in 2[any State to which this Act extends],\n\n(ii) theperson, if any, named in the petition or letter as having the custody or possession of\nthe person or property of the minor,\n\n(iii) the person proposed in the application orletter to be appointed or declared guardian,\nunless that person is himself the applicant, and\n\n(iv) any other person to whom, in the opinion of the Court, special notice of the application\nshould be given; and\n\n(b) to be posted on some conspicuous part of the court-house, and of the residence of the minor,\nand otherwise published in such manner as the Court, subject to any rules made by the High Court\nunder this Act, thinks fit.\n\n(2) The State Government may, by general or special order, require that, when any part of the\nproperty described in a petition under section 10, sub-section (1), is land of which a Court of Wards\ncould assume the superintendence, the Court shall also cause a notice as aforesaid to be served on the\nCollector in whose district the minor ordinarily resides, and on",
+    "element_ids": [
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "11. Procedure on admission of application.—(1) If the Court is satisfied that there is ground"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e158",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00079",
+      "element_ids": [
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "11. Procedure on admission of application.—(1) If the Court is satisfied that there is ground"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00080",
+    "text": "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908).\n2. Subs. by Act 3 of 1951, s. 3 and the Schedule, for “a Part A State or a Part C State”.\n\nIndiaCode\n\n8\n\nevery Collector in whose district any portion of the land is situate, and the Collector may cause the\nnotice to be published in any manner he deems fit.\n\n(3) No charge shall be made by the Court or the Collector for the service or publication of any\nnotice served or published under sub-section (2).",
+    "element_ids": [
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "structure_path": [
+      "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e166",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00080",
+      "element_ids": [
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170"
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00081",
+    "text": "12. Power to make interlocutory order for production of minor and interim protection of\nperson and property.—(1) The Court may direct that the person, if any, having the custody of the\nminor shall produce him or cause him to be produced at such place and time and before such person\nas it appoints, and may make such order for the temporary custody and protection of the person or\nproperty of the minor as it thinks proper.\n\n(2) If the minor is a female who ought not to be compelled to appear in public, the direction under\nsub-section (1) for her production shall require her to be produced in accordance with the customs and\nmanners of the country.\n\n(3) Nothing in this section shall authorise—\n\n(a) the Court to place a female minor in the temporary custody of a person claiming to be her\nguardian on the ground of his being her husband, unless she is already in his custody with the\nconsent of her parents, if any, or\n\n(b) any person to whom the temporary custody and protection of the property of a minor is\nentrusted to dispossess otherwise than by due course of law any person in possession of any of the\nproperty.",
+    "element_ids": [
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "12. Power to make interlocutory order for production of minor and interim protection of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e171",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00081",
+      "element_ids": [
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "12. Power to make interlocutory order for production of minor and interim protection of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00082",
+    "text": "13. Hearing of evidence before making of order.—On the day fixed for the hearing of the\napplication, or as soon afterwards as may be, the Court shall hear such evidence as may be adduced in\nsupport of or in opposition to the application.",
+    "element_ids": [
+      "e176"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "13. Hearing of evidence before making of order.—On the day fixed for the hearing of the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e176",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00082",
+      "element_ids": [
+        "e176"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "13. Hearing of evidence before making of order.—On the day fixed for the hearing of the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00083",
+    "text": "14. Simultaneous proceedings in different Courts.—(1) If proceedings for the appointment or\ndeclaration of a guardian of a minor arc taken in more Courts than one, each of those Courts shall, on\nbeing apprised of the proceedings in the other Court or Courts, stay the proceedings before itself.\n\n(2) If the Courts arc both or all subordinate to the same High Court, they shall report the case to the\nHigh Court, and the High Court shall determine in which of the Courts the proceedings with respect to\nthe appointment or declaration of a guardian of the minor shall be had.\n\n1[(3) In any other case in which proceedings arc stayed under. sub-section (1), the Courts shall\nreport the case to, and be guided by such orders as they may receive from, their respective State\nGovernments]",
+    "element_ids": [
+      "e177",
+      "e178",
+      "e179"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "14. Simultaneous proceedings in different Courts.—(1) If proceedings for the appointment or"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e177",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00083",
+      "element_ids": [
+        "e177",
+        "e178",
+        "e179"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "14. Simultaneous proceedings in different Courts.—(1) If proceedings for the appointment or"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00084",
+    "text": "15. Appointment or declaration of several guardians.—(1) If the law to which the minor is\nsubject admits of his having two or more joint guardians of his person or property, or both, the Court\nmay, if it thinks fit, appoint or declare them.\n\n2*\n*\n*\n*\n*\n\n(4) Separate guardians may be appointed or declared of the person and of the property of a minor.\n\n(5) If a minor has several properties, the Court may, if it thinks fit, appoint or declare a separate\nguardian for any one or more of the properties.",
+    "element_ids": [
+      "e180",
+      "e181",
+      "e182",
+      "e183"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "15. Appointment or declaration of several guardians.—(1) If the law to which the minor is"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e180",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00084",
+      "element_ids": [
+        "e180",
+        "e181",
+        "e182",
+        "e183"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "15. Appointment or declaration of several guardians.—(1) If the law to which the minor is"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00085",
+    "text": "16. Appointment or declaration of guardian for property beyond jurisdiction of the\nCourt.—If the Court appoints or declares a guardian for any property situate beyond the\nlocal limits of its jurisdiction, the Court having jurisdiction in the place where the",
+    "element_ids": [
+      "e184"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "16. Appointment or declaration of guardian for property beyond jurisdiction of the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e184",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00085",
+      "element_ids": [
+        "e184"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "16. Appointment or declaration of guardian for property beyond jurisdiction of the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00086",
+    "text": "1. Subs. by the A.O. 1937, for sub-section (3).\n2. Sub-sections (2) and (3) omitted by Act 3 of 1951, s. 3 and the Schedule.\n\nIndiaCode\n\n9\n\nproperty is situate shall, on production of a certified copy of the order appointing or declaring the\nguardian, accept him as duly appointed or declared and give effect to the order.",
+    "element_ids": [
+      "e185",
+      "e186",
+      "e187",
+      "e188"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "structure_path": [
+      "1. Subs. by the A.O. 1937, for sub-section (3)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e185",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00086",
+      "element_ids": [
+        "e185",
+        "e186",
+        "e187",
+        "e188"
+      ],
+      "page_start": 8,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Subs. by the A.O. 1937, for sub-section (3)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00087",
+    "text": "17. Matters to be considered by the Court in appointing guardian.—(1) In appointing or\ndeclaring the guardian of a minor, the Court shall, subject to the provisions of this section, be guided\nby what, consistently with the law to which the minor is subject, appears in the circumstances to be\nfor the welfare of the minor.\n\n(2) In considering what will be for the welfare of the minor, the Court shall have regard to the age,\nsex and religion of the minor, the character and capacity of the proposed guardian and his nearness of\nkin to the minor, the wishes, if any, of a deceased parent, and any existing or previous relations of the\nproposed guardian with the minor or his property.\n\n(3) If the minor is old enough to form an intelligent preference, the Court may consider that\npreference.\n\n1*\n*\n*\n*\n*\n\n(5) The Court shall not appoint or declare any person to be a guardian against his will.",
+    "element_ids": [
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "17. Matters to be considered by the Court in appointing guardian.—(1) In appointing or"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e189",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00087",
+      "element_ids": [
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "17. Matters to be considered by the Court in appointing guardian.—(1) In appointing or"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00088",
+    "text": "18. Appointment or declaration of Collector in virtue of office.—Where a Collector is\nappointed or declared by the Court in virtue of his office to be guardian of the person or property, or\nboth, of a minor, the order appointing or declaring him shall be deemed to authorize and require the\nperson for the time being holding the office to act as guardian of the minor with respect to his person\nor property, or both, as the case may be.",
+    "element_ids": [
+      "e194"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "18. Appointment or declaration of Collector in virtue of office.—Where a Collector is"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e194",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00088",
+      "element_ids": [
+        "e194"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "18. Appointment or declaration of Collector in virtue of office.—Where a Collector is"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00089",
+    "text": "19. Guardian not to be appointed by the Court in certain cases.—Nothing in this Chapter shall\nauthorise the Court to appoint or declare a guardian of the property of a minor whose property is\nunder the superintendence of a Court of Wards, or to appoint or declare a guardian of the person—\n\n(a) of a minor who is a married female and whose husband is not, in the opinion of the Court,\nunfit to be guardian of her person, or\n\n2[(b) of a minor, other than a married female, whose father or mother is living and is not, in the\nopinion of the court, unfit to be guardian of the person of the minor, or.]\n\n(c) of a minor whose property is under the superintendence of a Court of Wards competent to\nappoint a guardian of the person of the minor.",
+    "element_ids": [
+      "e195",
+      "e196",
+      "e197",
+      "e198"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "19. Guardian not to be appointed by the Court in certain cases.—Nothing in this Chapter shall"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e195",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00089",
+      "element_ids": [
+        "e195",
+        "e196",
+        "e197",
+        "e198"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "19. Guardian not to be appointed by the Court in certain cases.—Nothing in this Chapter shall"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00090",
+    "text": "CHAPTER III\n\nDUTIES, RIGHTSAND LIABILITIESOF GUARDIANS\n\nGeneral",
+    "element_ids": [
+      "e199",
+      "e200",
+      "e201"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "CHAPTER III"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e199",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00090",
+      "element_ids": [
+        "e199",
+        "e200",
+        "e201"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER III"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00091",
+    "text": "20. Fiduciary relation of guardian to ward.—(1) A guardian stands in a fiduciary relation to his\nward, and, save as provided by the will or other instrument, if any, by which he was appointed, or by\nthis Act, he must not make any profit out of his office.\n\n(2) The fiduciary relation of it guardian to his ward extends to and affects purchases by the\nguardian of the property of the ward, and by the ward of the property of the guardian, immediately or\nsoon after the ward has ceased to be a minor, and generally all transactions between them while the\ninfluence of the guardian still lasts or is recent.",
+    "element_ids": [
+      "e202",
+      "e203"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "20. Fiduciary relation of guardian to ward.—(1) A guardian stands in a fiduciary relation to his"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e202",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00091",
+      "element_ids": [
+        "e202",
+        "e203"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "20. Fiduciary relation of guardian to ward.—(1) A guardian stands in a fiduciary relation to his"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00092",
+    "text": "21. Capacity of minors to act as guardians.—A minor is incompetent to act as guardian of any\nminor except his own wife or child or where he is the managing member of an undivided Hindu\nfamily, the wife or child of another minor Member of that family.",
+    "element_ids": [
+      "e204"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "21. Capacity of minors to act as guardians.—A minor is incompetent to act as guardian of any"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e204",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00092",
+      "element_ids": [
+        "e204"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "21. Capacity of minors to act as guardians.—A minor is incompetent to act as guardian of any"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00093",
+    "text": "1. Sub-section (4) omitted by Act 3 of 1951, s. 3 and the Schedule.\n2. Subs. by Act 30 of 2010, s. 2 for sub-clause (b) (w.e.f. 31-8-2010).\n\nIndiaCode\n\n10",
+    "element_ids": [
+      "e205",
+      "e206",
+      "e207"
+    ],
+    "pages": [
+      9,
+      10
+    ],
+    "structure_path": [
+      "1. Sub-section (4) omitted by Act 3 of 1951, s. 3 and the Schedule."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e205",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00093",
+      "element_ids": [
+        "e205",
+        "e206",
+        "e207"
+      ],
+      "page_start": 9,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Sub-section (4) omitted by Act 3 of 1951, s. 3 and the Schedule."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00094",
+    "text": "22. Remuneration of guardian.—(1) A guardian appointed or declared by the Court shall be\nentitled to such allowance, if any, as the Court thinks fit for his care and paints in the execution of his\nduties.\n\n(2) When an officer of the Government, as such officer, is so appointed or declared to be guardian,\nsuch fees shall be paid to the Government out of the property of the ward as the State Government, by\ngeneral or special order, directs.",
+    "element_ids": [
+      "e208",
+      "e209"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "22. Remuneration of guardian.—(1) A guardian appointed or declared by the Court shall be"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e208",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00094",
+      "element_ids": [
+        "e208",
+        "e209"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "22. Remuneration of guardian.—(1) A guardian appointed or declared by the Court shall be"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00095",
+    "text": "23. Control of Collector as guardian.—A Collector appointed or declared by the Court to be\nguardian of the person or property, or both, of a minor shall, in all matters connected with the\nguardianship of his ward, be subject to the control of the State Government or of such authority as that\nGovernment, by 1notification in the Official Gazette, appoints in this behalf.\n\nGuardian of the person",
+    "element_ids": [
+      "e210",
+      "e211"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "23. Control of Collector as guardian.—A Collector appointed or declared by the Court to be"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e210",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00095",
+      "element_ids": [
+        "e210",
+        "e211"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "23. Control of Collector as guardian.—A Collector appointed or declared by the Court to be"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00096",
+    "text": "24. Duties of guardian of the person.—A guardian of the person of a ward is charged with\nthe custody of the ward and must look to his support, health and education, and such other matters as\nthe law to which the ward is subject requires.",
+    "element_ids": [
+      "e212"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "24. Duties of guardian of the person.—A guardian of the person of a ward is charged with"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e212",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00096",
+      "element_ids": [
+        "e212"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "24. Duties of guardian of the person.—A guardian of the person of a ward is charged with"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00097",
+    "text": "25. Title of guardian to custody of ward.—(1) If a ward leaves or is removed from the custody\nof a guardian of his person, the Court, if it is of opinion that it will be for the welfare of the ward to\nreturn to the custody of his guardian, may make an order for his return, and for the purpose of\nenforcing the order may cause the ward to be arrested and to be delivered into the custody of the\nguardian.\n\n(2) For the purpose of arresting the ward, the Court may exercise the power conferred on a\nMagistrate of the first class by section 100 of the 2Code of Criminal Procedure, 1882 (10 of 1882).\n\n(3) The residence of a ward against the will of his guardian with a person who is not his guardian\ndoes not of itself terminate the guardianship.",
+    "element_ids": [
+      "e213",
+      "e214",
+      "e215"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "25. Title of guardian to custody of ward.—(1) If a ward leaves or is removed from the custody"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e213",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00097",
+      "element_ids": [
+        "e213",
+        "e214",
+        "e215"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "25. Title of guardian to custody of ward.—(1) If a ward leaves or is removed from the custody"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00098",
+    "text": "26. Removal of ward from jurisdiction.—(1) A guardian of the person appointed or declared\nby the Court unless he is the Collector or is a guardian appointed by will or other instrument, shall\nnot, without the leave of the Court by which he was appointed or declared, remove the ward from\nthe limits of its jurisdiction except for such purposes as may be prescribed.\n\n(2) The leave granted by the Court under sub-section (1)may be special or general, and maybe\ndefined by the order granting it.\n\nGuardian of property",
+    "element_ids": [
+      "e216",
+      "e217",
+      "e218"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "26. Removal of ward from jurisdiction.—(1) A guardian of the person appointed or declared"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e216",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00098",
+      "element_ids": [
+        "e216",
+        "e217",
+        "e218"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "26. Removal of ward from jurisdiction.—(1) A guardian of the person appointed or declared"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00099",
+    "text": "27. Duties of guardian of property.—A guardian of the property of a ward is bound to deal\ntherewith as carefully as a man of ordinary prudence would deal with it if it were his own, and,\nsubject to the provisions of this Chapter, he may do all acts which are reasonable and proper for the\nrealisation, protection or benefit of the property.",
+    "element_ids": [
+      "e219"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "27. Duties of guardian of property.—A guardian of the property of a ward is bound to deal"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e219",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00099",
+      "element_ids": [
+        "e219"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "27. Duties of guardian of property.—A guardian of the property of a ward is bound to deal"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00100",
+    "text": "28. Powers of testamentary guardian.—Where a guardian has been appointed by will or other\ninstrument, his power to mortgage or charge, or transfer by sale, gift, exchange or otherwise,\nimmovable property belonging to his ward is subject to any restriction which may be imposed by the\ninstrument, unless he has under this Act been declared guardian and the Court which made die\ndeclaration permits him by an order in writing, notwithstanding the restriction, to dispose of any\nimmovable property specified in the order in a manner permitted by the order.",
+    "element_ids": [
+      "e220"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "28. Powers of testamentary guardian.—Where a guardian has been appointed by will or other"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e220",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00100",
+      "element_ids": [
+        "e220"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "28. Powers of testamentary guardian.—Where a guardian has been appointed by will or other"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00101",
+    "text": "29. Limitation of powers of guardian of property appointed or declared by the\nCourt.—Where aperson other than a Collector,or than a guardian appointed by will or other\n\n1. For notifications appointing authorities to whose control Collectors appointed under the Act shall be subject, see different\nlocal R. & O.\n2. See now the Codeof Criminal Procedure, 1898 (Act 5 of 1898).\n\nIndiaCode\n\n11\n\ninstrument, has been appointed or declared by the Court to be guardian of the property of a ward, he\nshall not, without the previous permission of the Court,—\n\n(a) mortgage or charge, or transfer by sale, gift, exchange or otherwise, any part of the\nimmovable property of his ward, or\n\n(b) lease any part of that property for a term exceeding five years or for any term extending\nmore than one year beyond the date on which the ward will cease to be a minor.",
+    "element_ids": [
+      "e221",
+      "e222",
+      "e223",
+      "e224",
+      "e225",
+      "e226",
+      "e227"
+    ],
+    "pages": [
+      10,
+      11
+    ],
+    "structure_path": [
+      "29. Limitation of powers of guardian of property appointed or declared by the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e221",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00101",
+      "element_ids": [
+        "e221",
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226",
+        "e227"
+      ],
+      "page_start": 10,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "29. Limitation of powers of guardian of property appointed or declared by the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00102",
+    "text": "30. Viodability of transfers made in contravention of section 28 or section 29.—A disposal of\nimmovable property by a guardian in contravention of either of the two last foregoing sections is\nvoidable at the instance of any other person affected thereby.",
+    "element_ids": [
+      "e228"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "30. Viodability of transfers made in contravention of section 28 or section 29.—A disposal of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e228",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00102",
+      "element_ids": [
+        "e228"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "30. Viodability of transfers made in contravention of section 28 or section 29.—A disposal of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00103",
+    "text": "31. Practice with respect to permitting transfers under section 29.—(1) Permission to the\nguardian to do any of the acts mentioned in section 29 shall not be granted by the Court except in case\nof necessity or for an evident advantage to the ward.\n\n(2)The order granting the permission shall recite the necessity or advantage, as the case may\nbe, describe the property with respect to which the act permitted is to be done, and specify such\nconditions, if any, as the Court may see fit to attach to the permission; and it shall be recorded,\ndated and signed by the Judge of the Court with his own hand, or, when from any cause he is\nprevented from recording the order with his own hand, shall be taken down in writing from his\ndictation and be dated and signed by him.\n\n(3)The Court may in its discretion attach to the permission the following among other conditions,\nnamely:—\n\n(a) that a sale shall not be completed without the sanction of the Court;\n\n(b) that a sale shall be made to the highest bidder by public auction, before the Court or\nsome person specially appointed by the Court for that purpose, at a time and place to be\nspecified by the Court, after such proclamation of the intended sale as the Court, subject to\nany rules made under this Act by the High Court, directs;\n\n(c) that a lease shall not be made in consideration of a premium or shall be made for such term\nof years and subject to such rents and covenants as the Court directs;\n\n(d) that the whole or any part of the proceeds of the act permitted shall be paid into the\nCourt by the guardian, to be disbursed therefrom or to be invested by the Court on\nprescribed securities or to be otherwise disposed of as the Court directs.\n\n(4)Before granting permission to a guardian to do an act mentioned in section 29, the Court\nmay cause notice of the application for the permission to be given to any relative or friend of the\nward who should, in its opinion, receive notice thereof, and shall hear and record the statement of\nany person who appears in opposition to the application.",
+    "element_ids": [
+      "e229",
+      "e230",
+      "e231",
+      "e232",
+      "e233",
+      "e234",
+      "e235",
+      "e236"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "31. Practice with respect to permitting transfers under section 29.—(1) Permission to the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e229",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00103",
+      "element_ids": [
+        "e229",
+        "e230",
+        "e231",
+        "e232",
+        "e233",
+        "e234",
+        "e235",
+        "e236"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "31. Practice with respect to permitting transfers under section 29.—(1) Permission to the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00104",
+    "text": "32. Variation of powers of guardian of property appointed or declared by the Court.—\nWhere a guardian of the property of a ward has been appointed or declared by the Court and such\nguardian is not the Collector, the Court may, from time to time, by order, define, restrict or extend\nhis powers with respect to the property of the ward in such manner and to such extent as it may\nconsider to be for the advantage of the ward and consistent with the law to which the ward is\nsubject.",
+    "element_ids": [
+      "e237"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "32. Variation of powers of guardian of property appointed or declared by the Court.—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e237",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00104",
+      "element_ids": [
+        "e237"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "32. Variation of powers of guardian of property appointed or declared by the Court.—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00105",
+    "text": "33. Right of guardian so appointed or declared to apply to the Court for opinion in\nmanagement of property of ward.—(1) A guardian appointed or declared by the Court may\napply by petition to the Court which appointed or declared him for its opinion, advice or direction\non any present question respecting the management or administration of the property of his ward.\n\n(2)If the Court considers the question to be proper for summary disposal, it shall cause a copy of\nthe petition to be served on, and the hearing thereof may be attended by, such of the persons interested\nin the application as the Court thinks fit.\n\nIndiaCode\n\n12\n\n(3) The guardian stating in good faith the facts in the petition and acting upon the opinion, advice\nor direction given by the Court shall be deemed, so far as regards his own responsibility, to have\nperformed his duty as guardian in the subject-matter of the application.",
+    "element_ids": [
+      "e238",
+      "e239",
+      "e240",
+      "e241",
+      "e242"
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "structure_path": [
+      "33. Right of guardian so appointed or declared to apply to the Court for opinion in"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e238",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00105",
+      "element_ids": [
+        "e238",
+        "e239",
+        "e240",
+        "e241",
+        "e242"
+      ],
+      "page_start": 11,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "33. Right of guardian so appointed or declared to apply to the Court for opinion in"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00106",
+    "text": "34. Obligations on guardian of property appointed or declared by the Court.—Where a\nguardian of the property of a ward has been appointed or declared by the Court and such guardian is\nnot the Collector, he shall,—\n\n(a) if so required by the Court, give a bond, as nearly as may be in the prescribed form, to the\nJudge of the Court to ensure for the benefit of the Judge for the time being, with or without\nsureties, as may be prescribed, engaging duly to account for what he may receive in respect of the\nproperty of the ward;\n\n(b) if so required by the Court, deliver to the Court, within six months from the date of his\nappointment or declaration by the Court, or within such other time as the Court directs, a statement\nof the immovable property belonging to the ward, of the money and other movable property which\nhe has received on behalf of the ward up to the date of delivering the statement, and of the debts\ndue on that date to or from the ward;\n\n(c) if so required by the Court, exhibit his accounts in the Court at such times and in such form\nas the Court from time to time directs;\n\n(e) if so required by the Court, pay into the Court at such time as the Court directs the balance\ndue from him on those accounts, or so much thereof as the Court directs; and\n\n(f) apply for the maintenance, education and advancement of the ward and of such persons as\nare dependent on him, and for the celebration of ceremonies to which the ward or any of those\npersons may be a party, such portion of the income of the property of the ward as the Court from\ntime to time directs, and, if the Court so directs, the whole or any part of that property.",
+    "element_ids": [
+      "e243",
+      "e244",
+      "e245",
+      "e246",
+      "e247",
+      "e248"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "34. Obligations on guardian of property appointed or declared by the Court.—Where a"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e243",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00106",
+      "element_ids": [
+        "e243",
+        "e244",
+        "e245",
+        "e246",
+        "e247",
+        "e248"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "34. Obligations on guardian of property appointed or declared by the Court.—Where a"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00107",
+    "text": "1[34A. Power to award remuneration for auditing accounts.—When accounts are exhibited by\na guardian of the property of a ward in pursuance of a requisition made under clause (c) of section 34\nor otherwise, the Court may appoint a person to audit the accounts, and may direct that remuneration\nfor the work be paid out of the income of the property.]",
+    "element_ids": [
+      "e249"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "1[34A. Power to award remuneration for auditing accounts.—When accounts are exhibited by"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e249",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00107",
+      "element_ids": [
+        "e249"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "1[34A. Power to award remuneration for auditing accounts.—When accounts are exhibited by"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00108",
+    "text": "35. Suit against guardian where administration bond was taken.—Where a guardian appointed\nor declared by the Court has given a bond duly to account for what he may receive in respect of the\nproperty of his ward, the Court may, on application made by petition and on being satisfied that the\nengagement of the bond has not been kept, and upon such terms as to security, or providing that any\nmoney received be paid into the Court, or otherwise as the Court thinks fit, assign the bond to some\nproper person, who shall thereupon be entitled to sue on the bond in his own name as if the bond had\nbeen originally given to him instead of to the Judge of the Court, and shall be entitled to recover\nthereon, as trustee for the ward, in respect of any breach thereof.",
+    "element_ids": [
+      "e250"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "35. Suit against guardian where administration bond was taken.—Where a guardian appointed"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e250",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00108",
+      "element_ids": [
+        "e250"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "35. Suit against guardian where administration bond was taken.—Where a guardian appointed"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00109",
+    "text": "36. Suit against guardian where administration bond was not taken.—(1) Where a guardian\nappointed or declared by the Court has not given a bond as aforesaid, any person, with the leave of the\nCourt, may, as next friend, at any time during the continuance of the minority of the ward, and upon\nsuch terms as aforesaid, institute a suit against the guardian, or, in case of his death, against his\nrepresentative, for an account of what the guardian has received in respect of the property of the ward,\nand may recover in the suit, as trustee for the ward, such amount as may be found to be payable by the\nguardian or his representative, as the case may be.",
+    "element_ids": [
+      "e251"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "36. Suit against guardian where administration bond was not taken.—(1) Where a guardian"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e251",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00109",
+      "element_ids": [
+        "e251"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "36. Suit against guardian where administration bond was not taken.—(1) Where a guardian"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00110",
+    "text": "1. Ins. by Act 17 of 1929, s. 2.\n\nIndiaCode\n\n13\n\n(2) The provisions of sub-section (1) shall, so far as they relate to a suit against a guardian, be\nsubject to the provisions of section 440 of the Code of Civil Procedure (14 of 1882) as amended by\nthis Act1.",
+    "element_ids": [
+      "e252",
+      "e253",
+      "e254",
+      "e255"
+    ],
+    "pages": [
+      12,
+      13
+    ],
+    "structure_path": [
+      "1. Ins. by Act 17 of 1929, s. 2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e252",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00110",
+      "element_ids": [
+        "e252",
+        "e253",
+        "e254",
+        "e255"
+      ],
+      "page_start": 12,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Ins. by Act 17 of 1929, s. 2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00111",
+    "text": "37. General liability of guardian as trustee.—Nothing in either of the two last foregoing sections\nshall be construed to deprive a ward or his representative of any remedy against his guardian, or the\nrepresentative of the guardian, which, not being expressly provided in either of those sections, any\nother beneficiary or his representative would have against his trustee or the representative of the\ntrustee.\n\nTermination of guardianship",
+    "element_ids": [
+      "e256",
+      "e257"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "37. General liability of guardian as trustee.—Nothing in either of the two last foregoing sections"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e256",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00111",
+      "element_ids": [
+        "e256",
+        "e257"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "37. General liability of guardian as trustee.—Nothing in either of the two last foregoing sections"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00112",
+    "text": "38. Right of survivorship among joint guardians.—On the death of one of two or more joint\nguardians, the guardianship continues to the survivor or survivors until a further appointment is made\nby the Court.",
+    "element_ids": [
+      "e258"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "38. Right of survivorship among joint guardians.—On the death of one of two or more joint"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e258",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00112",
+      "element_ids": [
+        "e258"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "38. Right of survivorship among joint guardians.—On the death of one of two or more joint"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00113",
+    "text": "39. Removal of guardian. —The Court may, on the application of any person interested, or of its\nown motion, remove a guardian appointed or declared by the Court, or a guardian appointed by will or\nother instrument, for any of the following causes, namely:—\n\n(a) for abuse of his trust;\n\n(b) for continued failure to perform the duties of his trust;\n\n(c) for incapacity to perform the duties of his trust;\n\n(d) for ill-treatment, or neglect to take proper care, of his ward;\n\n(e) for contumacious disregard of any provision of this Act or of any order of the Court;\n\n(f) for conviction of an offence implying, in the opinion of the Court, a defect of character\nwhich unfits him to be the guardian of his ward;\n\n(g) for having an interest adverse to the faithful performance of his duties;\n\n(h) for ceasing to reside within the local limits of the jurisdiction of the Court;\n\n(i) in the case of a guardian of the property, for bankruptcy or insolvency;\n\n(j) by reason of the guardianship of the guardian ceasing, or being liable to cease, under the law\nto which the minor is subject:\n\nProvided that a guardian appointed by will or other instrument, whether he has been declared\nunder this Act or not, shall not be removed—\n\n(a) for the cause mentioned in clause (g) unless the adverse interest accrued after the death of\nthe person who appointed him, or it is shown that that person made and maintained the\nappointment in ignorance of the existence of the adverse interest, or\n\n(b) for the cause mentioned in clause (h) unless such guardian has taken up such a residence as,\nin the opinion of the Court, renders it impracticable for him to discharge the functions of guardian.",
+    "element_ids": [
+      "e259",
+      "e260",
+      "e261",
+      "e262",
+      "e263",
+      "e264",
+      "e265",
+      "e266",
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271",
+      "e272"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "39. Removal of guardian. —The Court may, on the application of any person interested, or of its"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e259",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00113",
+      "element_ids": [
+        "e259",
+        "e260",
+        "e261",
+        "e262",
+        "e263",
+        "e264",
+        "e265",
+        "e266",
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271",
+        "e272"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "39. Removal of guardian. —The Court may, on the application of any person interested, or of its"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00114",
+    "text": "40. Discharge of guardian.—(1) If a guardian appointed or declared by the Court desires to resign\nhis office, he may apply to the Court to be discharged.\n\n(2) If the Court finds that there is sufficient reason for the application, it shall discharge him, and if\nthe guardian making the application is the Collector and the State Government approves of his\napplying to be discharged, the Court shall in any case discharge him.",
+    "element_ids": [
+      "e273",
+      "e274"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "40. Discharge of guardian.—(1) If a guardian appointed or declared by the Court desires to resign"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e273",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00114",
+      "element_ids": [
+        "e273",
+        "e274"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "40. Discharge of guardian.—(1) If a guardian appointed or declared by the Court desires to resign"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00115",
+    "text": "41. Cessation of authority of guardian.—(1) The powers of a guardian of the person cease—\n\n(a) by his death, removal or discharge;\n\n(b) by the Court of Wards assuming superintendence of the person of the ward;\n1. See now Order XXXII, rules 1 and 4(2), in the First Schedule to the Code of Civil Procedure, 1908 (Act 5 of\n1908).\n\nIndiaCode\n\n14\n\n(c) by the ward ceasing to be a minor;\n\n(d) in the case of a female ward, by her marriage to a husband who is not unfit to be guardian of\nher person or, if the guardian was appointed or declared by the Court, by her marriage to a husband\nwho is not, in the opinion of the Court, so unfit; or\n\n(e) in the case of a ward whose father was unfit to be guardian of the person of the ward, by the\nfather ceasing to be so or, if the father was deemed by the Court to be so unfit, by his ceasing to be\nso in the opinion of the Court.\n\n(2) The powers of a guardian of the property cease—\n\n(a) by his death, removal or discharge;\n\n(b) by the Court of Wards assuming superintendence of the property of the ward; or\n\n(c) by the ward ceasing to be a minor.\n\n(3) When for any cause the powers of a guardian cease, the Court may require him or, if he is dead,\nhis representative to deliver as it directs any property in his possession or control belonging to the\nward or any accounts in his possession or control relating to any past or present property of the ward.\n\n(4) When he has delivered the property or accounts as required by the Court, the Court may\ndeclare him to be discharged from his liabilities save as regards any fraud which may subsequently be\ndiscovered.",
+    "element_ids": [
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280",
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288"
+    ],
+    "pages": [
+      13,
+      14
+    ],
+    "structure_path": [
+      "41. Cessation of authority of guardian.—(1) The powers of a guardian of the person cease—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e275",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00115",
+      "element_ids": [
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280",
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288"
+      ],
+      "page_start": 13,
+      "page_end": 14,
+      "section_numbers": [],
+      "structure_path": [
+        "41. Cessation of authority of guardian.—(1) The powers of a guardian of the person cease—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00116",
+    "text": "42. Appointment to successor to guardian dead, discharged or removed.—When a guardian\nappointed or declared by the Cowl is discharged, or, under the law to which the ward is subject,\nceases to be entitled to act, or when any such guardian or a guardian appointed by will or other\ninstrument is removed or dies, the Court, of its own motion or on application under Chapter II, may, if\nthe ward is still a minor, appoint or declare another guardian of his person or property, or both, as the\ncase may be.",
+    "element_ids": [
+      "e289"
+    ],
+    "pages": [
+      14
+    ],
+    "structure_path": [
+      "42. Appointment to successor to guardian dead, discharged or removed.—When a guardian"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e289",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 14,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00116",
+      "element_ids": [
+        "e289"
+      ],
+      "page_start": 14,
+      "page_end": 14,
+      "section_numbers": [],
+      "structure_path": [
+        "42. Appointment to successor to guardian dead, discharged or removed.—When a guardian"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00117",
+    "text": "CHAPTER IV\n\nSUPPLEMENTAL PROVISIONS",
+    "element_ids": [
+      "e290",
+      "e291"
+    ],
+    "pages": [
+      14
+    ],
+    "structure_path": [
+      "CHAPTER IV"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e290",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 14,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00117",
+      "element_ids": [
+        "e290",
+        "e291"
+      ],
+      "page_start": 14,
+      "page_end": 14,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER IV"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00118",
+    "text": "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those\norders.—(1) The Court may, on the application of any person interested or of its own motion, make\nan order regulating the conduct or proceedings of any guardian appointed or declared by the Court.\n\n(2) Where there are more guardians than one of a ward, and they are unable to agree upon a\nquestion affecting his welfare, any of them may apply to the Court for its direction, and the Court may\nmake such order respecting the matter in difference as it thinks fit.\n\n(3) Except where it appears that the object of making an order under sub-section (1) or\nsub-section (2) would be defeated by the delay, the Court shall, before making the order, direct notice\nof the application therefor or of the intention of the Court to make it, as the case may be, to be given,\nin a case under sub-section (1), to the guardian or, in a case under sub-section (2), to the guardian who\nhas not made the application\n\n(4) In case of disobedience to an order made under sub-section (1) or sub-section (2), the order\nmay be enforced in the same manner as an injunction granted under section 492 or section 493 of the\nCode of Civil Procedure (14 of 1882), in a case under sub-section (1), as if the ward were the plaintiff\nand the guardian were the defendant or, in a case under sub-section (2), as if the guardian who made\nthe application were the plaintiff and the other guardian were the defendant.\n\nIndiaCode\n\n15\n\n(5) Except in a case under sub-section (2), nothing in this section shall apply to a Collector who is,\nas such, a guardian.",
+    "element_ids": [
+      "e292",
+      "e293",
+      "e294",
+      "e295",
+      "e296",
+      "e297",
+      "e298"
+    ],
+    "pages": [
+      14,
+      15
+    ],
+    "structure_path": [
+      "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e292",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 14,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00118",
+      "element_ids": [
+        "e292",
+        "e293",
+        "e294",
+        "e295",
+        "e296",
+        "e297",
+        "e298"
+      ],
+      "page_start": 14,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "43. Orders for regulating conduct or proceedings of guardians, and enforcement of those"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00119",
+    "text": "44. Penalty for removal of ward from jurisdiction.—If, for the purpose or with the effect of\npreventing the Court from exercising its authority with respect to a ward, a guardian appointed or\ndeclared by the Court removes the ward from the limits of the jurisdiction of the Court in\ncontravention of the provisions of section 26, he shall be liable, by order of the Court, to find not\nexceeding one thousand rupees, or to imprisonment in the civil jail for a term which may extend to six\nmonths.",
+    "element_ids": [
+      "e299"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "44. Penalty for removal of ward from jurisdiction.—If, for the purpose or with the effect of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e299",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00119",
+      "element_ids": [
+        "e299"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "44. Penalty for removal of ward from jurisdiction.—If, for the purpose or with the effect of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00120",
+    "text": "45. Penalty for contumacy.—(1) In the following cases, namely:—\n\n(a) if a person having the custody of a minor fails to produce him or cause him to be produced\nin compliance with a direction under section 12, sub-section (1), or to do his utmost to compel the\nminor to return to the custody of his guardian in obedience to an order under section 25,\nsub-section (1), or\n\n(b) if a guardian appointed or declared by the Court fails to deliver to the Court, within the time\nallowed by or under clause (b) of section 34, a statement required under that clause, or to exhibit\naccounts in compliance with a requisition under clause (c) of that section, or to pay into the Court\nthe balance due from him on those accounts in compliance with a requisition under clause (d) of\nthat section, or\n\n(c) if a person who has ceased to be a guardian, or the representative of such a person, fails to\ndeliver any property or accounts in compliance with a requisition under section 41, sub-section (3),\n\nthe person, guardian or representative, as the case may be, shall be liable, by order of the Court, to\nfine not exceeding one hundred rupees, and in case of recusancy to further fine not exceeding ten\nrupees for each day after the first during which the default continues, and not exceeding five hundred\nrupees in the aggregate, and to detention in the civil jail until he undertakes to produce the minor or\ncause him to be produced, or to compel his return, or to deliver the statement, or to exhibit the\naccounts, or to pay the balance, or to deliver the property or accounts, as the case may be.\n\n(2) If a person who has been released from detention on giving an undertaking under\nsub-section (1) fails to carry out the undertaking within the time allowed by the Court, the Court may\ncause him to be arrested and re-committed to the civil jail.",
+    "element_ids": [
+      "e300",
+      "e301",
+      "e302",
+      "e303",
+      "e304",
+      "e305"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "45. Penalty for contumacy.—(1) In the following cases, namely:—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e300",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00120",
+      "element_ids": [
+        "e300",
+        "e301",
+        "e302",
+        "e303",
+        "e304",
+        "e305"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "45. Penalty for contumacy.—(1) In the following cases, namely:—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00121",
+    "text": "46. Reports by Collectors and subordinate Courts.—(1) The Court may call upon the Collector,\nor upon any court subordinate to the Court, for a report on any matter arising in any proceeding under\nthis Act and treat the report as evidence.\n\n(2) For the purpose of preparing the report the Collector or the Judge of the subordinate Court as\nthe case may be, shall make such inquiry as he deems necessary, and may for the pruposes of the\ninquiry exercise any power of compelling the attendance of a witness to give evidence or produce a\ndocument which is conferred on a Court by the 1Code of Civil Procedure (14 of 1882).",
+    "element_ids": [
+      "e306",
+      "e307"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "46. Reports by Collectors and subordinate Courts.—(1) The Court may call upon the Collector,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e306",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00121",
+      "element_ids": [
+        "e306",
+        "e307"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "46. Reports by Collectors and subordinate Courts.—(1) The Court may call upon the Collector,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00122",
+    "text": "47. Orders appealable.— An appeal shall lie to the High Court from an order made by a 2***\nCourt,—\n\n(a) under section 7, appointing or declaring or refusing to appoint or declare a guardian; or,\n\n(b) under section 9, sub-section (3), returning an application ; or,",
+    "element_ids": [
+      "e308",
+      "e309",
+      "e310"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "47. Orders appealable.— An appeal shall lie to the High Court from an order made by a 2***"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e308",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00122",
+      "element_ids": [
+        "e308",
+        "e309",
+        "e310"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "47. Orders appealable.— An appeal shall lie to the High Court from an order made by a 2***"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00123",
+    "text": "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908).\n2. The word “District” rep. by Act 4 of 1926, s. 4.\n\nIndiaCode\n\n16\n\n(c) under section 25, making or refusing to make an order for the return of a ward to the\ncustody of his guardian; or,\n\n(d) under section 26, refusing leave for, the removal of award from the limits of the jurisdiction\nof the Court, or imposing conditions with respect thereto; or,\n\n(e) under section 28 or section 29, refusing permission to a guardian to do an act referred to in\nthe section; or,\n\n(f) under section 32, defining, restricting or extending the powers of a guardian ; or,\n\n(g) under section 39, removing a guardian ; or,\n\n(h) under section 40, refusing to discharge a guardian; or,\n\n(i) under section 43, regulating the conduct or proceedings of a guardian or settling a matter in\ndifference between joint guardians, or enforcing the order ; or,\n\n(j) under section 44 or section 45, imposing a penalty.",
+    "element_ids": [
+      "e311",
+      "e312",
+      "e313",
+      "e314",
+      "e315",
+      "e316",
+      "e317",
+      "e318",
+      "e319",
+      "e320",
+      "e321"
+    ],
+    "pages": [
+      15,
+      16
+    ],
+    "structure_path": [
+      "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e311",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00123",
+      "element_ids": [
+        "e311",
+        "e312",
+        "e313",
+        "e314",
+        "e315",
+        "e316",
+        "e317",
+        "e318",
+        "e319",
+        "e320",
+        "e321"
+      ],
+      "page_start": 15,
+      "page_end": 16,
+      "section_numbers": [],
+      "structure_path": [
+        "1. See now the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00124",
+    "text": "48. Finality of other orders.—Save as provided by the last foregoing section and by 1section 622\nof the Code of Civil Procedure (14 of 1882), an order made under this Act shall be final and shall not\nbe liable to be contested by suit or otherwise.",
+    "element_ids": [
+      "e322"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "48. Finality of other orders.—Save as provided by the last foregoing section and by 1section 622"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e322",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00124",
+      "element_ids": [
+        "e322"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [],
+      "structure_path": [
+        "48. Finality of other orders.—Save as provided by the last foregoing section and by 1section 622"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00125",
+    "text": "49. Costs.—The costs of any proceeding under this Act, including the costs of maintaining a\nguardian or other person in the civil jail, shall, subject to any rules made by the High Court under this\nAct, be in the discretion of the Court in which the proceeding is had.",
+    "element_ids": [
+      "e323"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "49. Costs.—The costs of any proceeding under this Act, including the costs of maintaining a"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e323",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00125",
+      "element_ids": [
+        "e323"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [],
+      "structure_path": [
+        "49. Costs.—The costs of any proceeding under this Act, including the costs of maintaining a"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00126",
+    "text": "50. Power of High Court to make rules.—(1) In addition to any other power to make rules\nconferred expressly or impliedly by this Act, the High Court may from time to time make rules\nconsistent with this Act—\n\n(a) as to the matters respecting which, and the time at which, reports should be called for from\nCollectors and subordinate Courts;\n\n(b) as to the allowances to be granted to, and the security to be required from, guardians, and\nthe cases in which such allowances should be granted;\n\n(c) as to the procedure to be followed with respect to applications of guardians for permission\nto do acts referred to in sections 28 and 29 ;\n\n(d) as to the circumstances in which such requisitions as arc mentioned in clauses (a), (b), (c)\nand (d) of section 34 should be made ;\n\n(e) as to the preservation of statements and accounts delivered and exhibited by guardians ;\n\n(ff) as to the inspection of those statements and accounts by persons interested ;\n\n2[(ff) as to the audit of accounts under section 34A, the class of persons who should be\nappointed to audit accounts, and the scales of remuneration to be granted to them;]\n\n(g) as to the custody of money, and securities for money, belonging to wards ;\n\n(h) as to the securities on which money belonging to wards may be invested ;\n\n(i) as to the education of wards for whom guardians, not being Collectors, have been appointed\nor declared by the Court ; and,\n\n(j) generally, for the guidance of the Courts in carrying out the purposes of this Act.\n\n(2) Rules under clauses (a) and (1) of sub-section (1) shall not have effect until they have been\napproved by the State Government, nor shall any rule under this section have effect until it has been\npublished in the Official Gazette.",
+    "element_ids": [
+      "e324",
+      "e325",
+      "e326",
+      "e327",
+      "e328",
+      "e329",
+      "e330",
+      "e331",
+      "e332",
+      "e333",
+      "e334",
+      "e335",
+      "e336"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "50. Power of High Court to make rules.—(1) In addition to any other power to make rules"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e324",
+      "semantic_root_role": "",
+      "element_count": 13,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00126",
+      "element_ids": [
+        "e324",
+        "e325",
+        "e326",
+        "e327",
+        "e328",
+        "e329",
+        "e330",
+        "e331",
+        "e332",
+        "e333",
+        "e334",
+        "e335",
+        "e336"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [],
+      "structure_path": [
+        "50. Power of High Court to make rules.—(1) In addition to any other power to make rules"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00127",
+    "text": "1. See now s. 115 of the Code of Civil Procedure, 1908 (Act 5 of 1908).\n2. Ins. by Act 17 of 1929, s. 3.\n\nIndiaCode\n\n17",
+    "element_ids": [
+      "e337",
+      "e338",
+      "e339"
+    ],
+    "pages": [
+      16,
+      17
+    ],
+    "structure_path": [
+      "1. See now s. 115 of the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e337",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 16,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00127",
+      "element_ids": [
+        "e337",
+        "e338",
+        "e339"
+      ],
+      "page_start": 16,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "1. See now s. 115 of the Code of Civil Procedure, 1908 (Act 5 of 1908)."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00128",
+    "text": "51. Applicability of Act to guardians already appointed by Court.—A guardian appointed by,\nor holding a certificate of administration from, a Civil Court under any enactment repealed by this Act\nshall, save as may be prescribed, be subject to the provisions of this Act, and of the rules made under\nit, as if he had been appointed or declared by the Court under Chapter II.",
+    "element_ids": [
+      "e340"
+    ],
+    "pages": [
+      17
+    ],
+    "structure_path": [
+      "51. Applicability of Act to guardians already appointed by Court.—A guardian appointed by,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e340",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 17,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00128",
+      "element_ids": [
+        "e340"
+      ],
+      "page_start": 17,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "51. Applicability of Act to guardians already appointed by Court.—A guardian appointed by,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00129",
+    "text": "52. [Amendment of Indian Majority Act.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the\nSchedule.",
+    "element_ids": [
+      "e341"
+    ],
+    "pages": [
+      17
+    ],
+    "structure_path": [
+      "52. [Amendment of Indian Majority Act.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e341",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 17,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00129",
+      "element_ids": [
+        "e341"
+      ],
+      "page_start": 17,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "52. [Amendment of Indian Majority Act.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00130",
+    "text": "53. [Amendment of Chapter XXXI of the Code of Civil Procedure.] Rep. by the Code of Civil\nProcedure, 1908 (5 of 1908), s. 156 and the Fifth Schedule.\n\nTHE SCHEDULE.—[Enactments repealed.] Rep. by the Repealing Act, 1938 (1 of 1938), s. 2 and\nthe Schedule.\n\n______\n\nIndiaCode",
+    "element_ids": [
+      "e342",
+      "e343",
+      "e344",
+      "e345"
+    ],
+    "pages": [
+      17
+    ],
+    "structure_path": [
+      "53. [Amendment of Chapter XXXI of the Code of Civil Procedure.] Rep. by the Code of Civil"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e342",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 17,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00130",
+      "element_ids": [
+        "e342",
+        "e343",
+        "e344",
+        "e345"
+      ],
+      "page_start": 17,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "53. [Amendment of Chapter XXXI of the Code of Civil Procedure.] Rep. by the Code of Civil"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

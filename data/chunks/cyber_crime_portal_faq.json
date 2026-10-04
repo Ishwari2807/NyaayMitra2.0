@@ -1,0 +1,1104 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "भारत सरकार Government of india",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "भारत सरकार Government of india"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "भारत सरकार Government of india"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "गृह मंत्रालय Ministry of Home Affairs",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "गृह मंत्रालय Ministry of Home Affairs"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "गृह मंत्रालय Ministry of Home Affairs"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "Language हिन्दी English",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Language हिन्दी English"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Language हिन्दी English"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "हिन्दी",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "हिन्दी"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "हिन्दी"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "English",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "English"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "English"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "A A\n\nA\n\nA\n\nराष्ट्रीय साइबर अपराध रिपोर्टिंग पोर्टल National Cyber Crime Reporting Portal\n\nMegamenu\n\nHome\n\nRegister a Complaint + Women/Children Related Crime + Register ANONYMOUSLY Register & TRACK FINANCIAL FRAUD OTHER CYBER CRIME\n\nWomen/Children Related Crime + Register ANONYMOUSLY Register & TRACK\n\nRegister ANONYMOUSLY\n\nRegister & TRACK",
+    "element_ids": [
+      "e6",
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "A A"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 10,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6",
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "A A"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "FINANCIAL FRAUD",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FINANCIAL FRAUD"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FINANCIAL FRAUD"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "OTHER CYBER CRIME\n\nTrack your Complaint\n\nReport & Check Suspect + Suspect Repository + Check Suspect (mobile, email, etc.) Check Suspect (Website/App) Report Suspect + Report Suspect to I4C Report Abuse to Social Media Know your Mobile connections - TAFCOP File an Appeal with GAC\n\nSuspect Repository + Check Suspect (mobile, email, etc.) Check Suspect (Website/App)\n\nCheck Suspect (mobile, email, etc.)\n\nCheck Suspect (Website/App)\n\nReport Suspect + Report Suspect to I4C Report Abuse to Social Media Know your Mobile connections - TAFCOP\n\nReport Suspect to I4C\n\nReport Abuse to Social Media\n\nKnow your Mobile connections - TAFCOP\n\nFile an Appeal with GAC\n\nCyber Volunteers + Cyber Volunteer Concept Terms & Conditions Register as a volunteer What is Unlawful Content Login\n\nCyber Volunteer Concept\n\nTerms & Conditions\n\nRegister as a volunteer\n\nWhat is Unlawful Content\n\nLogin\n\nLearning Corner + FAQ Advisories Cyber Safety Tips Cyber Awareness Media Gallery + Photo Gallery Video Gallery Radio Jingles Daily Digest Training Resources Screen Reader RTI Public Notices CPGRAMS Public Notices",
+    "element_ids": [
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "OTHER CYBER CRIME"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 18,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "OTHER CYBER CRIME"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "FAQ\n\nAdvisories\n\nCyber Safety Tips\n\nCyber Awareness\n\nMedia Gallery + Photo Gallery Video Gallery Radio Jingles\n\nPhoto Gallery\n\nVideo Gallery\n\nRadio Jingles\n\nDaily Digest\n\nTraining Resources\n\nScreen Reader\n\nRTI Public Notices\n\nCPGRAMS Public Notices\n\nContact Us\n\nHome\n\nFAQ (Frequently Asked Questions)",
+    "element_ids": [
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e35",
+      "semantic_root_role": "",
+      "element_count": 16,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "What is the purpose of National Cyber Crime Reporting Portal?\n\nThis portal is an initiative of Government of India to facilitate victims/ complainants to report cyber crime complaints online. This portal caters all types of cyber crime complaints including complaints pertaining to online , Child Sexual Exploitative and Abuse Material (CSEAM) or sexually explicit content such as Rape/Gang Rape (RGR) content and other cyber crimes such as mobile crimes, online and social media crimes, online financial frauds, ransomware, hacking, cryptocurrency crimes and online cyber trafficking.\n\nThe portal also provides an option of reporting an anonymous complaint for reporting online\nor sexually explicit content such as Rape/Gang Rape (RGR) content.",
+    "element_ids": [
+      "e51",
+      "e52",
+      "e53"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What is the purpose of National Cyber Crime Reporting Portal?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e51",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e51",
+        "e52",
+        "e53"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What is the purpose of National Cyber Crime Reporting Portal?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "What is CSEAM - Child Sexual Exploitative and Abuse Material?\n\nChild Sexual Exploitative and Abuse Material (CSEAM) refers to material containing sexual image in any\nform, of a child who is abused or sexually exploited. Section 67 (B) of IT Act states that “it is\npunishable for publishing or transmitting of material depicting children in sexually explicit act,\netc. in electronic form”.\n\nApart from this portal, are there any alternative ways to remove objectionable content\nfrom social media websites?\n\nYes, most of the social media website like Facebook, YouTube, Twitter and Instagram\netc. have the option of reporting or flagging the objectionable contents. The social media\nplatforms may take appropriate action based on the contents reported to them as per their\ncontent policy.\n\nWhich type of cybercrimes I can report on the portal?\n\nThere are two options for reporting cybercrimes on the portal:\n\nReport Crime related to Women/ Child – Under this section, you can report complaints\npertaining to online , (CSEAM) Child Sexual Exploitative and Abuse Material or\nsexually explicit content such as Rape/Gang Rape (RGR) content.\n\nReport Other Cybercrimes – Under this option, you can report complaints pertaining\nto cybercrimes such as mobile crimes, online and social media crimes, online financial\nfrauds, ransomware, hacking, cryptocurrency crimes and online cyber trafficking.",
+    "element_ids": [
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What is CSEAM - Child Sexual Exploitative and Abuse Material?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e54",
+      "semantic_root_role": "",
+      "element_count": 8,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What is CSEAM - Child Sexual Exploitative and Abuse Material?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "What kind of information, should I provide to report complaint?\n\nThere are two options for filing a report on www.cybercrime.gov.in:\n(i) Report Crime related to Women/ Child and\n(ii) Report Other Cybercrimes.\nIn case of “Report Crime related to Women/ Child”, there are two ways of registering your complaint:\n\nReport Anonymously - You can report crimes related to online Rape\nor Gang Rape (RGR) content anonymously. You do not need to provide any personal\ninformation. However, information related to the complaint should be accurate and complete\nfor the police authorities to take necessary action.\n\nReport Anonymously - You can report crimes related to online Rape\nor Gang Rape (RGR) content anonymously. You do not need to provide any personal\ninformation. However, information related to the complaint should be accurate and complete\nfor the police authorities to take necessary action.\n\nReport and Track – Under this option, fields marked with a red asterisk (*) are mandatory.\nIt is important that the police authorities receive accurate and complete information related\nto the complaint. Therefore, you should provide required information such as your name,\nphone number, email address, details of the complaint and necessary information supporting\nthe complaint.\n\nReport and Track – Under this option, fields marked with a red asterisk (*) are mandatory.\nIt is important that the police authorities receive accurate and complete information related\nto the complaint. Therefore, you should provide required information such as your name,\nphone number, email address, details of the complaint and necessary information supporting\nthe complaint.\n\nInitially, register yourself using your name and valid Indian mobile\nnumber. You will receive a One Time Password (OTP) on your mobile number. The OTP\nremains valid for 30 minutes only. Once successfully register your mobile number on the\nportal, you will be able to report the complaint.\n\nYou can use “Report Other Cybercrimes” option available on the portal to report other\ncybercrimes such as mobile crimes, online and social media crimes, online financial frauds,\nransomware, hacking, cryptocurrency crimes and online cyber trafficking. You are required to\nregister yourself using your name and valid Indian mobile number. You will receive a One\nTime Password (OTP) on your mobile number. The OTP remains valid for 30 minutes only.\nOnce successfully register your mobile number on the portal, you will be able to report\nthe complaint by selecting appropriate category and sub- category.\n\nWhich State/ UT shall I select while reporting a complaint?\n\nIn case of filing a complaint under “Report Crime related to Women/ Child” section by\nusing “Report Anonymously” option, the victims’ location/ State/ UT where the incident has\nhappened should be selected. If it is a report pertaining to website hosting\nRape or Gang Rape (RGR) content, complainant may select his/her current State/ UT of resident.\n\nAs a responsible citizen kindly use “Report and Track” option for reporting the crime,\nsince it would help the Law enforcement agencies to contact you for providing further details.",
+    "element_ids": [
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What kind of information, should I provide to report complaint?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e62",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What kind of information, should I provide to report complaint?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "How can I file the complaints about other cybercrimes?\n\nIn case of other cybercrimes, you can opt for “Report Other Cybercrimes” section. You\nare required to register yourself using your name and valid Indian mobile number. You will\nreceive a One Time Password (OTP) on your mobile number. The OTP remains valid for 30\nminutes only. Once you successfully register your mobile number on the portal, you will be\nable to report the complaint by selecting appropriate category and sub- category.\n\nUnder this section, fields marked with a red asterisk (*) are mandatory. It is important that\nthe police authorities receive accurate and complete information related to the complaint.\nTherefore, you should provide required information such as your name, phone number, email\naddress, details of the complaint and necessary information supporting the complaint.\n\nWhat type of information would be considered as evidence while filing my complaint\nrelated to cybercrime?\n\nIt is important to keep any evidence you may have related to your complaint. Evidence may include:\n\nCredit card receipt\n\nCredit card receipt\n\nBank statement\n\nBank statement\n\nEnvelope (if received a letter or item through mail or courier)\n\nEnvelope (if received a letter or item through mail or courier)\n\nBrochure/Pamphlet\n\nBrochure/Pamphlet\n\nOnline money transfer receipt\n\nOnline money transfer receipt\n\nCopy of email\n\nCopy of email\n\nURL of webpage\n\nURL of webpage\n\nChat transcripts\n\nChat transcripts\n\nSuspect mobile number screenshot\n\nSuspect mobile number screenshot\n\nVideos\n\nVideos\n\nImages\n\nImages\n\nAny other kind of document\n\nAny other kind of document",
+    "element_ids": [
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "How can I file the complaints about other cybercrimes?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e73",
+      "semantic_root_role": "",
+      "element_count": 29,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "How can I file the complaints about other cybercrimes?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "What action will be taken if complainant reports any false complaint/information?\n\nProviding false information could make complainant liable to penal action as per the Indian Penal Code.",
+    "element_ids": [
+      "e102",
+      "e103"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What action will be taken if complainant reports any false complaint/information?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e102",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e102",
+        "e103"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What action will be taken if complainant reports any false complaint/information?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "Can I report a complaint without uploading any information?\n\nIt is recommended that you provide as much information about the complaint as\npossible so that the police authorities working on the complaint are able to take appropriate\nand prompt action.",
+    "element_ids": [
+      "e104",
+      "e105"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Can I report a complaint without uploading any information?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e104",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e104",
+        "e105"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Can I report a complaint without uploading any information?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "What happens once I report a complaint?\n\nThe complaints reported on the portal shall be handled by the concerned State/UT police\nauthorities based on your selection of State/ UT while reporting the complaint.",
+    "element_ids": [
+      "e106",
+      "e107"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What happens once I report a complaint?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e106",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e106",
+        "e107"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What happens once I report a complaint?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "Will I be informed that my complaint has been submitted successfully?\n\nYes, once your complaint is submitted, you will receive a confirmation message in the\nportal itself. In case, you have filed a complaint through “Report and Track” option or “Report\nOther Cybercrime” section available on the portal, you will receive a SMS and an e-mail with\na complaint reference number on your registered mobile number and e-mail id.",
+    "element_ids": [
+      "e108",
+      "e109"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Will I be informed that my complaint has been submitted successfully?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e108",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e108",
+        "e109"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Will I be informed that my complaint has been submitted successfully?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "Can I check the status of my complaint?\n\nYou will be able to check status of your complaint if you have reported the complaint\nusing “Report and Track” option or “Report Other Cybercrime” section available on the portal.\nThe complainant will receive a acknowledgement number which can be used to track the\nprogress of the complaint by logging on the portal and clicking on “check status” option.",
+    "element_ids": [
+      "e110",
+      "e111"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Can I check the status of my complaint?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e110",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e110",
+        "e111"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Can I check the status of my complaint?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "Can I withdraw my complaint from the portal?\n\nA complaint filed under REPORT WOMEN/ CHILD RELATED CRIME section cannot be withdrawn. Complaint filed under REPORT CYBER CRIME section can be withdrawn before it is converted into FIR.",
+    "element_ids": [
+      "e112",
+      "e113"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Can I withdraw my complaint from the portal?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e112",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e112",
+        "e113"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Can I withdraw my complaint from the portal?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "What is Hash value and what is its purpose?\n\nHash value is an alpha- numeric value of a fixed length that uniquely identifies data\n(e.g. 0800fc577294c34e0b28ad2839435945). Hash value acts as a unique fingerprint/\nnumber to a digital file you upload as evidence in the portal (e.g. Images, Videos,\nDocuments etc.,). The hash value that you receive will ensure the integrity of digital\nevidence uploaded on the portal.\n\nCan I file a complaint if I am an Indian citizen but have been victimized online/ in\ncyberspace by a foreign national or company?\n\nYes, you may file a complaint related to all types of cyber crime on the portal.\n\nCan I file a complaint if I have been victimized online/ in cyberspace by an individual or\ncompany in India, but I am not a citizen of India?\n\nYes, you can register a complaint on the portal by selecting an appropriate section and\noption of reporting a complaint pertaining to cybercrime:\n\nReport Crime related to Women/ Child – Under this section, you can report complaints\npertaining to online , (CSEAM) Child Sexual Exploitative and Abuse Material) or\nsexually explicit content such as Rape/Gang Rape (RGR) content. There are options\nto register complaint under this section:\n\nReport Anonymously - You can report crimes related to online\nRape or Gang Rape (RGR) content anonymously. You do not need to provide\nany personal information. However, information related to the complaint should\nbe accurate and complete for the police authorities to take necessary action.\n\nReport Anonymously - You can report crimes related to online\nRape or Gang Rape (RGR) content anonymously. You do not need to provide\nany personal information. However, information related to the complaint should\nbe accurate and complete for the police authorities to take necessary action.\n\nReport and Track – Under this option, kindly register yourself using\nyour name and valid Indian mobile number. You will receive a One Time\nPassword (OTP) on your mobile number. The OTP remains valid for 30 minutes only. Once you successfully register your mobile number on the portal, you will\nbe able to report the complaint.\n\nReport and Track – Under this option, kindly register yourself using\nyour name and valid Indian mobile number. You will receive a One Time\nPassword (OTP) on your mobile number. The OTP remains valid for 30 minutes only. Once you successfully register your mobile number on the portal, you will\nbe able to report the complaint.\n\nReport Other Cybercrimes – Under this section, you can report complaints pertaining\nto cybercrimes such as mobile crimes, online and social media crimes, online financial\nfrauds, ransomware, hacking, cryptocurrency crimes and online cyber trafficking. You\nare required to register yourself using your name and valid Indian mobile number. You\nwill receive One Time Password (OTP) on your mobile number. The OTP remains\nvalid for 30 minutes only. Once you successfully register your mobile number on the\nportal, you will be able to report the complaint.\n\nFeedback",
+    "element_ids": [
+      "e114",
+      "e115",
+      "e116",
+      "e117",
+      "e118",
+      "e119",
+      "e120",
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "What is Hash value and what is its purpose?"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e114",
+      "semantic_root_role": "",
+      "element_count": 13,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e114",
+        "e115",
+        "e116",
+        "e117",
+        "e118",
+        "e119",
+        "e120",
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "What is Hash value and what is its purpose?"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "FAQ\n\nContact Us\n\nWebsite Policies\n\nPrivacy Policy\n\nDisclaimer",
+    "element_ids": [
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "FAQ"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e127",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "FAQ"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

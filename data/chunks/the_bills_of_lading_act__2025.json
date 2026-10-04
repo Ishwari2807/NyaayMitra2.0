@@ -1,0 +1,879 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "The Bills of Lading Act, 2025",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "The Bills of Lading Act, 2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "The Bills of Lading Act, 2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "(ACT NO. 18 OF 2025)",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "(ACT NO. 18 OF 2025)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "(ACT NO. 18 OF 2025)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "[As on the 19th September, 2025]",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "[As on the 19th September, 2025]"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "[As on the 19th September, 2025]"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "IndiaCode",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "IndiaCode"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "IndiaCode"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "LIST OF ABBREVIATIONS USED\n\nG.S.R. .\n.\n.\n. . for General Statutory Rules.\nS.O. .\n.\n.\n.\n. ,, Statutory Order.\nNotifn.\n.\n.\n.\n.\n.\n,,\nNotification.\n\nIndiaCode",
+    "element_ids": [
+      "e5",
+      "e6",
+      "e7"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "LIST OF ABBREVIATIONS USED"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5",
+        "e6",
+        "e7"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "LIST OF ABBREVIATIONS USED"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "THE BILLS OF LADING ACT, 2025\n\n_______",
+    "element_ids": [
+      "e8",
+      "e9"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "THE BILLS OF LADING ACT, 2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e8",
+        "e9"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "THE BILLS OF LADING ACT, 2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "ARRANGEMENT OF SECTIONS\n\n______",
+    "element_ids": [
+      "e10",
+      "e11"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "ARRANGEMENT OF SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e10",
+        "e11"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "ARRANGEMENT OF SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "SECTIONS\n\n1.Short title and commencement.\n2.Rights under bills of lading to vest in consignee or endorsee.\n3.Right of stoppage in transit or claims for freight not to be affected.\n4.Bill of lading in hands of consignee, etc., conclusive evidence of shipment as against master,\netc.\n5.Power of Central Government to give directions.\n6.Repeal and savings.\n\nIndiaCode",
+    "element_ids": [
+      "e12",
+      "e13",
+      "e14"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e12",
+        "e13",
+        "e14"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "THE BILLS OF LADING ACT, 2025",
+    "element_ids": [
+      "e15"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "THE BILLS OF LADING ACT, 2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e15"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "THE BILLS OF LADING ACT, 2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "ACT NO. 18 OF 2025\n\n[24th July, 2025.]\n\nAn Act to make provisions for the transfer of rights of suit and all liabilities to the consignee\n\nnamed in a bill of lading and every endorsee of a bill of lading, to whom the property in the\ngoods mentioned in the bill of lading shall pass, upon or by reason of a consignment or an\nendorsement, and for matters connected therewith or related thereto.\n\nWHEREAS by the custom of merchants, a bill of lading of goods being transferable by\nendorsement, the property in the goods may thereby pass to the endorsee, but nevertheless all rights\nin respect of the contract contained in the bill of lading continue in the original shipper or owner;\n\nAND WHEREAS it is expedient that such rights should pass with the property;\n\nAND WHEREAS it frequently happens that the goods in respect of which bills of lading purport to\nbe signed have not been laden on board;\n\nAND WHEREAS it is proper that such bills of lading in the hands of a bona fide holder for value\nshould not be questioned by the master or other person signing the same, on the ground of the goods\nnot having been laden as aforesaid.\n\nBE it enacted by Parliament in the Seventy-sixth Year of the Republic of India as follows:—",
+    "element_ids": [
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "ACT NO. 18 OF 2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 9,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "ACT NO. 18 OF 2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "1. Short title and commencement.—(1) This Act may be called the Bills of Lading Act, 2025.\n\n(2) It shall come into force on such date1 as the Central Government may, by notification in the\nOfficial Gazette, appoint.",
+    "element_ids": [
+      "e25",
+      "e26"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "1. Short title and commencement.—(1) This Act may be called the Bills of Lading Act, 2025."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e25",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e25",
+        "e26"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Short title and commencement.—(1) This Act may be called the Bills of Lading Act, 2025."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "2. Rights under bills of lading to vest in consignee or endorsee.—(1) Every consignee of goods\nnamed in a bill of lading and every endorsee of a bill of lading, to whom the property in the goods\ntherein mentioned shall pass, upon or by reason of such consignment or endorsement, shall have\ntransferred to and vested in him all rights of suit, and be subject to the same liabilities in respect of such\ngoods as if the contract contained in the bill of lading had been made with such consignee or endorsee.",
+    "element_ids": [
+      "e27"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "2. Rights under bills of lading to vest in consignee or endorsee.—(1) Every consignee of goods"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e27",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e27"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Rights under bills of lading to vest in consignee or endorsee.—(1) Every consignee of goods"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "3. Right of stoppage in transit or claims for freight not to be affected.—Nothing contained\nin this Act shall prejudice or affect––\n\n(a) any right of stoppage in transit; or\n\n(b) any right to claim freight against the original shipper or owner; or\n\n(c) any liability of the consignee or endorsee by reason or in consequence of his being such\nconsignee or endorsee, or of his receipt of the goods by reason or in consequence of such\nconsignment or endorsement.\n\n4.Bill of lading in hands of consignee, etc., conclusive evidence of shipment as against\nmaster, etc.—(1)Every bill of lading in the hands of a consignee or endorsee for valuable consideration,\nrepresenting goods to have been shipped on board a vessel, shall be conclusive evidence of such\nshipment as, against the master or other person signing the same, notwithstanding that such goods or\nsome part thereof may not have been so shipped:\n\n1. 10th day of September, 2025, vide notification No. S.O. 4083 (E), dated 8th September, 2025, see Gazette of India,\nExtraordinary, Part II, s. 3 (ii).\n\nIndiaCode\n\nProvided that the master or other person so signing may exonerate himself in respect of such\nmisrepresentation, by showing that it was caused without any default on his part, and wholly by the\nfraud of the shipper, or of the holder, or some person under whom the holder claims.\n\n(2) Nothing in sub-section (1) shall apply where the holder of the bill of lading shall have had actual\nnotice at the time of receiving such bill of lading that the goods had not been laden on board.\n\n5.Power of Central Government to give directions.—The Central Government may give such\ndirections, as it may deem necessary, for carrying out all or any of the provisions of this Act.\n\n6.Repeal and savings.—(1)The Indian Bills of Lading Act, 1856 (9 of 1856) is hereby repealed.\n\n(2) Notwithstanding the repeal of the Act referred to in sub-section (1), it shall not affect,––\n\n(a) the previous operation of the Act so repealed or anything done or any action taken or purported\nto have been or taken or suffered thereunder under the Act so repealed; or\n\n(b) any right, privilege, obligation or liability acquired, accrued or incurred under the Act so\nrepealed; or\n\n(c) the operation of any rule, notification, order, notice or direction issued, or exemption granted\nthereunder, in so far as it is not inconsistent with the provisions of this Act, and shall be in force until\nit is repealed or superseded under the corresponding provisions of this Act; or\n\n(d) any penalty incurred in respect of any contravention under the Act so repealed; or\n\n(e) any proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty\nas aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any\nsuch penalty may be imposed as if that Act had not been repealed;\n\n(f) the reference made to the repealed Act under any other legislation, rule, order, or any other\nlegal instrument and any such reference shall, in so far as it is not inconsistent with the provisions\nof this Act, be construed as a reference to this Act or its corresponding provisions.\n\n(3) Without prejudice to the provisions of sub-section (2), the provisions of section 6 of the General\nClauses Act, 1897 (10 of 1897) shall apply with regard to the effect of repeal.\n\nIndiaCode",
+    "element_ids": [
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "3. Right of stoppage in transit or claims for freight not to be affected.—Nothing contained"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 20,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Right of stoppage in transit or claims for freight not to be affected.—Nothing contained"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "STATEMENT OF OBJECTS AND REASONS\n\nThe Indian Bills of Lading Act, 1856 (the said Act) was enacted to amend the Law relating to Bills\nof Lading with a view to address two aspects, namely,––\n\n(a) transferring of all rights in respect of the contract contained in the bill of lading along with\nthe property to the consignee or endorsee of the bill of lading; and\n\n(b) ensuring that a transferred bill of lading in the hands of a bona fide holder be treated as\nconclusive evidence of the goods being laden on board.",
+    "element_ids": [
+      "e48",
+      "e49",
+      "e50",
+      "e51"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "STATEMENT OF OBJECTS AND REASONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e48",
+        "e49",
+        "e50",
+        "e51"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "STATEMENT OF OBJECTS AND REASONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "2. Since endorsement of rights over bills of lading is an important aspect of its use in carriage of\ngoods by sea, the provisions of the said Act have extensive commercial applicability and is crucial to\ndetermine the transfer of rights of suit and liabilities to endorsees and consignees to whom any bill of\nlading has been transferred.",
+    "element_ids": [
+      "e52"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "2. Since endorsement of rights over bills of lading is an important aspect of its use in carriage of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e52",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e52"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Since endorsement of rights over bills of lading is an important aspect of its use in carriage of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "3. Though the substantive aspects of the said Act continue to remain relevant, being a pre\nindependence statute, it is imperative that the provisions of the said Act require to be revisited without\nchanging the substance or spirit of the said Act, so as to bring it in line with modern legislations in order\nto facilitate simplification and ease of understanding. Further, a new provision is proposed to be\nincorporated to empower the Central Government to issue directions to carry out the provisions of the\nproposed legislation.",
+    "element_ids": [
+      "e53"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "3. Though the substantive aspects of the said Act continue to remain relevant, being a pre"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e53",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e53"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Though the substantive aspects of the said Act continue to remain relevant, being a pre"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "4. Accordingly, it is proposed to repeal and reenact the said Act with a new legislation and for the\nsaid purpose, to introduce the Bills of Lading Bill, 2024 in Parliament.",
+    "element_ids": [
+      "e54"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "4. Accordingly, it is proposed to repeal and reenact the said Act with a new legislation and for the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e54",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e54"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Accordingly, it is proposed to repeal and reenact the said Act with a new legislation and for the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "5. The Bill seeks to achieve the above objectives.",
+    "element_ids": [
+      "e55"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "5. The Bill seeks to achieve the above objectives."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e55"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "5. The Bill seeks to achieve the above objectives."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "SARBANANDA SONOWAL.\n\nNEW DELHI;\nThe 6th August, 2024.\n\nIndiaCode",
+    "element_ids": [
+      "e56",
+      "e57",
+      "e58"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "SARBANANDA SONOWAL."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e56",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e56",
+        "e57",
+        "e58"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "SARBANANDA SONOWAL."
+      ],
+      "parent_section_id": null
+    }
+  }
+]

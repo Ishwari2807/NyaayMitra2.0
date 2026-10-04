@@ -1,0 +1,3907 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "1",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "The Control of National Highways (Land and Traffic)",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "The Control of National Highways (Land and Traffic)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "The Control of National Highways (Land and Traffic)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "Act, 2002",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Act, 2002"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Act, 2002"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "(ACT NO. 13 OF 2003)",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "(ACT NO. 13 OF 2003)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "(ACT NO. 13 OF 2003)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "[As on the 15th July, 2026]",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "[As on the 15th July, 2026]"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "[As on the 15th July, 2026]"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "IndiaCode",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "IndiaCode"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "IndiaCode"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "2",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "2"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "2"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "LIST OF AMENDING ACTS\n\n1.The Finance Act, 2017 (7 of 2017).\n2.The Tribunals Reforms Act, 2021 (33 of 2021).\n3.The Jan Vishwas (Amendment of Provisions) Act, 2026 (8 of 2026).\n_______\n\nLIST OF ABBREVIATIONS USED\nCl., cls.\n.\n.\n.\n. . for Clause, clauses.\nIns.\n.\n.\n.\n.\n. ,, Inserted.\nNotifn.\n.\n.\n.\n.\n.\n,,\nNotification.\nS., ss.\n.\n.\n.\n.\n.\n,,\nSection, sections.\nSch.\n.\n.\n.\n.\n.\n,,\nSchedule.\nSubs.\n.\n.\n.\n.\n.\n,,\nSubstituted.\nw.e.f.\n.\n.\n.\n.\n.\n,,\nwith effect from.\n\nIndiaCode\n\n3",
+    "element_ids": [
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "LIST OF AMENDING ACTS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "LIST OF AMENDING ACTS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC)\n\nACT, 2002\n_______________",
+    "element_ids": [
+      "e13",
+      "e14"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e13",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e13",
+        "e14"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "ARRANGEMENT OF SECTIONS\n\n_______________",
+    "element_ids": [
+      "e15",
+      "e16"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "ARRANGEMENT OF SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e15",
+        "e16"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "ARRANGEMENT OF SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "CHAPTER I\n\nPRELIMINARY\n\nSECTIONS\n\n1.Short title, extent and commencement.\n2.Definitions.",
+    "element_ids": [
+      "e17",
+      "e18",
+      "e19",
+      "e20"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "CHAPTER I"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e17",
+        "e18",
+        "e19",
+        "e20"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER I"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "CHAPTER II\n\nHIGHWAYS ADMINISTRATION\n\n3.Establishment of Highway Administrations.\n4.Powers and functions of Highway Administration.\n5.[Omitted].\n6.[Omitted.].\n7.[Omitted.].\n8.[Omitted.].\n9.[Omitted.].\n10.[Omitted.].\n11.[Omitted.].\n12.[Omitted.].\n13.[Omitted.].\n14.Appeal.\n15.[Omitted.]\n16.[Omitted.]\n17.Conditions as to making of interim order.\n18.[Omitted.]\n19.Limitation.\n20.Appointment of officers to act on behalf of Highway Administration.\n21.Delegation of powers.\n22.Power to transfer jurisdiction.",
+    "element_ids": [
+      "e21",
+      "e22",
+      "e23"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "CHAPTER II"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e21",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e21",
+        "e22",
+        "e23"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER II"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "CHAPTER III\n\nPREVENTION OF UNAUTHORISED OCCUPATION OF HIGHWAY LAND AND THEIR REMOVAL\n\n23.Highway land to be deemed as property of Central Government.\n24.Prevention of occupation of highway land.\n25.Grant of lease or licence of highway land for temporary use.\n26.Removal of unauthorised occupation.\n27.Recovery of cost of removal of unauthorised occupation and fine imposed.\n\nIndiaCode\n\n4",
+    "element_ids": [
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "CHAPTER III"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e24",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER III"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "CHAPTER IV\n\nCONTROL OF ACCESS TO THE NATIONAL HIGHWAYS\n\nSECTIONS\n\n28.Right of access.\n29.Procedure for permission to access to Highway.\n30.Regulation or diversion of access, etc.",
+    "element_ids": [
+      "e29",
+      "e30",
+      "e31",
+      "e32"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "CHAPTER IV"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e29",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e29",
+        "e30",
+        "e31",
+        "e32"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER IV"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "CHAPTER V\n\nREGULATION OF DIFFERENT TYPES OF TRAFFIC ON NATIONAL HIGHWAYS\n\n31.Highway Administration to regulate traffic when Highway deemed unsafe.\n32.Prohibition of use of heavy vehicles on certain Highways.\n33.Temporary closure of traffic on Highway.\n34.Permanent closure of Highway.\n35.Power to restrict the use of vehicles.\n36.Prevention and repair of damage to Highway.\n37.Prohibition to leave vehicles or animals in dangerous position.",
+    "element_ids": [
+      "e33",
+      "e34",
+      "e35"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "CHAPTER V"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e33",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e33",
+        "e34",
+        "e35"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER V"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "CHAPTER VI\n\nREGULATION OF CONSTRUCTION ON HIGHWAY LAND FOR PUBLIC UTILITIES, DRAINS, ETC.\n\n38.Construction on highway land.",
+    "element_ids": [
+      "e36",
+      "e37",
+      "e38"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "CHAPTER VI"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e36",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e36",
+        "e37",
+        "e38"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VI"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "CHAPTER VII\n\nOFFENCE AND PENALTY\n\n39.Offence and penalty.",
+    "element_ids": [
+      "e39",
+      "e40",
+      "e41"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "CHAPTER VII"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e39",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e39",
+        "e40",
+        "e41"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VII"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "CHAPTER VIII\n\nMISCELLANEOUS\n\n40.[Omitted.]\n41.Finality of orders.\n42.Duty of village officials.\n43.Conduct of inquiry.\n44.Officers of Highways Administration to be public servant.\n45.Protection of action taken in good faith.\n46.Offences by companies.\n47.Procedure for service of notices, etc.\n48.Act to have overriding effect.\n49.Power to remove difficulties.\n50.Power to make rules.\n\nIndiaCode\n\n5",
+    "element_ids": [
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "CHAPTER VIII"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e42",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VIII"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC) ACT, 2002",
+    "element_ids": [
+      "e47"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC) ACT, 2002"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e47",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e47"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "THE CONTROL OF NATIONAL HIGHWAYS (LAND AND TRAFFIC) ACT, 2002"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "ACT NO. 13 OF 2003\n\n[14th January, 2003.]\n\nAn Act to provide for control of land within the National Highways, right of way and traffic\n\nmoving on the National Highways and also for removal of unauthorised occupation thereon.\n\nBE it enacted by Parliament in the Fifty-third Year of the Republic of India as follows:—",
+    "element_ids": [
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "ACT NO. 13 OF 2003"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "ACT NO. 13 OF 2003"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "CHAPTER I\n\nPRELIMINARY",
+    "element_ids": [
+      "e53",
+      "e54"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "CHAPTER I"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e53",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "front_matter",
+      "is_retrievable": false,
+      "is_substantive_legal_content": false
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e53",
+        "e54"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER I"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "1. Short title, extent and commencement.—(1) This Act may be called the Control of National\nHighways (Land and Traffic) Act, 2002.\n\n(2) It extends to the whole of India.\n\n(3) It shall come into force on such date1 as the Central Government may, by notification in the\nOfficial Gazette, appoint; and different dates may be appointed for different provisions of this Act.",
+    "element_ids": [
+      "e55",
+      "e56",
+      "e57"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Section 1"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "1"
+      ],
+      "parent_section_id": "e55",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e55",
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e55",
+        "e56",
+        "e57"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [
+        "1"
+      ],
+      "structure_path": [
+        "Section 1"
+      ],
+      "parent_section_id": "e55"
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "2. Definitions.—In this Act, unless the context otherwise requires,—\n\n2*\n*\n*\n*\n*\n\n(b) “building” means any work of construction done in any manner by use of any material and\nincludes a farm building for agricultural purposes, plinth, doorstep, wall, drain, advertisement board\nand other things fixed with such building;\n\n(c) “construct”, with its grammatical variations, in relation to a building, means to construct,\nreconstruct, erect, re-erect, extend or alter structurally a building;\n\n(d) “cost of land” means the market value of the land as determined by the competent authority of\nthe State Government or the Government of the Union territory appointed for such determination, as\nthe case may be;\n\n3[(da) “Court” means the principal Civil Court of original jurisdiction in a district, and includes\nthe High Court in exercise of its ordinary original civil jurisdiction;]\n\n(e) “Highway” means a National Highway declared as such under section 2 of the National\nHighways Act, 1956 (48 of 1956) and includes any Expressway or Express Highway vested in the\nCentral Government, whether surfaced or unsurfaced, and also includes—\n\n(i) all lands appurtenant to the Highway, whether demarcated or not, acquired for the purpose\nof the Highway or transferred for such purpose by the State Government to the Central\nGovernment;\n\n(ii) all bridges, culverts, tunnels, causeways, carriageways and other structures constructed on\nor across such Highway; and\n\n(iii) all trees, railings, fences, posts, paths, signs, signals, kilometre stone and other Highway\naccessories and materials on such Highways;\n\n(f) “Highway Administration” means the Highway Administration established under section 3;\n\n(g) “highway land” means the land of which the Central Government is, or is deemed to be, the\nowner under sub-section (1) of section 23;\n\n(h) “land” includes benefits arising out of land and things attached to the earth or permanently\nfastened to anything attached to the earth;\n\n1. 27th January, 2005, vide Notifn. No. S.O. 96(E), dated 27th January, 2005, see Gazette of India, Extraordinary, Part II\nsec. 3(ii).\n2. Clause (a) omitted by Act 33 of 2021, s. 24 (w.e.f. 4-4-2021).\n3. Ins. by s. 24, ibid. (w.e.f. 4-4-2021).\n\nIndiaCode\n\n6\n\n(i) “means of access” means any permanent means of access, whether private or public, for\nvehicles of any kind;\n\n(j) “premises” means any land or building or part of a building and includes—\n\n(i) the garden, grounds and outhouses, if any, appertaining to such building or part of a\nbuilding; and\n\n(ii) any fittings affixed to such building or part of a building for the more beneficial\nenjoyment thereof;\n\n(k) “prescribed” means prescribed by rules made under this Act;\n\n1*\n*\n*\n*\n*\n\n(m) “unauthorised occupation” means any occupation of the highway land, without permission\nunder this Act for such purpose, by a person who—\n\n(i) is trespasser on the Highway; or\n\n(ii) for the time being is paying or is liable to pay to other person rent or any portion of the\nrent of the premises on a Highway; or\n\n(iii) lives in or otherwise uses any premises on a Highway; or\n\n(iv) is a rent-free tenant of any premises on a Highway; or\n\n(v) is a licensee of any premises on a Highway for its possession; or\n\n(vi) is liable to pay damages to the owner of any premises on a Highway for the use or\npossession of such premises;\n\n(n) “vehicle” means a barrow, sledge, plough, drag and any wheeled or tracked conveyance of\nany description capable of being used on a Highway.",
+    "element_ids": [
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "Section 2"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e58",
+      "semantic_root_role": "legal_section",
+      "element_count": 30,
+      "section_numbers": [
+        "2"
+      ],
+      "parent_section_id": "e58",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e58",
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [
+        "2"
+      ],
+      "structure_path": [
+        "Section 2"
+      ],
+      "parent_section_id": "e58"
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "CHAPTER II\n\n2[HIGHWAYS ADMINISTRATION 3***]",
+    "element_ids": [
+      "e88",
+      "e89"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "CHAPTER II"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e88",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e88",
+        "e89"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER II"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "3. Establishment of Highway Administrations.—(1) The Central Government shall, by notification\nin the Official Gazette,—\n\n(a) establish, for the purposes of this Act, a body or authority consisting of one or more officers\nof the Central Government or the State Government to be known as Highway Administration to\nexercise powers and discharge functions conferred on it under this Act; and\n\n(b) define the limits of the Highway within which, or the length of Highway on which, a Highway\nAdministration shall have jurisdiction:\n\nProvided that the Central Government may, in the notification issued under this sub-section or by\nany general or special order, impose any condition or limitation subject to which a Highway\nAdministration shall exercise powers and discharge functions conferred on it under this Act.\n\n(2) The Central Government may establish one or more Highway Administrations for a State or\nUnion territory or for a Highway under sub-section (1).\n\n(3) Subject to the provisions of this Act, the Highway Administration shall exercise powers and\ndischarge functions conferred on it under this Act in such manner as may be prescribed.",
+    "element_ids": [
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "Section 3"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e90",
+      "semantic_root_role": "legal_section",
+      "element_count": 6,
+      "section_numbers": [
+        "3"
+      ],
+      "parent_section_id": "e90",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e90",
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [
+        "3"
+      ],
+      "structure_path": [
+        "Section 3"
+      ],
+      "parent_section_id": "e90"
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "4. Powers and functions of Highway Administration.—A Highway Administration shall exercise\npowers and discharge functions throughout its jurisdiction specified under this Act subject to such\nconditions or limitations as may be imposed by the notification issued under sub-section (1) of section 3\nand by any general or special order made in this behalf by the Central Government.\n\n1. Clause (l) omitted by Act 33 of 2021, s. 24 (w.e.f. 4-4-2021).\n2. Subs. by Act 7 of 2017, s. 167, for the heading (w.e.f. 26-5-2017).\n3. The words “AND TRIBUNALS, ETC.” omitted by Act 33 of 2021, s. 24 (w.e.f. 4-4-2021).\n\nIndiaCode\n\n7",
+    "element_ids": [
+      "e96",
+      "e97",
+      "e98",
+      "e99"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "structure_path": [
+      "Section 4"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e96",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "4"
+      ],
+      "parent_section_id": "e96",
+      "page_start": 6,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e96",
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e96",
+        "e97",
+        "e98",
+        "e99"
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "section_numbers": [
+        "4"
+      ],
+      "structure_path": [
+        "Section 4"
+      ],
+      "parent_section_id": "e96"
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "5. [Establishment of Tribunals.] Omitted by the Tribunals Reforms Act, 2021 (33 of 2021), s. 24\n(w.e.f. 4-4-2021).",
+    "element_ids": [
+      "e100"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e100",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e100"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "6. [Composition of Tribunal.] Omitted by the Finance Act, 2017 (7 of 2017), s. 167\n(w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e101"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e101",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e101"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "7. [Qualifications for appointment as Presiding Officer.] Omitted by s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e102"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e102",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e102"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "8. [Term of office.] Omitted by s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e103"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e103",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e103"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "9. [Staff of Tribunal.] Omitted by s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e104"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e104",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e104"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "10. [Salary and allowances and other terms and conditions of service of Presiding Officer.]Omitted\nby s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e105"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e105",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e105"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "11. [Vacancies in Tribunal.]Omitted by s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e106"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e106",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e106"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "12. [Resignation and removal.] Omitted by s. 167, ibid. (w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e107"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e107",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e107"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "13. [Financial and administrative powers of Presiding Officer.] Omitted by s. 167, ibid.\n(w.e.f. 26-5-2017).",
+    "element_ids": [
+      "e108"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e108",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e108"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "1[14. Appeal.—An appeal from any order passed, or any action taken, excluding issuance or serving\nof notices, under sections 26, 27, 28, 36, 37 and 38 by the Highway Administration or an officer\nauthorised on its behalf, as the case may be, shall lie to the Court.]",
+    "element_ids": [
+      "e109"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Section 14"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e109",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "14"
+      ],
+      "parent_section_id": "e109",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e109",
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e109"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [
+        "14"
+      ],
+      "structure_path": [
+        "Section 14"
+      ],
+      "parent_section_id": "e109"
+    }
+  },
+  {
+    "chunk_id": "chunk_00037",
+    "text": "15. [Bar of jurisdiction.] Omitted by the Tribunal Reforms Act, 2021 (33 of 2021), s. 24\n(w.e.f. 4-4-2021).",
+    "element_ids": [
+      "e110"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e110",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00037",
+      "element_ids": [
+        "e110"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00038",
+    "text": "16. [Procedure and powers of Tribunal.] Omitted bys. 24, ibid., (w.e.f. 4-4-2021).",
+    "element_ids": [
+      "e111"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e111",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00038",
+      "element_ids": [
+        "e111"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00039",
+    "text": "17. Conditions as to making of interim order.—Notwithstanding anything contained in any other\nprovision of this Act or in any other law for the time being in force, no interim order (whether by way of\ninjunction or stay or in any other manner) shall be made on, or in any proceeding relating to, an\napplication or appeal unless—\n\n(a) copies of such application or appeal and of all documents in support of the plea for such\ninterim order are furnished to the party against whom such application is made or appeal is\npreferred; and\n\n(b) opportunity is given to such party to be heard in the matter:\n\nProvided that the 2[Court] may dispense with the requirements of clauses (a) and (b) and make an\ninterim order as an exceptional measure if it is satisfied, for reasons to be recorded in writing, that it is\nnecessary so to do for preventing any loss being caused to the applicant or the appellant, as the case may\nbe; which cannot be adequately compensated in money; but any such interim order shall, if it is not\nsooner vacated, cease to have effect on the expiry of a period of fourteen days from the date on which it is\nmade unless the said requirements have been complied with before the expiry of that period and the\n2[Court] has continued the operation of the interim order.",
+    "element_ids": [
+      "e112",
+      "e113",
+      "e114",
+      "e115"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Section 17"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e112",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "17"
+      ],
+      "parent_section_id": "e112",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e112",
+    "provenance": {
+      "chunk_id": "chunk_00039",
+      "element_ids": [
+        "e112",
+        "e113",
+        "e114",
+        "e115"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [
+        "17"
+      ],
+      "structure_path": [
+        "Section 17"
+      ],
+      "parent_section_id": "e112"
+    }
+  },
+  {
+    "chunk_id": "chunk_00040",
+    "text": "18. [Execution of orders of Tribunal.] Omitted by Act the Tribunals Reforms Act, 2021 (33 of 2021),\ns. 24 (w.e.f. 4-4-2021).",
+    "element_ids": [
+      "e116"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e116",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00040",
+      "element_ids": [
+        "e116"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00041",
+    "text": "19. Limitation.—Every appeal to the 2[Court] under this Act shall be preferred within a period of\nsixty days from the date on which the order appealed against has been made:\n\nProvided that an appeal may be admitted after the expiry of the said period of sixty days, if the\nappellant satisfies the 2[Court] that he had sufficient cause for not preferring the appeal within the\nspecified period.\n\n1. Subs. by Act 33 of 2021, s. 24, for section 14 (w.e.f. 4-4-2021).\n2. Subs. by s. 24, ibid., for “Tribunal” (w.e.f. 4-4-2021).\n\nIndiaCode\n\n8",
+    "element_ids": [
+      "e117",
+      "e118",
+      "e119",
+      "e120",
+      "e121"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "structure_path": [
+      "Section 19"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e117",
+      "semantic_root_role": "legal_section",
+      "element_count": 5,
+      "section_numbers": [
+        "19"
+      ],
+      "parent_section_id": "e117",
+      "page_start": 7,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e117",
+    "provenance": {
+      "chunk_id": "chunk_00041",
+      "element_ids": [
+        "e117",
+        "e118",
+        "e119",
+        "e120",
+        "e121"
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "section_numbers": [
+        "19"
+      ],
+      "structure_path": [
+        "Section 19"
+      ],
+      "parent_section_id": "e117"
+    }
+  },
+  {
+    "chunk_id": "chunk_00042",
+    "text": "20. Appointment of officers to act on behalf of Highway Administration.—(1) The Highway\nAdministration may, if it thinks fit after the approval of the Central Government, by notification in the\nOfficial Gazette, appoint such—\n\n(a) gazetted officer of the Central Government; or\n\n(b) gazetted officer of the State Government; or\n(c) officer of the National Highways Authority of India constituted under section 3 of the\nNational Highways Authority of India Act, 1988 (68 of 1988) or any other authority constituted under\nany other enactment, equivalent to a gazetted officer of the Central Government or the State\nGovernment,\n\nto exercise such powers and discharge such functions of the Highway Administration as may be specified\nin the notification.\n\n(2) The Highway Administration may specify in the notification under sub-section (1), the limits of\nthe Highway within which or the length of the Highway on which an officer appointed under that\nsub-section shall exercise the powers and discharge the functions.",
+    "element_ids": [
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "Section 20"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e122",
+      "semantic_root_role": "legal_section",
+      "element_count": 5,
+      "section_numbers": [
+        "20"
+      ],
+      "parent_section_id": "e122",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e122",
+    "provenance": {
+      "chunk_id": "chunk_00042",
+      "element_ids": [
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [
+        "20"
+      ],
+      "structure_path": [
+        "Section 20"
+      ],
+      "parent_section_id": "e122"
+    }
+  },
+  {
+    "chunk_id": "chunk_00043",
+    "text": "21. Delegation of powers.—The Central Government may, by notification in the Official Gazette,\ndirect that any power exercisable by it (except the powers conferred by section 50) under this Act shall,\nsubject to such conditions, if any, as may be specified in the notification, be exercisable by a State\nGovernment or any other authority or an officer of the State Government as may be specified in the\nnotification.",
+    "element_ids": [
+      "e127"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "Section 21"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e127",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "21"
+      ],
+      "parent_section_id": "e127",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e127",
+    "provenance": {
+      "chunk_id": "chunk_00043",
+      "element_ids": [
+        "e127"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [
+        "21"
+      ],
+      "structure_path": [
+        "Section 21"
+      ],
+      "parent_section_id": "e127"
+    }
+  },
+  {
+    "chunk_id": "chunk_00044",
+    "text": "22. Power to transfer jurisdiction.—The Central Government may, at any time, by notification in\nthe Official Gazette, transfer the jurisdiction of a Highway Administration defined under clause (b) of\nsub-section (1) of section 3 to other Highway Administration, and on the transfer the Highway\nAdministration shall cease to have and such other Highway Administration shall, subject to the\nconditions, if any, specified in the notification, have all the powers and authority exercisable by the\nHighway Administration before such transfer of jurisdiction.",
+    "element_ids": [
+      "e128"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "Section 22"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e128",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "22"
+      ],
+      "parent_section_id": "e128",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e128",
+    "provenance": {
+      "chunk_id": "chunk_00044",
+      "element_ids": [
+        "e128"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [
+        "22"
+      ],
+      "structure_path": [
+        "Section 22"
+      ],
+      "parent_section_id": "e128"
+    }
+  },
+  {
+    "chunk_id": "chunk_00045",
+    "text": "CHAPTER III\n\nPREVENTION OF UNAUTHORISED OCCUPATION OF HIGHWAY LAND AND THEIR REMOVAL",
+    "element_ids": [
+      "e129",
+      "e130"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "CHAPTER III"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e129",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00045",
+      "element_ids": [
+        "e129",
+        "e130"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER III"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00046",
+    "text": "23. Highway land to be deemed as property of Central Government.—(1) All lands forming parts\nof a Highway which vest in the Central Government or which do not already vest in the Central\nGovernment but have been acquired for the purpose of Highway shall, for the purposes of this Act, and\nother Central Acts, be deemed to be the property of the Central Government as owner thereof.\n\n(2) The Highway Administration shall cause to be maintained a record in the prescribed manner in\nwhich the particulars of the lands, relating to the Highway, of which the Central Government is the owner\nshall be entered and the entries of the particulars of such lands in any record maintained for such purpose\nbefore the commencement of this Act shall be deemed to be the entry of the particulars of such lands\nmade in the first said record and accordingly the Central Government shall be deemed to be the owner of\nthe lands regarding which the entries have been made in such records maintained before the\ncommencement of this Act.\n\n(3) Any person claiming against the ownership of the Central Government referred to in\nsub-section (2) shall make written complaint to the Highway Administration and prove his claim before it\nand the Highway Administration, after considering the evidence produced by such person, may correct\nsuch records or reject the claim.",
+    "element_ids": [
+      "e131",
+      "e132",
+      "e133"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "Section 23"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e131",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "23"
+      ],
+      "parent_section_id": "e131",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e131",
+    "provenance": {
+      "chunk_id": "chunk_00046",
+      "element_ids": [
+        "e131",
+        "e132",
+        "e133"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [
+        "23"
+      ],
+      "structure_path": [
+        "Section 23"
+      ],
+      "parent_section_id": "e131"
+    }
+  },
+  {
+    "chunk_id": "chunk_00047",
+    "text": "24. Prevention of occupation of highway land.—(1) No person shall occupy any highway land or\ndischarge any material through drain on such land without obtaining prior permission, for such purpose in\nwriting, of the Highway Administration or any officer authorised by such Administration in this behalf.\n\n(2) The Highway Administration or the officer authorised under sub-section (1) may, on an\napplication made by a person in this behalf and having regard to the safety and convenience of traffic,\ngrant permission to such person—\n\nIndiaCode\n\n9\n\n(i) to place a movable structure on the Highway in front of any building owned by him or to\nmake a movable structure on support of such building and over the Highway, or\n\n(ii) to put up a temporary lawning or tent or other similar construction or a temporary stall or\nscaffolding on the Highway, or\n\n(iii) to deposit or cause to be deposited, building materials, goods, for sale or other articles on any\nHighway, or\n\n(iv) to make a temporary excavation for carrying out any repairs or improvements to adjoining\nbuildings,\n\nand such permission shall be granted subject to the conditions and on payment of the rent and other\ncharges by issuing permit in the form as may be prescribed:\n\nProvided that no such permission shall be valid beyond a period of one month at a time from the date\non which the permission has been granted unless it is renewed by the Highway Administration or such\nofficer on an application made by such person for the renewal of the permission.\n\n(3) The permission granted under sub-section (2) shall specify therein—\n\n(i) the time up to which the permission is granted;\n\n(ii) the purpose of such permission;\n\n(iii) the portion of the Highway in respect of which the permission has been granted,\n\nand shall be accompanied with a plan or sketch of such portion of Highway.\n\n(4) The person, to whom the permit has been issued under sub-section (2), shall produce the permit\nfor inspection whenever called upon to do so by any officer of the Highway Administration and shall, on\nthe expiry of the permission granted under such permit, restore the portion of the Highway specified in\nthe permit in such condition as it was immediately before the issuing of such permit and deliver the\npossession of such portion to the Highway Administration.\n\n(5) The Highway Administration or the officer issuing the permit under sub-section (2) shall maintain\na complete record of all such permits issued, and shall also ensure in every case at the expiration of the\nperiod up to which the permission under a permit is granted under that sub-section that the possession of\nthe portion of the Highway in respect of which such permission was granted has been delivered to the\nHighway Administration.",
+    "element_ids": [
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "structure_path": [
+      "Section 24"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e134",
+      "semantic_root_role": "legal_section",
+      "element_count": 17,
+      "section_numbers": [
+        "24"
+      ],
+      "parent_section_id": "e134",
+      "page_start": 8,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e134",
+    "provenance": {
+      "chunk_id": "chunk_00047",
+      "element_ids": [
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150"
+      ],
+      "page_start": 8,
+      "page_end": 9,
+      "section_numbers": [
+        "24"
+      ],
+      "structure_path": [
+        "Section 24"
+      ],
+      "parent_section_id": "e134"
+    }
+  },
+  {
+    "chunk_id": "chunk_00048",
+    "text": "25. Grant of lease or licence of highway land for temporary use.—The Highway Administration\nor the officer authorised by such Administration in this behalf may, having regard to the safety and\nconvenience of traffic and subject to such conditions as may be prescribed and on payment of prescribed\nrent or other charges, grant lease or licence of highway land to a person for temporary use:\n\nProvided that no such lease shall be valid for more than five years at a time from the date on which\nsuch lease has been granted unless renewed by the Highway Administration or such officer.",
+    "element_ids": [
+      "e151",
+      "e152"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "Section 25"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e151",
+      "semantic_root_role": "legal_section",
+      "element_count": 2,
+      "section_numbers": [
+        "25"
+      ],
+      "parent_section_id": "e151",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e151",
+    "provenance": {
+      "chunk_id": "chunk_00048",
+      "element_ids": [
+        "e151",
+        "e152"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [
+        "25"
+      ],
+      "structure_path": [
+        "Section 25"
+      ],
+      "parent_section_id": "e151"
+    }
+  },
+  {
+    "chunk_id": "chunk_00049",
+    "text": "26. Removal of unauthorised occupation.—(1) Where the Highway Administration or the officer\nauthorised by such Administration in this behalf is of the opinion that it is necessary in the interest of\ntraffic safety or convenience to cancel any permit issued under sub-section (2) of section 24, it may, after\nrecording the reasons in writing for doing so, cancel such permit and, thereupon, the person to whom the\npermission was granted shall, within the period specified by an order made by the Highway\nAdministration or such officer restore the portion of the Highway specified in the permit in such condition\nas it was immediately before the issuing of such permit and deliver the possession of such portion to the\nHighway Administration and in case such person fails to deliver such possession within such period, he\nshall be deemed to be in unauthorised occupation of highway land for the purposes of this section and\nsection 27.\n\n(2) When, as a result of the periodical inspection of highway land or otherwise, the Highway\nAdministration or the officer authorised by such Administration in this behalf is satisfied that any\nunauthorised occupation has taken place on highway land, the Highway Administration or the officer so\n\nIndiaCode\n\n10\n\nauthorised shall serve a notice in a prescribed form on the person causing or responsible for such\nunauthorised occupation requiring him to remove such unauthorised occupation and to restore such\nhighway land in its original condition as before the unauthorised occupation within the period specified in\nthe notice.\n\n(3) The notice under sub-section (2) shall specify therein the highway land in respect of which such\nnotice is issued, the period within which the unauthorised occupation on such land is required to be\nremoved, the place and time of hearing any representation, if any, which the person to whom the notice is\naddressed may make within the time specified in the notice and that failure to comply with such notice\nshall render the person specified in the notice liable to penalty, and summary eviction from the highway\nland in respect of which such notice is issued, under sub-section (6).\n\n(4) The service of the notice under sub-section (2) shall be made by delivering a copy thereof to the\nperson to whom such notice is addressed or to his agent or other person on his behalf or by registered post\naddressed to the person to whom such notice is addressed and an acknowledgment purporting to be signed\nby such person or his agent or other person on his behalf or an endorsement by a postal employee that\nsuch person or his agent or such other person on his behalf has refused to take delivery may be deemed to\nbe prima facie proof of service.\n\n(5) Where the service of the notice is not made in the manner provided under sub-section (4), the\ncontents of the notice shall be advertised in a local newspaper for the knowledge of the person to whom\nthe notice is addressed and such advertisement shall be deemed to be the service of such notice on such\nperson.\n\n(6) Where the service of notice under sub-section (2) has been made under sub-section (4) or\nsub-section (5) and the unauthorised occupation on the highway land in respect of which such notice is\nserved has not been removed within the time specified in the notice for such purpose and no reasonable\ncause has been shown before the Highway Administration or the officer authorised by such\nAdministration in this behalf for not so removing unauthorised occupation, the Highway Administration\nor such officer, as the case may be, shall cause such unauthorised occupation to be removed at the\nexpenses of the Central Government or the State Government, as the case may be, and impose penalty on\nthe person to whom the notice is addressed which shall be five hundred rupees per square metre of the\nland so unauthorisedly occupied and where the penalty so imposed is less than the cost of such land, the\npenalty may be extended equal to such cost.\n\n(7) Notwithstanding anything contained in this section, the Highway Administration or the officer\nauthorised by such Administration in this behalf shall have power without issuing any notice under this\nsection to remove the unauthorised occupation on the highway land, if such unauthorised occupation is in\nthe nature of—\n\n(a) exposing any goods or article—\n\n(i) in open air; or\n\n(ii) through temporary stall, kiosk, booth or any other shop of temporary nature,\n\n(b) construction or erection, whether temporary or permanent, or\n\n(c) trespass or other unauthorised occupation which can be removed easily without use of any\nmachine or other device,\n\nand in removing such occupation, the Highway Administration or such officer may take assistance of the\npolice, if necessary, to remove such occupation by use of the reasonable force necessary for such\nremoval.\n\n(8) Notwithstanding anything contained in this section, if the Highway Administration or the officer\nauthorised by such Administration in this behalf is of the opinion that any unauthorised occupation on the\nhighway land is of such a nature that the immediate removal of which is necessary in the interest of—\n\n(a) the safety of traffic on the Highway; or\n\n(b) the safety of any structure forming part of the Highway,\n\nIndiaCode\n\n11\n\nand no notice can be served on the person responsible for such unauthorised occupation under this section\nwithout undue delay owing to his absence or for any other reason, the Highway Administration or the\nofficer authorised by such Administration may make such construction including alteration of any\nconstruction as may be feasible at the prescribed cost necessary for the safety referred to in clause (a) or\nclause (b) or have such unauthorised occupation removed in the manner specified in sub-section (7).\n\n(9) The Highway Administration or an officer authorised by such Administration in this behalf shall,\nfor the purposes of this section or section 27, have the same powers as are vested in a civil court under the\nCode of Civil Procedure, 1908 (5 of 1908), while trying a suit, in respect of the following matters,\nnamely:—\n\n(a) summoning and enforcing the attendance of any person and examining him on oath;\n\n(b) requiring the discovery and production of documents;\n\n(c) issuing commissions for the examination of witnesses; and\n\n(d) any other matter which may be prescribed,\n\nand any proceeding before such Administration or officer shall be deemed to be a judicial proceeding\nwithin the meaning of sections 193 and 228, and for the purpose of section 196, of the Indian Penal Code\n(45 of 1860) and the Administration or the officer shall be deemed to be a civil court for the purposes of\nsection 195 and Chapter XXVI of the Code of Criminal Procedure, 1973 (2 of 1974).",
+    "element_ids": [
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180"
+    ],
+    "pages": [
+      9,
+      10,
+      11
+    ],
+    "structure_path": [
+      "Section 26"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e153",
+      "semantic_root_role": "legal_section",
+      "element_count": 28,
+      "section_numbers": [
+        "26"
+      ],
+      "parent_section_id": "e153",
+      "page_start": 9,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e153",
+    "provenance": {
+      "chunk_id": "chunk_00049",
+      "element_ids": [
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180"
+      ],
+      "page_start": 9,
+      "page_end": 11,
+      "section_numbers": [
+        "26"
+      ],
+      "structure_path": [
+        "Section 26"
+      ],
+      "parent_section_id": "e153"
+    }
+  },
+  {
+    "chunk_id": "chunk_00050",
+    "text": "27. Recovery of cost of removal of unauthorised occupation and fine imposed.—(1) Where a\nHighway Administration or the officer authorised by such Administration in this behalf has removed any\nunauthorised occupation or made any construction including alteration of construction in respect of any\nunauthorised occupation or repaired any damage under sub-section (2) of section 36, the expenditure\nincurred in such removal or repair together with fifteen per cent. of additional charges or any 1[penalty]\nimposed under this Act shall be recoverable in the manner hereinafter provided in this section.\n\n(2) The Highway Administration or the officer authorised in this behalf by such Administration shall\nserve a copy of the bill in the prescribed form indicating therein the expenditure, additional charges or\n1[penalty] recoverable under sub-section (1) on the person from whom such expenditure, additional\ncharges or 1[penalty] is recoverable and the provisions of section 26 relating to the service of notice shall\napply for the service of copy of the bill under this sub-section as if for the word “notice” the word “bill”\nhas been substituted in that section.\n\n(3) A copy of the bill referred to in sub-section (2) shall be accompanied with a certificate issued by\nthe Highway Administration or the officer authorised by such Administration in this behalf and the\namount indicated in the bill shall be the conclusive proof that such amount is the expenditure actually\nincurred for all or any of the purposes referred to in sub-section (1) as indicated in the bill.\n\n(4) Where a Highway Administration or the officer authorised in this behalf by such Administration\nhas removed any unauthorised occupation or made any construction including alteration of construction\nin respect of any unauthorised occupation or repaired any damage under sub-section (2) of section 36, the\nmaterial, if any, recovered as a result of such removal, construction, alteration or repair shall be retained\nin possession of the Highway Administration or such officer till the payment of the bill in respect thereof\nserved under sub-section (2) and on payment of such bill such material shall be returned to the person\nentitled for the material, but in case of the failure of such payment within the time specified for the\npayment in the bill, the material may be sold by auction by the Highway Administration or such officer\nand after deduction of the amount payable under the bill from the proceeds of the auction, the balance, if\nany, shall be returned to the person entitled therefor.\n\n(5) In case where the proceeds of the auction under sub-section (4) is less than the amount\nrecoverable under the bill referred to in that sub-section, the difference between such proceeds and the\namount so recoverable or where no such auction has been made, the amount recoverable under the bill\nshall, in case of failure of the payment within the time specified in the bill, be recoverable as the arrears of\nland revenue.\n\n1. Subs. by Act 8 of 2026, s. 2 and Sch., for “fine” (w.e.f. 15-7-2026).\n\nIndiaCode\n\n12",
+    "element_ids": [
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186",
+      "e187",
+      "e188"
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "structure_path": [
+      "Section 27"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e181",
+      "semantic_root_role": "legal_section",
+      "element_count": 8,
+      "section_numbers": [
+        "27"
+      ],
+      "parent_section_id": "e181",
+      "page_start": 11,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e181",
+    "provenance": {
+      "chunk_id": "chunk_00050",
+      "element_ids": [
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186",
+        "e187",
+        "e188"
+      ],
+      "page_start": 11,
+      "page_end": 12,
+      "section_numbers": [
+        "27"
+      ],
+      "structure_path": [
+        "Section 27"
+      ],
+      "parent_section_id": "e181"
+    }
+  },
+  {
+    "chunk_id": "chunk_00051",
+    "text": "CHAPTER IV\n\nCONTROL OF ACCESS TO THE NATIONAL HIGHWAYS",
+    "element_ids": [
+      "e189",
+      "e190"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "CHAPTER IV"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e189",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00051",
+      "element_ids": [
+        "e189",
+        "e190"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER IV"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00052",
+    "text": "28. Right of access.—(1) No person shall have right of access to a Highway either through any\nvehicle or on foot by a group of five or more persons except permitted by the Highway Administration\neither generally or specifically in the manner specified in section 29.\n\n(2) The access to a Highway under sub-section (1) shall be subject to the guidelines and instructions\nissued by the Central Government from time to time.\n\n(3) The Highway Administration may, by notification in the Official Gazette, declare a Highway or\nany portion thereof to be limited for access in the manner as specified in such notification and may also\nimpose any restriction or control on such access to, from or across such Highway as specified in that\nnotification.",
+    "element_ids": [
+      "e191",
+      "e192",
+      "e193"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "Section 28"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e191",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "28"
+      ],
+      "parent_section_id": "e191",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e191",
+    "provenance": {
+      "chunk_id": "chunk_00052",
+      "element_ids": [
+        "e191",
+        "e192",
+        "e193"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [
+        "28"
+      ],
+      "structure_path": [
+        "Section 28"
+      ],
+      "parent_section_id": "e191"
+    }
+  },
+  {
+    "chunk_id": "chunk_00053",
+    "text": "29. Procedure for permission to access to Highway.—(1) The general permission under\nsub-section (1) of section 28 shall be given by issuing notification in the Official Gazette for such purpose\nand specific permission under that sub-section shall be given in the manner specified hereinafter under\nthis section.\n\n(2) Any person desirous of obtaining specific permission referred to in sub-section (1) may make an\napplication in the prescribed form to the Highway Administration specifying therein the means of access\nto which such permission relates and shall also be accompanied with such fees as may be prescribed and\nthe Highway Administration shall, after considering the application either give the permission with or\nwithout the terms and conditions as may be prescribed or reject the application as it may deem fit.\n\n(3) In case, where the permission has been given in respect of the application made under\nsub-section (2), the person to whom such permission has been given shall obtain the licence from the\nHighway Administration in the prescribed form enumerating therein the terms and conditions, if any,\nsubject to which such permission has been given, and such permission shall be renewed after such period\nand in such manner as may be prescribed.\n\n(4) If any person contravenes the provisions of sub-section (1) of section 28 or violates any terms and\nconditions subject to which permission has been given under sub-section (2) including non-renewal of\nlicence obtained under sub-section (3), his access to Highway under the permission under sub-section (1)\nor sub-section (3), as the case may be, shall be deemed to be unauthorised access and the Highway\nAdministration or the officer authorised by such Administration shall have the power to remove such\naccess and where necessary, the Highway Administration or such officer may use the necessary force\nwith the assistance of the police to remove such access.",
+    "element_ids": [
+      "e194",
+      "e195",
+      "e196",
+      "e197"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "Section 29"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e194",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "29"
+      ],
+      "parent_section_id": "e194",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e194",
+    "provenance": {
+      "chunk_id": "chunk_00053",
+      "element_ids": [
+        "e194",
+        "e195",
+        "e196",
+        "e197"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [
+        "29"
+      ],
+      "structure_path": [
+        "Section 29"
+      ],
+      "parent_section_id": "e194"
+    }
+  },
+  {
+    "chunk_id": "chunk_00054",
+    "text": "30. Regulation or diversion of access, etc.—(1) Notwithstanding any permission given under\nsub-section (1) or sub-section (2) of section 29, the Highway Administration shall have the power in the\ninterest of the safety and convenience of the traffic to refuse, regulate or divert any proposed or existing\naccess to the Highway.\n\n(2) Where an existing access is diverted, the alternative access given in lieu thereof shall not be\nunreasonably distant from the existing access.",
+    "element_ids": [
+      "e198",
+      "e199"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "Section 30"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e198",
+      "semantic_root_role": "legal_section",
+      "element_count": 2,
+      "section_numbers": [
+        "30"
+      ],
+      "parent_section_id": "e198",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e198",
+    "provenance": {
+      "chunk_id": "chunk_00054",
+      "element_ids": [
+        "e198",
+        "e199"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [
+        "30"
+      ],
+      "structure_path": [
+        "Section 30"
+      ],
+      "parent_section_id": "e198"
+    }
+  },
+  {
+    "chunk_id": "chunk_00055",
+    "text": "CHAPTER V\n\nREGULATION OF DIFFERENT TYPES OF TRAFFIC ON NATIONAL HIGHWAYS",
+    "element_ids": [
+      "e200",
+      "e201"
+    ],
+    "pages": [
+      12
+    ],
+    "structure_path": [
+      "CHAPTER V"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e200",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00055",
+      "element_ids": [
+        "e200",
+        "e201"
+      ],
+      "page_start": 12,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER V"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00056",
+    "text": "31. Highway Administration to regulate traffic when Highway deemed unsafe.—(1)\nNotwithstanding anything contained in this Act, the Highway Administration shall have the power to\nregulate and control the plying of vehicles on the Highway for the proper management thereof.\n\n(2) If at any time the Highway Administration is satisfied on the information received by it or\notherwise that any Highway within its jurisdiction or any part thereof is or has become congested or\nunsafe for vehicular or pedestrian traffic by reason of damage or otherwise, it may, either close the\nHighway or such part thereof to all traffic or to any class of traffic, or regulate the number and speed of\n\nIndiaCode\n\n13\n\nvehicles to be used on the Highway or such part thereof, as the case may be, in the manner as it may deem\nfit.",
+    "element_ids": [
+      "e202",
+      "e203",
+      "e204",
+      "e205",
+      "e206"
+    ],
+    "pages": [
+      12,
+      13
+    ],
+    "structure_path": [
+      "Section 31"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e202",
+      "semantic_root_role": "legal_section",
+      "element_count": 5,
+      "section_numbers": [
+        "31"
+      ],
+      "parent_section_id": "e202",
+      "page_start": 12,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e202",
+    "provenance": {
+      "chunk_id": "chunk_00056",
+      "element_ids": [
+        "e202",
+        "e203",
+        "e204",
+        "e205",
+        "e206"
+      ],
+      "page_start": 12,
+      "page_end": 13,
+      "section_numbers": [
+        "31"
+      ],
+      "structure_path": [
+        "Section 31"
+      ],
+      "parent_section_id": "e202"
+    }
+  },
+  {
+    "chunk_id": "chunk_00057",
+    "text": "32. Prohibition of use of heavy vehicles on certain Highways.—Where the Highway\nAdministration is satisfied that the surface of a Highway or any part thereof, or any bridge, culvert or\ncauseway built on or across the Highway is not designed to carry vehicles of which the laden weight\nexceeds a prescribed limit, it may, subject to such rules as may be made in this behalf, prohibit or restrict\nthe plying of such vehicles on or over such Highway or part thereof or such bridge, culvert or causeway,\nas the case may be.",
+    "element_ids": [
+      "e207"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "Section 32"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e207",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "32"
+      ],
+      "parent_section_id": "e207",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e207",
+    "provenance": {
+      "chunk_id": "chunk_00057",
+      "element_ids": [
+        "e207"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [
+        "32"
+      ],
+      "structure_path": [
+        "Section 32"
+      ],
+      "parent_section_id": "e207"
+    }
+  },
+  {
+    "chunk_id": "chunk_00058",
+    "text": "33. Temporary closure of traffic on Highway.—Where, in exercise of the powers under section 31\nor section 32, the Highway Administration considers it proper for the purposes of that section to\ntemporarily close a Highway or part thereof or to restrict or regulate traffic on such Highway or part\nthereof, it may do so in the manner as it may deem fit.",
+    "element_ids": [
+      "e208"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "Section 33"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e208",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "33"
+      ],
+      "parent_section_id": "e208",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e208",
+    "provenance": {
+      "chunk_id": "chunk_00058",
+      "element_ids": [
+        "e208"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [
+        "33"
+      ],
+      "structure_path": [
+        "Section 33"
+      ],
+      "parent_section_id": "e208"
+    }
+  },
+  {
+    "chunk_id": "chunk_00059",
+    "text": "34. Permanent closure of Highway.—(1) Where, in exercise of the powers under section 31, the\nHighway Administration deems it necessary in the interest of the safety of the Highway to close a\nHighway or part thereof, it may, by notification in the Official Gazette, give notice of its intention to the\npublic to do so specifying therein the time within which the objections and suggestions received shall be\nconsidered under sub-section (3) and in addition to such notice, it shall also notify the contents of such\nnotice in at least two newspapers, one of which shall be in the local language of the area through which\nsuch Highway passes and another shall be the newspaper being circulated in such area.\n\n(2) The notice under sub-section (1) shall indicate the alternative route proposed to be provided\nin lieu of the Highway or part thereof intended to be closed specifying therein as to whether such\nalternative route shall be an already existing Highway or shall be newly constructed and shall also invite\nobjections and suggestions from the persons affected on such proposal within the time and to be\naddressed to the officer as specified in such notice.\n\n(3) The Highway Administration shall, after considering the objections and suggestions, if any,\nreceived within the time specified in such notice, take decision on the proposal for closure under the\nnotice and shall act in accordance with such decision.",
+    "element_ids": [
+      "e209",
+      "e210",
+      "e211"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "Section 34"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e209",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "34"
+      ],
+      "parent_section_id": "e209",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e209",
+    "provenance": {
+      "chunk_id": "chunk_00059",
+      "element_ids": [
+        "e209",
+        "e210",
+        "e211"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [
+        "34"
+      ],
+      "structure_path": [
+        "Section 34"
+      ],
+      "parent_section_id": "e209"
+    }
+  },
+  {
+    "chunk_id": "chunk_00060",
+    "text": "35. Power to restrict the use of vehicles.—If the Highway Administration is satisfied that it is\nnecessary in the interest of public safety or convenience, or because of the nature of any road or bridge so\nto do, it may, by notification in the Official Gazette, prohibit or restrict, subject to such exceptions or\nconditions as may be specified in the notification, the use of any Highway or part thereof by a class or\nclasses of traffic either generally or on specified occasion or time as specified in the notification and when\nsuch prohibition or restriction is imposed, the Highway Administration shall cause such traffic signs to be\nplaced or erected at suitable places for the convenience of the traffic as may be prescribed:\n\nProvided that where any prohibition or restriction under this section is to be remained for a period of\none month or less, such prohibition or restriction may be imposed without issuing notification in the\nOfficial Gazette:\n\nProvided further that the prohibition or restriction imposed under the first proviso shall be published\nwidely for the knowledge of the users by other possible means.",
+    "element_ids": [
+      "e212",
+      "e213",
+      "e214"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "Section 35"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e212",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "35"
+      ],
+      "parent_section_id": "e212",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e212",
+    "provenance": {
+      "chunk_id": "chunk_00060",
+      "element_ids": [
+        "e212",
+        "e213",
+        "e214"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [
+        "35"
+      ],
+      "structure_path": [
+        "Section 35"
+      ],
+      "parent_section_id": "e212"
+    }
+  },
+  {
+    "chunk_id": "chunk_00061",
+    "text": "36. Prevention and repair of damage to Highway.—(1) No person who is in charge of, or in\npossession of, any vehicle or animal shall, wilfully or negligently, cause, or allow such vehicle or animal\nto cause, any damage to any Highway.\n\n(2) Where, in contravention of sub-section (1), any damage has been caused to any Highway, the\nHighway Administration shall have such damage repaired at its own expenses and such expenses together\nwith fifteen per cent. thereof as additional charges shall, without prejudice to any other action which may\nbe taken against the person who has so contravened sub-section (1), be recovered from him in accordance\nwith the provisions contained in section 27 as if such expenses and additional charges were the expenses\nand additional charges recoverable under that section.\n\nIndiaCode\n\n14",
+    "element_ids": [
+      "e215",
+      "e216",
+      "e217",
+      "e218"
+    ],
+    "pages": [
+      13,
+      14
+    ],
+    "structure_path": [
+      "Section 36"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e215",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "36"
+      ],
+      "parent_section_id": "e215",
+      "page_start": 13,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e215",
+    "provenance": {
+      "chunk_id": "chunk_00061",
+      "element_ids": [
+        "e215",
+        "e216",
+        "e217",
+        "e218"
+      ],
+      "page_start": 13,
+      "page_end": 14,
+      "section_numbers": [
+        "36"
+      ],
+      "structure_path": [
+        "Section 36"
+      ],
+      "parent_section_id": "e215"
+    }
+  },
+  {
+    "chunk_id": "chunk_00062",
+    "text": "37. Prohibition to leave vehicles or animals in dangerous position.—(1) No person in charge of, or\nin possession of, any vehicle or animal shall allow such vehicle or animal to stand or proceed on a\nHighway unless the same is under such safety control as may be prescribed.\n\n(2) Where, in contravention of sub-section (1), any obstruction on the Highway is caused, the vehicle\nor animal causing such obstruction shall be caused to be towed away by the Highway Administration to\nremove such obstruction on the Highway and the vehicle or animal so towed away shall be taken into\npossession by the Highway Administration and shall be handed over to the owner thereof in the manner,\nby payment to the Highway Administration, the expenses incurred in such removal, as may be prescribed.\n\n(3) In case where the expenses in respect of the vehicle or animal taken into possession under\nsub-section (2) have not been paid in the manner prescribed under that sub-section, the Highway\nAdministration shall sell such vehicle or animal by auction and the proceeds of the auction shall be the\nproperty of the Central Government.\n\n(4) Any person who has unauthorised occupation on a highway land shall be summarily evicted by\nthe Highway Administration in the manner specified in section 26 for removal of unauthorised occupation\nand shall be liable to 1[penalty imposed by the Highway Administration which shall not be less than two\nthousand rupees] per square metre of the unauthorisedly occupied land by him but which may be\nextended to the cost of such land.",
+    "element_ids": [
+      "e219",
+      "e220",
+      "e221",
+      "e222"
+    ],
+    "pages": [
+      14
+    ],
+    "structure_path": [
+      "Section 37"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e219",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "37"
+      ],
+      "parent_section_id": "e219",
+      "page_start": 14,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e219",
+    "provenance": {
+      "chunk_id": "chunk_00062",
+      "element_ids": [
+        "e219",
+        "e220",
+        "e221",
+        "e222"
+      ],
+      "page_start": 14,
+      "page_end": 14,
+      "section_numbers": [
+        "37"
+      ],
+      "structure_path": [
+        "Section 37"
+      ],
+      "parent_section_id": "e219"
+    }
+  },
+  {
+    "chunk_id": "chunk_00063",
+    "text": "CHAPTER VI\n\nREGULATION OF CONSTRUCTION ON HIGHWAY LAND FOR PUBLIC UTILITIES, DRAINS, ETC.",
+    "element_ids": [
+      "e223",
+      "e224"
+    ],
+    "pages": [
+      14
+    ],
+    "structure_path": [
+      "CHAPTER VI"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e223",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 14,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00063",
+      "element_ids": [
+        "e223",
+        "e224"
+      ],
+      "page_start": 14,
+      "page_end": 14,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VI"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00064",
+    "text": "38. Construction on highway land.—(1) Notwithstanding anything contained in any other law for\nthe time being in force, no person other than a Highway Administration or a person authorised by such\nAdministration in this behalf shall construct, install, shift, repair, alter or carry any poles, pillars,\nadvertisement towers, transformers, cable wire, pipe, drain, sewer, canal, railway line, tramway,\ntelephone boxes, repeater station, street, path or passage of any kind on highway land or across, under or\nover any Highway except with the prior permission in writing of the Highway Administration for such\npurpose.\n\n(2) Any person who intends to obtain the permission under sub-section (1) shall make an application\nin the prescribed form to the Highway Administration containing therein the purpose and period of\noccupancy of Highway, location and part of the Highway to be occupied, method of execution of work,\nperiod of construction and method of restoration of such part of the Highway.\n\n(3) The Highway Administration shall consider the application made under sub-section (1) and if it is\nsatisfied that there is no alternative other than the Highway in respect of which the permission is sought\nunder the application where the land can be found to locate the public utility, it may give permission in\nwriting as sought in the application:\n\nProvided that while giving such permission, the Highway Administration may impose such\nconditions as it may deem fit to protect—\n\n(i) the Highway from damage; and\n\n(ii) the traffic on the Highway from obstruction,\n\nand may also impose such fees and other charges as may be prescribed on the person to whom such\npermission is given in respect of any land forming part of the Highway, occupied or applied to the\nproposed work or construction under permission and also impose on such person the expenditure, if any,\nincurred by the Highway Administration for repairing any damage caused to the Highway by laying or\nshifting of any structure, article or equipment under the permission.\n\n(4) If any person, in contravention of sub-section (1), makes any construction or carries out any other\nwork, the Highway Administration may, at its own expenses, cause such construction or other work to be\nremoved from the Highway and restore the Highway in the condition as it was immediately before giving\npermission for such construction or other work under sub-section (3) and such expenses together with",
+    "element_ids": [
+      "e225",
+      "e226",
+      "e227",
+      "e228",
+      "e229",
+      "e230",
+      "e231",
+      "e232"
+    ],
+    "pages": [
+      14
+    ],
+    "structure_path": [
+      "Section 38"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e225",
+      "semantic_root_role": "legal_section",
+      "element_count": 8,
+      "section_numbers": [
+        "38"
+      ],
+      "parent_section_id": "e225",
+      "page_start": 14,
+      "page_end": 14,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e225",
+    "provenance": {
+      "chunk_id": "chunk_00064",
+      "element_ids": [
+        "e225",
+        "e226",
+        "e227",
+        "e228",
+        "e229",
+        "e230",
+        "e231",
+        "e232"
+      ],
+      "page_start": 14,
+      "page_end": 14,
+      "section_numbers": [
+        "38"
+      ],
+      "structure_path": [
+        "Section 38"
+      ],
+      "parent_section_id": "e225"
+    }
+  },
+  {
+    "chunk_id": "chunk_00065",
+    "text": "1. Subs. by Act 8 of 2026, s. 2 and Sch., for certain words (w.e.f. 15-7-2026).\n\nIndiaCode\n\n15\n\nfifteen per cent. thereof as additional charges and 1[penalty] imposed by the Highway Administration\ntaking into account the nature of the damages caused by such construction or other work, which shall not\nbe less than five hundred rupees per square metre of land used for such construction or other work, but\nshall not exceed the cost of such land, shall be recovered from such person in accordance with the\nprovisions contained in section 27 as if such expenses, additional charges and 1[penalty] were the\nexpenses, additional charges and 1[penalty] recoverable under that section.",
+    "element_ids": [
+      "e233",
+      "e234",
+      "e235",
+      "e236"
+    ],
+    "pages": [
+      14,
+      15
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e233",
+      "semantic_root_role": "amendment_note",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 14,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00065",
+      "element_ids": [
+        "e233",
+        "e234",
+        "e235",
+        "e236"
+      ],
+      "page_start": 14,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00066",
+    "text": "CHAPTER VII\n\nOFFENCE AND PENALTY",
+    "element_ids": [
+      "e237",
+      "e238"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "CHAPTER VII"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e237",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00066",
+      "element_ids": [
+        "e237",
+        "e238"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VII"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00067",
+    "text": "39. Offence and penalty.—(1) If any person, who has been evicted from any unauthorised\noccupation on a highway land under this Act, again occupies any highway land without permission for\nsuch occupation under this Act, he 2[shall be liable to penalty imposed by the Highway Administration\nwhich shall not be less than five thousand rupees per square metre of the land unauthorisedly occupied by\nhim but which may extend to the cost of such land].\n\n(2) 3[The Highway Administration, imposing liability on a person] under sub-section (1), may make\nan order for evicting that person from such occupied highway land summarily and he shall be liable to\nsuch eviction without prejudice to any other action that may be taken against him.\n\n4*\n*\n*\n*\n*",
+    "element_ids": [
+      "e239",
+      "e240",
+      "e241"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "Section 39"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e239",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "39"
+      ],
+      "parent_section_id": "e239",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e239",
+    "provenance": {
+      "chunk_id": "chunk_00067",
+      "element_ids": [
+        "e239",
+        "e240",
+        "e241"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [
+        "39"
+      ],
+      "structure_path": [
+        "Section 39"
+      ],
+      "parent_section_id": "e239"
+    }
+  },
+  {
+    "chunk_id": "chunk_00068",
+    "text": "CHAPTER VIII\n\nMISCELLANEOUS",
+    "element_ids": [
+      "e242",
+      "e243"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "CHAPTER VIII"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e242",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00068",
+      "element_ids": [
+        "e242",
+        "e243"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "CHAPTER VIII"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00069",
+    "text": "40. [Right of appellant to take assistance of legal practitioner.]—Omitted by Act the Tribunals\nReforms Act, 2021 (33 of 2021), s. 24 (w.e.f. 4-4-2021).",
+    "element_ids": [
+      "e244"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "Amendment note"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e244",
+      "semantic_root_role": "amendment_note",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00069",
+      "element_ids": [
+        "e244"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "Amendment note"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00070",
+    "text": "41. Finality of orders.—Save as otherwise expressly provided in this Act, every order made or any\naction taken by the Highway Administration or the officer authorised in this behalf by such\nAdministration 5*** shall be final and shall not be called in question in any original suit, application or\nexecution proceeding and no injunction shall be granted by any court or other authority in respect of any\naction taken or to be taken in pursuance of any power conferred by or under this Act to the Highway\nAdministration 6***.",
+    "element_ids": [
+      "e245"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "Section 41"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e245",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "41"
+      ],
+      "parent_section_id": "e245",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e245",
+    "provenance": {
+      "chunk_id": "chunk_00070",
+      "element_ids": [
+        "e245"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [
+        "41"
+      ],
+      "structure_path": [
+        "Section 41"
+      ],
+      "parent_section_id": "e245"
+    }
+  },
+  {
+    "chunk_id": "chunk_00071",
+    "text": "42. Duty of village officials.—Wherever any village headman, village accountant, village watchman\nor other village official, by whatever name called, becomes aware of any offence involving unauthorised\noccupation, damage or destruction of the highway land, he shall forthwith inform the nearest police\nstation or the nearest Highway Administration or any officer authorised in this behalf by such\nAdministration, the commission of such offence and shall also be duty-bound to assist the Highway\nAdministration and its officers in prosecuting the offender of the offence.",
+    "element_ids": [
+      "e246"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "Section 42"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e246",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "42"
+      ],
+      "parent_section_id": "e246",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e246",
+    "provenance": {
+      "chunk_id": "chunk_00071",
+      "element_ids": [
+        "e246"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [
+        "42"
+      ],
+      "structure_path": [
+        "Section 42"
+      ],
+      "parent_section_id": "e246"
+    }
+  },
+  {
+    "chunk_id": "chunk_00072",
+    "text": "43. Conduct of inquiry.—The Highway Administration or the officer authorised in this behalf by\nsuch Administration shall, if he desires to make any inquiry for the purposes of this Act, make a summary\ninquiry in such manner as may be prescribed.",
+    "element_ids": [
+      "e247"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "Section 43"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e247",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "43"
+      ],
+      "parent_section_id": "e247",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e247",
+    "provenance": {
+      "chunk_id": "chunk_00072",
+      "element_ids": [
+        "e247"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [
+        "43"
+      ],
+      "structure_path": [
+        "Section 43"
+      ],
+      "parent_section_id": "e247"
+    }
+  },
+  {
+    "chunk_id": "chunk_00073",
+    "text": "7[44. Officers of Highways Administration to be public servant.—The officer or officers\nconstituting the Highways Administration and any other officer authorised by such Administration under\nthis Act, shall be deemed, when acting or purporting to act in pursuance of any of the provisions of this\nAct, to be public servants within the meaning of section 21 of the Indian Penal Code (45 of 1860).]\n\n1. Subs. by Act 8 of 2026, s. 2 and Sch., for “fine” (w.e.f. 15-7-2026).\n2. Subs. by s. 2 and Sch. ibid., for certain words (w.e.f. 15-7-2026).\n3. Subs. by s. 2 and Sch. ibid., for “Any court, convicting a person” (w.e.f. 15-7-2026).\n4. Sub-section (3) omitted by s. 2 and Sch. ibid., (w.e.f. 15-7-2026).\n5. The words “or every order passed or decision made on appeal under this Act by the Tribunal” omitted by Act 33 of 2021, s. 24\n(w.e.f. 4-4-2021).\n6. The words “or Tribunal” omitted by s. 24, ibid. (w.e.f. 4-4-2021).\n7. Subs. by Act 7 of 2017, s. 167 for section 44 (w.e.f. 26-5-2017).\n\nIndiaCode\n\n16",
+    "element_ids": [
+      "e248",
+      "e249",
+      "e250",
+      "e251"
+    ],
+    "pages": [
+      15,
+      16
+    ],
+    "structure_path": [
+      "Section 44"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e248",
+      "semantic_root_role": "legal_section",
+      "element_count": 4,
+      "section_numbers": [
+        "44"
+      ],
+      "parent_section_id": "e248",
+      "page_start": 15,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e248",
+    "provenance": {
+      "chunk_id": "chunk_00073",
+      "element_ids": [
+        "e248",
+        "e249",
+        "e250",
+        "e251"
+      ],
+      "page_start": 15,
+      "page_end": 16,
+      "section_numbers": [
+        "44"
+      ],
+      "structure_path": [
+        "Section 44"
+      ],
+      "parent_section_id": "e248"
+    }
+  },
+  {
+    "chunk_id": "chunk_00074",
+    "text": "45. Protection of action taken in good faith.—No suit, prosecution or other legal proceedings shall\nlie against the Central Government or 1[any other officer of the Central Government] or the officer or\nofficers constituting the Highway Administration or any other officer authorised by such Administration\nunder this Act or any other person, for anything which is in good faith done or intended to be done under\nthis Act or the rules made thereunder.",
+    "element_ids": [
+      "e252"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "Section 45"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e252",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "45"
+      ],
+      "parent_section_id": "e252",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e252",
+    "provenance": {
+      "chunk_id": "chunk_00074",
+      "element_ids": [
+        "e252"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [
+        "45"
+      ],
+      "structure_path": [
+        "Section 45"
+      ],
+      "parent_section_id": "e252"
+    }
+  },
+  {
+    "chunk_id": "chunk_00075",
+    "text": "46. Offences by companies.—(1) Where an offence punishable under this Act has been committed\nby a company, every person who, at the time the offence was committed, was in charge of, and was\nresponsible to, the company for the conduct of the business of the company, as well as the company, shall\nbe deemed to be guilty of the offence and shall be liable to be proceeded against and punished\naccordingly:\n\nProvided that nothing contained in this sub-section shall render any such person liable to any\npunishment, if he proves that the offence was committed without his knowledge or that he had exercised\nall due diligence to prevent the commission of such offence.\n\n(2) Notwithstanding anything contained in sub-section (1), where any offence punishable under this\nAct has been committed by a company and it is proved that the offence has been committed with the\nconsent or connivance of, or is attributable to, any neglect on the part of any director, manager, secretary\nor other officer of the company, such director, manager, secretary or other officer shall also be deemed to\nbe guilty of that offence and shall be liable to be proceeded against and punished accordingly.\n\nExplanation.—For the purposes of this section,—\n\n(a) “company” means any body corporate and includes a firm or other association of individuals;\nand\n\n(b) “director”, in relation to a firm, means a partner in the firm.",
+    "element_ids": [
+      "e253",
+      "e254",
+      "e255",
+      "e256",
+      "e257",
+      "e258"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "Section 46"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e253",
+      "semantic_root_role": "legal_section",
+      "element_count": 6,
+      "section_numbers": [
+        "46"
+      ],
+      "parent_section_id": "e253",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e253",
+    "provenance": {
+      "chunk_id": "chunk_00075",
+      "element_ids": [
+        "e253",
+        "e254",
+        "e255",
+        "e256",
+        "e257",
+        "e258"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [
+        "46"
+      ],
+      "structure_path": [
+        "Section 46"
+      ],
+      "parent_section_id": "e253"
+    }
+  },
+  {
+    "chunk_id": "chunk_00076",
+    "text": "47. Procedure for service of notices, etc.—Save as otherwise provided in this Act, every notice or\nbill issued or prepared under this Act may be served or presented in such manner as may be prescribed.",
+    "element_ids": [
+      "e259"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "Section 47"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e259",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "47"
+      ],
+      "parent_section_id": "e259",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e259",
+    "provenance": {
+      "chunk_id": "chunk_00076",
+      "element_ids": [
+        "e259"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [
+        "47"
+      ],
+      "structure_path": [
+        "Section 47"
+      ],
+      "parent_section_id": "e259"
+    }
+  },
+  {
+    "chunk_id": "chunk_00077",
+    "text": "48. Act to have overriding effect.—The provisions of this Act shall have effect notwithstanding\nanything inconsistent therewith contained in any other law for the time being in force or in any instrument\nhaving effect by virtue of any law other than this Act.",
+    "element_ids": [
+      "e260"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "Section 48"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e260",
+      "semantic_root_role": "legal_section",
+      "element_count": 1,
+      "section_numbers": [
+        "48"
+      ],
+      "parent_section_id": "e260",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e260",
+    "provenance": {
+      "chunk_id": "chunk_00077",
+      "element_ids": [
+        "e260"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [
+        "48"
+      ],
+      "structure_path": [
+        "Section 48"
+      ],
+      "parent_section_id": "e260"
+    }
+  },
+  {
+    "chunk_id": "chunk_00078",
+    "text": "49. Power to remove difficulties.—(1) If any difficulty arises in giving effect to the provisions of\nthis Act, the Central Government may, by order published in the Official Gazette, make such provisions,\nnot inconsistent with the provisions of this Act, as appear to it to be necessary or expedient for removing\nthe difficulty:\n\nProvided that no such order shall be made under this section after the expiry of three years from the\ncommencement of this Act.\n\n(2) Every order made under this section shall be laid, as soon as may be after it is made, before each\nHouse of Parliament.",
+    "element_ids": [
+      "e261",
+      "e262",
+      "e263"
+    ],
+    "pages": [
+      16
+    ],
+    "structure_path": [
+      "Section 49"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e261",
+      "semantic_root_role": "legal_section",
+      "element_count": 3,
+      "section_numbers": [
+        "49"
+      ],
+      "parent_section_id": "e261",
+      "page_start": 16,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e261",
+    "provenance": {
+      "chunk_id": "chunk_00078",
+      "element_ids": [
+        "e261",
+        "e262",
+        "e263"
+      ],
+      "page_start": 16,
+      "page_end": 16,
+      "section_numbers": [
+        "49"
+      ],
+      "structure_path": [
+        "Section 49"
+      ],
+      "parent_section_id": "e261"
+    }
+  },
+  {
+    "chunk_id": "chunk_00079",
+    "text": "50. Power to make rules.—(1) The Central Government may, after previous publication, by\nnotification in the Official Gazette, make rules for carrying out the purposes of this Act.\n\n(2) In particular, and without prejudice to the generality of the foregoing power, such rules may\nprovide for all or any of the following matters, namely:—\n\n(a) the manner of exercising powers and discharge functions under sub-section (3) of section 3;\n\n2*\n*\n*\n*\n\n3*\n*\n*\n*\n\n1. Subs by Act 7 of 2017, s. 167, for certain words (w.e.f. 26-5-2017).\n2. Clauses (b), (c), (d) and (e) omitted by, s. 167 (w.e.f. 26-5-2017).\n3. Clause (f) omitted by Act 33 of 2021, s. 24 (w.e.f. 4-4-2021).\n\nIndiaCode\n\n17\n\n(g) the manner for maintaining the records of the Highway Administration in which the lands are\nshown and the manner of proving claim for correction of such records under sub-section (2) of\nsection 23;\n\n(h) the conditions subject to which, the rent and other charges on payment of which and the form\nin which permit may be issued for grant of permission under sub-section (2) of section 24;\n\n(i) the conditions, payment of rent and other charges for grant of lease or licence of highway land\nunder section 25;\n\n(j) the form of notice under sub-section (2) of section 26;\n\n(k) the feasible cost for making construction including alteration of any construction under\nsub-section (8) of section 26;\n\n(l) the additional matter in respect of which the Highway Administration or an officer authorised\nby such Administration in this behalf may exercise the powers of a civil court under clause (d) of\nsub-section (9) of section 26;\n\n(m) the form of the bill under sub-section (2) of section 27;\n\n(n) the form of application, the fees to be accompanied therewith and the terms and conditions for\npermission under sub-section (2) of section 29;\n\n(o) the form of licence, the period and the manner of renewal of such licence under\nsub-section (3) of section 29;\n\n(p) the limit of laden weight and the provisions subject to which the plying of vehicles may be\nprohibited or restricted under section 32;\n\n(q) the traffic signs to be placed or erected under section 35;\n\n(r) the safety and control for allowing any vehicle or animal to stand or proceed on a Highway\nunder sub-section (1) of section 37;\n\n(s) the manner of handing over the vehicle or animal to the owner and payment of expenses\nincurred in the removal of such vehicle or animal under sub-section (2) of section 37;\n\n(t) the form of application under sub-section (2) of section 38;\n\n(u) the fees and other charges to be imposed under sub-section (3) of section 38;\n\n(v) the manner of summary inquiry under section 43;\n\n(w) the manner of service or presentation of notice or bill under section 47; and\n\n(x) any other matter which is required to be, or may be, prescribed.\n\n(3) Every rule made or every notification issued by the Central Government under this Act shall be\nlaid, as soon as may be after it is made or issued, before each House of Parliament, while it is in session,\nfor a total period of thirty days which may be comprised in one session or in two or more successive\nsessions, and if, before the expiry of the session immediately following the session or the successive\nsessions aforesaid, both Houses agree in making any modification in the rule or notification or both\nHouses agree that the rule or notification should not be made or issued, the rule or notification shall\nthereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that\nany such modification or annulment shall be without prejudice to the validity of anything previously done\nunder that rule or notification.\n\nIndiaCode",
+    "element_ids": [
+      "e264",
+      "e265",
+      "e266",
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271",
+      "e272",
+      "e273",
+      "e274",
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280",
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288",
+      "e289",
+      "e290",
+      "e291"
+    ],
+    "pages": [
+      16,
+      17
+    ],
+    "structure_path": [
+      "Section 50"
+    ],
+    "metadata": {
+      "chunk_type": "legal_section",
+      "semantic_unit": "legal_section",
+      "semantic_root_id": "e264",
+      "semantic_root_role": "legal_section",
+      "element_count": 28,
+      "section_numbers": [
+        "50"
+      ],
+      "parent_section_id": "e264",
+      "page_start": 16,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "main_content",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": "e264",
+    "provenance": {
+      "chunk_id": "chunk_00079",
+      "element_ids": [
+        "e264",
+        "e265",
+        "e266",
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271",
+        "e272",
+        "e273",
+        "e274",
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280",
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288",
+        "e289",
+        "e290",
+        "e291"
+      ],
+      "page_start": 16,
+      "page_end": 17,
+      "section_numbers": [
+        "50"
+      ],
+      "structure_path": [
+        "Section 50"
+      ],
+      "parent_section_id": "e264"
+    }
+  }
+]

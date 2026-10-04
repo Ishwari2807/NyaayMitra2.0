@@ -1,0 +1,2462 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "7788 GI/2025\n(1)",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "7788 GI/2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "7788 GI/2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "जसं. ड.ए.- 33004/99\nREGD. No. D. L.-33004/99",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "जसं. ड.ए.- 33004/99"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "जसं. ड.ए.- 33004/99"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "xxxGIDHxxx",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "xxxGIDHxxx"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "xxxGIDHxxx"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "xxxGIDExxx",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "xxxGIDExxx"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "xxxGIDExxx"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "अध\nEXTRAORDINARY",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "अध"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "अध"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "भगII—णड3—उ-णड(ii)\nPART II—Section 3—Sub-section (ii)",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "भगII—णड3—उ-णड(ii)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "भगII—णड3—उ-णड(ii)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "पजधपज\nPUBLISHED BY AUTHORITY",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "पजधपज"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "पजधपज"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "शएवंगंय",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "शएवंगंय"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "शएवंगंय"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "अजधूच",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "अजधूच"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "अजधूच"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "ईदल, 21 व,2025",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ईदल, 21 व,2025"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ईदल, 21 व,2025"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": ".आ.5322(अ).—नयूंज,2019(201929)ीध1ीउ-ध(3)पत",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      ".आ.5322(अ).—नयूंज,2019(201929)ीध1ीउ-ध(3)पत"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        ".आ.5322(अ).—नयूंज,2019(201929)ीध1ीउ-ध(3)पत"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "जियोपयगहए,21व,2025उेजयै,जउिंज",
+    "element_ids": [
+      "e12"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "जियोपयगहए,21व,2025उेजयै,जउिंज"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e12"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "जियोपयगहए,21व,2025उेजयै,जउिंज"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "जमजजउंधपवृतोग, अथा:",
+    "element_ids": [
+      "e13"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "जमजजउंधपवृतोग, अथा:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e13",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e13"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "जमजजउंधपवृतोग, अथा:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "क. ं.\nंजउंध",
+    "element_ids": [
+      "e14"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "क. ं."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e14"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "क. ं."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "1.\nध1 41;",
+    "element_ids": [
+      "e15"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e15"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "2.\nध42ीउ-ध(4) (9);",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "3.\nध43 66;",
+    "element_ids": [
+      "e17"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e17"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "4.\nध67 ीउ-ध(1) औउ-ध(2) ंड() () औ() (यग) औउ-ध(3) (5)",
+    "element_ids": [
+      "e18"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e18",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e18"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "5.\nध68;",
+    "element_ids": [
+      "e19"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e19",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e19"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "6.\nध69,18द,2020.आ.4604(अ)कंखय3उजलजंजउंधो\n\nजवय;\n\n[फ. ं. ए-32022/1/2025-डबलयू-]\n\nआजशंयुजचव\n\nं. 5146]\nईदल, ुकव, व21, 2025/र30, 1947\nNo. 5146]\nNEW DELHI, FRIDAY, NOVEMBER 21, 2025/KARTIKA 30, 1947\n\nसी.जी.-डी.एल.-अ.-21112025-267885",
+    "element_ids": [
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "6."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e20",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "6."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "CG-DL-E-21112025-267885\n\n2\nTHE GAZETTE OF INDIA : EXTRAORDINARY\n[PART II—SEC. 3(ii)]",
+    "element_ids": [
+      "e26",
+      "e27"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "CG-DL-E-21112025-267885"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e26",
+        "e27"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "CG-DL-E-21112025-267885"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "MINISTRY OF LABOUR AND EMPLOYMENT",
+    "element_ids": [
+      "e28"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "MINISTRY OF LABOUR AND EMPLOYMENT"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e28"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LABOUR AND EMPLOYMENT"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "NOTIFICATION\n\nNew Delhi, the 21st November, 2025\n\nS.O. 5322(E).—In exercise of the powers conferred by sub-section (3) of section 1 of the Code on Wages,\n2019 (29 of 2019), the Central Government hereby appoints the 21st day of November, 2025 as the date on which the\nfollowing provisions of the said Code, shall come into force, namely: -\n\nSl. No.\nProvisions of the Code",
+    "element_ids": [
+      "e29",
+      "e30",
+      "e31",
+      "e32"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "NOTIFICATION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e29",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e29",
+        "e30",
+        "e31",
+        "e32"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "NOTIFICATION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "1.\nsections 1 to 41;",
+    "element_ids": [
+      "e33"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e33",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e33"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "2.\nsub-sections (4) to (9) of section 42;",
+    "element_ids": [
+      "e34"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e34",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e34"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "3.\nsections 43 to 66;",
+    "element_ids": [
+      "e35"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e35",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e35"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "4.\nsub-section (1) and clauses (a) to (r) and (u) to (zc) of sub-section (2) and sub-sections (3) to (5) of\nsection 67;",
+    "element_ids": [
+      "e36"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e36",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e36"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "5.\nsection 68;",
+    "element_ids": [
+      "e37"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e37",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e37"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "6.\nsection 69, except the provisions of the Code mentioned at serial number 3 of S.O. 4604 (E), dated the\n18th December, 2020.\n\n[F.No.S-32022/1/2025-WC]\n\nALOK MISHRA, Jt. Secy.\n\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\n\nand Published by the Controller of Publications, Delhi-110054. GORAKHA NATH\n\nYADAVA\n\nDigitally signed by GORAKHA\nNATH YADAVA\nDate: 2025.11.21 15:38:33 +05'30'\n\n7786 GI/2025\n(1)\n\nजसीं. डी.ए.- 33004/99\nREGD. No. D. L.-33004/99\n\nxxxGIDHxxx\n\nxxxGIDExxx\n\nअाधा\nEXTRAORDINARY\n\nभागII—खणड3—उ-खणड(ii)\nPART II—Section 3—Sub-section (ii)\n\nपाजधाेपाज\nPUBLISHED BY AUTHORITY\n\nशएवंोगांाय\n\nअधसूना\n\nनईदल, 21वमब, 2025\n\nा.आ. 5320(अ).— ेनीयाऔधकसंबंसंधा, 2020 (2020 का35) कीाा1 की\n\nउ-ाा(3)ाापतशधियोापयोगेहए,21वंब,2025ोउाीखकरमेजयकै\n\nधसाीखकउिसंधाकउबंधपवृतो।\n\n[ फा.सं. एस-11025/07/2025-आईआ(ए) ]\n\nधकाकचछ,संयुिसधव\n\nं.5144]\nईदली, ुकवा, वमब21, 2025/ारि30, 1947\nNo. 5144]\nNEW DELHI, FRIDAY, NOVEMBER 21, 2025/KARTIKA 30, 1947\n\nसी.जी.-डी.एल.-अ.-21112025-267883",
+    "element_ids": [
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "6."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 24,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "6."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "CG-DL-E-21112025-267883\n\n2\nTHE GAZETTE OF INDIA : EXTRAORDINARY\n[PART II—SEC. 3(ii)]",
+    "element_ids": [
+      "e62",
+      "e63"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "CG-DL-E-21112025-267883"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e62",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e62",
+        "e63"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "CG-DL-E-21112025-267883"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "MINISTRY OF LABOUR AND EMPLOYMENT",
+    "element_ids": [
+      "e64"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "MINISTRY OF LABOUR AND EMPLOYMENT"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e64",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e64"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LABOUR AND EMPLOYMENT"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "NOTIFICATION\n\nNew Delhi, the 21stNovember, 2025\n\nS.O.5320(E).—Inexerciseofthepowersconferredbysub-section(3)ofsection1ofthe\nIndustrialRelationsCode,2020(35of2020),theCentralGovernmentherebyappointsthe\n21stday of November, 2025 as the date on which the provisions of the said Code, shall come into\nforce.\n\n[F.No. S-11025/07/2025-IR(PL)]\nDEEPIKA KACHHAL,Jt. Secy.\n\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\n\nand Published by the Controller of Publications, Delhi-110054.\nGORAKHA NATH\nYADAVA\n\nDigitally signed by GORAKHA NATH\nYADAVA\nDate: 2025.11.21 15:24:56 +05'30'\n\n7787 GI/2025\n\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\n\nand Published by the Controller of Publications, Delhi-110054.\n\nजसं. ड.ए.- 33004/99\nREGD. No. D. L.-33004/99\n\nxxxGIDHxxx\n\nxxxGIDExxx\n\nअाधा\nEXTRAORDINARY\n\nभागII—खणड3—उ-खणड(ii)\nPART II—Section 3—Sub-section (ii)\n\nपाजधापाज\nPUBLISHED BY AUTHORITY\n\nशएवंगांा\n\nअजधूचा\n\nईदल, 21 वमब, 2025\n\nा.आ.5321(अ).—नाउजवानुा,सवास्औायांजा,2020(2020ा37)ी\n\nधाा(1)ीउ-धाा(2)ाापतजिोापगहए,21वमब,2025उाखेजै,\n\nजदउिंजाउबंधपवृतोग।\n\n[फा. ं. ए-65025/2/2025-आईएएच-II]\n\nआचंा, वषशएवंआरथयाा",
+    "element_ids": [
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "NOTIFICATION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e65",
+      "semantic_root_role": "",
+      "element_count": 24,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "NOTIFICATION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "MINISTRY OF LABOUR AND EMPLOYMENT",
+    "element_ids": [
+      "e89"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "MINISTRY OF LABOUR AND EMPLOYMENT"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e89",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e89"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LABOUR AND EMPLOYMENT"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "NOTIFICATION\n\nNew Delhi, the 21st November, 2025\n\nS.O.5321(E).—Inexerciseofthepowersconferredbythesub-section(2)ofsection1oftheOccupational\nSafety,HealthandWorkingConditionsCode,2020(37of2020),theCentralGovernmentherebyappointsthe\n21stday of November, 2025 as the date on which the provisions of the said Code, shall come into force.\n\n[F. No. S-65025/2/2025-ISH-II]\n\nALOK CHANDRA, Senior Labour and Economic Advisor\n\nं.5145]\nईदल, ुकवा, वमब21, 2025/ारय30, 1947\nNo. 5145]\nNEW DELHI, FRIDAY, NOVEMBER 21, 2025/KARTIKA 30, 1947\n\nसी.जी.-डी.एल.-अ.-21112025-267884",
+    "element_ids": [
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "NOTIFICATION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e90",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "NOTIFICATION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "CG-DL-E-21112025-267884\n\nGORAKHA NATH\nYADAVA\n\nDigitally signed by GORAKHA NATH\nYADAVA\nDate: 2025.11.21 15:36:37 +05'30'\n\n7785 GI/2025\n(1)\n\nजसं. ड.ए.- 33004/99\nREGD. No. D. L.-33004/99\n\nxxxGIDHxxx\n\nxxxGIDExxx\n\nअध\nEXTRAORDINARY\n\nभगII—णड3—उ-णड(ii)\nPART II—Section 3—Sub-section (ii)\n\nपजधपज\nPUBLISHED BY AUTHORITY\n\nशएवंगंय\n\nअजधूच\n\nईदल, 21 वब, 2025\n\n.आ.5319(अ).—नय,जुंज,2020(202036)ीध1ी\n\nउ-ध(3) पतजियोपयगहए, 21 वब, 2025 उेजयै, ज\n\nदउिंजजमजजउबंधपवृतोग, अथा:\n\nक. ं.\nंजउबंध",
+    "element_ids": [
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105",
+      "e106",
+      "e107",
+      "e108",
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "CG-DL-E-21112025-267884"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e97",
+      "semantic_root_role": "",
+      "element_count": 17,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105",
+        "e106",
+        "e107",
+        "e108",
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "CG-DL-E-21112025-267884"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "1.\nध1 14;",
+    "element_ids": [
+      "e114"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e114",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e114"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00037",
+    "text": "2.\nध15 ीउ-ध(1) औ(2);",
+    "element_ids": [
+      "e115"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e115",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00037",
+      "element_ids": [
+        "e115"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00038",
+    "text": "3.\nध16 ीउ-ध(1) ंड(ग)",
+    "element_ids": [
+      "e116"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e116",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00038",
+      "element_ids": [
+        "e116"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00039",
+    "text": "4.\nध17 141;",
+    "element_ids": [
+      "e117"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e117",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00039",
+      "element_ids": [
+        "e117"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00040",
+    "text": "5.\nध143,3ई,2023.आ.2060(अ.)ेकंखय(v)जवजरषंजउबंधो\n\nजवय;\n\nं. 5143]\nईदल, ुकव, वब21, 2025/30, 1947\nNo. 5143]\nNEW DELHI, FRIDAY, NOVEMBER 21, 2025/KARTIKA 30, 1947\n\nसी.जी.-डी.एल.-अ.-21112025-267882",
+    "element_ids": [
+      "e118",
+      "e119",
+      "e120",
+      "e121"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e118",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00040",
+      "element_ids": [
+        "e118",
+        "e119",
+        "e120",
+        "e121"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00041",
+    "text": "CG-DL-E-21112025-267882\n\n2\nTHE GAZETTE OF INDIA : EXTRAORDINARY\n[PART II—SEC. 3(ii)]",
+    "element_ids": [
+      "e122",
+      "e123"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "structure_path": [
+      "CG-DL-E-21112025-267882"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e122",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00041",
+      "element_ids": [
+        "e122",
+        "e123"
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "CG-DL-E-21112025-267882"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00042",
+    "text": "6.\nध144 163;",
+    "element_ids": [
+      "e124"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "6."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e124",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00042",
+      "element_ids": [
+        "e124"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "6."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00043",
+    "text": "7.\nध164 ीउ-ध(1) ी1 औ2 थ4 9;",
+    "element_ids": [
+      "e125"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "7."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e125",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00043",
+      "element_ids": [
+        "e125"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "7."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00044",
+    "text": "8.\nध164 ीउ-ध(2) ंड() औंड(ग) औउध(3) ।\n\n[फ.ं. आ-11011/04/2021-एए.II]\n\nआुए.ट. ड, ंयुिजचव",
+    "element_ids": [
+      "e126",
+      "e127",
+      "e128"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "8."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e126",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00044",
+      "element_ids": [
+        "e126",
+        "e127",
+        "e128"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "8."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00045",
+    "text": "MINISTRY OF LABOUR AND EMPLOYMENT",
+    "element_ids": [
+      "e129"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "MINISTRY OF LABOUR AND EMPLOYMENT"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e129",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00045",
+      "element_ids": [
+        "e129"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "MINISTRY OF LABOUR AND EMPLOYMENT"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00046",
+    "text": "NOTIFICATION\n\nNew Delhi, the 21st November, 2025\n\nS.O. 5319(E).—In exercise of the powers conferred by sub-section (3) of section 1 of the Code on Social\nSecurity, 2020 (36 of 2020), the Central Government hereby appoints the 21st day of November, 2025 as the date on\nwhich the following provisions of the said Code, shall come into force, namely: -\n\nSl. No.\nProvisions of the Code",
+    "element_ids": [
+      "e130",
+      "e131",
+      "e132",
+      "e133"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "NOTIFICATION"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e130",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00046",
+      "element_ids": [
+        "e130",
+        "e131",
+        "e132",
+        "e133"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "NOTIFICATION"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00047",
+    "text": "1.\nsections 1 to 14;",
+    "element_ids": [
+      "e134"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e134",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00047",
+      "element_ids": [
+        "e134"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00048",
+    "text": "2.\nsub-sections (1) and (2) of section 15;",
+    "element_ids": [
+      "e135"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e135",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00048",
+      "element_ids": [
+        "e135"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00049",
+    "text": "3.\nclause (c) of sub-section (1) of section 16;",
+    "element_ids": [
+      "e136"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e136",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00049",
+      "element_ids": [
+        "e136"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00050",
+    "text": "4.\nsections 17 to 141;",
+    "element_ids": [
+      "e137"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "4."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e137",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00050",
+      "element_ids": [
+        "e137"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "4."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00051",
+    "text": "5.\nsection 143, except the provisions of the Code specified at serial number (v) of S.O. 2060 (E), dated the\n3rd May, 2023;",
+    "element_ids": [
+      "e138"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "5."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e138",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00051",
+      "element_ids": [
+        "e138"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "5."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00052",
+    "text": "6.\nsections 144 to 163;",
+    "element_ids": [
+      "e139"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "6."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e139",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00052",
+      "element_ids": [
+        "e139"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "6."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00053",
+    "text": "7.\nItems 1 and 2 and items 4 to 9 of sub-section (1) of section 164;",
+    "element_ids": [
+      "e140"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "7."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e140",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00053",
+      "element_ids": [
+        "e140"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "7."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00054",
+    "text": "8.\nclause (a) and clause (c) of sub-section (2) and sub-section (3) of section 164.\n\n[F. No. R-11011/04/2021-SS.II]\n\nASHUTOSH A.T. PEDNEKAR, Jt. Secy.\n\nUploaded by Dte. of Printing at Government of India Press, Ring Road, Mayapuri, New Delhi-110064\n\nand Published by the Controller of Publications, Delhi-110054. GORAKHA NATH\n\nYADAVA\n\nDigitally signed by GORAKHA\nNATH YADAVA\nDate: 2025.11.21 15:20:18 +05'30'",
+    "element_ids": [
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "8."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e141",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00054",
+      "element_ids": [
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "8."
+      ],
+      "parent_section_id": null
+    }
+  }
+]

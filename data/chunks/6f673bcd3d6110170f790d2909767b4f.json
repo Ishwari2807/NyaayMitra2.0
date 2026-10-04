@@ -1,0 +1,5839 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "ouce\notal wea dart Pera\nEmployees' State Insurance Corporation\nMinistry of Labour & Employment, Govt. of India\nHEALTHY WORKFORCE\nPROSPEROUS INDIA\n— A Guide for Employers —",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "ouce"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "ouce"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "Introduction/Overview of ESIC",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "Introduction/Overview of ESIC"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "Introduction/Overview of ESIC"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "The Employees’ State Insurance Scheme, established under the Employees’ State Insurance Act of 1948,",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "The Employees’ State Insurance Scheme, established under the Employees’ State Insurance Act of 1948,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "The Employees’ State Insurance Scheme, established under the Employees’ State Insurance Act of 1948,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "is a comprehensive social insurance program designed to provide social security to “Employees” as\ndefined by the Act, against the impact of contingencies of sickness, maternity, disablement and death\ndue to employment injury and to provide medical care to insured persons and their families. The ESI Act\nis applicable to all non-seasonal factories and establishments as per notification of appropriate\nCentral/State Governments.",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "is a comprehensive social insurance program designed to provide social security to “Employees” as"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "is a comprehensive social insurance program designed to provide social security to “Employees” as"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "Presently, we cover 668 out of 778 districts of our country. A total of 3.62 crore Insured persons working",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "Presently, we cover 668 out of 778 districts of our country. A total of 3.62 crore Insured persons w..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "Presently, we cover 668 out of 778 districts of our country. A total of 3.62 crore Insured persons w..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "in 22.32 lakh factories/establishments are registered under ESIC. Including family members of these\nIPs, the total number of beneficiaries comes around 13 Crore.",
+    "element_ids": [
+      "e6"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "in 22.32 lakh factories/establishments are registered under ESIC. Including family members of these"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e6",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e6"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "in 22.32 lakh factories/establishments are registered under ESIC. Including family members of these"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "To cater to this vast number of beneficiaries, ESIC provides medical services through an extensive",
+    "element_ids": [
+      "e7"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "To cater to this vast number of beneficiaries, ESIC provides medical services through an extensive"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e7"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "To cater to this vast number of beneficiaries, ESIC provides medical services through an extensive"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "network of 1,590 Dispensaries, 165 Hospitals and Medical colleges, 610 branch offices and 105 DCBOs\nacross the country.\n1. ESIC Applicability/Coverage and Eligibility",
+    "element_ids": [
+      "e8"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "network of 1,590 Dispensaries, 165 Hospitals and Medical colleges, 610 branch offices and 105 DCBOs"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e8",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e8"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "network of 1,590 Dispensaries, 165 Hospitals and Medical colleges, 610 branch offices and 105 DCBOs"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "Coverage of Employer:",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "Coverage of Employer:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "Coverage of Employer:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "\nIn an area notified u/s 1(3) by the Central Government, all non-seasonal factories where 10 or\nmore persons are employed attract coverage under Section 2(12) of the ESI Act.",
+    "element_ids": [
+      "e10"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e10"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "\nFurther, according to the notification issued by the appropriate Government under Section 1(5)\nof the Act, State governments have extended the provisions of the act to the following\nestablishments employing 10 or more persons (however, in few of the states the threshold limit\nis still 20):",
+    "element_ids": [
+      "e11"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e11",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e11"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "(i)\nshops ;",
+    "element_ids": [
+      "e12"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(i)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e12",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e12"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(i)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "(ii) Hotels or restaurants not having any manufacturing activity, but only engaged in 'sales';",
+    "element_ids": [
+      "e13"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(ii) Hotels or restaurants not having any manufacturing activity, but only engaged in 'sales';"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e13",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e13"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(ii) Hotels or restaurants not having any manufacturing activity, but only engaged in 'sales';"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "(iii) Cinemas, including preview theatres ;",
+    "element_ids": [
+      "e14"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(iii) Cinemas, including preview theatres ;"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e14",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e14"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(iii) Cinemas, including preview theatres ;"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "(iv) Road Motor Transport Establishments ;",
+    "element_ids": [
+      "e15"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(iv) Road Motor Transport Establishments ;"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e15"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(iv) Road Motor Transport Establishments ;"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "(v) Newspaper establishments (that is not covered as factory under (Sec.2(12));",
+    "element_ids": [
+      "e16"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(v) Newspaper establishments (that is not covered as factory under (Sec.2(12));"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e16",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e16"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(v) Newspaper establishments (that is not covered as factory under (Sec.2(12));"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "(vi) Private Educational Institutions (those run by individuals, trustees, societies or other\norganizations and Medical Institutions (including Corporate, Joint Sector, trust, charitable, and\nprivate ownership hospitals, nursing homes, diagnostic centers and pathological labs).",
+    "element_ids": [
+      "e17"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(vi) Private Educational Institutions (those run by individuals, trustees, societies or other"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e17",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e17"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(vi) Private Educational Institutions (those run by individuals, trustees, societies or other"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "(vii) Municipal bodies including Municipal Corporation (Nagar Nigam), Municipal Councils, Nagar\nPalika and Other Urban Local Bodies run by State Government wherein ten or more persons on\ncasual or contractual or both, basis are employed.",
+    "element_ids": [
+      "e18"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "(vii) Municipal bodies including Municipal Corporation (Nagar Nigam), Municipal Councils, Nagar"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e18",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e18"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "(vii) Municipal bodies including Municipal Corporation (Nagar Nigam), Municipal Councils, Nagar"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "\nThe Central Government has extended the coverage to establishments belonging to or under",
+    "element_ids": [
+      "e19"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e19",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e19"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "the control of the central government engaged in the categories cited at Sr. No.(i) (v) and\nInsurance Business, Non-Banking Financial Companies, Port Trust, Airport Authorities and\nWarehousing establishments employing 20 or more Persons",
+    "element_ids": [
+      "e20"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "the control of the central government engaged in the categories cited at Sr. No.(i) (v) and"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e20",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e20"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "the control of the central government engaged in the categories cited at Sr. No.(i) (v) and"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "Coverage of Employee:",
+    "element_ids": [
+      "e21"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "Coverage of Employee:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e21",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e21"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "Coverage of Employee:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "\nUnder Section 2(9), any person employed for wages in or in connection with the work of a",
+    "element_ids": [
+      "e22"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e22",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e22"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "factory or establishments to which this act applies and drawing wages up to Rs. 21000/- per\nmonth (Rs.25,000/- for Persons with Disability) is covered under the Act. This includes directly\nemployed by the principal employer or through an immediate employer.",
+    "element_ids": [
+      "e23"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "factory or establishments to which this act applies and drawing wages up to Rs. 21000/- per"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e23",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e23"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "factory or establishments to which this act applies and drawing wages up to Rs. 21000/- per"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "\nTemporary, casual and part time employees are also covered.",
+    "element_ids": [
+      "e24"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e24",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e24"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "\nApprentices engaged under Indian Apprenticeship Act, 1961 are not covered.",
+    "element_ids": [
+      "e25"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e25",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e25"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "A Guide For\nEmployers",
+    "element_ids": [
+      "e26"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "A Guide For"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e26"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "A Guide For"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "1",
+    "element_ids": [
+      "e27"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e27",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e27"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "\nWashing allowance and Conveyance allowance are excluded from the wages.",
+    "element_ids": [
+      "e28"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e28"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "\nOvertime wages are not counted for the purpose of an employee’s coverage but counted for",
+    "element_ids": [
+      "e29"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e29",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e29"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "payment of contribution.",
+    "element_ids": [
+      "e30"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "payment of contribution."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e30"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "payment of contribution."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "Family:",
+    "element_ids": [
+      "e31"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "Family:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e31",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e31"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "Family:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "(i) a spouse ;",
+    "element_ids": [
+      "e32"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(i) a spouse ;"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e32",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e32"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(i) a spouse ;"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "(ii) a minor legitimate or adopted child dependent upon the insured person ;",
+    "element_ids": [
+      "e33"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(ii) a minor legitimate or adopted child dependent upon the insured person ;"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e33",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e33"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(ii) a minor legitimate or adopted child dependent upon the insured person ;"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "(iii) a child who is wholly dependent on the earnings of the insured person and who is —",
+    "element_ids": [
+      "e34"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(iii) a child who is wholly dependent on the earnings of the insured person and who is —"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e34",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e34"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(iii) a child who is wholly dependent on the earnings of the insured person and who is —"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "(a) receiving education, till he or she attains the age of twenty-one years,",
+    "element_ids": [
+      "e35"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(a) receiving education, till he or she attains the age of twenty-one years,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e35",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e35"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(a) receiving education, till he or she attains the age of twenty-one years,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "(b) an unmarried daughter ;",
+    "element_ids": [
+      "e36"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(b) an unmarried daughter ;"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e36",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e36"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(b) an unmarried daughter ;"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00037",
+    "text": "(iv) a child who is infirm by reason of any physical or mental abnormality or injury and is wholly\ndependent on the earnings of the insured person, so long as the infirmity continues ;",
+    "element_ids": [
+      "e37"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(iv) a child who is infirm by reason of any physical or mental abnormality or injury and is wholly"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e37",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00037",
+      "element_ids": [
+        "e37"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(iv) a child who is infirm by reason of any physical or mental abnormality or injury and is wholly"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00038",
+    "text": "(v) dependant parents, whose income from all sources does not exceed such income as may be\nprescribed by the Central Government ;",
+    "element_ids": [
+      "e38"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(v) dependant parents, whose income from all sources does not exceed such income as may be"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00038",
+      "element_ids": [
+        "e38"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(v) dependant parents, whose income from all sources does not exceed such income as may be"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00039",
+    "text": "(vi) in case the insured person is unmarried and his or her parents are not alive, a minor brother or\nsister wholly dependant upon the earnings of the insured person ;",
+    "element_ids": [
+      "e39"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "(vi) in case the insured person is unmarried and his or her parents are not alive, a minor brother o..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e39",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00039",
+      "element_ids": [
+        "e39"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "(vi) in case the insured person is unmarried and his or her parents are not alive, a minor brother o..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00040",
+    "text": "\nThe income criteria for the purpose of category (v) above in case of dependent parents should\nnot exceed \u0002 9,000 per month.",
+    "element_ids": [
+      "e40"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e40",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00040",
+      "element_ids": [
+        "e40"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00041",
+    "text": "Insured person: means a person who is or was an employee, in respect of whom contributions\nare or were payable under this Act and who is, by reason thereof, entitled to any of the benefits\nprovided by this Act;\n2. Registration",
+    "element_ids": [
+      "e41"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "Insured person: means a person who is or was an employee, in respect of whom contributions"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e41",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00041",
+      "element_ids": [
+        "e41"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "Insured person: means a person who is or was an employee, in respect of whom contributions"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00042",
+    "text": "Registration of Employer:",
+    "element_ids": [
+      "e42"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "Registration of Employer:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e42",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00042",
+      "element_ids": [
+        "e42"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "Registration of Employer:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00043",
+    "text": "\nAs per the statute, every factory/ establishment, to which the Act applies, shall get itself",
+    "element_ids": [
+      "e43"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e43",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00043",
+      "element_ids": [
+        "e43"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00044",
+    "text": "registered within 15 days from the date of its applicability to them (Section 2A of the Act read\nwith Regulation 10-B)",
+    "element_ids": [
+      "e44"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "registered within 15 days from the date of its applicability to them (Section 2A of the Act read"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e44",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00044",
+      "element_ids": [
+        "e44"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "registered within 15 days from the date of its applicability to them (Section 2A of the Act read"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00045",
+    "text": "\nEmployer can get registered online through i. shram suvidha portal(www.shramsuvidha.gov.in)",
+    "element_ids": [
+      "e45"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e45",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00045",
+      "element_ids": [
+        "e45"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00046",
+    "text": "ii. ESI web portal www.esic.in(For security and manpower agency only) iii. Employer registered\nwith the Registrar of Companies from MCA portal after 23.02.2020 are automatically registered\nonce they are registered under MCA",
+    "element_ids": [
+      "e46"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "ii. ESI web portal www.esic.in(For security and manpower agency only) iii. Employer registered"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e46",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00046",
+      "element_ids": [
+        "e46"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "ii. ESI web portal www.esic.in(For security and manpower agency only) iii. Employer registered"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00047",
+    "text": "\nA factory/establishment can also get registered by the RO/SRO on the basis of Survey Report",
+    "element_ids": [
+      "e47"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e47",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00047",
+      "element_ids": [
+        "e47"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00048",
+    "text": "from the Social Security Officer.",
+    "element_ids": [
+      "e48"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "from the Social Security Officer."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e48",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00048",
+      "element_ids": [
+        "e48"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "from the Social Security Officer."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00049",
+    "text": "\nA 17-digit unique identification number (Code Number) allotted to each of the",
+    "element_ids": [
+      "e49"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e49",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00049",
+      "element_ids": [
+        "e49"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00050",
+    "text": "factory/establishment registered under the Act.",
+    "element_ids": [
+      "e50"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "factory/establishment registered under the Act."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e50",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00050",
+      "element_ids": [
+        "e50"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "factory/establishment registered under the Act."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00051",
+    "text": "Sub Code No.:",
+    "element_ids": [
+      "e51"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "Sub Code No.:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e51",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00051",
+      "element_ids": [
+        "e51"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "Sub Code No.:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00052",
+    "text": "\nThe employer is required to obtain a sub-code no. for each office-Head Office/Branch",
+    "element_ids": [
+      "e52"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e52",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00052",
+      "element_ids": [
+        "e52"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00053",
+    "text": "office/sales office/administrative office away from the premises of the factory/establishment.",
+    "element_ids": [
+      "e53"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "office/sales office/administrative office away from the premises of the factory/establishment."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e53",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00053",
+      "element_ids": [
+        "e53"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "office/sales office/administrative office away from the premises of the factory/establishment."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00054",
+    "text": "\nThe employer can register any Branch or Sales Office through ESIC Portal using his credentials",
+    "element_ids": [
+      "e54"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e54",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00054",
+      "element_ids": [
+        "e54"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00055",
+    "text": "and his unique primary registration code number.\nRegistration of Employee:",
+    "element_ids": [
+      "e55"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "and his unique primary registration code number."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00055",
+      "element_ids": [
+        "e55"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "and his unique primary registration code number."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00056",
+    "text": "\nThe Employer before taking into employment shall register the insurable employee online using",
+    "element_ids": [
+      "e56"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e56",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00056",
+      "element_ids": [
+        "e56"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00057",
+    "text": "their credential.",
+    "element_ids": [
+      "e57"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "their credential."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e57",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00057",
+      "element_ids": [
+        "e57"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "their credential."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00058",
+    "text": "\nIn case of first employment (the employee has not worked anywhere before joining the",
+    "element_ids": [
+      "e58"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e58",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00058",
+      "element_ids": [
+        "e58"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00059",
+    "text": "2",
+    "element_ids": [
+      "e59"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "2"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e59",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00059",
+      "element_ids": [
+        "e59"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "2"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00060",
+    "text": "employer), the employer has to register the employee under the ESI Scheme by submitting the\ndetails of the employee, their family members, their place of residence and that of their family\nmembers, the dispensary at which they want to avail medical treatment, etc.",
+    "element_ids": [
+      "e60"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "employer), the employer has to register the employee under the ESI Scheme by submitting the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e60",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00060",
+      "element_ids": [
+        "e60"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "employer), the employer has to register the employee under the ESI Scheme by submitting the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00061",
+    "text": "\nOnce the registration process is completed, the employee will be allotted an insurance number,",
+    "element_ids": [
+      "e61"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e61",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00061",
+      "element_ids": [
+        "e61"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00062",
+    "text": "which is unique and will be valid throughout the life of the employee, even if the employee\nchanges jobs.",
+    "element_ids": [
+      "e62"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "which is unique and will be valid throughout the life of the employee, even if the employee"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e62",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00062",
+      "element_ids": [
+        "e62"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "which is unique and will be valid throughout the life of the employee, even if the employee"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00063",
+    "text": "\nIn case, the employee already has an insurance number, the employer has to enter that number",
+    "element_ids": [
+      "e63"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e63",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00063",
+      "element_ids": [
+        "e63"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00064",
+    "text": "and proceed with updating the details of the employee, as the insurance number is unique for\neach employee and is valid throughout the life of the employee, irrespective of his changing\njobs.\n3. E-Pehchan Card",
+    "element_ids": [
+      "e64"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "and proceed with updating the details of the employee, as the insurance number is unique for"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e64",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00064",
+      "element_ids": [
+        "e64"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "and proceed with updating the details of the employee, as the insurance number is unique for"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00065",
+    "text": "\nOn registration every insured person (IP) is provided with an ‘e-Pehchan Card’ through his",
+    "element_ids": [
+      "e65"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e65",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00065",
+      "element_ids": [
+        "e65"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00066",
+    "text": "employer. Insurance No. and other details of the IPs are printed on it",
+    "element_ids": [
+      "e66"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "employer. Insurance No. and other details of the IPs are printed on it"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e66",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00066",
+      "element_ids": [
+        "e66"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "employer. Insurance No. and other details of the IPs are printed on it"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00067",
+    "text": "\nInsured persons can also download their e-Pehchan Card through the IP Portal/the Umang App.",
+    "element_ids": [
+      "e67"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e67",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00067",
+      "element_ids": [
+        "e67"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00068",
+    "text": "\nThis feature is also available to the existing Ips.",
+    "element_ids": [
+      "e68"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e68",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00068",
+      "element_ids": [
+        "e68"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00069",
+    "text": "\nUpon downloading the e-Pehchan Card, insured persons are required to paste their",
+    "element_ids": [
+      "e69"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e69",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00069",
+      "element_ids": [
+        "e69"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00070",
+    "text": "photographs along with their family members and get the card countersigned by their\nrespective employers or the designated ESIC Branch Manager.",
+    "element_ids": [
+      "e70"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "photographs along with their family members and get the card countersigned by their"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e70",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00070",
+      "element_ids": [
+        "e70"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "photographs along with their family members and get the card countersigned by their"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00071",
+    "text": "\nThe e-Pehchan Card is valid for lifetime.\n4. Aadhar Seeding:",
+    "element_ids": [
+      "e71"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e71",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00071",
+      "element_ids": [
+        "e71"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00072",
+    "text": "\nESIC has also introduced Aadhaar authentication of insured persons and their family members",
+    "element_ids": [
+      "e72"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e72",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00072",
+      "element_ids": [
+        "e72"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00073",
+    "text": "on a voluntary basis.",
+    "element_ids": [
+      "e73"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "on a voluntary basis."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e73",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00073",
+      "element_ids": [
+        "e73"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "on a voluntary basis."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00074",
+    "text": "\nInsured Persons can seed the Aadhaar details of self and their family members in the ESIC",
+    "element_ids": [
+      "e74"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e74",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00074",
+      "element_ids": [
+        "e74"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00075",
+    "text": "database by themselves / their respective employers / by visiting nearest ESIC Branch Office /\nESIC Camp Office setup for this purpose.",
+    "element_ids": [
+      "e75"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "database by themselves / their respective employers / by visiting nearest ESIC Branch Office /"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e75",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00075",
+      "element_ids": [
+        "e75"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "database by themselves / their respective employers / by visiting nearest ESIC Branch Office /"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00076",
+    "text": "\nAadhaar details can be seeded through OTP, Biometric Authentication and facial recognition",
+    "element_ids": [
+      "e76"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      ""
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e76",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00076",
+      "element_ids": [
+        "e76"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        ""
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00077",
+    "text": "method by visiting Employer Portal / IP Portal / AAA+ App.\n5. BENEFITS UNDER ESI SCHEME:",
+    "element_ids": [
+      "e77"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "method by visiting Employer Portal / IP Portal / AAA+ App."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e77",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00077",
+      "element_ids": [
+        "e77"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "method by visiting Employer Portal / IP Portal / AAA+ App."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00078",
+    "text": "From entry into\ninsurable\nemployment and\ntill he/she is\nqualiﬁed to claim\nsickness or\nmaternity beneﬁt",
+    "element_ids": [
+      "e78"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "From entry into"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e78",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00078",
+      "element_ids": [
+        "e78"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "From entry into"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00079",
+    "text": "Medical\nBeneﬁt",
+    "element_ids": [
+      "e79"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Medical"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e79",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00079",
+      "element_ids": [
+        "e79"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Medical"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00080",
+    "text": "Name of The\nBeneﬁt(s)",
+    "element_ids": [
+      "e80"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Name of The"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e80",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00080",
+      "element_ids": [
+        "e80"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Name of The"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00081",
+    "text": "Contributory",
+    "element_ids": [
+      "e81"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Contributory"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e81",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00081",
+      "element_ids": [
+        "e81"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Contributory"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00082",
+    "text": "Condition",
+    "element_ids": [
+      "e82"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Condition"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e82",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00082",
+      "element_ids": [
+        "e82"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Condition"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00083",
+    "text": "Duration of Beneﬁt\nQuantum of",
+    "element_ids": [
+      "e83"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Duration of Beneﬁt"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e83",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00083",
+      "element_ids": [
+        "e83"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Duration of Beneﬁt"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00084",
+    "text": "Beneﬁt\nSr.\nNo.",
+    "element_ids": [
+      "e84"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Beneﬁt"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e84",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00084",
+      "element_ids": [
+        "e84"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Beneﬁt"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00085",
+    "text": "1\nFrom entry into\ninsurable employment\nand till he/she is\nqualiﬁed to claim\nsickness or maternity\nbeneﬁt",
+    "element_ids": [
+      "e85"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e85",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00085",
+      "element_ids": [
+        "e85"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00086",
+    "text": "Full medical care in the form\nof medical attendance,\ntreatment, drugs and\ninjections, specialist\nconsultation and\nhospitalization to insured\npersons and his/her family\nmembers It includes Primary\n,secondary and Tertiary care",
+    "element_ids": [
+      "e86"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Full medical care in the form"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e86",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00086",
+      "element_ids": [
+        "e86"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Full medical care in the form"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00087",
+    "text": "A Guide For\nEmployers",
+    "element_ids": [
+      "e87"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "A Guide For"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e87",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00087",
+      "element_ids": [
+        "e87"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "A Guide For"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00088",
+    "text": "3",
+    "element_ids": [
+      "e88"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "3"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e88",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00088",
+      "element_ids": [
+        "e88"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "3"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00089",
+    "text": "Payment of\ncontribution for\n78 days in\ncorresponding\ncontribution\nperiod",
+    "element_ids": [
+      "e89"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Payment of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e89",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00089",
+      "element_ids": [
+        "e89"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Payment of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00090",
+    "text": "Same as above\n(2)",
+    "element_ids": [
+      "e90"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Same as above"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e90",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00090",
+      "element_ids": [
+        "e90"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Same as above"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00091",
+    "text": "For 34 speciﬁed\nlong-term\ndiseases,\ncontinuous\ninsurable\nemployment for\ntwo years with\nthe minimum 156\ndays'\ncontribution in\nfour consecutive\ncontribution\nperiods",
+    "element_ids": [
+      "e91"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "For 34 speciﬁed"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e91",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00091",
+      "element_ids": [
+        "e91"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "For 34 speciﬁed"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00092",
+    "text": "From day one of\nentering insurable\nemployment for\ndisablement due\nto employment\ninjury",
+    "element_ids": [
+      "e92"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "From day one of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e92",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00092",
+      "element_ids": [
+        "e92"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "From day one of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00093",
+    "text": "From day one of\nentering insurable\nemployment for\ndisablement due\nto employment\ninjury",
+    "element_ids": [
+      "e93"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "From day one of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e93",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00093",
+      "element_ids": [
+        "e93"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "From day one of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00094",
+    "text": "From day one of\nentering\ninsurable\nemployment, paid\nfor death due to\nemployment\ninjury",
+    "element_ids": [
+      "e94"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "From day one of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e94",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00094",
+      "element_ids": [
+        "e94"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "From day one of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00095",
+    "text": "For life to the widow or\nuntil her re-marriage,\nand to dependant son\ntill the age of 25 years,\ntill marriage of daughter\nand to dependant\nparents etc. Subject to\nconditions",
+    "element_ids": [
+      "e95"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "For life to the widow or"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e95",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00095",
+      "element_ids": [
+        "e95"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "For life to the widow or"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00096",
+    "text": "Sickness\nBeneﬁt",
+    "element_ids": [
+      "e96"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Sickness"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e96",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00096",
+      "element_ids": [
+        "e96"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Sickness"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00097",
+    "text": "Enhanced\nSickness\nBeneﬁt",
+    "element_ids": [
+      "e97"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Enhanced"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e97",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00097",
+      "element_ids": [
+        "e97"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Enhanced"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00098",
+    "text": "Extended\nSickness\nBeneﬁt",
+    "element_ids": [
+      "e98"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Extended"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e98",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00098",
+      "element_ids": [
+        "e98"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Extended"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00099",
+    "text": "Temporary\nDisablement\nBeneﬁt",
+    "element_ids": [
+      "e99"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Temporary"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e99",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00099",
+      "element_ids": [
+        "e99"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Temporary"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00100",
+    "text": "Permanent\nDisablement\nBeneﬁt",
+    "element_ids": [
+      "e100"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Permanent"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e100",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00100",
+      "element_ids": [
+        "e100"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Permanent"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00101",
+    "text": "Dependants’\nBeneﬁt",
+    "element_ids": [
+      "e101"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Dependants’"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e101",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00101",
+      "element_ids": [
+        "e101"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Dependants’"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00102",
+    "text": "2",
+    "element_ids": [
+      "e102"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "2"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e102",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00102",
+      "element_ids": [
+        "e102"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "2"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00103",
+    "text": "3",
+    "element_ids": [
+      "e103"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "3"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e103",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00103",
+      "element_ids": [
+        "e103"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "3"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00104",
+    "text": "4",
+    "element_ids": [
+      "e104"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "4"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e104",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00104",
+      "element_ids": [
+        "e104"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "4"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00105",
+    "text": "5",
+    "element_ids": [
+      "e105"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "5"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e105",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00105",
+      "element_ids": [
+        "e105"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "5"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00106",
+    "text": "6",
+    "element_ids": [
+      "e106"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "6"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e106",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00106",
+      "element_ids": [
+        "e106"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "6"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00107",
+    "text": "7",
+    "element_ids": [
+      "e107"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "7"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e107",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00107",
+      "element_ids": [
+        "e107"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "7"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00108",
+    "text": "Upto 91 days in two\nconsecutive beneﬁt\nperiods",
+    "element_ids": [
+      "e108"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Upto 91 days in two"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e108",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00108",
+      "element_ids": [
+        "e108"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Upto 91 days in two"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00109",
+    "text": "14 days for Tubectomy\nand 7 days for\nVasectomy, extendable\non medical advice",
+    "element_ids": [
+      "e109"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "14 days for Tubectomy"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e109",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00109",
+      "element_ids": [
+        "e109"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "14 days for Tubectomy"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00110",
+    "text": "124 days during a period\nof two years. This may\nbe extended upto two\nyears on medical advice",
+    "element_ids": [
+      "e110"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "124 days during a period"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e110",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00110",
+      "element_ids": [
+        "e110"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "124 days during a period"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00111",
+    "text": "As long as temporary\ndisablement lasts",
+    "element_ids": [
+      "e111"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "As long as temporary"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e111",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00111",
+      "element_ids": [
+        "e111"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "As long as temporary"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00112",
+    "text": "For whole life",
+    "element_ids": [
+      "e112"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "For whole life"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e112",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00112",
+      "element_ids": [
+        "e112"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "For whole life"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00113",
+    "text": "70% of the average daily\nwages",
+    "element_ids": [
+      "e113"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "70% of the average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e113",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00113",
+      "element_ids": [
+        "e113"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "70% of the average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00114",
+    "text": "100% of the average daily\nwages",
+    "element_ids": [
+      "e114"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "100% of the average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e114",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00114",
+      "element_ids": [
+        "e114"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "100% of the average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00115",
+    "text": "80% of the average daily\nwages",
+    "element_ids": [
+      "e115"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "80% of the average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e115",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00115",
+      "element_ids": [
+        "e115"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "80% of the average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00116",
+    "text": "90% of the average daily\nwages",
+    "element_ids": [
+      "e116"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "90% of the average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e116",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00116",
+      "element_ids": [
+        "e116"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "90% of the average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00117",
+    "text": "Upto 90% of average daily\nwages(in proportion to the\nloss of earning capacity)",
+    "element_ids": [
+      "e117"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "Upto 90% of average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e117",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00117",
+      "element_ids": [
+        "e117"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "Upto 90% of average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00118",
+    "text": "90% of average daily\nwages shareable in ﬁxed\nproportion among all\ndependants",
+    "element_ids": [
+      "e118"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "90% of average daily"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e118",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00118",
+      "element_ids": [
+        "e118"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "90% of average daily"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00119",
+    "text": "4",
+    "element_ids": [
+      "e119"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "4"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e119",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00119",
+      "element_ids": [
+        "e119"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "4"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00120",
+    "text": "Payment of\ncontribution of 70\ndays in two\npreceding\ncontribution\nperiods",
+    "element_ids": [
+      "e120"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "Payment of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e120",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00120",
+      "element_ids": [
+        "e120"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "Payment of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00121",
+    "text": "In case of\ninvoluntarily loss\nof employment\ndue to closure of\nfactory,\nretrenchment or\npermanent\ninvalidity due to\nnon-employment\ninjury and the\ncontribution in\nrespect of him\nhas been\npaid/payable for a\nminimum of two\nyears prior to the\nloss of\nemployment",
+    "element_ids": [
+      "e121"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "In case of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e121",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00121",
+      "element_ids": [
+        "e121"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "In case of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00122",
+    "text": "In case of\nunemployment,\ncash compensation\nis paid to the IP\nsubject to one\nyear of Service\ncompleted by IP\nand contribution\nfor not less than\n78 days in one\ncontribution period\nin 12 months\nimmediately\npreceding to\nunemployment.\n(Till 30.06.2024)",
+    "element_ids": [
+      "e122"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "In case of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e122",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00122",
+      "element_ids": [
+        "e122"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "In case of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00123",
+    "text": "Maternity\nBeneﬁt",
+    "element_ids": [
+      "e123"
+    ],
+    "pages": [
+      6
+    ],
+    "structure_path": [
+      "Maternity"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e123",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00123",
+      "element_ids": [
+        "e123"
+      ],
+      "page_start": 6,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "Maternity"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00124",
+    "text": "OTHER BENEFITS\n\nAtal Bimit\nVyakti Kalyan\nYojana\n\nUnemploy-\nment\nAllowance\nRajiv Gandhi\nShramik\nKalyan Yojna\n(RGSKY)\n\n8\n\n1\n\n2\n\nIt is paid upto 26 weeks in\ncase of conﬁnement, upto\ntwo surviving children, 12\nweeks for more than two\nsurviving children, upto 12\nweeks to commissioning/\nadopting mother, upto 6\nweeks in case of miscarriage\nfurther extendable by 1\nmonth on medical advice in\ncase of sickness arising out\nof Pregnancy, Conﬁnement,\nMiscarriage\n\nMaximum 24 months\nduring life time\n\n90 days\n\n100% of the average daily\nwages\n\n50% of the average daily\nwages for the ﬁrst 12\nmonths and thereafter,\n25% for the\nlast 12 months\n\n50% of the average daily\nearning\n\nA Guide For\nEmployers\n\n5\n\nAn insured\nwoman or an I.P.\nin respect of his\nwife is eligible if\nconﬁnement\noccurs at a place\nwhere necessary\nmedical facilities\nunder ESI\nscheme are not\navailable\n\nFrom day one of\nentering insurable\nemployment\n\nIn case of physical\ndisablement due to\nemployment injury\n\nIn case of physical\ndisablement due\nto injury\n\nIn case of\nUnemployment\nAllowance under\nRGSKY\n\n(i) Provided to the\nInsured Person and\nhis/her spouse in\nthe ESI hospitals\nand dispensaries\non retirement after\nthe superannuation\nage or by taking\nretirement under\nthe voluntary\nretirement plan\nor pre-retirement\n\n(ii) An Insured\nPerson who ceases\nto be in insurable\nemployment on\naccount of\npermanent\ndisablement\n\nUp to two conﬁnements\nonly\n\nFor defraying expenses\non the funeral of an\ninsured person\n\nAs long as vocational\ntraining lasts\n\nAs long as person is\nadmitted to an artiﬁcial\nlimb center\n\nFor a duration of\nmaximum 6 months\n\nLifetime. Subject to the\ncondition of minimum\nservice of 05 years in\ninsurable employment\nbefore the retirement\n\nPayment of Rs. 120/- per\nannum after retirement\n\nRs. 7,500/- per case\n\nActual expenses subject to a\nmaximum limit of\nRs. 15,000/-\n\nActual fee charged or\nRs. 123/- a day, whichever is\nhigher\n\n100% of the average\ndaily wages\n\nConﬁnement\nExpenses\n\nFuneral\nExpenses\n\nVocational\nTraining\n\nPhysical\nRehabilitation\n\nVocational\nRehabilitation\nSkill\nDevelopment\nScheme\n\nMedical Care\nto retired\nInsured\nPersons\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n6\n\n\nContribution shall be paid in respect of an employee online through Employer’s portal www.esic.in\n\n15 days from the last day of the calendar month in which the contribution falls due for any wage\nperiod (Reg. 29 & 31).\n\n\nEmployees in receipt of a daily average wage up to Rs.176/- are exempted from payment of\n\ncontribution. (No deduction of Employees’ share of contribution from employee’s salary/wages).\nEmployers will, however, pay their own share in respect of these employees.\n\n\nThe employer is exempted from payment of Employer's share of contribution on the wages paid to\n\nthe employees with disabilities for a maximum period of 03 years from the date of commencement\nof the contribution period in which such employee with disability is employed.\n7. Filing Monthly Contribution: Employer shall file the monthly contribution in respect of each\n\nWard of IP: Few seats have been allocated for wards of insured persons (IPs) for admissions into\nundergraduate (MBBS/BDS/BSc Nursing) courses in ESIC Medical Education institutions.\n\nDependents and their share in DB:The rate of dependants' benefit is 90% of the standard benefit rate of\nthe wages of the deceased insured person. It is apportioned among the dependants as follows:\n\n(i) Widow: Till death or remarriage at 3/5th of the full rate.\n\n(ii) Widowed mother till death at 2/5th of the full rate,\n\n(iii) To each child at 2/5th of the full rate each till they attain the age of twenty five years.\n\n(iv) Unmarried daughters at 2/5th of the full rate till they get married\n\n(v) If the son or daughter is infirm and wholly dependent on the earnings of the insured person at the\n\ntime of his death, they continue to receive the benefit even after attaining the age of 25\nyears/marriage as the case may be.\n\nIf the total dependants' benefit for all the dependents worked out as above exceeds at anytime, the full\nrate, the share of each of the dependents shall be proportionately reduced, so that the total amount\npayable to them does not exceed the amount at full rate. In case the deceased, Insured Person does not\nleave behind any of the dependents referred above, then his parents will get 3/10 share or if no parent is\nalive, then his paternal grant parent will get 3/10 share of full rate of dependent benefit.\n\nBenefits of ESIC for employers",
+    "element_ids": [
+      "e124",
+      "e125",
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184"
+    ],
+    "pages": [
+      6,
+      7,
+      8
+    ],
+    "structure_path": [
+      "OTHER BENEFITS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e124",
+      "semantic_root_role": "",
+      "element_count": 61,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00124",
+      "element_ids": [
+        "e124",
+        "e125",
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184"
+      ],
+      "page_start": 6,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "OTHER BENEFITS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00125",
+    "text": "1.\nEmployers covered under ESI Scheme are exempted from the Maternity Benefit Act and Employees'\nCompensation Act for employees.",
+    "element_ids": [
+      "e185"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "1."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e185",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00125",
+      "element_ids": [
+        "e185"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "1."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00126",
+    "text": "2.\nEmployers are freed from responsibility during physical distress of workers, such as sickness,\nemployment injury or physical disablement resulting in loss of wages, as the financial support in\nsuch contingencies is provided by the ESIC in respect of insured employees.",
+    "element_ids": [
+      "e186"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "2."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e186",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00126",
+      "element_ids": [
+        "e186"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "2."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00127",
+    "text": "3.\nAny sum contributed under the ESI Act is deductible while computing 'Income' under the Income Tax\nAct.\n6. ESIC Contributions\n\n\nThe rate of contribution equals to 4 percent of the wages payable to an employee, out of which 3.25\n\npercent is the employers’ share and 0.75 percent is the employees’ share.\n\nThe Employers’ contribution is at the rate of\n3.25% of the wages payable to employees.\nThe Employees’ contribution is at the rate of\n0.75% of the wages payable to him/her\n\nEmployers\nEmployees\n\nA Guide For\nEmployers\n\n7\n\ncoverable employee online and pay the monthly contribution within 15 days of the following month.\nIn case of failure to file and pay the monthly contribution, defaulter/prosecution action may be\ninitiated against the defaulting employer by the ESIC.\n8. Records to be maintained for ESI purposes:\n\n\nMuster roll, wage record and Books of Account maintained under other laws.\n\n\nRecords of immediate employer as required by the Labour Laws.\n\n\nForm-6.\n\n\nAccident Register Form-11.\n\n\nAn inspection book.\n\n\nThe immediate employer is also required to maintain the Employees’ Register for the employees\n\ndeployed to the principal employer.\n9. Returns/reports to be submitted by the Employer:\n\nThe Employer has to submit the following records Online:\n\n\nAn annual return in Form 01-A by 31st January of every year showing the changes, if any, during the\n\npreceding year.\n\n\nReturn of Contributions for the six months within 42 days of expiry of each contribution period, i.e.\n\nby 11th November for the contribution period ended 30th Sept., and 12th May for the contribution\nperiod ended 31st March.(Now it is generated online on the basis of the Monthly contribution filed)\n\n\nAccident report in Form 12 in case any accident takes place, to the notice of the Accident.\n\n\nDeclaration Forms in Form 1 for all the employees at the time of coverage of the unit, and thereafter\n\nas and when a new employee joins the insurable employment.\n\n\nAbstention Verification Report is required to be submitted to the Branch office as and when it is\n\nsought by the Branch Manager in respect of any IP\n10. Responsibilities and Duties of Employers:\n\n\nRegister the factory/Establishment within 15 days from the date the act becomes applicable to the\n\nunit.\n\n\nEmployers should register all coverable employees on the day of their joining under ESI Act get the\n\nunique 10 digit insurance number of every employee. Employer should preferably register all\ncoverable employees by using his/her Aadhar.\n\n\nIssue E-Pehchan card to the IPs after their registration.\n\n\nIn case, engaging services of contractors’ employees, ensure they are covered directly under the\n\nprincipal employer or through a contractor.\n\n\nThe employers themselves have been authorized to edit/upload personal particulars of employees,\n\nincluding family members of such employees. A change of name cannot be executed.\n\n\nDo not enroll individuals who are not associated with your establishment as members by making\n\nfalse declarations.\n\n\nMake the payment of Monthly Contribution within the stipulated time, i.e., within 15 days of the\n\nfollowing month.\n\n\nEnsure that the Return of Contribution is generated in time by making regular payments (not after 42\n\nday ending of contribution period).\n\n\nAppoint a responsible officer of your establishment as the Authorised Signatory as all actions taken\n\nby him/her will be legally binding on the employer.\n\n8\n\n\nIn all cases where the employer himself does not transact the business and relies on others,\n\nincluding the Authorised Signatory for doing the same, the utmost caution must be exercised, as the\nestablishment/employer will be held responsible for all acts of omission and commission.\n\n\nMaintain confidentiality of your establishment’s login credentials and do not share them with\n\nunauthorized persons.\n\n\nAssist the IPs to submit online claim whenever they are entitled to any cash benefit under this act.\n\n\nPlease transact all ESIC related business only through the official website.\n\n\nUpdate any change in the details of the factory/establishment,its ownership, etc.online.\n\n\nUpdate any change in the details of IP or his/her family.This includes addition/deletion due to\n\nevents, such as, marriage, birth or death online.\n\n\nEmployers should seed Aadhar of all covered employees with their families at the earliest.\n\n\nFill out Form 01-A to the concerned authority by the 31st of January every year.\n\n\nSubmit an 'Accident Report' online by using your esi login ID to the Branch Office (BO)/ESI\n\nDispensary concerned immediately in respect of accidents that could result in death or disablement\nof the employee within 24 hours of its occurrence. Minor accidents that do not cause absence from\nwork need not be reported.\n\n\nGrant leave to insured employees on the basis of sickness certificates issued by any authorized ESI\n\ndoctor.\n\n\nFurnish any requisite information promptly as and when asked for by the RO/SRO/BO/any other\n\noffice of the Corporation/Scheme.\n\n\nFacilitate proper inspection of factory/establishment by any authorized officer of the Corporation\n\nand produce before him all relevant records on demand.\n\n\nIntimate the date of closure or shifting (temporary or permanent) of the factory/ establishment to\n\nthe RO/SRO/BO within seven days of its closure or shifting.\n\n\nAscertain the liability towards ESI dues, while taking over the ownership of any factory/\n\nestablishment by purchase, gift, lease or license or in any other manner whatsoever as new owner is\nliable to discharge the past liabilities, if any.\n11. Interest & Damages: Interest and damages are payable on delayed payment of contribution:\n\nLess than 2 months\n\n2 months and above but less\nthan 4 months\n\n4 months and above but less\nthan 6 months\n\n6 months and above\n\n5%\n\n10%\n\n15%\n\nSimple interest at the rate\nof 12% per annum for each\nday of the default or delay\nin payment of contribution.\n\nPeriod of Default\nRates of Damages\nRate of Interest\n\n25%\n(It may correspondingly go up to\n\n100%)\n\nApart from levying Interest and Damage, prosecution action u/s 85 of ESI Act, 1948 may also be\ninitiated against the defaulting employer for non/delay payment of contributions.\n\nA Guide For\nEmployers\n\n9",
+    "element_ids": [
+      "e187",
+      "e188",
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193",
+      "e194",
+      "e195",
+      "e196",
+      "e197",
+      "e198",
+      "e199",
+      "e200",
+      "e201",
+      "e202",
+      "e203",
+      "e204",
+      "e205",
+      "e206",
+      "e207",
+      "e208",
+      "e209",
+      "e210",
+      "e211",
+      "e212",
+      "e213",
+      "e214",
+      "e215",
+      "e216",
+      "e217",
+      "e218",
+      "e219",
+      "e220",
+      "e221",
+      "e222",
+      "e223",
+      "e224",
+      "e225",
+      "e226",
+      "e227",
+      "e228",
+      "e229",
+      "e230",
+      "e231",
+      "e232",
+      "e233",
+      "e234",
+      "e235",
+      "e236",
+      "e237",
+      "e238",
+      "e239",
+      "e240",
+      "e241",
+      "e242",
+      "e243",
+      "e244",
+      "e245",
+      "e246",
+      "e247",
+      "e248",
+      "e249",
+      "e250",
+      "e251",
+      "e252",
+      "e253",
+      "e254",
+      "e255",
+      "e256",
+      "e257",
+      "e258",
+      "e259",
+      "e260",
+      "e261",
+      "e262",
+      "e263",
+      "e264",
+      "e265",
+      "e266"
+    ],
+    "pages": [
+      8,
+      9,
+      10
+    ],
+    "structure_path": [
+      "3."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e187",
+      "semantic_root_role": "",
+      "element_count": 80,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00127",
+      "element_ids": [
+        "e187",
+        "e188",
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193",
+        "e194",
+        "e195",
+        "e196",
+        "e197",
+        "e198",
+        "e199",
+        "e200",
+        "e201",
+        "e202",
+        "e203",
+        "e204",
+        "e205",
+        "e206",
+        "e207",
+        "e208",
+        "e209",
+        "e210",
+        "e211",
+        "e212",
+        "e213",
+        "e214",
+        "e215",
+        "e216",
+        "e217",
+        "e218",
+        "e219",
+        "e220",
+        "e221",
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226",
+        "e227",
+        "e228",
+        "e229",
+        "e230",
+        "e231",
+        "e232",
+        "e233",
+        "e234",
+        "e235",
+        "e236",
+        "e237",
+        "e238",
+        "e239",
+        "e240",
+        "e241",
+        "e242",
+        "e243",
+        "e244",
+        "e245",
+        "e246",
+        "e247",
+        "e248",
+        "e249",
+        "e250",
+        "e251",
+        "e252",
+        "e253",
+        "e254",
+        "e255",
+        "e256",
+        "e257",
+        "e258",
+        "e259",
+        "e260",
+        "e261",
+        "e262",
+        "e263",
+        "e264",
+        "e265",
+        "e266"
+      ],
+      "page_start": 8,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "3."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00128",
+    "text": "12. Redressal of Public Grievances\n\nThe ESI Corporation has set up the Public Grievances Redressal System at all levels, i.e., Hqrs.\n\nOffice/Regional/Sub-Regional/Divisional/Branch Offices/ESI Dispensaries/ESI Hospitals.\nStakeholders may reach out to ESIC for grievance redressal through esic website,CPGRAM portal,Toll-\nFree Helpline No. 1800-11-3839 (medical services) and 1800-11-2526 for Non-Medical issues,Social\nMedia,Umang App, email (pg-hqrs@esic.nci.in) and hard copy by post, etc.\n\nBesides the above, we have PGO at RO/SRO and ESICH/ESICMCH levels to redress the grievances of\n\nstakeholders.",
+    "element_ids": [
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "12. Redressal of Public Grievances"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e267",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00128",
+      "element_ids": [
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "12. Redressal of Public Grievances"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00129",
+    "text": "13. Suvidha Samagam\n\nIn order to deal with oral, written complaints/suggestions and grievances, Suvidha Samagam is held\n\nregularly in various field offices, i.e., at RO/SRO/ESIC Hospitals on 2nd Wednesday of every month and\nat ESIC BO on 2nd Friday of every month.",
+    "element_ids": [
+      "e272",
+      "e273",
+      "e274"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "13. Suvidha Samagam"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e272",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00129",
+      "element_ids": [
+        "e272",
+        "e273",
+        "e274"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "13. Suvidha Samagam"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00130",
+    "text": "14. Vigilance Related Issues\n\nFor vigilance related issues, employers and employees covered under the Scheme can contact the\n\nRegional Director, ESIC of their areas or write to the: -\n\nChief Vigilance Officer (Vigilance)\n\nEmployees’ State Insurance Corporation, Panchdeep Bhawan, CIG Marg, New Delhi-110002\n\nTel.: 011-23221105/23237284, E-mail: cvohq-dl@esic.nic.in",
+    "element_ids": [
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "14. Vigilance Related Issues"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e275",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00130",
+      "element_ids": [
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "14. Vigilance Related Issues"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00131",
+    "text": "15. Online Services\n\nIn ESI Corporation, bilingual (Hindi & English) Website 'www.esic.gov.in' and AAA+ esic app are already\n\noperational. The following services can be availed online by stakeholders in case of need:-\n\ni)\nRegistration of employers & employees\n\nii)\nIssuance of e-Pehchan card\n\niii) Online payment of ESI Contribution by the employers or online generation of challan for payment of\n\ncontributions.\n\niv) Online submission of benefit claims\n\nv)\nOnline submission of request to update IP as well as family particulars\n\nvi) Stakeholders may lodge online public grievance through CPGRAM, Govt. of India vide their Website\n\nhttp://pgportal.gov.in.\n\nvii) Prior online appointment for medical treatment can be booked through AAA+ app which can be\n\ndownloaded through play store.\n\n10\n\nDisclaimer: This document is provided for informational purposes only and is not intended to\nserve as legal advice or a legally binding document. While every effort has been made to ensure\nthe accuracy of the information, it may not reﬂect the most current developments.\n\notal wea frat Fra\nEmployees’ State Insurance Corporation\nMinistry of Labour & Employment, Govt. of India\nPanchdeep Bhawan, C.I.G. Marg, New Delhi - 110 002\nToll-Free No, 1800-11-2526 « Website: www.esic.gowin\nesicricin @e@esiena @osing © aesira ©",
+    "element_ids": [
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288",
+      "e289",
+      "e290",
+      "e291",
+      "e292",
+      "e293",
+      "e294",
+      "e295",
+      "e296"
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "structure_path": [
+      "15. Online Services"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e281",
+      "semantic_root_role": "",
+      "element_count": 16,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00131",
+      "element_ids": [
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288",
+        "e289",
+        "e290",
+        "e291",
+        "e292",
+        "e293",
+        "e294",
+        "e295",
+        "e296"
+      ],
+      "page_start": 11,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "15. Online Services"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

@@ -1,0 +1,959 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "New Labour",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "New Labour"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "New Labour"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "Code For\nNew India",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Code For"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Code For"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "Biggest Labour Reforms in",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Biggest Labour Reforms in"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Biggest Labour Reforms in"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "Independent India.\n\nLong due and much awaited Labour reforms have been\npassed by the Parliament. The reforms will ensure well-\nbeing of our industrious workers and give a boost to\neconomic growth. They are also shining examples of\n‘Minimum Government, Maximum Governance.' The new\nLabour codes universalise minimum wages and timely\npayment of wages. They give priority to occupational\nsafety of the workers. These reforms will contribute to\na better working environment, which will accelerate the\npace of economic growth. These Labour reforms will ensure\n‘Ease of Doing Business.’ These are futuristic legislations\nwhich will empower enterprises by reducing compliance,\nred-tapism and ‘Inspector Raj.’ These reforms also seek to\nharness the power of technology for the betterment of\nthe workers and industry both.”\n\n(In a tweet on the occasion of passing of Labour Reforms Bill on 23.09.2020 in the Parliament)\n“",
+    "element_ids": [
+      "e4",
+      "e5",
+      "e6"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "Independent India."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4",
+        "e5",
+        "e6"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "Independent India."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "Prime Minister Narendra Modi\n\n1. Introduction.............................................................................\n\n2. Only discussion for 18 years...........................................\n\n3. Satyamev Jayate To Shramev Jayate.....................\n\n4. 4 Labour Codes and freedom from the web of\nlegislation..................................................................................\n\n5. Right To Minimum Wages for everyone.................\n\n6. Social Security for everyone....................................\n\n7. The provision of right to security for workers\nin all situations.............................................................\n\n8. Towards end to disputes...................................................\n\n01\n\n02\n\n04\n\n07\n\n10\n\n12\n\n15\n\n19",
+    "element_ids": [
+      "e7",
+      "e8",
+      "e9",
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14",
+      "e15",
+      "e16",
+      "e17",
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "Prime Minister Narendra Modi"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e7",
+      "semantic_root_role": "",
+      "element_count": 17,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e7",
+        "e8",
+        "e9",
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14",
+        "e15",
+        "e16",
+        "e17",
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "Prime Minister Narendra Modi"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "Chapters\n\n1\nNew Labour Code For New India",
+    "element_ids": [
+      "e24",
+      "e25"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "Chapters"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e24",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e24",
+        "e25"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Chapters"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "Introduction\n\nChapter 1",
+    "element_ids": [
+      "e26",
+      "e27"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "Introduction"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e26",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e26",
+        "e27"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "Introduction"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "The empowerment of workers is necessary for\nan empowered, prosperous and Aatmanirbhar\nIndia. Even after 73 years of Independence,\napproximately 90% of workers work in the\nunorganized sector that do not have access to all\nthe social securities. The total number of workers,\ncomprising of organized and unorganized sectors,\nis more than 50 crores. It is for the first time\nthat any Government has cared for the workers\nin both organized and unorganized sectors and\ntheir families.\nEarlier, the working class was entangled in web\nof multiple labour legislations. The Central\nGovernment has taken a revolutionary step in\nthe right direction to provide them freedom in\ntrue sense.\nFor this, the Central Government has taken\nhistorical step of codifying 29 laws into 4 Codes,\nso that workers can get security along with\nrespect, health and other welfare measures with\nease.\n\n2\nNew Labour Code For New India",
+    "element_ids": [
+      "e28",
+      "e29"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "The empowerment of workers is necessary for"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e28",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e28",
+        "e29"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "The empowerment of workers is necessary for"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "There are more than 50 crore workers in the\norganized and unorganized sector of the country.\nA majority of these workers i.e. around 90 percent,\nare in the unorganized sector. Through these four\nLabour Codes, it has been ensured that all these\nworkers will get the benefit of Labour Laws. Now\nall workers of the organized and unorganized\nsector will get the minimum wages and a large\nsection of workers in unorganized sector would\nalso get social security.",
+    "element_ids": [
+      "e30"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "There are more than 50 crore workers in the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e30",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e30"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "There are more than 50 crore workers in the"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "The Second National Commission of Labour had\nsubmitted its report in 2002 which said that\nthere was multiplicity of Labour Laws in India and\ntherefore, recommended that at the Central level\nmultiple Labour Laws should be codified in 4 or\n5 Labour Codes. While discussions were held on\nit, however, no serious initiative was taken in this\ndirection during the time period from 2004 to",
+    "element_ids": [
+      "e31"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "The Second National Commission of Labour had"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e31",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e31"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "The Second National Commission of Labour had"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "Only discussion since\n18 years\n\nChapter 2\n\n3\nNew Labour Code For New India",
+    "element_ids": [
+      "e32",
+      "e33",
+      "e34"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "Only discussion since"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e32",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e32",
+        "e33",
+        "e34"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "Only discussion since"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "2014. Labour Reforms also remained untouched\nduring the economic reforms carried out in 1991.\n\nThe brainstorming on Labour Codes were fast-\ntracked when the GST, as One Nation One\nTax, was made applicable in the country with\nconsensus and with the strong will of the Hon’ble\nPrime Minister Modi Ji to take tough decisions\nfor “Sabka Sath Sabka Vikas aur Sabka Vishwas”.\nBy taking forward this progressive thinking, the\nreforms in Labour Laws were also speeded up.\n\nExtensive discussions were held before initiation\nof Labour Reforms by Ministry of Labour and\nEmployment. Initially, as a part of Government's\npre-legislative consultative policy, the Ministry\nuploaded all the draft Labour Codes on its website\nfor stakeholders and public consultation. During\n2015 to 2019, the Ministry organized 9 tripartite\ndiscussions in which all the Central Trade Unions,\nEmployers’ Associations and representatives\nof State Governments were invited to give\ntheir opinions/suggestions on Labour reforms.\nAll the four Bills were also examined by the\nParliamentary Standing Committee which gave\nits recommendations to the Government.\n\n4\nNew Labour Code For New India\n\nSatyamev Jayate to\nShramev Jayate\n\nThe far reaching vision of the existing Government\nfor workers became clear in October 2014 itself.\nThe moment Prime Minister Modi took over the\nreign of the Government, the Shramev Jayate\nScheme was started.\n\nGiving importance to the workers when the Prime\nMinister had started “Shramev Jayate” on 16th\nOctober, 2014 at that moment, while terming the\nworkers as “Nation Builders”, he had said that\nthe power of “Shramev Jayate” for growth of the\ncountry was equal to that of “Satyamev Jayate”.\n\nWorkers were given the benefit of portability\nthrough Universal Account Number (UAN) so as\nto enable them to withdraw their provident fund\nsecurely from anywhere. In addition, the system\nof 'inspector raj' was removed by making the role\nof inspector to that of advisor and facilitator for\nworkers.\n\nChapter 3\n\n5\nNew Labour Code For New India\n\nIn addition, through Shram Suvidha Portal, the\nindustry was provided ease in return filing. At\nthat time itself the Government made it clear\nthat if attitude is respectful then workers become\n“Shram Yogi, Rashtra Yogi and Nation Builders”.\nThe Prime Minister made it clear even then that\nissues of the workers should now be seen from\nthe perspective of workers.\n\nThrough continuous reforms and by taking care\nof the interest of workers, the Modi Government\nstarted the initiative of providing social security\nto old age workers of unorganized sector. For\nthis, the Pradhan Mantri Shram Yogi Man Dhan\nYojana was started, in which provision was made\nfor pension benefit of Rs 3,000 per month after\nreaching the age of 60.\n\nThe Central Government also wanted to know\nthe correct status of Labour Laws made for the\nworkers, whether these are really beneficial or\nnot and whether there is any Labour Law which\nis not allowing the workers to make progress.\n\n6\nNew Labour Code For New India\n\n• For transparency and accountability, the usage\nof IT-enabled system for inspection has been\nmade mandatory.\n\n• The ceiling limit of gratuity has been increased\nfrom Rs 10 Lakhs to Rs 20 Lakhs on 29.03.2018.\n\n• On 16.02.2017, Payment of Wages Act enabled\npayment of wages to employees by cheque or\ncrediting it to their bank account.\n\n• Maternity Benefit Amendment Act, 2017, which\ncame into effect on 01.04.2017, increased the\npaid maternity leave from 12 weeks to 26\nweeks.\n\nLabour Reforms undertaken since 2014\n\n7\nNew Labour Code For New India\n\n4 Labour Codes and\nFreedom from the Web\nof Legislation\n\nMany provisions of Labour Laws trace their origin\nto the time of the British Raj. However, with\nchanging times, many of them either became\nineffective or did not have any contemporary\nrelevance. Rather than protecting the interests\nof workers, these provisions became difficulties\nfor them.\nThe web of legislations was such that workers\nhad to fill four forms to claim a single benefit.\nTherefore, the present Government has repealed\nthe non-useful Labour Laws. Now 29 Labour Laws\nhave been codified into 4 Labour Codes.\n\nChapter 4\n\n8\nNew Labour Code For New India\n\nNew 4 Codes are beneficial for all\n\nFor ensuring workers’ right to minimum wages,\nthe Central Government has amalgamated 4 laws\nin the Wage Code, 9 laws in the Social Security\nCode, 13 laws in the The Occupational Safety,\nHealth and Working Conditions Code, 2020 and 3\nlaws in the Industrial Relations Code.\n\nFor this, by getting the Bills passed by the\nParliament, the Central Government has made a\nheadway towards changing the standard of living\nof workers in a fundamental manner. This will\nhave positive and far reaching effect on workers\nand nation building.\n\nThese Labour Reforms will enhance Ease of Doing\nBusiness in the country. Employment creation\nand output of workers will also get enhanced.\n\nThe benefits of these four Labour Codes will\nbe available to workers of both organized and\nunorganized sector. Now, Employees’ Provident\nFund (EPF), Employees’ Pension Scheme (EPS)\nand coverage of all types of medical benefit\nunder Employees’ Insurance will be available to\nall workers.\n\n9\nNew Labour Code For New India\n\n(New Labour Code for New India)\n\nIt will be necessary for\nthe employers to provide\nsecure working condition at\nworkplace forwomen\nworkers.\n\n(New Labour Code for New India)\n\nA Labour Tribunal will\ninstitutionalize the vibrant\n\nmechanism for speedy\ndisposal of cases, because\ndelay in justice equals to\ninjustice.\n\n10\nNew Labour Code For New India\n\nRight to Minimum\nWages for everyone\n\nFour Labour Laws have been amalgamated into\nthe Minimum Wages Code. Due to this, for the\nfirst time, all the workers have got the Right to\nMinimum Wages.\n\nLabour Code (Wage Code) – 2019: Workers will\nget benefitted\n\n• After 73 years of independence, work is being\ndone to provide wage security, social security\nand health security to 50 crore workers,\ncovering organized and unorganized sectors.\n\n• The guarantee of minimum wages is available\nto 50 crore workers of organized and\nunorganized sectors.\n\n• Review of minimum wages in every 5 years.\n\n• Guarantee of timely payment of wages to all\nworkers.\n\nChapter 5\n\n11\nNew Labour Code For New India\n\n• Equal remuneration to male and female\nworkers.\n\n• For the first time, around 40 crore workers of\nunorganized sector in the country have got\nthis right.\n\n• To remove regional disparity in minimum\nwages the provision of floor wage has been\nintroduced.\n\n• The determination of minimum wages has\nbeen made easy. It will be based on criteria\nsuch as skill level and geographical area.\n\n• From 28.08.2017 Payment of Wages Act has\nincreased the wage ceiling from Rs. 18000 to\nRs. 24000.\n\n(New Labour Code for New India)\n\nTo replace inspector raj system,\ninspector will be made inspector\ncum facilitator and random web\nbased inspection system will also\nbe started.\n\n12\nNew Labour Code For New India\n\nSocial Security for\neveryone\n\nTo ensure security for all workers, the Central\nGovernment has amalgamated 9 Labour Laws\ninto the Social Security Code in order to secure\nthe right of workers for insurance, pension,\ngratuity, maternity benefit etc.\n\nThrough this Code, a comprehensive legal\nframework for Social Security has to be created\nso that workers can receive social security\ncompletely.\n\nUnder this, in a step wise manner, a system\nwould be institutionalized for the contributions\nreceived from employer and worker.\n\nThe Government can fund the contribution of\nworkers from disadvantaged section.\n\nChapter 6\n\n13\nNew Labour Code For New India\n\n• Through a small contribution, benefit of free\ntreatment is available under hospitals and\ndispensaries of ESIC.\n\n• The doors of ESIC will now be opened for the\nworkers of all sectors along with the workers\nof the unorganized sector.\n\n• Expansion of ESIC hospitals, dispensaries and\nbranches upto district level. This facility to\nbe increased from 566 districts to all the 740\ndistricts of the country.\n\n• Even if a single worker is engaged in hazardous\nwork, he would be given ESIC benefit.\n\n• Opportunity to join ESIC for platform and gig\nworkers engaged in new technology.\n\n• Plantation workers to get benefit of ESIC.\n\n• Institutions working in hazardous area to be\ncompulsorily registered with ESIC.\nExpansion of Social Security\n\n• Benefit of pension scheme (EPFO) to all workers\nof organized, unorganized and self-employed\nsectors.\n\nSocial Security Code, 2020\n\n14\nNew Labour Code For New India\n\n• Creation of social security fund for providing\ncomprehensive\nsocial\nsecurity\nto\nthe\nunorganized sector.\n\n• Requirement of minimum service has been\nremoved for payment of gratuity in case of\nfixed term employees.\n\n• Employees engaged on fixed term to get\nsame social security benefit as permanent\nemployees.\n\n• Creating a national database of workers of\nunorganized sector through registration on\nPortal.\n\n• Employers employing more than 20 workers\nto mandatorily report vacancies online.\n\n• A Universal Account Number (UAN) for ESIC,\nEPFO and Unorganised Sector workers.\n\n• Aadhaar based Universal Account Number\n(UAN) to ensure seamless portability.\n\n15\nNew Labour Code For New India\n\nRight of security\nto workers in all\nsituations\n\nFor providing better and safe environment along\nwith occupational health and safety to workers\nat the work place, 13 existing Labour Laws have\nbeen subsumed in the Occupational, Safety,\nHealth and Working Conditions Code, 2020.\n\nIn this Code, the security of interests of workers\nengaged in factories, mines, plantations, motor\ntransport sector, bidi and cigar workers, contract\nand migrant workers has been ensured.\n\nOSH Code (Occupational, Safety, Health and\nWorking Conditions Code) - 2020\n\n• Various provisions in the OSH Code will ease\nthe lives of the Inter-State Migrant Workers.\n\n• Anomalies of the Inter-State Migrant Workers\nAct,\n1979\nhave\nbeen\ncomprehensively\n\nChapter 7\n\n16\nNew Labour Code For New India\n\naddressed in the OSH Code. Earlier only workers\nappointed by a contractor were recognized as\nInter-State Migrant Workers. However, under\nthe new provisions of the Code, workers can\nbe Aatmanirbhar as they can now register\nthemselves as Inter-State Migrant Workers\non the national portal. By this provision,\nthe worker would get a legal identity which\nwould enable them to get benefits of all social\nsecurity schemes.\n\n• A provision has been made for employers to\nprovide travelling allowance annually to an\nInter-State Migrant Worker for undertaking a\nto-and-fro journey to his native place.\n\n• Providing of appointment letters to the\nworkers has been made mandatory.\n\n• Mandatory, free annual health check-up of the\nworkers to be provided by the employers.\n\n• For a worker engaged in building and other\nconstruction work in one State and moving to\nanother State, benefit from the Building and\nother Construction Workers’ Cess fund will be\nprovided.\n\n• Under the “One Nation - One Ration Card”, an\n\n17\nNew Labour Code For New India\n\nInter-State Migrant Worker would get ration\nfacility in the State he is working in and the\nremaining members of his family would be\nable to avail of the ration facility in the State\nwhere they reside.\n\n• Mandatory helpline facility in every State for\nresolution of Inter-State Migrant Workers’\ngrievances.\n\n• National database to be created for the Inter-\nState Migrant Workers.\n\n• Instead of 240 days, now if a worker has worked\n180 days, he shall be entitled for one-day leave\nfor every 20 days of work done.\n\n• Women empowerment through the Labour\nCodes\n\n• Right to women workers to work in all types of\nestablishments.\n\n• Women have been given the right to work\nat night with their consent and it has also\nbeen ensured that the employer would make\nadequate arrangements to provide safety and\nfacilities to women workers at night.\n\n18\nNew Labour Code For New India\n\nNew Labour Codes will ensure\nMinimum Wages and Social Security\nto 50 crore workers engaged in\nunorganized & organized Sector\nand self employed.\n\n(New Labour Code for New India)\n\n• Maternity Benefit Act was amended in 2017 to\nincrease the paid Maternity leave for women\nworkers from 12 to 26 weeks and ensure\nmandatory crèche facility in all establishments\nhaving 50 or more workers.\n\n19\nNew Labour Code For New India\n\nTowards end to\ndisputes\n\nBy amalgamating 3 Labour Laws into the\nIndustrial Relations Code the Central Government\nhas taken steps for safeguarding the interests of\nTrade Unions as well as the workers. In this Code,\nall possible steps have been taken for industrial\nunits and workers so that disputes do not arise\nin future\n\nIndustrial Relations (IR) Code, 2020\n\n• In case of job loss, a worker will get benefit\nunder the Atal Bimit Vyakti Kalyan Yojna.\n\n• Under the Atal Bimit Vyakti Kalyan Yojna, a\nworker of organized sector who loses his job\ngets financial aid from the Government. This\nis a type of unemployment allowance, the\nbenefit of which is admissible to the workers\ncovered under the ESI Scheme.\n\n• At the time of retrenchment a worker would\n\nChapter 8\n\n20\nNew Labour Code For New India\n\nbe provided 15 days’ wages for re-skilling. The\nwages would be credited directly into the bank\naccount of the worker so as to enable him to\nlearn new skills.\n\n• Faster justice to the workers through the\nTribunal.\n\n• Workers disputes to be resolved within a year\nin the Tribunal.\n\n• Industrial Tribunals to have 2 members to\nfacilitate faster disposal of cases.\n\n• In industrial establishments, a Trade Union\nhaving 51 per cent votes shall be recognised as\nthe sole negotiating union which can make\nagreements with employers.\n\n• In industrial establishments in which no trade\nunion gets 51 per cent votes, a negotiating\ncouncil of trade unions shall be constituted for\nmaking agreements with employer.\n\n21\nNew Labour Code For New India\n\nWe need to come out of the mindset that\nindustry and labour are always in conflict\nwith each other. Why not have a mechanism\nwhere both benefit equally? Since labour is\na concurrent subject, the law gives flexibility\nto state governments to modify the codes\nfurther as per their unique situation and\nrequirements. The right to strike has not\nbeen curtailed at all. In fact, trade unions\nhave been conferred with a new right,\nenabling them to get statutory recognition.\nWe have made the employer-employee\nrelation more systematic and symmetrical.\nThe provision of notice period gives an\nopportunity for amicable settlement of\nany grievance between employees and\nemployers.”\n\n- Prime Minister Narendra Modi\n\n“\n\n22\nNew Labour Code For New India\n\nWelfare of Inter-State Migrant Workers\n\nThe Government had been working for a long\ntime for increasing benefits of the Inter-State\nMigrant Workers. Initiatives have been taken in\nthis direction to strengthen laws for the Inter-\nState Migrant Workers.\n\nFor Inter-State Migrant Workers and the poor,\nthe Central Government has accelerated many\nschemes like Garib Kalyan, delivery of free food\ngrains to the homes, etc.\n\nBenefits of Codification\n\n• Single Registration; Single License; Single\nStatement; Minimum Forms\n• Common definitions\n\n• Reduction of Committees\n\n• Web-based surprise inspection\n\n• Use of technology – Electronic registration\nand licensing.\n\n• Reduction of compliance cost and disputes\n\n23\nNew Labour Code For New India\n\nUntil there are family sentiments among\nworkers and employers, the feeling of\nbelongingness does not arise. If the\nemployer thinks that he feeds someone and\nif the Labour thinks his sweat is running in\nemployers’ world, then I do not think that\nthe business will work smoothly. However,\nif family sentiments exist, if the sorrow of\na worker ruins nights of the employer and\na worker does not sleep in the night, or\nsome loss for the factory, with the arising\nof such family sentiments, the journey\nof development cannot be stopped by\nanyone.”\n\n“\n\n- Prime Minister Narendra Modi\n\n24\nNew Labour Code For New India\n\nSimple and accountable\nsystem will simplify the\nprocesses. One Registration\n- one License, single return for\nall the Codes.\n\n(New Labour Code for New India)\n\nA Social Security fund to\nbe created for 40 crore\nunorganized workers including\nthe gig and platform workers.\nThis would help in extending\ncomprehensive Social security\ncoverage.\n\n(New Labour Code for New India)\n\n25\nNew Labour Code For New India\n\nThese reforms are very pro-worker. They\nare now entitled to all benefits and social\nsecurity even if hired for fixed term. The\nlabour reforms will help create significant\nemployment while also protecting the\nworker by ensuring minimum wage reforms,\nprovision for social security for workers in the\ninformal sector, and minimising government\ninterference. It will ensure timely payment\nof wages and give priority to occupational\nsafety of the workers, thus contributing to a\nbetter working environment. In the last few\nweeks, we have finished what we had set out\nto do. The 44 central labour laws with over\n1,200 sections have been assimilated into\njust four codes. There will now be just one\nregistration, one assessment and one return\nfiling. Along with easier compliance, this will\nlead to a stable regime for businesses to\ninvest and create a win-win situation for the\nemployee and the employer.”\n\n“\n\n- Prime Minister Narendra Modi\n\n26\nNew Labour Code For New India\n\nश्रमिकों के कल्याण के लिए श्रम संहिताा\n\n• मजदूर और मजबूत बना, सुरक्ा का विश्ास\nबढा\n\n• खुल गये हैं प्रगति के द्ार, नारी को सम्ान\nऔर समान अधिकार\n\n• सामाजिक सुरक्ा का हुआ विस्ार, असंगठित\nक्ेत्र के श्रमिकों को भी मिला उनका अधिकार\n\n• श्रमिकों की खुशहाली का एक ही मन्त्र\nजवाबदेह और सरल तंत्र\n\n• सामाजिक सुरक्ा सबका हक, श्रम की जय\nजयकार हो\n\n27\nNew Labour Code For New India\n\nश्रमिकों के कल्याण के लिए श्रम संहिताा\n\n• सरल हो गई प्रक्रिया, सफल हुए काम\n\n• अब अस्ायी और प्ेटफॉर्म श्रमिकों के हित\n“सामाजिक सुरक्ा योजना” से हैं सुरक्षित\n\n• असंगठित कामगार पाए हर अधिकार\n\n• मेहनत का सम्ान, अ‎धिकार एक समान एवं\nश्रम ही स्वाभिमान हो\n\n• पुनर्कोशलिकरन के द्ारा कामगार फिर हुआ\nहुनर के साथ तैयार\n\n28\nNew Labour Code For New India\n\nAchievement\n\n£\nUniversalization of Social Security _.1\n\nl Employees' Provident Fund Organisation)\n8 { _ ...... ,... ....... Sd>tm,\n)\n\nfib )\n{ -··-.......\n)\n-\n• (..!!'_p~oJM&· Ot9oslt Uric.tdlnlwllnce Schttne\n'¥3'9·W·'·'·'rmmmnrJ\n\n(\n<l<M.S.molf ~O,..oiNdW.rbrsJ\n\nf-v~Go¥1.~ (\nAppi~blt onk~\nindlll~\n\n[ Exttooloo uodot SS Codo j\n\n{\nNPS\n)\n(MindatarrtMMOte lhafi20 Worb~\nF\nPF4\nF\nfOf lns!Nn20Wort:trS)\n\n1 •\nI\nI [;\n£ Universalization of Social Security _.1\n\n(\n\nl Employees' State Insurance Corporation J\n\nExtension of Applicability\nr (Xis6og 1\n(011••iwd Worbrs}\n\nPre$tMiy in 566 Districts\n\nMaOO,toryfor more tbln\n\n10Worbrs\n\n3.50 or. E0'4llol'eo•\n13.50 cr. Membtrs\n\n)\n'\"' i ~\nExteOOed to &!th' lndia·7410 Ostrlet$ )\n\nVo untary Covtragt: 'I ao) rttrnttrt of\n,\nomploy,.s&\"\"l'lo!trsbobwiOwarktrs\n! ~-' SCMmtlor tJnot'g1nittd Worktrs, ;,; )\n\n1 \\\nworkers ttc\n.\n' J\nHo W:Oifers lim& for ~iZWIIOUS or Uft )\n\n~ \\\nlhru ttt'lil; Occupations\n.\ni ~\nOption to Plantation5 owners\n}\n\n29\nNew Labour Code For New India\n\n30\nNew Labour Code For New India\n\n31\nNew Labour Code For New India\n\n32\nNew Labour Code For New India\n\n33\nNew Labour Code For New India\n\nMinistry of Information and Broadcasting\nGovernment of India",
+    "element_ids": [
+      "e35",
+      "e36",
+      "e37",
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48",
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54",
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69",
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80",
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98",
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105",
+      "e106",
+      "e107",
+      "e108",
+      "e109",
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117",
+      "e118",
+      "e119",
+      "e120",
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126",
+      "e127",
+      "e128",
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138",
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143",
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157",
+      "e158",
+      "e159",
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174",
+      "e175",
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186",
+      "e187",
+      "e188",
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193",
+      "e194",
+      "e195",
+      "e196",
+      "e197",
+      "e198",
+      "e199",
+      "e200",
+      "e201",
+      "e202",
+      "e203",
+      "e204",
+      "e205",
+      "e206",
+      "e207",
+      "e208",
+      "e209",
+      "e210",
+      "e211",
+      "e212",
+      "e213",
+      "e214",
+      "e215",
+      "e216",
+      "e217",
+      "e218",
+      "e219",
+      "e220",
+      "e221"
+    ],
+    "pages": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "structure_path": [
+      "2014. Labour Reforms also remained untouched"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e35",
+      "semantic_root_role": "",
+      "element_count": 187,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 36,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e35",
+        "e36",
+        "e37",
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48",
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54",
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69",
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80",
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98",
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105",
+        "e106",
+        "e107",
+        "e108",
+        "e109",
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117",
+        "e118",
+        "e119",
+        "e120",
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126",
+        "e127",
+        "e128",
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138",
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143",
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157",
+        "e158",
+        "e159",
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174",
+        "e175",
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186",
+        "e187",
+        "e188",
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193",
+        "e194",
+        "e195",
+        "e196",
+        "e197",
+        "e198",
+        "e199",
+        "e200",
+        "e201",
+        "e202",
+        "e203",
+        "e204",
+        "e205",
+        "e206",
+        "e207",
+        "e208",
+        "e209",
+        "e210",
+        "e211",
+        "e212",
+        "e213",
+        "e214",
+        "e215",
+        "e216",
+        "e217",
+        "e218",
+        "e219",
+        "e220",
+        "e221"
+      ],
+      "page_start": 6,
+      "page_end": 36,
+      "section_numbers": [],
+      "structure_path": [
+        "2014. Labour Reforms also remained untouched"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

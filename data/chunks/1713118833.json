@@ -1,0 +1,2041 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "1",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "1"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "1"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956\n\n_________",
+    "element_ids": [
+      "e2",
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2",
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "ARRANGEMENT OF SECTIONS\n\n_______\n\nSECTIONS\n\n1.Short title, extent and commencement.\n2.Definitions.\n2A. Rule of construction regarding enactment not extending to Jammu and Kashmir.\n3.Punishment for keeping a brothel or allowing premises to be used as a brothel.\n4.Punishment for living on the earnings of prostitution.\n5.Procuring, inducing or taking person for the sake of prostitution.\n6.Detaining a person in premises where prostitution is carried on.\n7.Prostitution in or in the vicinity of public places.\n8.Seducing or soliciting for purpose of prostitution.\n9.Seduction of a person in custody.\n10.[Omitted.]\n10A. Detention in a corrective institution.\n11.Notification of address of previously convicted offenders.\n12.[Omitted.]\n13.Special police officer and advisory body.\n14.Offences to be cognizable.\n15.Search without warrant.\n16. Rescue of person.\n17.Intermediate custody of persons removed under section 15 or rescued under section 16.\n17A. Conditions to be observed before placing persons rescued under section 16 to parents or\nguardians.\n18.Closure of brothel and eviction of offenders from the premises.\n19. Application for being kept in a protective home or provided care and protection by court.\n20.Removal of prostitute from any place.\n21.Protective homes.\n21A. Production of records.\n22.Trials.\n22A. Power to establish special courts.\n22AA. Power of Central Government to establish special courts.\n22B. Power of Court to try cases summarily.\n23.Power to make rules.\n24.Act not to be in derogation of certain other Acts.\n25.Repeal and savings.\nTHE SCHEDULE.\n\n2",
+    "element_ids": [
+      "e4",
+      "e5",
+      "e6",
+      "e7",
+      "e8"
+    ],
+    "pages": [
+      1,
+      2
+    ],
+    "structure_path": [
+      "ARRANGEMENT OF SECTIONS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e4",
+        "e5",
+        "e6",
+        "e7",
+        "e8"
+      ],
+      "page_start": 1,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "ARRANGEMENT OF SECTIONS"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956",
+    "element_ids": [
+      "e9"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e9",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e9"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "THE IMMORAL TRAFFIC (PREVENTION) ACT, 1956"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "ACT NO. 104 OF 19561\n\n[30th December, 1956.]\n\nAn Act to provide in pursuance of the International Convention signed at New York on the 9th\n\nday of May, 1950, for 2[the Prevention of Immoral Traffic].\n\nBE it enacted by Parliament in the Seventh Year of the Republic of India as follows:—",
+    "element_ids": [
+      "e10",
+      "e11",
+      "e12",
+      "e13",
+      "e14"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "ACT NO. 104 OF 19561"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e10",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e10",
+        "e11",
+        "e12",
+        "e13",
+        "e14"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "ACT NO. 104 OF 19561"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00006",
+    "text": "1. Short title, extent and commencement.—(1) This Act may be called 3[the Immoral Traffic\n(Prevention)] Act, 1956.\n\n(2) It extends to the whole of India.\n\n(3) This section shall come into force at once; and the remaining provisions of this Act shall come\ninto force on such date4 as the Central Government may, by notification in the Official Gazette, appoint.",
+    "element_ids": [
+      "e15",
+      "e16",
+      "e17"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "1. Short title, extent and commencement.—(1) This Act may be called 3[the Immoral Traffic"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e15",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00006",
+      "element_ids": [
+        "e15",
+        "e16",
+        "e17"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "1. Short title, extent and commencement.—(1) This Act may be called 3[the Immoral Traffic"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00007",
+    "text": "2. Definitions.—In this Act, unless the context otherwise requires,—\n\n(a) “brothel” includes any house, room 5[, conveyance] or place or any portion of any house,\nroom 5[, conveyance] or place, which is used for purposes 6[of sexual exploitation or abuse] for the\ngain of another person or for the mutual gain of two or more prostitutes;\n\n7[(aa) “child” means a person who has not completed the age of sixteen years;]\n\n5[ 8[(b)] “corrective institution” means an institution, by whatever name called (being an\ninstitution established or licensed as such under section 21), in which 9[persons], who are in need of\ncorrection, may be detained under this Act, and includes a shelter where 10[undertrials] may be kept\nin pursuance of this Act;]\n\n11*\n*\n*\n*\n*\n\n12[(c) “magistrate” means a magistrate specified in the second column of the Schedule as being\ncompetent to exercise the powers conferred by the section in which the expression occours and which\nis specified in the first column of the Schedule;]\n\n7[(ca) “major” means a person who has completed the age of eighteen years;\n\n(cb) “minor” means a person who has completed the age of sixteen years but has not completed\nthe age of eighteen years;]\n\n(d) “prescribed” means prescribed by rules made under this Act;\n\n13*\n*\n*\n*\n*\n\n1.This Act has been extended to Dadra and Nagar Haveli (w.e.f. 1-7-1965) by Reg. 6 of 1963, s. 2 and First Schedule, to Goa,\nDaman and Diu by Reg. 11 of 1963, s. 3 and Schedule and to the Union Territory of Pondicherry by Act 26 of 1968, s. 3 and\nSchedule.\n2. Subs. by Act 44 of 1986, s. 2 for “the suppression of immoral traffic in women and girls” (w.e.f. 26-1-1987).\n3. Subs. s. 3, ibid., for “the Suppression of Immoral Traffic in Women and Girls” (w.e.f. 26-1-1987).\n4. 1st May, 1958, vide notification No. G.S.R. 269, dated 16th April, 1958, see Gazette of India, Part II, sec. 3(i).\n5. Ins. by Act 46 of 1978, s. 2 (w.e.f. 2-10-1979).\n6. Subs. by Act 44 of 1986, s. 5, for “prostitution” (w.e.f. 26-1-1987).\n7. Ins. by s. 5, ibid. (w.e.f. 26-1-1987).\n8. Clause (aa) relettered as Clause (b) by s. 5, ibid. (w.e.f. 26-1-1987).\n9. Subs. by s. 4, ibid., for “women and girls” (w.e.f. 26-1-1987).\n10. Subs. by s. 5, ibid., for “female undertrials” (w.e.f. 26-1-1987).\n11. Omitted by s. 5, ibid. (w.e.f. 26-1-1987).\n12. Subs. by Act 46 of 1978, s. 2, for clause (c) (w.e.f. 26-1-1987).\n13. Omitted s. 2, ibid. (w.e.f. 26-1-1987).\n\n3\n\n1[ 2[(f) “prostitution” means the sexual exploitation or abuse of persons for commercial purpose,\nand the expression “prostitute” shall be construed accordingly;]\n\n(g) “protective home” means an institution, by whatever name called (being an institution\nestablished or licensed as such under section 21), in which 3[persons], who are in need of care and\nprotection, may be kept under this Act 4[and where appropriate technically qualified persons,\nequipment and other facilities have been provided,] but does not include—\n\n(i) a shelter where 5[undertrials] may be kept in pursuance of this Act, or\n\n(ii) a corrective institution;]\n\n(h) “public place” means any place intended for use by, or accessible to, the public and includes\nany public conveyance;\n\n(i) “special police officer” means a police officer appointed by or on behalf of the State\nGovernment to be in charge of police duties within a specified area for the purpose of this Act;\n\n6[(j) “trafficking police officer” means a police officer appointed by the Central Government\nunder sub-section (4), of section 13.]",
+    "element_ids": [
+      "e18",
+      "e19",
+      "e20",
+      "e21",
+      "e22",
+      "e23",
+      "e24",
+      "e25",
+      "e26",
+      "e27",
+      "e28",
+      "e29",
+      "e30",
+      "e31",
+      "e32",
+      "e33",
+      "e34",
+      "e35",
+      "e36"
+    ],
+    "pages": [
+      2,
+      3
+    ],
+    "structure_path": [
+      "2. Definitions.—In this Act, unless the context otherwise requires,—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e18",
+      "semantic_root_role": "",
+      "element_count": 19,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00007",
+      "element_ids": [
+        "e18",
+        "e19",
+        "e20",
+        "e21",
+        "e22",
+        "e23",
+        "e24",
+        "e25",
+        "e26",
+        "e27",
+        "e28",
+        "e29",
+        "e30",
+        "e31",
+        "e32",
+        "e33",
+        "e34",
+        "e35",
+        "e36"
+      ],
+      "page_start": 2,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "2. Definitions.—In this Act, unless the context otherwise requires,—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00008",
+    "text": "7[2A. Rule of construction regarding enactments not extending to Jammu and Kashmir.—Any\nreference in this Act to a law which is not in force in the State of Jammu and Kashmir shall, in relation to\nthat State, be construed as a reference to the corresponding law, if any, in force in that State.]",
+    "element_ids": [
+      "e37"
+    ],
+    "pages": [
+      3
+    ],
+    "structure_path": [
+      "7[2A. Rule of construction regarding enactments not extending to Jammu and Kashmir.—Any"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e37",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 3,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00008",
+      "element_ids": [
+        "e37"
+      ],
+      "page_start": 3,
+      "page_end": 3,
+      "section_numbers": [],
+      "structure_path": [
+        "7[2A. Rule of construction regarding enactments not extending to Jammu and Kashmir.—Any"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00009",
+    "text": "3. Punishment for keeping a brothel or allowing premises to be used as a brothel.—(1) Any\nperson who keeps or manages, or acts or assists in the keeping or management of, a brothel shall be\npunishable on first conviction with rigorous imprisonment for a term of not less than one year and not\nmore than three years and also with fine which may extend to two thousand rupees and in the event of a\nsecond or subsequent conviction, with rigorous imprisonment for a term of not less than two years and\nnot more than five years and also with fine which may extend to two thousand rupees.\n\n(2) Any person who—\n\n(a) being the tenant, lessee, occupier or person in charge of any premises, uses, or knowingly\nallows any other person to use, such premises or any part thereof as a brothel, or\n\n(b) being the owner, lessor or landlord of any premises or the agent of such owner, lessor or\nlandlord, lets the same or any part thereof with the knowledge that the same or any part thereof is\nintended to be used as a brothel, or is wilfully a party to the use of such premises or any part thereof\nas a brothel,\n\nshall be punishable on first conviction with imprisonment for a term which may extend to two years and\nwith fine which may extend to two thousand rupees and in the event of a second or subsequent\nconviction, with rigorous imprisonment for a term which may extend to five years and also with fine.\n\n8[(2A) For the purposes of sub-section (2), it shall be presumed, until the contrary is proved, that any\nperson referred to in clause (a) or clause (b) of that sub-section, is knowingly allowing the premises or\nany part thereof to be used as a brothel or, as the case may be, has knowledge that the premises or any\npart thereof are beig used as a brothel, if,—\n\n(a) a report is published in a newspaper having circulation in the area in which such person\nresides to the effect that the premises or any part thereof have been found to be used for prostitution\nas a result of a search made under this Act; or\n\n1. Subs. by Act 46 of 1978, s. 2, for clauses (f) and (g) (w.e.f. 2-10-1979).\n2. Subs. by Act 44 of 1986, s. 5, for clause (f) (w.e.f. 26-1-1987).\n3. Subs. by s. 2, ibid., for “women and girls” (w.e.f. 26-1-1987).\n4. Ins. by s. 5, ibid. (w.e.f. 26-1-1987).\n5. Subs. by s. 5, ibid., for “female undertrials” (w.e.f. 26-1-1987).\n6. Subs. by s. 5, ibid., for clause (j) (w.e.f. 26-1-1987).\n7. Ins. by Act 46 of 1978, s. 3 (w.e.f. 2-10-1979).\n8. Ins. by Act 44 of 1986, s. 6 (w.e.f. 26-1-1987).\n\n4\n\n(b) a copy of the list of all things found during the search referred to in clause (a) is given to such\nperson.]\n\n(3) Notwithstanding anything contained in any other law for the time being in force, on conviction of\nany person referred to in clause (a) or clause (b) of sub-section (2) of any offence under that sub-section\nin respect of any premises or any part thereof, any lease or agreement under which such premises have\nbeen leased out or are held or occupied at the time of the commission of the offence, shall become void\nand inoperative with effect from the date of the said conviction.",
+    "element_ids": [
+      "e38",
+      "e39",
+      "e40",
+      "e41",
+      "e42",
+      "e43",
+      "e44",
+      "e45",
+      "e46",
+      "e47",
+      "e48"
+    ],
+    "pages": [
+      3,
+      4
+    ],
+    "structure_path": [
+      "3. Punishment for keeping a brothel or allowing premises to be used as a brothel.—(1) Any"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e38",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 3,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00009",
+      "element_ids": [
+        "e38",
+        "e39",
+        "e40",
+        "e41",
+        "e42",
+        "e43",
+        "e44",
+        "e45",
+        "e46",
+        "e47",
+        "e48"
+      ],
+      "page_start": 3,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "3. Punishment for keeping a brothel or allowing premises to be used as a brothel.—(1) Any"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00010",
+    "text": "4. Punishment for living on the earnings of prostitution.—(1) Any person over the age of eighteen\nyears who knowingly lives, wholly or in part, on the earnings of the prostitution of 1[any other person]\nshall be punishable with imprisonment for a term which may extend to two years, or with fine which may\nextend to one thousand rupees, or with both 2[and where such earnings relate to the prostitution of a child\nor a minor, shall be punishable with imprisonment for a term of not less than seven years and not more\nthan ten years].\n\n3[(2) Where any person over the age of eighteen years is proved—\n\n(a) to be living with, or to be habitually in the company of, a prostitute; or\n\n(b) to have exercised control, direction or influence over the movements of a prostitute in such a\nmanner as to show that such person is aiding, abetting or compelling her prostitution; or\n\n(c) to be acting as a tout or pimp on behalf of a prostitute,\n\nit shall be presumed, until the contrary is proved, that such person is knowingly living on the earnings of\nprostitution of another person within the meaning of sub-section (1).]",
+    "element_ids": [
+      "e49",
+      "e50",
+      "e51",
+      "e52",
+      "e53",
+      "e54"
+    ],
+    "pages": [
+      4
+    ],
+    "structure_path": [
+      "4. Punishment for living on the earnings of prostitution.—(1) Any person over the age of eighteen"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e49",
+      "semantic_root_role": "",
+      "element_count": 6,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 4,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00010",
+      "element_ids": [
+        "e49",
+        "e50",
+        "e51",
+        "e52",
+        "e53",
+        "e54"
+      ],
+      "page_start": 4,
+      "page_end": 4,
+      "section_numbers": [],
+      "structure_path": [
+        "4. Punishment for living on the earnings of prostitution.—(1) Any person over the age of eighteen"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00011",
+    "text": "5. Procuring, inducing or taking 4[person] for the sake of prostitution.—(1) any person who—\n\n(a) procures or attempts to procure a 4[person], whether with or without his consent, for the\npurpose of prostitution; or\n\n(b) induces a 4[person] to go from any place, with the intent that he may for the purpose of\nprostitution become the inmate of, or frequent, a brothel; or\n\n(c) takes or attempts to take a 4[person], or causes a 4[person] to be taken, from one place to\nanother with a view to his carrying on, or being brought up to carry on prostitution; or\n\n(d) causes or induces a 4[person] to carry on prostitution;\n\n5[shall be punishable on conviction with rigorous imprisonment for a term of not less than three years and\nnot more than seven years and also with fine which may extend to two thousand rupees and if any offence\nunder this sub-section is committed against the will of any person, the punishment of imprisonment for a\nterm of seven years shall extend to imprisonment for a term of fourteen years:\n\nProvided that if the person in respect of whom an offence committed under this sub-section,—\n\n(i) is a child, the punishment provided under this sub-section shall extend to rigorous\nimprisonment for a term of not less than seven years but may extend to life; and\n\n(ii) is a minor, the punishment provided under this sub-section shall extend to rigorous\nimprisonment for a term of not less than seven years and not more than fourteen years;]\n\n6*\n*\n*\n*\n*\n\n1. Subs. by Act 44 of 1986, s. 7, for “a woman or girl” (w.e.f. 26-1-1987).\n2. Ins. by s. 7, ibid. (w.e.f. 26-1-1987).\n3. Subs. by Act 46 of 1978, s. 4, for section 4 (w.e.f. 2-10-1979).\n4. Subs. by Act 44 of 1986, s. 4, for “women or girl” (w.e.f. 26-1-1987).\n5. Subs. by s. 8, ibid., for certain words (w.e.f. 26-1-1987).\n6. Omitted by s. 8, ibid. (w.e.f. 26-1-1987).\n\n5\n\n(3) An offence under this section shall be triable—\n\n(a) in the place from which a 1[person] is procured, induced to go, taken or caused to be taken or\nfrom which an attempt to procure or take such 1[person] is made; or\n\n(b) in the place to which he may have gone as a result of the inducement or to which he is taken\nor caused to be taken or an attempt to take him is made.",
+    "element_ids": [
+      "e55",
+      "e56",
+      "e57",
+      "e58",
+      "e59",
+      "e60",
+      "e61",
+      "e62",
+      "e63",
+      "e64",
+      "e65",
+      "e66",
+      "e67",
+      "e68",
+      "e69"
+    ],
+    "pages": [
+      4,
+      5
+    ],
+    "structure_path": [
+      "5. Procuring, inducing or taking 4[person] for the sake of prostitution.—(1) any person who—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e55",
+      "semantic_root_role": "",
+      "element_count": 15,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 4,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00011",
+      "element_ids": [
+        "e55",
+        "e56",
+        "e57",
+        "e58",
+        "e59",
+        "e60",
+        "e61",
+        "e62",
+        "e63",
+        "e64",
+        "e65",
+        "e66",
+        "e67",
+        "e68",
+        "e69"
+      ],
+      "page_start": 4,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "5. Procuring, inducing or taking 4[person] for the sake of prostitution.—(1) any person who—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00012",
+    "text": "6. Detaining a 1[person] in premises where prostitution is carried on.—(1) Any person who\ndetains 2[any other person, whether with or without his consent],—\n\n(a) in any brothel, or\n\n(b) in or upon any premises with intent 3[that such person may have sexual intercourse with a\nperson who is not the spouse of such person],\n\nshall be punishable 4[on conviction, with imprisonment of either description for a term which shall not be\nless than seven years but which may be for life or for a term which may extend to ten years and shall also\nbe liable to fine:\n\nProvided that the court may, for adequate and special reasons to be mentioned in the judgment,\nimpose a sentence of imprisonment for a term of less than seven years].\n\n5[(2) Where any person is found with a child in a brothel, it shall be presumed, unless the contrary is\nproved, that he has committed an offence under sub-section (1).\n\n(2A) Where a child or minor found in a brothel, is, on medical examination, detected to have been\nsexually abused, it shall be presumed, unless the contrary is proved, that the child or minor has been\ndetained for purposes of prostitution or, as the case may be, has been sexually exploited for commercial\npurposes.]\n\n(3) A person shall be presumed to detain a woman or girl in a brothel or in or upon any premises for\nthe purpose of sexual intercourse with a man other than her lawful husband, if such person, with intent to\ncompel or induce her to remain there,—\n\n(a) withholds from her any jewellery, wearing apparel, money or other property belonging to her,\nor\n\n(b) threatens her with legal proceedings if she takes away with her any jewellery, wearing\napparel, money or other property lent or supplied to her by or by the direction of such person.\n\n(4) Notwithstanding any law to the contrary, no suit, prosecution or other legal proceeding shall lie\nagainst such woman or girl at the instance of the person by whom she has been detained, for the recovery\nof any jewellery, wearing apparel or other property alleged to have been lent or supplied to or for such\nwoman or girl or to have been pledged by such woman or girl or for the recovery of any money alleged to\nbe payable by such woman or girl.",
+    "element_ids": [
+      "e70",
+      "e71",
+      "e72",
+      "e73",
+      "e74",
+      "e75",
+      "e76",
+      "e77",
+      "e78",
+      "e79",
+      "e80"
+    ],
+    "pages": [
+      5
+    ],
+    "structure_path": [
+      "6. Detaining a 1[person] in premises where prostitution is carried on.—(1) Any person who"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e70",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 5,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00012",
+      "element_ids": [
+        "e70",
+        "e71",
+        "e72",
+        "e73",
+        "e74",
+        "e75",
+        "e76",
+        "e77",
+        "e78",
+        "e79",
+        "e80"
+      ],
+      "page_start": 5,
+      "page_end": 5,
+      "section_numbers": [],
+      "structure_path": [
+        "6. Detaining a 1[person] in premises where prostitution is carried on.—(1) Any person who"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00013",
+    "text": "7. Prostitution in or in the vicinity of public places.—6[(1) Any 7[person], who carries on prostitution\nand the person with whom such prostitution is carried on, in any premises,—\n\n(a) which are within the area or areas, notified under sub-section (3), or\n\n(b) which are within a distance of two hundred metres of any place of public religious worship,\neducational institution, hostel, hospital, nursing home or such other public place of any kind as may\nbe notified in this behalf by the Commissioner of Police or magistrate in the manner prescribed,\n\n1. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n2. Subs. by s. 9, ibid., for “any woman or girl, whether with or without his consent” (w.e.f. 26-1-1987).\n3. Subs. by s. 9, ibid., for “that she may have sexual intercourse with any man other than her lawful husband” (w.e.f. 26-1-1987).\n4. Subs. by s. 9, ibid., for certain words (w.e.f. 26-1-1987).\n5. Subs. by s. 9, ibid., for sub-section (2) (w.e.f. 26-1-1987).\n6. Subs. by Act 46 of 1978, s. 5, for sub-section (1) (w.e.f. 2-10-1979).\n7. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n\n6\n\nshall be punishable with imprisonment for a term which may extend to three months.]\n\n1[(1A) Where an offence committed under sub-section (1) is in respect of a child or minor, the person\ncommitting the offence shall be punishable with imprisonment of either description for a term which shall\nnot be less than seven years but which may be for life or for a term which may extend to ten years and\nshall also be liable to fine:\n\nProvided that the court may, for adequate and special reasons to be mentioned in the judgment,\nimpose a sentence of imprisonment for a term of less than seven years.]\n\n(2) Any person who—\n\n(a) being the keeper of any public place knowingly permits prostitutes for purposes of their trade\nto resort to or remain in such place; or\n\n(b) being the tenant, lessee, occupier or person in charge of any premises referred to in\nsub-section (1) knowingly permits the same or any part thereof to be used for prostitution; or\n\n(c) being the owner, lessor or landlord, of any premises referred to in sub-section (1), or the agent\nof such owner, lessor or landlord, lets the same or any part thereof with the knowledge that the same\nor any part thereof may be used for prostitution, or is wilfully a party to such use,\n\nshall be punishable on first conviction with imprisonment for a term which may extend to three months,\nor with fine which may extend to two hundred rupees, or with both, and in the event of a second or\nsubsequent conviction with imprisonment for a term which may extend to six months and also with\nfine 2[which may extend to two hundred rupees, and if the public place or premises happen to be a hotel,\nthe licence for carrying on the business of such hotel under any law for the time being in force shall also\nbe liable to be suspended for a period of not less than three months but which may extend to one year:\n\nProvided that if an offence committed under this sub-section is in respect of a child or minor in a\nhotel, such licence shall also be liable to be cancelled.\n\nExplanation.—For the purposes of this sub-section, “hotel” shall have the meaning an in clause (6) of\nsection 2 of the Hotel-Receipts Tax Act, 1980 (54 of 1980).]\n\n3[(3) The State Government may, having regard to the kinds of persons frequenting any area or areas\nin the State, the nature and the density of population therein and other relevant considerations, by\nnotification in the Official Gazette, direct that prostitution shall not be carried on in such area or areas as\nmay be specified in the notification.\n\n(4) Where a notification is issued under sub-section (3) in respect of any area or areas, the State\nGovernment shall define the limits of such area or areas in the notification with reasonable certainty.\n\n(5) No such notification shall be issued so as to have effect from a date earlier than the expiry of a\nperiod of ninety days after the date on which it is issued.]",
+    "element_ids": [
+      "e81",
+      "e82",
+      "e83",
+      "e84",
+      "e85",
+      "e86",
+      "e87",
+      "e88",
+      "e89",
+      "e90",
+      "e91",
+      "e92",
+      "e93",
+      "e94",
+      "e95",
+      "e96",
+      "e97",
+      "e98"
+    ],
+    "pages": [
+      5,
+      6
+    ],
+    "structure_path": [
+      "7. Prostitution in or in the vicinity of public places.—6[(1) Any 7[person], who carries on prostitu..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e81",
+      "semantic_root_role": "",
+      "element_count": 18,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 5,
+      "page_end": 6,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00013",
+      "element_ids": [
+        "e81",
+        "e82",
+        "e83",
+        "e84",
+        "e85",
+        "e86",
+        "e87",
+        "e88",
+        "e89",
+        "e90",
+        "e91",
+        "e92",
+        "e93",
+        "e94",
+        "e95",
+        "e96",
+        "e97",
+        "e98"
+      ],
+      "page_start": 5,
+      "page_end": 6,
+      "section_numbers": [],
+      "structure_path": [
+        "7. Prostitution in or in the vicinity of public places.—6[(1) Any 7[person], who carries on prostitu..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00014",
+    "text": "8. Seducing or soliciting for purpose of prostitution.—Whoever, in any public place or within sight\nof, and in such manner as to be seen or heard from any public place, whether from within any building or\nhouse or not—\n\n(a) by words, gestures, wilful exposure of her person (whether by sitting by a window or on the\nbalcony of a building or house or in any other way), or otherwise tempts or endeavours to tempt, or\nattracts or endeavours to attract the attention of, any person for the purpose of prostitution; or\n\n(b) solicits or molests any person, or loiters or acts in such manner as to cause obstruction or\nannoyance to persons residing nearby or passing by such public place or to offend against public\ndecency, for the purpose of prostitution,\n\nshall be punishable on first conviction with imprisonment for a term which may extend to six months, or\nwith fine which may extend to five hundred rupees, or with both, and in the event of a second or\n1. Ins. by Act 44 of 1986, s. 10 (w.e.f. 26-1-1987).\n2. Subs. by s. 10, ibid., for “which may extend to two hundred rupees” (w.e.f. 26-1-1987).\n3. Ins. by Act 46 of 1978, s. 5 (w.e.f. 2-10-1979).\n\n7\n\nsubsequent conviction, with imprisonment for a term which may extend to one year, and also with fine\nwhich may extend to five hundred rupees:\n\n1[Provided that where an offence under this section is committed by a man, he shall be punishable\nwith imprisonment for a period of not less than seven days but which may extend to three months.]",
+    "element_ids": [
+      "e99",
+      "e100",
+      "e101",
+      "e102",
+      "e103",
+      "e104",
+      "e105"
+    ],
+    "pages": [
+      6,
+      7
+    ],
+    "structure_path": [
+      "8. Seducing or soliciting for purpose of prostitution.—Whoever, in any public place or within sight"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e99",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 6,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00014",
+      "element_ids": [
+        "e99",
+        "e100",
+        "e101",
+        "e102",
+        "e103",
+        "e104",
+        "e105"
+      ],
+      "page_start": 6,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "8. Seducing or soliciting for purpose of prostitution.—Whoever, in any public place or within sight"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00015",
+    "text": "9. Seduction of a 2[person] in custody.— 3*** Any person who 4[having the custody, charge or care\nof, or a position of authority over, any 2[person], causes or aids or abets the seduction for prostitution of\nthat 2[person], 5[shall be punishable on conviction with imprisonment of either description for a term\nwhich shall not be less than seven years but which may be for life or for a term which may extend to ten\nyears and shall also be liable to fine:\n\nProvided that the court may, for adequate and special reasons to be mentioned in the judgment,\nimpose a sentence of imprisonment for a term of less than seven years].\n\n6*\n*\n*\n*\n*",
+    "element_ids": [
+      "e106",
+      "e107",
+      "e108"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "9. Seduction of a 2[person] in custody.— 3*** Any person who 4[having the custody, charge or care"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e106",
+      "semantic_root_role": "",
+      "element_count": 3,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00015",
+      "element_ids": [
+        "e106",
+        "e107",
+        "e108"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "9. Seduction of a 2[person] in custody.— 3*** Any person who 4[having the custody, charge or care"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00016",
+    "text": "7[10. [Release on probation of good conduct or after due admonition.] Omitted by the Suppressionof\nImmoral Traffic in Women and Girls (Amendment) Act, 1986 (44 of 1986), s. 13 (w.e.f. 26-1-1987).",
+    "element_ids": [
+      "e109"
+    ],
+    "pages": [
+      7
+    ],
+    "structure_path": [
+      "7[10. [Release on probation of good conduct or after due admonition.] Omitted by the Suppressionof"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e109",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 7,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00016",
+      "element_ids": [
+        "e109"
+      ],
+      "page_start": 7,
+      "page_end": 7,
+      "section_numbers": [],
+      "structure_path": [
+        "7[10. [Release on probation of good conduct or after due admonition.] Omitted by the Suppressionof"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00017",
+    "text": "10A. Detention in a corrective institution.—(1) Where—\n\n(a) a female offender is found guilty of an offence under section 7 or section 8, 8***; and\n\n(b) the character, state of health and mental condition of the offender and the other circumstances\nof the case are such that it is expedient that she should be subject to detention for such term and such\ninstruction and discipline as are conducive to her correction,\n\nit shall be lawful for the court to pass, in lieu of a sentence of imprisonment, an order for detention in a\ncorrective institution for such term, not being less than two years and not being more than five years, as\nthe court thinks fit:\n\nProvided that before passing such an order—\n\n(i) the court shall give an opportunity to the offender to be heard and shall also consider any\nrepresentation which the offender may make to the court as to the suitability of the case for treatment\nin such an institution, as also the report of the probation officer appointed under the Probation of\nOffenders Act, 1958 (20 of 1958); and\n\n(ii) the court shall record that it is satisfied that the character, state of health and mental condition\nof the offender and the other circumstances of the case are such that the offender is likely to benefit\nby such instruction and discipline as aforesaid.\n\n(2) Subject to the provisions of sub-section (3), the provisions of the Code of Criminal Procedure,\n1973 (2 of 1974), relating to appeal, reference and revision and of the Limitation Act, 1963 (36 of 1963),\nas to the period within which an appeal shall be filed, shall apply in relation to an order of detention under\nsub-section (1) as if the order had been a sentence of imprisonment for the same period as the period for\nwhich the detention was ordered.\n\n(3) Subject to such rules as may be made in this behalf, the State Government or authority, authorised\nin this behalf may, at any time after the expiration of six months from the date of an order for detention in\na corrective institution, if it is satisfied that there is a reasonable probability that the offender will lead a\nuseful and industrious life, discharge her from such an institution, without condition or with such\nconditions as may be considered fit, and grant her a written licence in such form as may be prescribed.\n1. Proviso added by Act 44 of 1986, s. 11 (w.e.f. 26-1-1987).\n2. Subs. by s. 4, ibid., for “woman or girl” (w.e.f. 26-1-1987).\n3. Brackets and figure “(1)” omitted by s. 12, ibid. (w.e.f. 26-1-1987).\n4. Subs. by Act 46 of 1978, s. 6, for certain words (w.e.f. 2-10-1979).\n5. Subs. by Act 44 of 1986, s. 12, for certain words (w.e.f. 26-1-1987).\n6. Omitted by s. 12, ibid. (w.e.f. 26-1-1987).\n7. Subs. by Act 46 of 1978, s. 7, for section 10 (w.e.f. 2-10-1979).\n8. The words, brackets and figures “and is not released under sub-section (1) or sub-section (2) of section 10” omitted by Act 44\nof 1986, s. 14, (w.e.f. 26-1-1987).\n\n8\n\n(4) The conditions on which an offender is discharged under sub-section (3), may include\nrequirements relating to residence of the offender and supervision over the offender's activities and\nmovements.]",
+    "element_ids": [
+      "e110",
+      "e111",
+      "e112",
+      "e113",
+      "e114",
+      "e115",
+      "e116",
+      "e117",
+      "e118",
+      "e119",
+      "e120"
+    ],
+    "pages": [
+      7,
+      8
+    ],
+    "structure_path": [
+      "10A. Detention in a corrective institution.—(1) Where—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e110",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 7,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00017",
+      "element_ids": [
+        "e110",
+        "e111",
+        "e112",
+        "e113",
+        "e114",
+        "e115",
+        "e116",
+        "e117",
+        "e118",
+        "e119",
+        "e120"
+      ],
+      "page_start": 7,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "10A. Detention in a corrective institution.—(1) Where—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00018",
+    "text": "11. Notification of address of previously convicted offenders.—(1) When any person having been\nconvicted—\n\n(a) by a court in India of an offence punishable under this Act or punishable under section 363,\nsection 365, section 366, section 366A, section 366B, section 367, section 368, section 370, section\n371, section 372 or section 373 of the Indian Penal Code (45 of 1860), with imprisonment for a term\nof two years or upwards; or\n\n(b) by a court or tribunal in any other country of an offence which would, if committed in India,\nhave been punishable under this Act or under any of the aforesaid sections with imprisonment for a\nlike term,\n\nis within a period of five years after release from prison, again convicted of any offence punishable under\nthis Act or under any of those sections with imprisonment for a term of two years or upwards by a court,\nsuch court may, if it thinks fit, at the time of passing the sentence of imprisonment on such person, also\norder that his residence, and any change of, or absence from such residence after release be notified\naccording to rules made under section 23 for a period not exceeding five years from the date of expiration\nof that sentence.\n\n(2) If such conviction is set aside on appeal or otherwise, such order shall become void.\n\n(3) An order under this section may also be made by an Appellate Court or by the High Court when\nexercising its powers of revision.\n\n(4) Any person charged with a breach of any rule referred to in sub-section (1) may be tried by a\nMagistrate of competent jurisdiction in the district in which the place last notified, as his residence is\nsituated.",
+    "element_ids": [
+      "e121",
+      "e122",
+      "e123",
+      "e124",
+      "e125",
+      "e126",
+      "e127"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "11. Notification of address of previously convicted offenders.—(1) When any person having been"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e121",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00018",
+      "element_ids": [
+        "e121",
+        "e122",
+        "e123",
+        "e124",
+        "e125",
+        "e126",
+        "e127"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "11. Notification of address of previously convicted offenders.—(1) When any person having been"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00019",
+    "text": "12. [Security for good behaviour from habitual offenders.] Omitted by the Suppression of Immoral\nTraffic in Women and Girls (Amendment) Act, 1986 (44 of 1986) s.13 (w.e.f. 26-1-1987).]",
+    "element_ids": [
+      "e128"
+    ],
+    "pages": [
+      8
+    ],
+    "structure_path": [
+      "12. [Security for good behaviour from habitual offenders.] Omitted by the Suppression of Immoral"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e128",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 8,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00019",
+      "element_ids": [
+        "e128"
+      ],
+      "page_start": 8,
+      "page_end": 8,
+      "section_numbers": [],
+      "structure_path": [
+        "12. [Security for good behaviour from habitual offenders.] Omitted by the Suppression of Immoral"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00020",
+    "text": "13. Special police officer and advisory body.—(1) There shall be for each area to be specified by\nthe State Government in this behalf a special police officer appointed by or on behalf of that Government,\nfor dealing with offences under this Act in that area.\n\n1[(2) The special police officer shall not be below the rank of an Inspector of Police.\n(2A) The District Magistrate may, if he considers it necessary or expedient so to do, confer upon any\nretired police or military officer all or any of the powers conferred by or under this Act on a special police\nofficer, with respect to particular cases or classes of cases or to cases generally:\n\nProvided that no such power shall be conferred on,—\n\n(a) a retired police officer unless such officer, at the time of his retirement, was holding a post not\nbelow the rank of an inspector;\n\n(b) a retired military officer unless such officer, at the time of his retirement, was holding a post\nnot below the rank of a commissioned officer.]\n\n(3) For the efficient discharge of his functions in relation to offences under this Act,—\n\n(a) the special police officer of an area shall be assisted by such number of subordinate police\nofficers (including women police officers wherever practicable) as the State Government may think\nfit; and\n\n(b) the State Government may associate with the special police officer a non-official advisory\nbody consisting of not more than five leading social welfare workers of that area (including women\nsocial welfare workers wherever practicable) to advise him on questions of general importance\nregarding the working of this Act.\n1. Subs. by Act 46 of 1978, s. 9, for sub-section (2) (w.e.f. 2-10-1979).\n\n9\n\n1[(4) The Central Government may, for the purpose of investigating any offence under this Act or\nunder any other law for the time being in force dealing with sexual exploitation of persons and committed\nin more than one State, a point such number of police officers as trafficking police officers and they shall\nexercise all the powers and discharge all the functions as are exercisable by special police officers under\nthis Act with the modification that they shall exercise such powers and discharge such functions in\nrelation to the whole of India.]",
+    "element_ids": [
+      "e129",
+      "e130",
+      "e131",
+      "e132",
+      "e133",
+      "e134",
+      "e135",
+      "e136",
+      "e137",
+      "e138"
+    ],
+    "pages": [
+      8,
+      9
+    ],
+    "structure_path": [
+      "13. Special police officer and advisory body.—(1) There shall be for each area to be specified by"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e129",
+      "semantic_root_role": "",
+      "element_count": 10,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 8,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00020",
+      "element_ids": [
+        "e129",
+        "e130",
+        "e131",
+        "e132",
+        "e133",
+        "e134",
+        "e135",
+        "e136",
+        "e137",
+        "e138"
+      ],
+      "page_start": 8,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "13. Special police officer and advisory body.—(1) There shall be for each area to be specified by"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00021",
+    "text": "14. Offences to be cognizable.—Notwithstanding anything contained in 2[the Code of Criminal\nProcedure, 1973 (2 of 1974)], any offence punishable under this Act shall be deemed to be a cognizable\noffence within the meaning of that Code:\n\nProvided that, notwithstanding anything contained in that Code,—\n\n(i) arrest without warrant may be made only by the special police officer or under his direction or\nguidance, or subject to his prior approval;\n\n(ii) when the special police officer requires any officer subordinate to him to arrest without\nwarrant otherwise than in his presence any person for an offence under this Act, he shall give that\nsubordinate officer an order in writing, specifying the person to be arrested and the offence for which\nthe arrest is being made; and the latter officer, before arresting the person, shall inform him of the\nsubstance of the order and, on being required by such person, show him the order;\n\n(iii) any police officer not below the rank of 3[sub-inspector] specially authorised by the special\npolice officer may, if he has reason to believe that on account of delay involved in obtaining the order\nof the special police officer, any valuable evidence relating to any offence under this Act is likely to\nbe destroyed or concealed, or the person who has committed or is suspected to have committed the\noffence is likely to escape, or if the name and address of such a person is unknown or there is reason\nto suspect that a false name or address has been given, arrest the person concerned without such\norder, but in such a case he shall report, as soon as may be, to the special police officer the arrest and\nthe circumstances in which the arrest was made.",
+    "element_ids": [
+      "e139",
+      "e140",
+      "e141",
+      "e142",
+      "e143"
+    ],
+    "pages": [
+      9
+    ],
+    "structure_path": [
+      "14. Offences to be cognizable.—Notwithstanding anything contained in 2[the Code of Criminal"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e139",
+      "semantic_root_role": "",
+      "element_count": 5,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 9,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00021",
+      "element_ids": [
+        "e139",
+        "e140",
+        "e141",
+        "e142",
+        "e143"
+      ],
+      "page_start": 9,
+      "page_end": 9,
+      "section_numbers": [],
+      "structure_path": [
+        "14. Offences to be cognizable.—Notwithstanding anything contained in 2[the Code of Criminal"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00022",
+    "text": "15. Search without warrant.—(1) Notwithstanding anything contained in any other law for the time\nbeing in force, whenever the special police officer 4[or the trafficking police officer, as the case may be,]\nhas reasonable grounds for believing that an offence punishable under this Act has been or is being\ncommitted in respect of a 5[person] living in any premises, and that search of the premises with warrant\ncannot be made without undue delay, such officer may, after recording the grounds of his belief, enter and\nsearch such premises without a warrant.\n\n(2) Before making a search under sub-section (1), the special police officer 4[or the trafficking police\nofficer, as the case may be,] shall call upon two or more respectable inhabitants (at least one of whom\nshall be a woman) of the locality in which the place to be searched is situate, to attend and witness the\nsearch, and may issue an order in writing to them or any of them so to do:\n\n6[Provided that the requirement as to the respectable inhabitants being from the locality in which the\nplace to be searched is situate shall not apply to a woman required to attend and witness the search.]\n\n(3) Any person who, without reasonable cause, refuses or neglects, to attend and witness a search\nunder this section, when called upon to do so by an order in writing delivered or tendered to him, shall be\ndeemed to have committed an offence under section 187 of the Indian Penal Code (45 of 1860).\n\n7[(4) The special police officer or the trafficking police officer, as the case may be, entering any\npremises under sub-section (1) shall be entitled to remove therefrom all the persons found therein.]\n\n1. Ins. by Act 44 of 1986, s. 15 (w.e.f. 26-1-1987).\n2. Subs. by Act 46 of 1978, s. 10, for certain words (w.e.f. 2-10-1979).\n3. Subs. by s. 10, ibid., for “inspector” (w.e.f. 2-10-1979).\n4. Ins. by Act 44 of 1986, s. 16 (w.e.f. 26-1-1987).\n5. Subs. by s. 4, ibid., for “women or girl” (w.e.f. 26-1-1987).\n6. Ins. by Act 46 of 1978, s. 11 (w.e.f. 2-10-1979).\n7. Subs. by Act 44 of 1986, s. 16, for sub-section (4) (w.e.f. 26-1-1987).\n\n10\n\n(5) The special police officer 1[or the trafficking police officer, as the case may be,] after\nremoving 2[the 3[person]] under sub-section (4) shall forthwith produce him before the appropriate\nmagistrate.\n\n1[(5A) Any person who is produced before a magistrate under sub-section (5), shall be examined by a\nregistered medical practitioner for the purposes of determination of the age of such person, or for the\ndetection of any injuries as a result of sexual abuse or for the presence of any sexually transmitted\ndiseases.\n\nExplanation.—In this sub-section, “registered medical practitioner” has the same meaning as in the\nIndian Medical Council Act, 1956 (102 of 1956).]\n\n(6) The special police officer 1[or the trafficking police officer, as the case may be,] and other persons\ntaking part in, or attending, and witnessing a search shall not be liable to any civil or criminal proceedings\nagainst them in respect of anything lawfully done in connection with, or for the purpose of, the search.\n\n1[(6A) The special police officer or the trafficking police officer, as the case may be, making a search\nunder this section shall be accompanied by at least two women police officers, and where any woman or\ngirl removed under sub-section (4) is required to be interrogated, it shall be done by a woman police\nofficer and if no woman police officer is available, the interrogation shall be done only in the presence of\na lady member of a recognised welfare institution or organisation.\n\nExplanation.—For the purpose of this sub-section and section 17A, “recognised welfare institution or\norganisation” means such institution or organisation as may be recognised in this behalf by the State\nGovernment.]\n\n4[(7) The provisions of the Code of Criminal Procedure, 1973 (2 of 1974), shall, so far as may be,\napply to any search under this section as they apply to any search made under the authority of a warrant\nissued under section 94 of the said Code.]",
+    "element_ids": [
+      "e144",
+      "e145",
+      "e146",
+      "e147",
+      "e148",
+      "e149",
+      "e150",
+      "e151",
+      "e152",
+      "e153",
+      "e154",
+      "e155",
+      "e156",
+      "e157"
+    ],
+    "pages": [
+      9,
+      10
+    ],
+    "structure_path": [
+      "15. Search without warrant.—(1) Notwithstanding anything contained in any other law for the time"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e144",
+      "semantic_root_role": "",
+      "element_count": 14,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 9,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00022",
+      "element_ids": [
+        "e144",
+        "e145",
+        "e146",
+        "e147",
+        "e148",
+        "e149",
+        "e150",
+        "e151",
+        "e152",
+        "e153",
+        "e154",
+        "e155",
+        "e156",
+        "e157"
+      ],
+      "page_start": 9,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "15. Search without warrant.—(1) Notwithstanding anything contained in any other law for the time"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00023",
+    "text": "5[16. Rescue of 3[person].—(1) Where a magistrate has reason to believe from information received\nfrom the police or from any other person authorised by the State Government in this behalf or otherwise,\nthat 6[any person is living, or is carrying on, or is being made to carry on, prostitution in a brothel,] he\nmay direct a police officer not below the rank of a sub-inspector, to enter such brothel, and to remove\ntherefrom such 3[person] and produce him before him.\n\n(2) The police officer, after removing the 3[person], shall forthwith produce him before the magistrate\nissuing the order.]",
+    "element_ids": [
+      "e158",
+      "e159"
+    ],
+    "pages": [
+      10
+    ],
+    "structure_path": [
+      "5[16. Rescue of 3[person].—(1) Where a magistrate has reason to believe from information received"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e158",
+      "semantic_root_role": "",
+      "element_count": 2,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 10,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00023",
+      "element_ids": [
+        "e158",
+        "e159"
+      ],
+      "page_start": 10,
+      "page_end": 10,
+      "section_numbers": [],
+      "structure_path": [
+        "5[16. Rescue of 3[person].—(1) Where a magistrate has reason to believe from information received"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00024",
+    "text": "17. Intermediate custody of 7[persons] removed under section 15 or rescued under section 16.—\n(1) When the special police officer removing a 3[person] under sub-section (4) of section 15 or a police\nofficer rescuing a 3[person] under sub-section (1) of section 16, is for any reason unable to produce him\nbefore the appropriate magistrate as required by sub-section (5) of section 15, or before the magistrate\nissuing the order under sub-section (2) of section 16, he shall forthwith produce him before the nearest\nmagistrate of any class, who shall pass such orders as he deems proper for his safe custody until he is\nproduced before the appropriate magistrate, or, as the case may be, the magistrate issuing the order:\n\nProvided that no 3[person] shall be—\n\n(i) detained in custody under this sub-section for a period exceeding ten days from the date of the\norder under this sub-section; or\n\n(ii) restored to or placed in the custody of a person who may exercise a harmful influence over\nhim.\n\n1. Ins. by Act 44 of 1986, s. 16 (w.e.f. 26-1-1987).\n2. Subs. by Act 46 of 1978, s. 11, for “the girl” (w.e.f. 2-10-1979).\n3. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n4. Ins. by Act 46 of 1978, s. 11 (w.e.f. 2-10-1979).\n5. Subs. by Act 46 of 1978, s. 12, for sections 16 and 17 (w.e.f. 2-10-1979).\n6. Subs. by 44 of 1986, s. 17, for clause (a) and (b) (w.e.f. 26-1-1987).\n7. Subs. s. 4, ibid., for “women and girls” (w.e.f. 26-1-1987).\n\n11\n\n(2) When the 1[person] is produced before the appropriate magistrate under sub-section (5) of\nsection 15 or the magistrate under sub-section (2) of section 16, he shall, after giving him an opportunity\nof being heard, cause an inquiry to be made as to the correctness of the information received under\nsub-section (1) of section 16, the age, character and antecedents of the 1[person] and the suitability of his\nparents, guardian or husband for taking charge of him and the nature of the influence which the conditions\nin his home are likely to have on him if he is sent home, and, for this purpose, he may direct a probation\nofficer appointed under the Probation of Offenders Act, 1958 (20 of 1958), to inquire into the above\ncircumstances and into the personality of the 1[person] and the prospects of his rehabilitation.\n\n(3) The magistrate may, while an inquiry is made into a case under sub-section (2), pass such orders\nas he deems proper for the safe custody of the 1[person]:\n\n2[Provided that where a person rescued under section 16 is a child or minor, it shall be open to the\nmagistrate to place such child or minor in any institution established or recognised under any Children\nAct, for the time being in force in any State for the safe custody of children:\n\nProvided further that,] no 1[person] shall be kept in custody for this purpose for a period exceeding\nthree weeks from the date of such an order, and no 1[person] shall be kept in the custody of a person likely\nto have a hurmful influence over him.\n\n(4) Where the magistrate is satisfied, after making an inquiry as required under sub-section (2),—\n\n(a) that the information received is correct; and\n(b) that he is in need of care and protection,\nhe may, subject to the provisions of sub-section (5), make an order that such 1[person] be detained for\nsuch period, being not less than one year and not more than three years, as may be specified in the order,\nin a protective home, or in such other custody as he shall, for reasons to be recorded in writing, consider\nsuitable:\n\nProvided that such custody shall not be that of a person or body of persons of a religious persuasion\ndifferent from that of the 1[person] and that those entrusted with the custody of the 1[person] including the\npersons in charge of a protective home, may be required to enter into a bond which may, were necessary\nand feasible, contain undertakings based on directions relating to the proper care, guardianship, education,\ntraining and medical and psychiatric treatment of the 1[person] as well as supervision by a person\nappointed by the court, which will be in force for a period, not exceeding three years.\n\n(5) In discharging his functions under sub-section (2), a magistrate may summon a penal of five\nrespectable persons, three of whom shall, wherever practicable, be women, to assist him; and may, for\nthis purpose, keep a list of experienced social welfare workers, particularly women social welfare\nworkers, in the field of suppression of immoral traffic in 3[persons].\n\n(6) An appeal against an order made under sub-section (4) shall lie to the Court of Session whose\ndecision on such appeal shall be final.]",
+    "element_ids": [
+      "e160",
+      "e161",
+      "e162",
+      "e163",
+      "e164",
+      "e165",
+      "e166",
+      "e167",
+      "e168",
+      "e169",
+      "e170",
+      "e171",
+      "e172",
+      "e173",
+      "e174"
+    ],
+    "pages": [
+      10,
+      11
+    ],
+    "structure_path": [
+      "17. Intermediate custody of 7[persons] removed under section 15 or rescued under section 16.—"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e160",
+      "semantic_root_role": "",
+      "element_count": 15,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 10,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00024",
+      "element_ids": [
+        "e160",
+        "e161",
+        "e162",
+        "e163",
+        "e164",
+        "e165",
+        "e166",
+        "e167",
+        "e168",
+        "e169",
+        "e170",
+        "e171",
+        "e172",
+        "e173",
+        "e174"
+      ],
+      "page_start": 10,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "17. Intermediate custody of 7[persons] removed under section 15 or rescued under section 16.—"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00025",
+    "text": "4[17A. Conditions to be observed before placing persons rescued under section 16 to parents or\nguardians.—Notwithstanding anything contained in sub-section (2) of section 17, the magistrate making\nan inquiry under section 17 may, before passing an order for handing over any person rescued under\nsection 16 to the parents, guardian or husband, satisfy himself about the capacity or genuineness of the\nparents, guardian or husband to keep such person by causing an investigation to be made by a recognised\nwelfare institution or organisation.]",
+    "element_ids": [
+      "e175"
+    ],
+    "pages": [
+      11
+    ],
+    "structure_path": [
+      "4[17A. Conditions to be observed before placing persons rescued under section 16 to parents or"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e175",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 11,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00025",
+      "element_ids": [
+        "e175"
+      ],
+      "page_start": 11,
+      "page_end": 11,
+      "section_numbers": [],
+      "structure_path": [
+        "4[17A. Conditions to be observed before placing persons rescued under section 16 to parents or"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00026",
+    "text": "18. Closure of brothel and eviction of offenders from the premises.—(1) A magistrate may, on\nreceipt of information from the police or otherwise, that any house, room, place or any portion thereof\nwithin a distance of 5[two hundred metres] of any public place referred to in sub-section (1) of\nsection 7, is being run or used as a brothel by any person or is being used by prostitutes for carrying on\n\n1. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n2. Subs. by s. 18, ibid., “Provide that” (w.e.f. 26-1-1987).\n3. Subs. by s. 4, ibid., for “women and girls” (w.e.f. 26-1-1987).\n4. Ins. by s. 19, ibid. (w.e.f. 26-1-1987).\n5. Subs. by Act 46 of 1978, s. 13, for “two hundred yards” (w.e.f. 2-10-1979).\n\n12\n\ntheir trade, issue notice on the owner, lessor or landlord of such house, room, place or portion or the agent\nof the owner, lessor or landlord or on the tenant, lessee, occupier of, or any other person incharge of such\nhouse, room, place, or portion, to show cause within seven days of the receipt of the notice why the same\nshould not be attached for improper user thereof; and if, after hearing the person concerned, the\nmagistrate is satisfied that the house, room, place or portion is being used as a brothel or for carrying on\nprostitution, then the magistrate may pass orders—\n\n(a) directing eviction of the occupier within seven days of the passing of the order from the\nhouse, room, place or portion;\n\n(b) directing that before letting it out during the period of one year 1[or in a case where a child or\nminor has been found in such house, room, place or portion during a search under section 15, during\nthe period of three years], immediately after the passing of the order, the owner, lessor or landlord or\nthe agent of the owner, lessor or landlord shall obtain the previous approval of the magistrate:\n\nProvided that, if the magistrate finds that the owner, lessor or landlord as well as the agent of the\nowner, lessor or landlord, was innocent of the improper user of the house, room, place or portion, he may\ncause the same to be restored to the owner, lessor or landlord, or the agent of the owner, lessor or\nlandlord, with a direction that the house, room, place or portion shall not be leased out, or otherwise given\npossession of, to or for the benefit of the person who was allowing the improper user therein.\n\n(2) A court convicting a person of any offence under section 3 or section 7 may pass order under\nsub-section (1) without further notice to such person to show cause as required in that sub-section.\n\n(3) Orders passed by the magistrate or court under sub-section (1) or sub-section (2) shall not be\nsubject to appeal and shall not be stayed or set aside by the order of any court, civil or criminal and the\nsaid orders shall cease to have validity after the 2[expiry of one year or three years, as the case may be]:\n\nProvided that where a conviction under section 3 or section 7 is set aside on appeal on the ground that\nsuch house, room, place or any portion thereof is not being run or used as a brothel or is not being used by\nprostitutes for carrying on their trade, any order passed by the trial court under sub-section (1) shall also\nbe set aside.\n\n(4) Notwithstanding anything contained in any other law for the time being in force, when a\nmagistrate passes an order under sub-section (1), or a court passes an order under sub-section (2), any\nlease or agreement under which the house, room, place or portion is occupied at the time, shall become\nvoid and inoperative.\n\n(5) When an owner, lessor or landlord, or the agent of such owner, lessor or landlord fails to comply\nwith a direction given under clause (b) of sub-section (1), he shall be punishable with fine which may\nextend to five hundred rupees or when he fails to comply with a direction under the proviso to that\nsub-section, he shall be deemed to have committed an offence under clause (b) of sub-section (2) of\nsection 3 or clause (c) of sub-section (2) of section 7, as the case may be, and punished accordingly.",
+    "element_ids": [
+      "e176",
+      "e177",
+      "e178",
+      "e179",
+      "e180",
+      "e181",
+      "e182",
+      "e183",
+      "e184",
+      "e185",
+      "e186",
+      "e187"
+    ],
+    "pages": [
+      11,
+      12
+    ],
+    "structure_path": [
+      "18. Closure of brothel and eviction of offenders from the premises.—(1) A magistrate may, on"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e176",
+      "semantic_root_role": "",
+      "element_count": 12,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 11,
+      "page_end": 12,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00026",
+      "element_ids": [
+        "e176",
+        "e177",
+        "e178",
+        "e179",
+        "e180",
+        "e181",
+        "e182",
+        "e183",
+        "e184",
+        "e185",
+        "e186",
+        "e187"
+      ],
+      "page_start": 11,
+      "page_end": 12,
+      "section_numbers": [],
+      "structure_path": [
+        "18. Closure of brothel and eviction of offenders from the premises.—(1) A magistrate may, on"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00027",
+    "text": "3[19. Application for being kept in a protective home or provided care and protection by\ncourt.—(1) A 4[person] who is carrying on, or is being made to carry on, prostitution, may make an\napplication, to the magistrate within the local limits of whose jurisdiction he is carrying on, or is being\nmade to carry on prostitution, for an order that he may be—\n\n(a) kept in a protective home, or\n\n(b) provided care and protection by the court in the manner specified in sub-section (3).\n\n(2) The magistrate may, pending inquiry under sub-section (3), direct that the 4[person] be kept in\nsuch custody as he may consider proper, having regard to the circumstances of the case.\n\n1. Ins. by Act 44 of 1986, s. 20 (w.e.f. 26-1-1987).\n2. Subs. by s. 20, ibid., for “expiry of one year” (w.e.f. 26-1-1987).\n3. Subs. by Act 46 of 1978, s. 14, for section 19 (w.e.f. 2-10-1979).\n4. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n\n13\n\n(3) If the magistrate, after hearing the applicant and making such inquiry as he may consider\nnecessary, including an inquiry by a probation officer appointed under the Probation of Offenders Act,\n1958 (20 of 1958), into the personality, conditions of home and prospects of rehabilitation of the\napplicant, is satisfied that an order should be made under this section, he shall, for reasons to be recorded,\nmake an order that the applicant be kept,—\n\n(i) in a protective home, or\n\n(ii) in a corrective institution, or\n\n(iii) under the supervision of a person appointed by the magistrate,\n\nfor such period as may be specified in the order.]",
+    "element_ids": [
+      "e188",
+      "e189",
+      "e190",
+      "e191",
+      "e192",
+      "e193",
+      "e194",
+      "e195",
+      "e196",
+      "e197",
+      "e198"
+    ],
+    "pages": [
+      12,
+      13
+    ],
+    "structure_path": [
+      "3[19. Application for being kept in a protective home or provided care and protection by"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e188",
+      "semantic_root_role": "",
+      "element_count": 11,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 12,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00027",
+      "element_ids": [
+        "e188",
+        "e189",
+        "e190",
+        "e191",
+        "e192",
+        "e193",
+        "e194",
+        "e195",
+        "e196",
+        "e197",
+        "e198"
+      ],
+      "page_start": 12,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "3[19. Application for being kept in a protective home or provided care and protection by"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00028",
+    "text": "20. Removal of prostitute from any place.—(1) A magistrate on receiving information that\nany 1[person] residing in or frequenting any place within the local limits of his jurisdiction, is a prostitute,\nmay record the substance of the information received and issue a notice to such 1[person] requiring him to\nappear before the magistrate and show cause why he should not be required to remove himself from the\nplace and be prohibited from re-entering it.\n\n(2) Every notice issued under sub-section (1) shall be accompanied by a copy of the record aforesaid,\nand the copy shall be served along with the notice on the 1[person] against whom the notice is issued.]\n\n(3) The magistrate shall, after the service of the notice referred to in sub-section (2), proceed to\ninquire into the truth of the information received, and after giving the 1[person] an opportunity of\nadducing evidence, take such further evidence as he thinks fit, and if upon such inquiry it appears to him\nthat such 1[person] is a prostitute and that it is necessary in the interests of the general public that\nsuch 1[person] should be required to remove himself therefrom and be prohibited form re-entering the\nsame, the magistrate shall, by order in writing communicated to the 1[person] in the manner specified\ntherein, require him after a date (to be specified in the order) which shall not be less than seven days from\nthe date of the order, to remove himself from the place to such place whether within or without the local\nlimits of his jurisdiction, by such route or routes and within such time as may be specified in the order and\nalso prohibit him from re-entering the place without the permission in writing of the magistrate having\njurisdiction over such place.\n\n(4) Whoever,—\n\n(a) fails to comply with an order issued under this section, within the period specified therein, or\nwhilst an order prohibiting him from re-entering a place without permission is in force, re-enters the\nplace without such permission, or\n\n(b) knowing that any 1[person] has, under this section, been required to remove himself from the\nplace and has not obtained the requisite permission to re-enter it, harbours or conceals such 1[person]\nin the place,\n\nshall be punishable with fine which may extend to two hundred rupees not in the case of a continuing\noffence with an additional fine which may extend to twenty rupees for every day after the first during\nwhich he has persisted in the offence.",
+    "element_ids": [
+      "e199",
+      "e200",
+      "e201",
+      "e202",
+      "e203",
+      "e204",
+      "e205"
+    ],
+    "pages": [
+      13
+    ],
+    "structure_path": [
+      "20. Removal of prostitute from any place.—(1) A magistrate on receiving information that"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e199",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 13,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00028",
+      "element_ids": [
+        "e199",
+        "e200",
+        "e201",
+        "e202",
+        "e203",
+        "e204",
+        "e205"
+      ],
+      "page_start": 13,
+      "page_end": 13,
+      "section_numbers": [],
+      "structure_path": [
+        "20. Removal of prostitute from any place.—(1) A magistrate on receiving information that"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00029",
+    "text": "21. Protective homes.—(1) The State Government may, in its discretion establish 2[as many\nprotective homes and corrective institutions under this Act as it thinks fit and such homes and\ninstitutions], when established, shall be maintained in such manner as may be prescribed.\n\n(2) No person or no authority other than the State Government shall, after the commencement of this\nAct, establish or maintain any 3[protective home or corrective institution] except under and in accordance\nwith the conditions of a licence issued under this section by the State Government.\n\n(3) The State Government may, on application made to it in this behalf by a person or authority issue\nto such person or authority, a licence in the prescribed form for establishing and maintaining or as the\n1. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n2. Subs. by 46 of 1978, s. 15, for “as many protective homes under this Act as it thinks it and such homes” (w.e.f. 2-10-1979).\n3. Subs. by s. 15, ibid., for “protective home” (w.e.f. 2-10-1979).\n\n14\n\ncase may be, for maintaining a 1[protective home or corrective institution] and a licence so issued may\ncontain such conditions as the State Government may think fit to impose in accordance with the rules\nmade under this Act:\n\nProvided that any such condition may require that the management of the 1[protective home or\ncorrective institution] shall, wherever practicable, be entrusted to women:\n\nProvided further that a person or authority maintaining any protective home at the commencement of\nthis Act shall be allowed a period of six months from such commencement to make an application for\nsuch licence:\n\n2[Provided also that a person or authority maintaining any corrective institution at the commencement\nof the Suppression of Immoral Traffic in Women and Girls (Amendment) Act, 1978 (46 of 1978), shall be\nallowed a period of six months from such commencement to make an application for such licence.]\n\n(4) Before issuing a licence the State Government may require such officer or authority as it may\nappoint for this purpose, to make a full and complete investigation in respect of the application received\nin this behalf and report to it the result of such investigation and in making any such investigation the\nofficer or authority shall follow such procedure as may be prescribed.\n\n(5) A licence, unless sooner revoked, shall remain in force for such period as may be specified in the\nlicence and may, on application made in this behalf at least thirty days before the date of its expiration, be\nrenewed for a like period.\n\n(6) No licence issued or renewed under this Act shall be transferable.\n\n(7) Where any person or authority to whom a licence has been granted under this Act or any agent or\nservant of such person or authority commits a breach of any of the conditions thereof or any of the\nprovisions of this Act or of any of the rules made under this Act, or where the State Government is not\nsatisfied with the condition, management or superintendence of any 1[protective home or corrective\ninstitution], the State Government may, without prejudice to any other penalty which may have been\nincurred under this Act, for reasons to be recorded, revoke the licence by order in writing:\n\nProvided that no such order shall be made until an opportunity is given to the holder of the licence to\nshow cause why the licence shall not be revoked.\n\n(8) Were a licence in respect of a 1[protective home or corrective institution] has been revoked under\nthe foregoing sub-section such 1[protective home or corrective institution] shall cease to function from the\ndate of such revocation.\n\n(9) Subject to any rules that may be made in this behalf, the State Government may also vary or\namend any licence issued or renewed under this Act.\n\n2[(9A) The State Government or an authority authorised by it in this behalf may, subject to any rules\nthat may be made in this behalf, transfer an inmate of a protective home to another protective home or to\na corrective institution or an inmate of a corrective institution to another corrective institution or to a\nprotective home, where such transfer is considered desirable having regard to the conduct of the person to\nbe transferred, the kind of training to be imparted and other circumstances of the case:\n\nProvided that,—\n\n(a) no 3[person] who is transferred under this sub-section shall be required to stay in the home or\ninstitution to which he is transferred for a period longer than he was required to stay in the home or\ninstitution from which he was transferred;\n\n(b) reasons shall be recorded for every order of transfer under this sub-section.]\n\n1. Subs. by Act 46 of 1978, s. 15, for “protective home” (w.e.f. 2-10-1979).\n2. Ins. by s. 15, ibid. (w.e.f. 2-10-1978).\n3. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n\n15\n\n(10) Whoever establishes or maintains a 1[protective home or corrective institution] except in\naccordance with the provisions of this section, shall be punishable in the case of a first offence with fine\nwhich may extend to one thousand rupees and in the case of second or subsequent offence with\nimprisonment for a term which may extend to one year, or with fine which may extend to two thousand\nrupees, or with both.",
+    "element_ids": [
+      "e206",
+      "e207",
+      "e208",
+      "e209",
+      "e210",
+      "e211",
+      "e212",
+      "e213",
+      "e214",
+      "e215",
+      "e216",
+      "e217",
+      "e218",
+      "e219",
+      "e220",
+      "e221",
+      "e222",
+      "e223",
+      "e224",
+      "e225",
+      "e226",
+      "e227"
+    ],
+    "pages": [
+      13,
+      14,
+      15
+    ],
+    "structure_path": [
+      "21. Protective homes.—(1) The State Government may, in its discretion establish 2[as many"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e206",
+      "semantic_root_role": "",
+      "element_count": 22,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 13,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00029",
+      "element_ids": [
+        "e206",
+        "e207",
+        "e208",
+        "e209",
+        "e210",
+        "e211",
+        "e212",
+        "e213",
+        "e214",
+        "e215",
+        "e216",
+        "e217",
+        "e218",
+        "e219",
+        "e220",
+        "e221",
+        "e222",
+        "e223",
+        "e224",
+        "e225",
+        "e226",
+        "e227"
+      ],
+      "page_start": 13,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "21. Protective homes.—(1) The State Government may, in its discretion establish 2[as many"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00030",
+    "text": "1[21A. Production of records.—Every person or authority who is licensed under sub-section (3) of\nsection 21 to establish or maintain, or as the case may be, for maintaining, a protective home or corrective\ninstitution shall, whenever required by a court, produce the records and other documents maintained by\nsuch home or institution before such court.]",
+    "element_ids": [
+      "e228"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "1[21A. Production of records.—Every person or authority who is licensed under sub-section (3) of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e228",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00030",
+      "element_ids": [
+        "e228"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "1[21A. Production of records.—Every person or authority who is licensed under sub-section (3) of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00031",
+    "text": "22. Trials.—No court, inferior to that of 2[a Metropolitan Magistrate or a Judicial Magistrate of the\nfirst class] shall try any offence under section 3, section 4, section 5, section 6, section 7 or section 8.",
+    "element_ids": [
+      "e229"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "22. Trials.—No court, inferior to that of 2[a Metropolitan Magistrate or a Judicial Magistrate of th..."
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e229",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00031",
+      "element_ids": [
+        "e229"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "22. Trials.—No court, inferior to that of 2[a Metropolitan Magistrate or a Judicial Magistrate of th..."
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00032",
+    "text": "3[22A. Power to establish Special Courts.—(1) If the State Government is satisfied that it is\nnecessary for the purpose of providing for speedy trial of offences under this Act in any district or\nmetropolitan area, it may, by notification in the Official Gazette and after consultation with the High\nCourt, establish one or more courts of Judicial Magistrates of the first class, or, as the case may be,\nMetropolitan Magistrates, in such district or metropolitan area.\n\n(2) Unless otherwise directed by the High Court, a court established under sub-section (1) shall\nexercise jurisdiction only in respect of cases under this Act.\n\n(3) Subject to the provisions of sub-section (2), the jurisdiction and powers of the presiding officer of\na court established under sub-section (1) in any district or metropolitan area shall extend throughout the\ndistrict or the metropolitan area, as the case may be.\n\n(4) Subject to the foregoing provisions of this section a court established under sub-section (1) in any\ndistrict or metropolitan area shall be deemed to be a court established under sub-section (1) of section 11,\nor as the case may be, sub-section (1) of section 16, of the Code of Criminal Procedure, 1973 (2 of 1974),\nand the provisions of that Code shall apply accordingly in relation to such courts.\n\nExplanation.—In this section, “High Court” has the same meaning as in clause (e) of section 2 of the\nCode of Criminal Procedure, 1973 (2 of 1974).\n\n4[22AA. Power of Central Government to establish special courts.—(1) If the Central\nGovernment is satisfied that it is necessary for the purpose of providing for speedy trial of offences under\nthis Act and committed in more than one State, it may, by notification in the Official Gazette and after\nconsultation with the High Court concerned, establish one or more courts of Judicial Magistrates of the\nfirst class or Metropolitan Magistrates for the trial of such offences.\n\n(2) The provisions of section 22A, shall, so far as may be, apply to the courts established under\nsub-section (1) as they apply to courts established under that section.]",
+    "element_ids": [
+      "e230",
+      "e231",
+      "e232",
+      "e233",
+      "e234",
+      "e235",
+      "e236"
+    ],
+    "pages": [
+      15
+    ],
+    "structure_path": [
+      "3[22A. Power to establish Special Courts.—(1) If the State Government is satisfied that it is"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e230",
+      "semantic_root_role": "",
+      "element_count": 7,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 15,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00032",
+      "element_ids": [
+        "e230",
+        "e231",
+        "e232",
+        "e233",
+        "e234",
+        "e235",
+        "e236"
+      ],
+      "page_start": 15,
+      "page_end": 15,
+      "section_numbers": [],
+      "structure_path": [
+        "3[22A. Power to establish Special Courts.—(1) If the State Government is satisfied that it is"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00033",
+    "text": "22B. Power of Court to try cases summarily.—Notwithstanding anything contained in the Code of\nCriminal Procedure, 1973 (2 of 1974), the State Government may, if it considers it necessary so to do,\ndirect that offences under this Act shall be tried in a summary way by a magistrate [including the\npresiding officer of a court established under sub-section (1) of section 22A] and the provisions of Section\n262 to 265 (both inclusive) of the said Code shall, as far as may be, apply to such trial:\nProvided that in the case of any conviction in a summary trial under this section it shall be lawful for\nthe magistrate to pass a sentence of imprisonment for a term not exceeding one year:\n\nProvided further that when at the commencement of, or in the course of, a summary trial under this\nsection, it appears to the magistrate that the nature of the case is such that a sentence of imprisonment for\na term exceeding one year may have to be passed or that it is, for any other reason, undesirable to try the\ncase summarily, the magistrate shall, after hearing the parties, record an order to that effect and thereafter\nrecall any witness, who may have been examined and proceed to hear or rehear the case in the manner\nprovided by the said Code.]\n\n1. Ins. by Act 44 of 1986, s. 21 (w.e.f. 26-1-1987).\n2. Subs. by Act 46 of 1978, s. 16, for “a magistrate as defined in clause (c) of section 2” (w.e.f. 2-10-1979).\n3. Ins. by s. 17, ibid. (w.e.f. 2-10-1979).\n4. Ins. by Act 44 of 1986, s. 22 (w.e.f. 26-1-1987).\n\n16",
+    "element_ids": [
+      "e237",
+      "e238",
+      "e239",
+      "e240"
+    ],
+    "pages": [
+      15,
+      16
+    ],
+    "structure_path": [
+      "22B. Power of Court to try cases summarily.—Notwithstanding anything contained in the Code of"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e237",
+      "semantic_root_role": "",
+      "element_count": 4,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 15,
+      "page_end": 16,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00033",
+      "element_ids": [
+        "e237",
+        "e238",
+        "e239",
+        "e240"
+      ],
+      "page_start": 15,
+      "page_end": 16,
+      "section_numbers": [],
+      "structure_path": [
+        "22B. Power of Court to try cases summarily.—Notwithstanding anything contained in the Code of"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00034",
+    "text": "23. Power to make rules.—(1) The State Government may, by notification in the Official Gazette,\nmake rules for carrying out the purposes of this Act.\n\n(2) In particular, and without prejudice to the generality of the foregoing powers, such rules may\nprovide for—\n\n(a) the notification of any place as a public place;\n\n1[(b) the placing in custody of persons for whose safe custody orders have been passed under\nsub-section (1) of section 17 and their maintenance;]\n\n2[(bb) the discharge of an offender under sub-section (3) of section 10A from a corrective\ninstitution and the form of licence to be granted to such offender;]\n\n3[(c) the detention and keeping in protective homes or, as the case may be, in corrective\ninstitutions of 4[persons] under this Act and their maintenance;]\n\n(d) the carrying out of the provisions of section 11 regarding notification of residence or change\nof or absence from residence by released convicts;\n\n(e) the delegation of authority to appoint the special police officer under sub-section (1) of section\n13;\n\n(f) the carrying into effect of the provisions of section 18;\n\n5[(g) (i) the establishment, maintenance, management and superintendence of protective homes\nand corrective institutions under section 21 and the appointment, powers and duties of persons\nemployed in such homes or institutions;\n\n(ii) the form in which an application for a licence may be made and the particulars to be\ncontained in such application;\n\n(iii) the procedure for the issue or renewal of a licence, the time within which such licence\nshall be issued or renewed and the procedure to be followed in making a full and complete\ninvestigation in respect of an application for a licence;\n\n(iv) the form of a licence and the conditions to be specified therein;\n\n(v) the manner in which the accounts of a protective home and a corrective institution shall be\nmaintained and audited;\n\n(vi) the maintenance of registers and statements by a licensee and the form of such registers\nand statements;\n\n(vii) the care, treatment, maintenance, training, instruction, control and discipline of the\ninmates of protective homes and corrective institutions;\n\n(viii) the visits to and communication with such inmates;\n\n(ix) the temporary detention of 4[persons] sentenced to detention in protective homes or in\ncorrective institutions until arrangements are made for sending them to such homes or\ninstitutions;\n\n(x) the transfer of an inmate from,—\n\n(a) one protective home to another, or to a corrective institution,\n\n(b) one corrective institution to another or to a protective home,\n\nunder sub-section (9A) of section 21;\n\n1. Subs. by Act 44 of 1986, s. 23, for clause (b) (w.e.f. 26-1-1987).\n2. Ins. by Act 46 of 1978, s. 18 (w.e.f. 2-10-1979).\n3. Subs. by s. 18, ibid., for clause (c) (w.e.f. 2-10-1979).\n4. Subs. by Act 44 of 1986, s. 4, for “women and girl” (w.e.f. 26-1-1987).\n5. Subs. by 46 of 1978, s. 18, for clause (g) (w.e.f. 2-10-1979).\n\n17\n\n(xi) the transfer in pursuance of an order of the court from a protective home or a corrective\ninstitution to a prison of a 1[person] found to be incorrigible or exercising bad influence upon\nother inmates of that protective home or the corrective institution and the period of his detention\nin such prison;\n\n(xii) the transfer to a protective home or corrective institution of 2[persons] sentenced under\nsection 7 or section 8 and the period of their detention in such home or institution;\n\n(xiii) the discharge of inmates from a protective home or corrective institution either\nabsolutely or subject to conditions, and their arrest in the event of breach of such conditions;\n\n(xiv) the grant of permission to inmates to absent themselves for short periods;\n\n(xv) the inspection of protective homes and corrective institutions and other institutions in\nwhich 2[persons] may be kept, detained and maintained;]\n\n(h) any other matter which has to be, or may be, prescribed.\n\n(3) In making any rule under clause (d) or clause (g) of sub-section (2) the State Government may\nprovide that a breach thereof shall be punishable with fine which may extend to two hundred and fifty\nrupees.\n\n(4) All rules made under this Act shall, as soon as may be, after they are made, be laid before the\nState Legislature.",
+    "element_ids": [
+      "e241",
+      "e242",
+      "e243",
+      "e244",
+      "e245",
+      "e246",
+      "e247",
+      "e248",
+      "e249",
+      "e250",
+      "e251",
+      "e252",
+      "e253",
+      "e254",
+      "e255",
+      "e256",
+      "e257",
+      "e258",
+      "e259",
+      "e260",
+      "e261",
+      "e262",
+      "e263",
+      "e264",
+      "e265",
+      "e266",
+      "e267",
+      "e268",
+      "e269",
+      "e270",
+      "e271",
+      "e272"
+    ],
+    "pages": [
+      16,
+      17
+    ],
+    "structure_path": [
+      "23. Power to make rules.—(1) The State Government may, by notification in the Official Gazette,"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e241",
+      "semantic_root_role": "",
+      "element_count": 32,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 16,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00034",
+      "element_ids": [
+        "e241",
+        "e242",
+        "e243",
+        "e244",
+        "e245",
+        "e246",
+        "e247",
+        "e248",
+        "e249",
+        "e250",
+        "e251",
+        "e252",
+        "e253",
+        "e254",
+        "e255",
+        "e256",
+        "e257",
+        "e258",
+        "e259",
+        "e260",
+        "e261",
+        "e262",
+        "e263",
+        "e264",
+        "e265",
+        "e266",
+        "e267",
+        "e268",
+        "e269",
+        "e270",
+        "e271",
+        "e272"
+      ],
+      "page_start": 16,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "23. Power to make rules.—(1) The State Government may, by notification in the Official Gazette,"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00035",
+    "text": "24. Act not to be in derogation of certain other Acts.—Nothing in this Act shall be construed to be\nin derogation of the provisions of the Refermatory Schools Act, 1897 (8 of 1897), or any State Act\nenacted in modification of the said Act or otherwise, relating to juvenile offenders.",
+    "element_ids": [
+      "e273"
+    ],
+    "pages": [
+      17
+    ],
+    "structure_path": [
+      "24. Act not to be in derogation of certain other Acts.—Nothing in this Act shall be construed to be"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e273",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 17,
+      "page_end": 17,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00035",
+      "element_ids": [
+        "e273"
+      ],
+      "page_start": 17,
+      "page_end": 17,
+      "section_numbers": [],
+      "structure_path": [
+        "24. Act not to be in derogation of certain other Acts.—Nothing in this Act shall be construed to be"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00036",
+    "text": "25. Repeal and savings.—(1) As from the date of the coming into force in any State of the\nprovisions other than section 1 of this Act, all State Acts relating to suppression of immoral traffic\nin 2[persons] or to the prevention of prostitution, in force in that State immediately before such date shall\nstand repealed.\n\n(2) Notwithstanding the repeal by this Act of any State Act referred to in sub-section (1), anything\ndone or any action taken (including any direction given, any register, rule or order made, any restriction\nimposed) under the provisions of such State Act shall in so far as such thing or action is not inconsistent\nwith the provisions of this Act be deemed to have been done or taken under the provisions of this Act, as\nif the said provisions were in force when such thing was done or such action was taken and shall continue\nin force accordingly until superseded by anything done or any action taken under this Act.\n\nExplanation.—In this section the expression “State Act” includes a “Provincial Act”.\n\n1. Subs. by Act 44 of 1986, s. 4, for “woman or girl” (w.e.f. 26-1-1987).\n2. Subs. by s. 4, ibid., for “women and girl” (w.e.f. 26-1-1987).\n\n18\n\n1[THE SCHEDULE\n\n[See section 2(c)]\n\nSection\nMagistrate competent to exercise the powers\n\n7 (1)\nDistrict Magistrate.\n\n11(4)\nMetropolitan Magistrate or Judicial Magistrate of the first class.\n\n2***\n\n15(5)\nMetropolitan Magistrate, Judicial Magistrate of the first class, District\nMagistrate or Sub-Divisional Magistrate.\n\n16\nMetropolitan Magistrate, Judicial Magistrate of the first class, District\nMagistrate or Sub-Divisional Magistrate.\n\n18\nDistrict Magistrate or Sub-Divisional Magistrate.\n\n19\nMetropolitan Magistrate, Judicial Magistrate of the first class, District\nMagistrate or Sub-Divisional Magistrate.\n\n20\nDistrict Magistrate, Sub-Divisional Magistrate or any Executive\nMagistrate specially empowered by the State Government.\n\n22B\nMetropolitan Magistrate or Judicial Magistrate of the first class.]\n\n1. Ins. by Act 46 of 1978, s. 19 (w.e.f. 2-10-1979).\n2. The Figures, brackets and words “12 (4) Metropolitan Magistrate or Judicial Magistrate of the first Class” omitted by Act 44 of\n1986, s. 24 (w.e.f. 26-1-1987).",
+    "element_ids": [
+      "e274",
+      "e275",
+      "e276",
+      "e277",
+      "e278",
+      "e279",
+      "e280",
+      "e281",
+      "e282",
+      "e283",
+      "e284",
+      "e285",
+      "e286",
+      "e287",
+      "e288",
+      "e289",
+      "e290",
+      "e291"
+    ],
+    "pages": [
+      17,
+      18
+    ],
+    "structure_path": [
+      "25. Repeal and savings.—(1) As from the date of the coming into force in any State of the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e274",
+      "semantic_root_role": "",
+      "element_count": 18,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 17,
+      "page_end": 18,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00036",
+      "element_ids": [
+        "e274",
+        "e275",
+        "e276",
+        "e277",
+        "e278",
+        "e279",
+        "e280",
+        "e281",
+        "e282",
+        "e283",
+        "e284",
+        "e285",
+        "e286",
+        "e287",
+        "e288",
+        "e289",
+        "e290",
+        "e291"
+      ],
+      "page_start": 17,
+      "page_end": 18,
+      "section_numbers": [],
+      "structure_path": [
+        "25. Repeal and savings.—(1) As from the date of the coming into force in any State of the"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

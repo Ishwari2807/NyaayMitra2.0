@@ -1,0 +1,212 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "Citizen Financial Cyber Frauds Reporting and Management System (For Delhi Only)",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Citizen Financial Cyber Frauds Reporting and Management System (For Delhi Only)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Citizen Financial Cyber Frauds Reporting and Management System (For Delhi Only)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "Steps for reporting of financial cyber frauds:",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Steps for reporting of financial cyber frauds:"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Steps for reporting of financial cyber frauds:"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00003",
+    "text": "i)\nincident on National Cybercrime Reporting Portal (www.cybercrime.gov.in).\nii)\nA Bank or financial intermediary or payment wallet can also report financial cyber\nfraud through above-mentioned modes.\niii)\nThe complainant must provide the following information in case incident is reported\non helpline number:",
+    "element_ids": [
+      "e3"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "i)"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e3",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00003",
+      "element_ids": [
+        "e3"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "i)"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00004",
+    "text": "•\nMobile Number of the complainant\n•\nName of Bank/Wallet/Merchant from which amount has been debited\n•\nAccount No./Wallet Id/Merchant Id/UPI Id from which amount has been\ndebited\n•\nTransaction Id\n•\nTransaction date\n•\nDebit card/Credit card number in case of fraud made by using credentials of\nDebit card/Credit card\n•\nScreen shot of transaction or any other image related to fraud, if available\niv)\nAfter reporting of complaint/incident, the complainant will get a system generated\nLog-in Id/acknowledgement number through SMS/Mail. Using the above Log-in\nId/acknowledgement number, the complainant must complete registration of\ncomplaint on National Cybercrime Reporting Portal (www.cybercrime.gov.in) within 24\nhours. This is mandatory.\nv)\nOn receipt of complaint, the designated Police Officer will quickly examine the matter\nand after verification report to concerned Bank/financial intermediary or payment\nwallet, etc., for blocking the money involved in the financial cyber fraud.\nvi)\nThereafter, due action as per law will be taken in each case by Police/Bank/Payment\nwallet/Financial Intermediary.\nvii)\nUse of this facility will help a victim of financial cyber fraud in retrieving the money\nand help Police in identifying the cyber criminal(s) and take legal action as per law.",
+    "element_ids": [
+      "e4"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "•"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e4",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00004",
+      "element_ids": [
+        "e4"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "•"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00005",
+    "text": "Any victim of financial cyber fraud can dial helpline number 1930 or report the",
+    "element_ids": [
+      "e5"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "Any victim of financial cyber fraud can dial helpline number 1930 or report the"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e5",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00005",
+      "element_ids": [
+        "e5"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "Any victim of financial cyber fraud can dial helpline number 1930 or report the"
+      ],
+      "parent_section_id": null
+    }
+  }
+]

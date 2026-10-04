@@ -1,0 +1,86 @@
+[
+  {
+    "chunk_id": "chunk_00001",
+    "text": "NEC)» | Always\nFORWPRD\nNATIONAL med pe a ed OF a\nNPCI/UPVOGC-227/2025-26 8 October 2025\nTo,\nAll Members of Unified Payments Interface (UP!)\nDear Sir/Madam;\nSubject: Introduction of “UP! HELP” —a pilot with Al powered support for UP] payments\nUPI now‘processes approximately 20 billion transactions each month and has emerged as a preferred\nmode’ of payment for users. As the volume of transactions grows, it is imperative to provide simple\nand intuitive support channel for the users. NPCI introduces UP! HELP Assistant, powered by a\n‘proprietary financial domain-specific language model, to enhance user engagement by providing\nintelligent conversational support. As this Assistant is powered by the Al model, like any other, this\nmodel too, gets better with more users using it and learnings. This is launched as a pilot, and based\non the user and ecosystem feedback, the next steps shall be communicated on this Assistant.\nTo begin with, Assistant shall —\na. Respond queries on digital payments: Assistant shall answer user queries related to digital\npayments, enabling better understanding of various payment features or guidelines.\nb. UPI Transaction Grievance Redressal: UPI users shall be able to check their transaction status\nor log and track complaint for services issues. As part of the dispute resolution mechanism,\nAssistant shall provide Issuer banks with relevant additional information to facilitate informed\ndecision-making. This method shall be useful for incomplete transactions (status unknown),\nand to raise a complaint for merchant (P2M) transactions for service-related issues which are\npresently supported as part of UDIR process.\nc, UPI Transaction Mandate Management: UPI! users shall be able to see all their active\nmandates (Autopay, etc), in a unified view. Assistant shall facilitate mandate management life\ncycle management via simple intuitive keywords such as pause, resume, revoke, etc. through\ndeep links to the respective UPI Apps. This method will empower user to manage their\nAutoPay mandates in an easy way.\nAssistant shall be accessible to UPI users of participating Members via (i) the Member Banks’\ncustomer interface channels such as website, chatbot, etc., (ii) DigiSaathi website/chatbot, etc., and\nin due course with (iii) UPI app - by redirecting users to the UPI HELP assistant and providing API\nintegration to participating members. The UPI Help is offered by NPCI on behalf of customer’s bank\nand all the decision making shall be done either by the customer and/or the Issuer bank. Initially, the\nJOOTA, The Capital, B Wing, 10\" Fioor,\nBandra Kurla Complex, Bandra (E), Mumbai 400 051-\nT: +91 22 40009100 F: +9122 40009101\nTe (oa\neeh = 0 om contact@npci.org.in www.npci.org.in\nWe ulld wan CIN: U74990MH2008NPL189067",
+    "element_ids": [
+      "e1"
+    ],
+    "pages": [
+      1
+    ],
+    "structure_path": [
+      "NEC)» | Always"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e1",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 1,
+      "page_end": 1,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00001",
+      "element_ids": [
+        "e1"
+      ],
+      "page_start": 1,
+      "page_end": 1,
+      "section_numbers": [],
+      "structure_path": [
+        "NEC)» | Always"
+      ],
+      "parent_section_id": null
+    }
+  },
+  {
+    "chunk_id": "chunk_00002",
+    "text": "ALWAYS\nFORWPRD\nNec\naperenret Prerey\nNATIONAL meee comtaien OF INDIA\nassistant capacity shall be made available to limited concurrent users at a time, and based on the\nresponse, the next steps shall be taken to review the capacity for increasing it gradually.\nMembers (Banks and PSP/App) that are participating in the pilot are required to ensure the following\nguidelines are followed:\nGrievance Redressal:\n1. Participating Banks and PSPs / apps to provide prominently visible and easily accessible links\nto the UPI Help Assistant on their official channels (website, apps, etc.)\n2. Participating Banks shall ensure all complaints received via this channel are acknowledged,\nregistered, and resolved within the prescribed Turn Around Time (TAT) and other rules defined\nfor grievance redressal and related actions as per the extant guidelines.\n3. All member banks live on UDIR must consume complaints raised via UPI Help and act\npromptly on auto-resolution mechanisms for transactions marked as pending or deemed via\nUDIR process, providing timely updates within stipulated TAT.\n4. Participating banks shall maintain consistent communication with customers regarding their\ncomplaints, referencing the Complaint Reference Number (CRN) and guiding them on the\ndispute status and further steps.\nMandate Management:\n1. UPiApps must implement the mandated deep-link specification to ensure seamless initiation\nof mandate management activities triggered via UPI Help.\n2. Upon mandate action initiation (e.g., pause, resume, revoke) via UP] HELP, UPI Apps shall\nredirect users to the appropriate confirmation or review screen as per the existing UP] AutoPay\nguidelines\nSubsequent phases may broaden the language coverage and other services.\nYour Sincerely,\nSD/-\nSourabh Tomar\nHead UPI Product",
+    "element_ids": [
+      "e2"
+    ],
+    "pages": [
+      2
+    ],
+    "structure_path": [
+      "ALWAYS"
+    ],
+    "metadata": {
+      "chunk_type": "generic",
+      "semantic_unit": "generic",
+      "semantic_root_id": "e2",
+      "semantic_root_role": "",
+      "element_count": 1,
+      "section_numbers": [],
+      "parent_section_id": "",
+      "page_start": 2,
+      "page_end": 2,
+      "split_from_parent": false,
+      "document_region": "unknown",
+      "is_retrievable": true,
+      "is_substantive_legal_content": true
+    },
+    "parent_section_id": null,
+    "provenance": {
+      "chunk_id": "chunk_00002",
+      "element_ids": [
+        "e2"
+      ],
+      "page_start": 2,
+      "page_end": 2,
+      "section_numbers": [],
+      "structure_path": [
+        "ALWAYS"
+      ],
+      "parent_section_id": null
+    }
+  }
+]
