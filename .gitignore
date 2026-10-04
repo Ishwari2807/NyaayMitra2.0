@@ -1,0 +1,25 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+.env
+.DS_Store
+.vscode/
+
+# Generated knowledge-base artifacts
+data/raw/*
+data/extracted/*
+data/structured/*
+data/chunks/*
+data/vectorstore/*
+!data/raw/.gitkeep
+!data/extracted/.gitkeep
+!data/structured/.gitkeep
+!data/chunks/.gitkeep
+!data/vectorstore/.gitkeep
+
+# Logs
+*.log
